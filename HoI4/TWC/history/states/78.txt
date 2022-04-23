@@ -1,0 +1,37 @@
+
+state={
+	id=78
+	name="STATE_78"
+	resources={
+		steel=15.000
+		tungsten=11.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			7565 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			4245 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = BAN
+		add_core_of = X53
+	}
+
+	provinces={
+		1159 1609 4062 4204 4245 4644 7220 7565 10077 10389 12050 12338 
+	}
+	manpower=24523220
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

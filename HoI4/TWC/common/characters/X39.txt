@@ -1,0 +1,28 @@
+characters={
+	X39_ahmadu_sa'id={
+		name=X39_ahmadu_sa'id
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X39_alfa_bello={
+		name=X39_alfa_bello
+		portraits={
+			civilian={
+				large="gfx/leaders/African/Portrait_KTG_Mabumba_Kitanika.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

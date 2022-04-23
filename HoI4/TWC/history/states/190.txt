@@ -1,0 +1,29 @@
+
+state={
+	id=190
+	name="STATE_190"
+
+	history={
+		owner = COL
+		victory_points = {
+			5026 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		2007 5026 10792 12729 12770 12825 
+	}
+	manpower=2383248
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

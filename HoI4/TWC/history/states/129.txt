@@ -1,0 +1,38 @@
+
+state={
+	id=129
+	name="STATE_129"
+	resources={
+		aluminium=9.000
+		steel=9.000
+	}
+
+	history={
+		owner = X18
+		victory_points = {
+			9909 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			9909 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = SWI
+		add_core_of = X18
+		add_claim_by = ITA
+	}
+
+	provinces={
+		778 6609 6784 9603 9745 9909 11573 
+	}
+	manpower=736944
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

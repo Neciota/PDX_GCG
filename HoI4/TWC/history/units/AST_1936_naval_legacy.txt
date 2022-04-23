@@ -1,0 +1,52 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7520
+		task_force = {
+			name = "1st Fleet"
+			location = 7520
+			ship = { name = "Queensland" definition = battleship equipment = { battleship_2 = { amount = 1 owner = AST } } }
+			ship = { name = "New South Wales" definition = battleship equipment = { battleship_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Big Bruce" definition = battleship equipment = { battleship_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Tasmania" definition = battleship equipment = { battleship_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Commonwealth" definition = battleship equipment = { battleship_2 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Newcastle Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = AST } } }
+			ship = { name = "2nd Newcastle Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Sale Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Yalata Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Broome Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = AST } } }
+			ship = { name = "Encounter" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Brisbane" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Pioneer" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Protector" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Gladstone Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "1st Yalata Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "2nd Broome Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Australia" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Melbourne" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "Sydney" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+			ship = { name = "2nd Gladstone Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = AST } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "AST"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "AST"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

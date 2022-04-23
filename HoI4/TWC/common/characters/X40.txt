@@ -1,0 +1,52 @@
+characters={
+	X40_fiorenzo_baldissera={
+		name=X40_fiorenzo_baldissera
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X40_leopoldo_cusani={
+		name=X40_leopoldo_cusani
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X40_benito_pelloux={
+		name=X40_benito_pelloux
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X40_giulio_pacoret_de_saint_bon={
+		name=X40_giulio_pacoret_de_saint_bon
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_SRI_Giacomo_Matteotti.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

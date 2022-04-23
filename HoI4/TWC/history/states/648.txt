@@ -1,0 +1,38 @@
+
+state={
+	id=648
+	name="STATE_648"
+	resources={
+		aluminium=50.000
+		chromium=16.000
+	}
+
+	history={
+		owner = SER
+		victory_points = {
+			9809 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			9821 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = SER
+		add_core_of = X21
+		add_claim_by = ITA
+	}
+
+	provinces={
+		937 6913 9809 9821 11858 
+	}
+	manpower=1044028
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

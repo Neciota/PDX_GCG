@@ -1,0 +1,34 @@
+
+state={
+	id=294
+	name="STATE_294"
+	resources={
+		aluminium=2.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = GHA
+		victory_points = {
+			4927 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = GHA
+	}
+
+	provinces={
+		4927 12838 
+	}
+	manpower=799560
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

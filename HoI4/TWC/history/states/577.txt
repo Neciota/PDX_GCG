@@ -1,0 +1,31 @@
+
+state={
+	id=577
+	name="STATE_577"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			5216 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		5216 10960 
+	}
+	manpower=526000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,64 @@
+characters={
+	AST_abdolsamad_nakhchevani={
+		name=AST_abdolsamad_nakhchevani
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	AST_moin_pesyan={
+		name=AST_moin_pesyan
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=4
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	AST_hamzeh_rokni={
+		name=AST_hamzeh_rokni
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	AST_fazlollah_zahedi={
+		name=AST_fazlollah_zahedi
+		navy_leader={
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	AST_lotf_pesyan={
+		name=AST_lotf_pesyan
+		portraits={
+			civilian={
+				large="gfx/leaders/JOR/Portrait_Arabia_Generic_democratic1.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

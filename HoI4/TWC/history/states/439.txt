@@ -1,0 +1,23 @@
+
+state={
+	id=439
+	name="STATE_439"
+	resources={
+		steel=1.000
+	}
+	impassable = yes
+
+	history={
+		owner = MOR
+		add_core_of = GHA
+	}
+
+	provinces={
+		1115 2068 10725 10868 
+	}
+	manpower=30526
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

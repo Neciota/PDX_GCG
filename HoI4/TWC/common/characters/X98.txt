@@ -1,0 +1,28 @@
+characters={
+	X98_hanga_baki={
+		name=X98_hanga_baki
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X98_hanga_komi={
+		name=X98_hanga_komi
+		portraits={
+			civilian={
+				large="gfx/leaders/African/Portrait_Mittelafrika_Achirimbi.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

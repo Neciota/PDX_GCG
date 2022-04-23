@@ -1,0 +1,64 @@
+characters={
+	SLV_viktor_bajuk={
+		name=SLV_viktor_bajuk
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SLV_bojan_globocnik={
+		name=SLV_bojan_globocnik
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SLV_ivo_kantuser={
+		name=SLV_ivo_kantuser
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	SLV_vilko_avbelj={
+		name=SLV_vilko_avbelj
+		navy_leader={
+			skill=2
+			attack_skill=5
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SLV_alenka_dolar={
+		name=SLV_alenka_dolar
+		portraits={
+			civilian={
+				large="gfx/leaders/BUL/portrait_bul_hristo_lukov.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

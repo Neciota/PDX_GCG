@@ -1,0 +1,33 @@
+
+state={
+	id=87
+	name="STATE_87"
+
+	history={
+		owner = X02
+		victory_points = {
+			9932 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			9932 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = X02
+		add_core_of = X21
+	}
+
+	provinces={
+		960 975 3714 3965 9932 11753 11894 
+	}
+	manpower=218928
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

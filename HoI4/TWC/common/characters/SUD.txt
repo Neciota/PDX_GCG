@@ -1,0 +1,16 @@
+characters={
+	SUD_muhammad_digna={
+		name=SUD_muhammad_digna
+		portraits={
+			civilian={
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

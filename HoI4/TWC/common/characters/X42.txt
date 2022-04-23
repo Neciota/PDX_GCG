@@ -1,0 +1,52 @@
+characters={
+	X42_pingali_sitaramaraju={
+		name=X42_pingali_sitaramaraju
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X42_alluri_naidu={
+		name=X42_alluri_naidu
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X42_venkatadri_sriramulu={
+		name=X42_venkatadri_sriramulu
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X42_kandukuri_veeresalingam={
+		name=X42_kandukuri_veeresalingam
+		portraits={
+			civilian={
+				large="gfx/leaders/Indian/Portrait_BHC_Nirmal_Kumar_Bose.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

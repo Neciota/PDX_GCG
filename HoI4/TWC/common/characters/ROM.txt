@@ -1,0 +1,16 @@
+characters={
+	ROM_david_izso={
+		name=ROM_david_izso
+		portraits={
+			civilian={
+				large="gfx/leaders/BUL/Portrait_Bulgaria_Georgi_Dimitrov.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,28 @@
+HOL_OPERATIVE_CODENAME_HISTORICAL = {
+	name = HOL_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { BAH BAS CUB HAI HOL NZL PUE USA W42 W43 W44 W45 W46 W47 W48 W49 W50 W61 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Bossche Bollen"
+		"Banketstaaf"
+		"Sukerbole"
+		"Mus"
+		"Wesp"
+		"Leeuw"
+		"Havik"
+		"Boterkoek"
+		"Boernmeisjes"
+		"Krakelingen"
+		"Kruidnoten"
+		"Pindakoeken"
+		"Slagroomtaart"
+		"Speculaas"
+		"Oliebollen"
+		"Kletskoppen"
+		"Sinterklaas"
+	}
+}

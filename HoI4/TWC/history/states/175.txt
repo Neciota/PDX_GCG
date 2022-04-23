@@ -1,0 +1,29 @@
+
+state={
+	id=175
+	name="STATE_175"
+
+	history={
+		owner = CAR
+		victory_points = {
+			2034 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CAR
+	}
+
+	provinces={
+		2034 11934 
+	}
+	manpower=914252
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

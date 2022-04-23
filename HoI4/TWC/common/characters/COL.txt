@@ -1,0 +1,76 @@
+characters={
+	COL_bryce_southey={
+		name=COL_bryce_southey
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COL_rory_kerzner={
+		name=COL_rory_kerzner
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COL_alexander_steer={
+		name=COL_alexander_steer
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COL_percy_immelman={
+		name=COL_percy_immelman
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COL_nicolas_immelman={
+		name=COL_nicolas_immelman
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	COL_jonty_southey={
+		name=COL_jonty_southey
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

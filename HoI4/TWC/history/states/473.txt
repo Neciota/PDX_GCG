@@ -1,0 +1,38 @@
+
+state={
+	id=473
+	name="STATE_473"
+	resources={
+		aluminium=2.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = W50
+		victory_points = {
+			1951 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			1951 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = W50
+		add_claim_by = DAH
+	}
+
+	provinces={
+		1951 
+	}
+	manpower=613876
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

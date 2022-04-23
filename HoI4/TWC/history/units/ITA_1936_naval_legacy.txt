@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 925
+		task_force = {
+			name = "3rd Fleet"
+			location = 925
+			ship = { name = "Dante Alighieri" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Conti di Cavour" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Giulio Cesare" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Leonarda da Vince" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Andrea Doria" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Duilio" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Italia" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Lepanto" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Francesco Morosini" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Enrico Dandolo" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Ruggiero di Lauria" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "ITA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "ITA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

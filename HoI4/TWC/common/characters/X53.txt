@@ -1,0 +1,40 @@
+characters={
+	X53_raja_thampuran={
+		name=X53_raja_thampuran
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X53_swathi_perumal={
+		name=X53_swathi_perumal
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X53_ayilyam_rama={
+		name=X53_ayilyam_rama
+		portraits={
+			civilian={
+				large="gfx/leaders/Indian/Portrait_MYS_Kaka_Kalekar.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

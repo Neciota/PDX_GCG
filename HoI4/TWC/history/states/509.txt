@@ -1,0 +1,36 @@
+
+state={
+	id=509
+	name="STATE_509"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = W50
+		victory_points = {
+			4989 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4989 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = W50
+		add_claim_by = X39
+	}
+
+	provinces={
+		2100 4989 7972 12834 13213 
+	}
+	manpower=3091552
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

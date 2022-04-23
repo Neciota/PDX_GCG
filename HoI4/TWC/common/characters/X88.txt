@@ -1,0 +1,64 @@
+characters={
+	X88_singu_myo={
+		name=X88_singu_myo
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X88_thibaw_bandula={
+		name=X88_thibaw_bandula
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X88_maung_min={
+		name=X88_maung_min
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X88_mindon_myo={
+		name=X88_mindon_myo
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	X88_pagan_thura={
+		name=X88_pagan_thura
+		portraits={
+			civilian={
+				large="gfx/leaders/TIB/Portrait_Tibet_Jamphel_Yeshe_Gyaltsen.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

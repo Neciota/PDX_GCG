@@ -1,0 +1,34 @@
+
+state={
+	id=562
+	name="STATE_562"
+	resources={
+		steel=2.000
+		tungsten=4.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			8203 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X93
+		add_claim_by = BRA
+	}
+
+	provinces={
+		2195 2209 5165 8203 10973 
+	}
+	manpower=371340
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

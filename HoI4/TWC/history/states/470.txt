@@ -1,0 +1,38 @@
+
+state={
+	id=470
+	name="STATE_470"
+	resources={
+		aluminium=1.000
+		rubber=0.000
+		steel=0.000
+	}
+
+	history={
+		owner = W50
+		victory_points = {
+			10803 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			10803 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = W50
+		add_core_of = X06
+	}
+
+	provinces={
+		10803 
+	}
+	manpower=608808
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

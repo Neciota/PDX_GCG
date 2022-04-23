@@ -1,0 +1,32 @@
+
+state={
+	id=64
+	name="STATE_64"
+	resources={
+		oil=1.000
+		rubber=2.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			10090 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		997 1075 7179 10090 
+	}
+	manpower=2134620
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

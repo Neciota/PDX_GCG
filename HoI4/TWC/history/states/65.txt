@@ -1,0 +1,36 @@
+
+state={
+	id=65
+	name="STATE_65"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			12049 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			12049 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = EGY
+		add_claim_by = UAE
+	}
+
+	provinces={
+		1112 1155 4073 4161 9947 10002 10099 11922 11979 12049 12073 
+	}
+	manpower=588216
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_SUD = {
+	enable = {
+		tag = SUD
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_SUD = {
+	enable = {
+		tag = SUD
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

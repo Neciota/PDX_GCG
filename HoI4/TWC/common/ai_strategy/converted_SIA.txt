@@ -1,0 +1,193 @@
+﻿converted_war_strategies_SIA = {
+	enable = {
+		tag = SIA
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "X56"
+		value = 267
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X88"
+		value = 179
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 140
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X86"
+		value = 86
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X09"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 48
+	}
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 40
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAL"
+		value = 35
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BRA"
+		value = 16
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X35"
+		value = 14
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 3
+	}
+}
+
+converted_diplo_strategies_SIA = {
+	enable = {
+		tag = SIA
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 338
+	}
+	ai_strategy = {
+		type = contain
+		id = "X88"
+		value = 133
+	}
+	ai_strategy = {
+		type = contain
+		id = "X56"
+		value = 77
+	}
+	ai_strategy = {
+		type = contain
+		id = "X36"
+		value = 57
+	}
+	ai_strategy = {
+		type = contain
+		id = "BRM"
+		value = 11
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X86"
+		value = 373
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X88"
+		value = 315
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X56"
+		value = 183
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X09"
+		value = 105
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X58"
+		value = 98
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W10"
+		value = 98
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BRM"
+		value = 93
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 68
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 47
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 103
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X66"
+		value = 69
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W24"
+		value = 39
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BRM"
+		value = 14
+	}
+	ai_strategy = {
+		type = protect
+		id = "X86"
+		value = 165
+	}
+	ai_strategy = {
+		type = protect
+		id = "X88"
+		value = 140
+	}
+	ai_strategy = {
+		type = protect
+		id = "BRM"
+		value = 120
+	}
+	ai_strategy = {
+		type = protect
+		id = "X36"
+		value = 120
+	}
+}

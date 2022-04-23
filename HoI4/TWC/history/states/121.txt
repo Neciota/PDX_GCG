@@ -1,0 +1,35 @@
+
+state={
+	id=121
+	name="STATE_121"
+	resources={
+		oil=0.000
+	}
+
+	history={
+		owner = X15
+		victory_points = {
+			686 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 7
+
+		}
+		add_core_of = HUN
+		add_core_of = SLO
+		add_core_of = X15
+		add_claim_by = X34
+	}
+
+	provinces={
+		686 3670 11627 
+	}
+	manpower=1997900
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

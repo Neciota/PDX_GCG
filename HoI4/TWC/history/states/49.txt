@@ -1,0 +1,33 @@
+
+state={
+	id=49
+	name="STATE_49"
+
+	history={
+		owner = W53
+		victory_points = {
+			10928 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			1966 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = SOM
+		add_core_of = W53
+	}
+
+	provinces={
+		1964 1966 2020 2063 4909 5065 8164 10818 10891 10928 11014 12840 12941 12991 
+	}
+	manpower=2933652
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

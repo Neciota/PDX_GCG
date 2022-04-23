@@ -1,0 +1,39 @@
+
+state={
+	id=112
+	name="STATE_112"
+	resources={
+		aluminium=1.000
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = AUS
+		victory_points = {
+			673 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = AUS
+		add_core_of = BAY
+		add_core_of = SLV
+		add_core_of = W20
+		add_claim_by = SWI
+		add_claim_by = W25
+	}
+
+	provinces={
+		671 673 688 3675 6678 6680 9633 9636 11618 11634 
+	}
+	manpower=485684
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

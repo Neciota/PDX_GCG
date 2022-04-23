@@ -1,0 +1,33 @@
+
+state={
+	id=195
+	name="STATE_195"
+	resources={
+		rubber=7.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = COG
+		victory_points = {
+			7716 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = COG
+	}
+
+	provinces={
+		988 1731 2024 4128 7219 7716 7931 8016 8048 9986 10071 10883 10951 12741 12775 12824 
+	}
+	manpower=4880828
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

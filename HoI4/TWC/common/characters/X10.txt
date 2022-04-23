@@ -1,0 +1,64 @@
+characters={
+	X10_konstantinos_dousmanis={
+		name=X10_konstantinos_dousmanis
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X10_odysseas_zaimis={
+		name=X10_odysseas_zaimis
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X10_stylianos_sarafis={
+		name=X10_stylianos_sarafis
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X10_tzannis_vassos={
+		name=X10_tzannis_vassos
+		navy_leader={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X10_tharyvoulos_mavrocordatos={
+		name=X10_tharyvoulos_mavrocordatos
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_Portugal_Duarte_Nuno.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

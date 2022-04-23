@@ -1,0 +1,40 @@
+characters={
+	X37_luigi_colautti={
+		name=X37_luigi_colautti
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X37_roberto_pattiera={
+		name=X37_roberto_pattiera
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=4
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X37_felice_paravia={
+		name=X37_felice_paravia
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_Javier_I.tga"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

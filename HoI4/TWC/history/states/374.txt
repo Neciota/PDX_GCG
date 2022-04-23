@@ -1,0 +1,30 @@
+
+state={
+	id=374
+	name="STATE_374"
+
+	history={
+		owner = X56
+		victory_points = {
+			1970 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CHI
+		add_core_of = SIK
+	}
+
+	provinces={
+		1703 1766 1943 1970 2015 2074 4682 4828 4973 5016 5042 5087 7273 7790 7949 8042 8086 8112 10315 10821 10885 10911 12119 12864 
+	}
+	manpower=1052384
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

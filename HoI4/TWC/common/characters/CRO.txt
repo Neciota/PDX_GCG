@@ -1,0 +1,64 @@
+characters={
+	CRO_matko_mazuranic={
+		name=CRO_matko_mazuranic
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	CRO_filip_preradovic={
+		name=CRO_filip_preradovic
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CRO_matej_crnkovic={
+		name=CRO_matej_crnkovic
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	CRO_maximiliam_gradic={
+		name=CRO_maximiliam_gradic
+		navy_leader={
+			skill=3
+			attack_skill=3
+			defense_skill=4
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	CRO_marin_gaj={
+		name=CRO_marin_gaj
+		portraits={
+			civilian={
+				large="gfx/leaders/Balkans/Portrait_Romania_Sever_Bocu.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

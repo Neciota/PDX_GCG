@@ -1,0 +1,38 @@
+
+state={
+	id=238
+	name="STATE_238"
+	resources={
+		oil=11.000
+		steel=2.000
+		tungsten=26.000
+	}
+
+	history={
+		owner = W40
+		victory_points = {
+			1408 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1408 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = W40
+		add_core_of = X61
+	}
+
+	provinces={
+		917 1408 1411 1737 4343 4413 4428 4678 4877 7677 7753 7761 7820 7830 7853 7858 10644 12578 
+	}
+	manpower=442372
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

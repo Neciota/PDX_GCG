@@ -1,0 +1,16 @@
+characters={
+	X78_orji_equiano={
+		name=X78_orji_equiano
+		portraits={
+			civilian={
+				large="gfx/leaders/African/Portrait_LIB_Clarence_Simpson.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

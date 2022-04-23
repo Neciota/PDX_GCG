@@ -1,0 +1,34 @@
+
+state={
+	id=48
+	name="STATE_48"
+	resources={
+		rubber=0.000
+	}
+
+	history={
+		owner = W53
+		victory_points = {
+			4995 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = SOM
+		add_core_of = W53
+		add_core_of = X50
+	}
+
+	provinces={
+		4995 8019 8062 10775 12757 12812 
+	}
+	manpower=1970400
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

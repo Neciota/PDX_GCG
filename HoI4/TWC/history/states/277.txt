@@ -1,0 +1,37 @@
+
+state={
+	id=277
+	name="STATE_277"
+	resources={
+		aluminium=8.000
+		steel=47.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			9561 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			485 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		454 485 3402 6585 9561 11420 11549 
+	}
+	manpower=1219124
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

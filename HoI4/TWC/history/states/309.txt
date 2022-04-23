@@ -1,0 +1,33 @@
+
+state={
+	id=309
+	name="STATE_309"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = HUN
+		victory_points = {
+			6729 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = ROM
+		add_claim_by = HUN
+	}
+
+	provinces={
+		577 723 744 3728 3741 6584 6706 6729 6747 6761 9548 9685 9701 9716 11534 11652 11655 11672 11689 
+	}
+	manpower=2739360
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

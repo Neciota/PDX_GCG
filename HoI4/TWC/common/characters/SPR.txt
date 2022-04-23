@@ -1,0 +1,64 @@
+characters={
+	SPR_jose_serrano={
+		name=SPR_jose_serrano
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_manuel_ruiz={
+		name=SPR_manuel_ruiz
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_lorenzo_de={
+		name=SPR_lorenzo_de
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_juan_valdes={
+		name=SPR_juan_valdes
+		navy_leader={
+			skill=4
+			attack_skill=3
+			defense_skill=3
+			maneuvering_skill=1
+			coordination_skill=5
+			legacy_id=0
+		}
+	}
+
+	SPR_javier_aznar={
+		name=SPR_javier_aznar
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_SRI_Giacomo_Matteotti.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

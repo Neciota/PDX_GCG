@@ -1,0 +1,107 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4188
+		task_force = {
+			name = "1st Fleet"
+			location = 4188
+			ship = { name = "Satsuma" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Kawachi" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Yamashiro" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Fuso" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Ise" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Hyuga" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Nagato" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Mutsu" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Tosa" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Musashi" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Shinano" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_2 = { amount = 1 owner = JAP version_name = "1936 Battleship" } } }
+			ship = { name = "Iki" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Asaki" definition = heavy_cruiser start_experience_factor = 0.0494 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Fuji" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Mikasa" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Tango" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Sagami" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Suwo" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Iki 2" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Yashima" definition = heavy_cruiser start_experience_factor = 0.0492 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Shikishima" definition = heavy_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Hatsuse" definition = heavy_cruiser start_experience_factor = 0.04975 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "9th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Naniwa" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Takachiho" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Matsushima" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Chiyoda" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Yaeyama" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Yoshino" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Hiei" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Itsukushima" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Hashidate" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Haruna" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Kirishima" definition = light_cruiser start_experience_factor = 0.05 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Chitose" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Kasagi" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Niitaka" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Yura" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Kinu" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Chiba Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Chiba Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Meakan Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 1092
+		task_force = {
+			name = "3rd Fleet"
+			location = 1092
+			ship = { name = "1st Kanazawa Cruiser" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "10th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "11th Fukuoka Cruiser" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Kanazawa Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Hiroshima Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Hiroshima Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Kanazawa Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Hiroshima Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Kanazawa Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Hiroshima Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = JAP version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "JAP"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "JAP"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

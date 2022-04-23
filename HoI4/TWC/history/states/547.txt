@@ -1,0 +1,34 @@
+
+state={
+	id=547
+	name="STATE_547"
+	resources={
+		steel=74.000
+	}
+
+	history={
+		owner = PRE
+		victory_points = {
+			514 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = PRE
+		add_core_of = SAX
+	}
+
+	provinces={
+		514 573 3514 3535 6559 9441 9471 9535 11481 
+	}
+	manpower=2689128
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

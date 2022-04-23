@@ -1,0 +1,33 @@
+
+state={
+	id=312
+	name="STATE_312"
+	resources={
+		aluminium=6.000
+		chromium=6.000
+	}
+
+	history={
+		owner = HUN
+		victory_points = {
+			646 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = HUN
+	}
+
+	provinces={
+		646 662 3649 9606 11592 11608 
+	}
+	manpower=1383708
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

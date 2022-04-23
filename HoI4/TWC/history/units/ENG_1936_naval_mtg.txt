@@ -1,0 +1,52 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 9303
+		task_force = {
+			name = "3rd Fleet"
+			location = 9303
+			ship = { name = "Michelle" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 7394
+		task_force = {
+			name = "4th Fleet"
+			location = 7394
+			ship = { name = "Caomhánach" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "O’Faolain" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Mannion" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Corcaigh" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "1st Galway Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Cork Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Galway Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Cork Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Galway Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Galway Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ENG"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "ENG"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

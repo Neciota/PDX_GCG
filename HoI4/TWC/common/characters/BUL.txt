@@ -1,0 +1,64 @@
+characters={
+	BUL_pravoslav_saksokoburggotski={
+		name=BUL_pravoslav_saksokoburggotski
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BUL_leonid_bradistilov={
+		name=BUL_leonid_bradistilov
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BUL_valko_solarov={
+		name=BUL_valko_solarov
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BUL_kimon_mutkorov={
+		name=BUL_kimon_mutkorov
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	BUL_pravoslav_ivanov={
+		name=BUL_pravoslav_ivanov
+		portraits={
+			civilian={
+				large="gfx/leaders/ROM/Portrait_Romania_Armand_Calinescu.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

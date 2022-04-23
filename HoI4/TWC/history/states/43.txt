@@ -1,0 +1,36 @@
+
+state={
+	id=43
+	name="STATE_43"
+	resources={
+		rubber=8.000
+	}
+
+	history={
+		owner = W58
+		victory_points = {
+			10265 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			12279 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = PHI
+		add_core_of = W58
+	}
+
+	provinces={
+		1221 1288 1372 1388 1415 4101 4214 4228 4233 4288 4350 4368 4377 4423 7275 7323 7325 7351 7439 10165 10167 10236 10241 10252 10265 10272 10280 10298 10306 12213 12236 12253 12279 
+	}
+	manpower=7644340
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

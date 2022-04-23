@@ -1,0 +1,33 @@
+
+state={
+	id=52
+	name="STATE_52"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			11145 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = KEN
+		add_claim_by = SOM
+	}
+
+	provinces={
+		2066 5079 5160 8133 10860 11145 12927 
+	}
+	manpower=927756
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

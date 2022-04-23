@@ -1,0 +1,39 @@
+
+state={
+	id=763
+	name="STATE_763"
+	resources={
+		chromium=13.000
+		tungsten=83.000
+	}
+
+	history={
+		owner = W24
+		victory_points = {
+			10190 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			12208 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = W08
+		add_core_of = W24
+		add_core_of = X75
+		add_claim_by = W32
+	}
+
+	provinces={
+		1412 4278 4291 4344 7244 7250 7395 8011 8100 10190 10208 12105 12146 12208 12734 
+	}
+	manpower=5991424
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=30
+	name="STATE_30"
+	resources={
+		rubber=116.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			7344 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4219 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = W32
+		add_claim_by = W23
+	}
+
+	provinces={
+		1213 4219 7260 7344 10201 10229 10287 12258 
+	}
+	manpower=3812160
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

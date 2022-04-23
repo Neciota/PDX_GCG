@@ -1,0 +1,29 @@
+
+state={
+	id=356
+	name="STATE_356"
+
+	history={
+		owner = X56
+		victory_points = {
+			10750 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CHI
+	}
+
+	provinces={
+		1882 2053 2099 4536 4914 4964 7270 7940 7997 8018 8037 10490 10750 10796 10834 10865 11448 12815 12846 12890 12899 
+	}
+	manpower=5982916
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

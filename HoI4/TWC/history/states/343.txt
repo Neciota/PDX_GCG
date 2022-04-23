@@ -1,0 +1,39 @@
+
+state={
+	id=343
+	name="STATE_343"
+	resources={
+		aluminium=16.000
+		steel=5.000
+	}
+
+	history={
+		owner = X56
+		victory_points = {
+			11928 7 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			11928 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = CHI
+		add_core_of = X45
+		add_core_of = X56
+	}
+
+	provinces={
+		1029 1076 1089 1121 4001 4005 4031 4082 4091 4123 4148 7025 7142 7181 7200 9953 10095 11928 12055 12067 
+	}
+	manpower=22473200
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

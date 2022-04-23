@@ -1,0 +1,33 @@
+
+state={
+	id=299
+	name="STATE_299"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = HAN
+		victory_points = {
+			6377 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = HAN
+	}
+
+	provinces={
+		405 526 6377 6513 11402 11493 
+	}
+	manpower=1719340
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,28 @@
+characters={
+	CAR_raffaele_savoia={
+		name=CAR_raffaele_savoia
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAR_ambrogio_fanti={
+		name=CAR_ambrogio_fanti
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=495
+	name="STATE_495"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = W49
+		victory_points = {
+			4879 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			12921 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = W49
+	}
+
+	provinces={
+		4879 7770 8136 10957 10978 12519 12921 13217 
+	}
+	manpower=567844
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

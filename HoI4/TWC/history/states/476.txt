@@ -1,0 +1,35 @@
+
+state={
+	id=476
+	name="STATE_476"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = W49
+		victory_points = {
+			12589 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			12589 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = W49
+	}
+
+	provinces={
+		4822 10415 12547 12589 12692 
+	}
+	manpower=2785128
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

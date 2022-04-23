@@ -1,0 +1,64 @@
+characters={
+	PRE_leopold_brommy={
+		name=PRE_leopold_brommy
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	PRE_fritz_hoffmann={
+		name=PRE_fritz_hoffmann
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	PRE_august_von={
+		name=PRE_august_von
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	PRE_adolf_tirpitz={
+		name=PRE_adolf_tirpitz
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=2
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	PRE_nikolaus_von_mecklenburg_strelitz={
+		name=PRE_nikolaus_von_mecklenburg_strelitz
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_USA_Happy_Chandler.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

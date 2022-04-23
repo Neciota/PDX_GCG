@@ -1,0 +1,36 @@
+
+state={
+	id=405
+	name="STATE_405"
+	resources={
+		aluminium=2.000
+		chromium=7.000
+		steel=9.000
+	}
+
+	history={
+		owner = X66
+		victory_points = {
+			10001 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			10001 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		4237 7372 10001 10255 11978 12462 
+	}
+	manpower=4084948
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

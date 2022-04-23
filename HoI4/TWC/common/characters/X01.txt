@@ -1,0 +1,52 @@
+characters={
+	X01_gustav_schobber={
+		name=X01_gustav_schobber
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X01_michael_benedek={
+		name=X01_michael_benedek
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X01_reinhold_von={
+		name=X01_reinhold_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X01_ernst_seitz={
+		name=X01_ernst_seitz
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

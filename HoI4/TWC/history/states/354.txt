@@ -1,0 +1,30 @@
+
+state={
+	id=354
+	name="STATE_354"
+
+	history={
+		owner = X56
+		victory_points = {
+			4504 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = CHI
+		add_core_of = X56
+	}
+
+	provinces={
+		1010 1474 1884 4325 4504 4532 7521 7549 7577 8095 9939 10616 10763 10819 
+	}
+	manpower=7682352
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

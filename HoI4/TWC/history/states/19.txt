@@ -1,0 +1,32 @@
+
+state={
+	id=19
+	name="STATE_19"
+
+	history={
+		owner = UAE
+		victory_points = {
+			5037 40 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			1033 = {
+				naval_base = 8
+			}
+			air_base = 10
+
+		}
+		add_core_of = UAE
+	}
+
+	provinces={
+		1033 1923 2033 2090 2095 4981 5006 5037 7934 8073 8092 10748 10786 10835 12101 12758 12883 
+	}
+	manpower=1018144
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

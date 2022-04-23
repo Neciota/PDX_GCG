@@ -1,0 +1,2161 @@
+﻿start_equipment_factor = 0
+division_template = {
+	name = "Armored Division"
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+		light_armor = { x = 1 y = 0 }
+		light_armor = { x = 1 y = 1 }
+		light_armor = { x = 1 y = 2 }
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+		motorized = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Mechanized Division"
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		motorized = { x = 1 y = 2 }
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+		motorized = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Motorized Division"
+
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+		motorized = { x = 0 y = 2 }
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		motorized = { x = 1 y = 2 }
+		motorized = { x = 2 y = 0 }
+		motorized = { x = 2 y = 1 }
+		motorized = { x = 2 y = 2 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Assault Division"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		artillery_brigade = { x = 3 y = 0 }
+		artillery_brigade = { x = 3 y = 1 }
+		artillery_brigade = { x = 3 y = 2 }
+		light_armor = { x = 4 y = 0 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Assault Brigade"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		artillery_brigade = { x = 1 y = 0 }
+		light_armor = { x = 2 y = 0 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		artillery_brigade = { x = 3 y = 0 }
+		artillery_brigade = { x = 3 y = 1 }
+		artillery_brigade = { x = 3 y = 2 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Infantry Brigade"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		artillery_brigade = { x = 1 y = 0 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Light Infantry Division"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Light Infantry Brigade"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Cavalry Division"
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+		cavalry = { x = 2 y = 0 }
+		cavalry = { x = 2 y = 1 }
+		cavalry = { x = 2 y = 2 }
+	}
+	support = {
+	}
+}
+
+division_template = {
+	name = "Cavalry Brigade"
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+	}
+	support = {
+	}
+}
+
+### No BHU air forces ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "X56"
+		}
+		requested_factories = 5
+		progress = 0.88
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_1
+			creator = "X56"
+		}
+		requested_factories = 2
+		progress = 0.88
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = fighter_equipment_1
+			creator = "X56"
+		}
+		requested_factories = 5
+		progress = 0.88
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = convoy_1
+			creator = "X56"
+		}
+		requested_factories = 10
+		progress = 0.50
+		amount = 100
+	}
+}
+units = {
+	division = {
+		name = "1. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "4. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "5. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "6. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "7. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "8. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "9. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 7256
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 7256
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 5025
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 5025
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 5025
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 5025
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 5025
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10733
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 10733
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10733
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10733
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10733
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 9831
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 9831
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 9831
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 9831
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 11815
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 11815
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 11815
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 11815
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 11815
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1053
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 1053
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1053
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 9937
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 9937
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 9937
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 9937
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 12732
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 12732
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 12732
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 12732
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10750
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10750
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10750
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10750
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 3742
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 5025
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 5025
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 5025
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 5025
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 7256
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 7256
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10834
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10834
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10834
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10834
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4925
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4925
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1. Light Infantry Division"
+		location = 4925
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.1
+	}
+	division = {
+		name = "2. Light Infantry Division"
+		location = 4925
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 4925
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "1. Cavalry Division"
+		location = 4925
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4925
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4925
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 4925
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 4925
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Light Infantry Brigade"
+		location = 4925
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4925
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.4
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "4. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "5. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "6. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4425
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Cavalry Brigade"
+		location = 4425
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1970
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.4
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 1970
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1970
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1970
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 7256
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 7256
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.0
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10105
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10105
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 10105
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4606
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4606
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 4606
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 4606
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4606
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.0
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.1
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10733
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 3742
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10062
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10062
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 10062
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "4. Infantry Division"
+		location = 10062
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "5. Infantry Division"
+		location = 10062
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10062
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10062
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.0
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 11815
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 11815
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 11815
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10750
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10750
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 10750
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10750
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4425
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4425
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 12732
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 12732
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 9937
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 9937
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 9937
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4032
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 4032
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4032
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10733
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10733
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 9831
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 9831
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 9831
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 8029
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 8029
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.4
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 8029
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10733
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10733
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 3900
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 3900
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3900
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1150
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 1150
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 1150
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 4529
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 4529
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4529
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10899
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10899
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 10899
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10899
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10899
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 8029
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 8029
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 8029
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.2
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 8029
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 3742
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 3742
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 3742
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 11815
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 11815
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 8029
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 8029
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.5
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 8029
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10899
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10899
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 5025
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 5025
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 5025
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 5025
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 3944
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 3944
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3944
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 12732
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 12732
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 12732
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 12732
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 4032
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 4032
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 4032
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 1588
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1588
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1588
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 7014
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 7014
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 10080
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10080
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 4501
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4501
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 8029
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 8029
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 8029
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 4525
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 4525
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Division"
+		location = 4525
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 4525
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 10080
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10080
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10080
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 7459
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 7459
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 7459
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 3742
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 3742
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 3742
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 3742
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 12882
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 12882
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Division"
+		location = 12882
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 12882
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 1055
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1055
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1055
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 10834
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10834
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 10834
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1171
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1171
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 1171
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1171
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1157
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 1157
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1157
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1157
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 5033
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 5033
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 5033
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 5033
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 12882
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 12882
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Division"
+		location = 12882
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Light Infantry Division"
+		location = 12882
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "3. Light Infantry Division"
+		location = 12882
+		division_template = "Light Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 12882
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "2. Light Infantry Brigade"
+		location = 12882
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "1. Cavalry Division"
+		location = 12882
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 7137
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 7137
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 7137
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Cavalry Brigade"
+		location = 7137
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 1070
+		division_template = "Assault Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 1070
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 1070
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 1070
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 1070
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Cavalry Brigade"
+		location = 1070
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Division"
+		location = 10404
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Division"
+		location = 10404
+		division_template = "Infantry Division"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3. Infantry Division"
+		location = 10404
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 10404
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Cavalry Brigade"
+		location = 10404
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.4
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Cavalry Brigade"
+		location = 10404
+		division_template = "Cavalry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Assault Division"
+		location = 10462
+		division_template = "Assault Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Infantry Brigade"
+		location = 10462
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2. Infantry Brigade"
+		location = 10462
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 10068
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "1. Light Infantry Brigade"
+		location = 10105
+		division_template = "Light Infantry Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+}

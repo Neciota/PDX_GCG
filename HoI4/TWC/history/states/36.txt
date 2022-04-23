@@ -1,0 +1,40 @@
+
+state={
+	id=36
+	name="STATE_36"
+	resources={
+		aluminium=1.000
+		oil=5.000
+		rubber=78.000
+		steel=0.000
+	}
+
+	history={
+		owner = W55
+		victory_points = {
+			1277 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			1277 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = W55
+		add_core_of = X36
+		add_core_of = X97
+	}
+
+	provinces={
+		1277 1428 1460 7327 7368 7463 10209 10225 10354 10382 12126 12168 12181 12184 12302 12343 
+	}
+	manpower=2115260
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

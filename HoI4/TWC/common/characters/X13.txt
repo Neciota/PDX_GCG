@@ -1,0 +1,28 @@
+characters={
+	X13_huitzilihuitl_tochtli={
+		name=X13_huitzilihuitl_tochtli
+		corps_commander={
+			skill=4
+			attack_skill=3
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X13_juan_pochtecatl={
+		name=X13_juan_pochtecatl
+		portraits={
+			civilian={
+				large="gfx/leaders/Central_American_Native/Portrait_HON_Jose_Maria_Moncada.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

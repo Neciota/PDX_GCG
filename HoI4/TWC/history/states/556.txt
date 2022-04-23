@@ -1,0 +1,35 @@
+
+state={
+	id=556
+	name="STATE_556"
+	resources={
+		oil=4.000
+		steel=0.000
+		tungsten=36.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			5230 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = X29
+		add_claim_by = BRA
+	}
+
+	provinces={
+		5188 5230 8157 8211 8225 8240 10938 10982 10996 12917 13195 
+	}
+	manpower=3107088
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

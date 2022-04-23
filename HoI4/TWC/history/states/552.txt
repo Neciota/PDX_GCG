@@ -1,0 +1,36 @@
+
+state={
+	id=552
+	name="STATE_552"
+	resources={
+		oil=10.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			2212 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			12997 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = X32
+		add_core_of = X33
+	}
+
+	provinces={
+		2162 2212 2226 5190 12983 12997 
+	}
+	manpower=5098932
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

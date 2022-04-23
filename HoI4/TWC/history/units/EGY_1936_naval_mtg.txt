@@ -1,0 +1,55 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 9957
+		task_force = {
+			name = "1st Fleet"
+			location = 9957
+			ship = { name = "Baybars Abu al-Futuh" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Qalawun al-Salihi" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Barquq" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Muhammad Ali" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Ibrahim" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Ismail" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Said" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "Salah al-Din" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = EGY version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Qusayr Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Sirt Battleship" definition = heavy_cruiser start_experience_factor = 0.14967 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Qusayr Battleship" definition = heavy_cruiser start_experience_factor = 0.14743 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Halaib Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Ras Gharib Battleship" definition = heavy_cruiser start_experience_factor = 0.18376 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Sirt Battleship" definition = heavy_cruiser start_experience_factor = 0.20607 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Dumyat Battleship" definition = heavy_cruiser start_experience_factor = 0.18908 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Dumyat Battleship" definition = heavy_cruiser start_experience_factor = 0.2272 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Benghazi Battleship" definition = heavy_cruiser start_experience_factor = 0.18711 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Abd al-Hafiz" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Abd al-Hakim" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Abd al-Nasir" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Abd al-Quddus" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Abd al-Aziz" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = EGY version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "EGY"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "EGY"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

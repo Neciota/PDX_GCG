@@ -1,0 +1,64 @@
+characters={
+	UAE_ma_sun={
+		name=UAE_ma_sun
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	UAE_kong_ting={
+		name=UAE_kong_ting
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	UAE_cheng_qiu={
+		name=UAE_cheng_qiu
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=4
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	UAE_mao_jin={
+		name=UAE_mao_jin
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	UAE_hsia_ye={
+		name=UAE_hsia_ye
+		portraits={
+			civilian={
+				large="gfx/leaders/Sino/Portrait_CHI_Hu_shi.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

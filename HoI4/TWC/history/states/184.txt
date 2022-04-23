@@ -1,0 +1,31 @@
+
+state={
+	id=184
+	name="STATE_184"
+
+	history={
+		owner = CHI
+		victory_points = {
+			13051 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			13051 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		13051 
+	}
+	manpower=95916
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

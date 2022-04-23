@@ -1,0 +1,30 @@
+
+state={
+	id=118
+	name="STATE_118"
+
+	history={
+		owner = X13
+		victory_points = {
+			2008 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = MEX
+		add_core_of = X13
+	}
+
+	provinces={
+		2008 
+	}
+	manpower=2141660
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

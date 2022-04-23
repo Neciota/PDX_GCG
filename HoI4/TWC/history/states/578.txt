@@ -1,0 +1,33 @@
+
+state={
+	id=578
+	name="STATE_578"
+	resources={
+		steel=24.000
+	}
+
+	history={
+		owner = X95
+		victory_points = {
+			6469 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = GER
+		add_core_of = X95
+	}
+
+	provinces={
+		529 6469 6570 9482 
+	}
+	manpower=1634520
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

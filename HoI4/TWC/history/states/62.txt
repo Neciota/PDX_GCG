@@ -1,0 +1,32 @@
+
+state={
+	id=62
+	name="STATE_62"
+
+	history={
+		owner = W56
+		victory_points = {
+			13072 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			13072 = {
+				naval_base = 2
+			}
+			air_base = 1
+
+		}
+		add_core_of = W56
+	}
+
+	provinces={
+		13072 
+	}
+	manpower=273828
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

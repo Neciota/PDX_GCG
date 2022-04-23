@@ -1,0 +1,76 @@
+characters={
+	SOV_anton_grishin={
+		name=SOV_anton_grishin
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SOV_ivan_rozhestvenskiy={
+		name=SOV_ivan_rozhestvenskiy
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SOV_yevgeniy_golivin={
+		name=SOV_yevgeniy_golivin
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SOV_sergey_gurko={
+		name=SOV_sergey_gurko
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SOV_leonid_grishin={
+		name=SOV_leonid_grishin
+		navy_leader={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=5
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SOV_maxim_budyonny={
+		name=SOV_maxim_budyonny
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/Portrait_Soviet_Victor_Baydalakov.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

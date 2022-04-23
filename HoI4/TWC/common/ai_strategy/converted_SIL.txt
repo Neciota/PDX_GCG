@@ -1,0 +1,18 @@
+﻿converted_war_strategies_SIL = {
+	enable = {
+		tag = SIL
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_SIL = {
+	enable = {
+		tag = SIL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

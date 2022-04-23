@@ -1,0 +1,73 @@
+﻿converted_war_strategies_X09 = {
+	enable = {
+		tag = X09
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 2340
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X19"
+		value = 702
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X18"
+		value = 78
+	}
+}
+
+converted_diplo_strategies_X09 = {
+	enable = {
+		tag = X09
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 170
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 83
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X19"
+		value = 369
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X18"
+		value = 50
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "FRA"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X18"
+		value = 36
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X19"
+		value = 29
+	}
+}

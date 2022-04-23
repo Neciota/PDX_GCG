@@ -1,0 +1,28 @@
+characters={
+	TOG_laganfyela_nyandane={
+		name=TOG_laganfyela_nyandane
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	TOG_sabana_hamaria={
+		name=TOG_sabana_hamaria
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/Portrait_Africa_Generic_new_1.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

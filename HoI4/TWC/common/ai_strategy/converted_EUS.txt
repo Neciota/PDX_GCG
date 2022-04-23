@@ -1,0 +1,18 @@
+﻿converted_war_strategies_EUS = {
+	enable = {
+		tag = EUS
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_EUS = {
+	enable = {
+		tag = EUS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

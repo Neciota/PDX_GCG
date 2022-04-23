@@ -1,0 +1,32 @@
+
+state={
+	id=8
+	name="STATE_8"
+
+	history={
+		owner = UAE
+		victory_points = {
+			1086 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			4088 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = UAE
+	}
+
+	provinces={
+		1015 1065 1086 1201 4088 4206 7107 7176 11970 
+	}
+	manpower=780528
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

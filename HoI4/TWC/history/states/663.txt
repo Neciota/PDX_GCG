@@ -1,0 +1,39 @@
+
+state={
+	id=663
+	name="STATE_663"
+	resources={
+		aluminium=30.000
+		steel=4.000
+		tungsten=25.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			9699 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			11707 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = SPR
+		add_claim_by = EUS
+	}
+
+	provinces={
+		726 738 794 857 874 885 903 918 920 939 3725 3727 3729 3744 3820 3845 3859 3874 3887 3918 3920 4024 6746 6749 6867 6907 6936 9699 9700 9703 9719 9770 9800 9827 9846 9870 9872 11684 11688 11707 11766 11806 11809 11825 11843 11852 11854 13218 13219 13220 13221 13226 13227 13232 
+	}
+	manpower=3119512
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

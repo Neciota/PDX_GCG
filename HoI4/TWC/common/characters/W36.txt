@@ -1,0 +1,40 @@
+characters={
+	W36_cocijoeza_na={
+		name=W36_cocijoeza_na
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W36_nguiiu_beljjw={
+		name=W36_nguiiu_beljjw
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	W36_bzojj_gyazob={
+		name=W36_bzojj_gyazob
+		portraits={
+			civilian={
+				large="gfx/leaders/Central_American_Native/portrait_Apocalypto_democratic.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

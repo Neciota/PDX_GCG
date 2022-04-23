@@ -1,0 +1,30 @@
+
+state={
+	id=750
+	name="STATE_750"
+
+	history={
+		owner = W15
+		victory_points = {
+			12318 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W15
+		add_core_of = X21
+	}
+
+	provinces={
+		652 789 6976 6991 9858 9886 10399 11853 11880 12318 
+	}
+	manpower=456656
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

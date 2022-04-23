@@ -1,0 +1,64 @@
+characters={
+	EGY_iskender_bey={
+		name=EGY_iskender_bey
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	EGY_rauf_bey={
+		name=EGY_rauf_bey
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	EGY_kazim_bey={
+		name=EGY_kazim_bey
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	EGY_mehmet_bey={
+		name=EGY_mehmet_bey
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	EGY_abdullah_pasha={
+		name=EGY_abdullah_pasha
+		portraits={
+			civilian={
+				large="gfx/leaders/JOR/Portrait_Arabia_Generic_communism1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

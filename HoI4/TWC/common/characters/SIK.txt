@@ -1,0 +1,52 @@
+characters={
+	SIK_yang_zhao={
+		name=SIK_yang_zhao
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIK_yang_zhao_1={
+		name=SIK_yang_zhao_1
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIK_gao_fang={
+		name=SIK_gao_fang
+		corps_commander={
+			skill=5
+			attack_skill=6
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	SIK_kwong_tian={
+		name=SIK_kwong_tian
+		portraits={
+			civilian={
+				large="gfx/leaders/Asia/portrait_asia_generic_4.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

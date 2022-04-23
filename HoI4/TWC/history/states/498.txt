@@ -1,0 +1,32 @@
+
+state={
+	id=498
+	name="STATE_498"
+
+	history={
+		owner = W42
+		victory_points = {
+			7390 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			7390 = {
+				naval_base = 2
+			}
+			air_base = 1
+
+		}
+		add_core_of = W42
+	}
+
+	provinces={
+		7390 
+	}
+	manpower=56548
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

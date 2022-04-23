@@ -1,0 +1,33 @@
+
+state={
+	id=166
+	name="STATE_166"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = X21
+		victory_points = {
+			9860 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = W03
+		add_core_of = X21
+	}
+
+	provinces={
+		876 3890 6965 9860 
+	}
+	manpower=775904
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

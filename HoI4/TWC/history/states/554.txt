@@ -1,0 +1,37 @@
+
+state={
+	id=554
+	name="STATE_554"
+	resources={
+		steel=8.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			2182 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			2210 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X93
+	}
+
+	provinces={
+		2182 2210 10940 13086 
+	}
+	manpower=1943684
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

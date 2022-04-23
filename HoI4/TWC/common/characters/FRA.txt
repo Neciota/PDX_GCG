@@ -1,0 +1,64 @@
+characters={
+	FRA_felicien_cary={
+		name=FRA_felicien_cary
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	FRA_alphonse_lebouef={
+		name=FRA_alphonse_lebouef
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	FRA_pierre_de={
+		name=FRA_pierre_de
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	FRA_joseph_de={
+		name=FRA_joseph_de
+		navy_leader={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	FRA_achille_gallieni={
+		name=FRA_achille_gallieni
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/portrait_fra_leon_blum.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,28 @@
+characters={
+	X84_amodo_bezon={
+		name=X84_amodo_bezon
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X84_bello_tonyon={
+		name=X84_bello_tonyon
+		portraits={
+			civilian={
+				large="gfx/leaders/African/Portrait_LIB_Momolu_Massaquoi.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

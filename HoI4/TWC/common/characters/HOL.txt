@@ -1,0 +1,76 @@
+characters={
+	HOL_edmond_der={
+		name=HOL_edmond_der
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=5
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HOL_jochem_de={
+		name=HOL_jochem_de
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HOL_jochem_verbeke={
+		name=HOL_jochem_verbeke
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HOL_antoine_buyse={
+		name=HOL_antoine_buyse
+		navy_leader={
+			skill=3
+			attack_skill=3
+			defense_skill=4
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	HOL_vincent_robiano={
+		name=HOL_vincent_robiano
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	HOL_herman_claus={
+		name=HOL_herman_claus
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

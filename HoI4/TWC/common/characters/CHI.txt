@@ -1,0 +1,64 @@
+characters={
+	CHI_baterdene_amar={
+		name=CHI_baterdene_amar
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHI_chingis_bodoo={
+		name=CHI_chingis_bodoo
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHI_dambyan_amar={
+		name=CHI_dambyan_amar
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHI_balingiin_tserendorj={
+		name=CHI_balingiin_tserendorj
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHI_chingis_chagdarjav={
+		name=CHI_chingis_chagdarjav
+		portraits={
+			civilian={
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

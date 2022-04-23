@@ -1,0 +1,37 @@
+
+state={
+	id=44
+	name="STATE_44"
+	resources={
+		chromium=6.000
+		steel=4.000
+	}
+
+	history={
+		owner = W58
+		victory_points = {
+			4429 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			1340 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = PHI
+		add_core_of = W58
+	}
+
+	provinces={
+		1224 1311 1340 4269 4373 4429 7307 7385 7419 10145 12118 12153 
+	}
+	manpower=3576316
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

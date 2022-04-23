@@ -1,0 +1,37 @@
+
+state={
+	id=660
+	name="STATE_660"
+	resources={
+		aluminium=3.000
+		steel=4.000
+	}
+
+	history={
+		owner = SLV
+		victory_points = {
+			628 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			628 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = ITA
+		add_claim_by = SLV
+	}
+
+	provinces={
+		628 
+	}
+	manpower=209764
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

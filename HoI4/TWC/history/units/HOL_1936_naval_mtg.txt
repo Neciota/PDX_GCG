@@ -1,0 +1,139 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 68
+		task_force = {
+			name = "3rd Fleet"
+			location = 68
+			ship = { name = "3rd Amsterdam Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "De Ruyter" definition = battleship start_experience_factor = 0.12339 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Tromp" definition = battleship start_experience_factor = 0.13604 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "De Zeven Provincien" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Evertsen" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Kortenaer" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Piet Hein" definition = battleship start_experience_factor = 0.14285 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Witte de With" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Groningen Dreadnought" definition = battleship start_experience_factor = 0.12339 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "Jacob van Heemskerk" definition = battleship start_experience_factor = 0.1015 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Duinkerke Dreadnought" definition = battleship start_experience_factor = 0.13604 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Emden Dreadnought" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Amsterdam Dreadnought" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Middelburg Dreadnought" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Groningen Dreadnought" definition = battleship start_experience_factor = 0.10658 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Brugge Dreadnought" definition = battleship start_experience_factor = 0.11751 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Amsterdam Dreadnought" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Duinkerke Dreadnought" definition = battleship start_experience_factor = 0.13604 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Emden Dreadnought" definition = battleship start_experience_factor = 0.12956 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Amsterdam Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Middelburg Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Groningen Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Brugge Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Duinkerke Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Emden Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = HOL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Amsterdam Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Buffel" definition = heavy_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "De Zeven Provinciën" definition = heavy_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Guinea" definition = heavy_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Hertog Hendrik" definition = heavy_cruiser start_experience_factor = 0.13604 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Jacob van Heemskerck" definition = heavy_cruiser start_experience_factor = 0.10658 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Koning der Nederlanden" definition = heavy_cruiser start_experience_factor = 0.12339 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Koningin Regentes" definition = heavy_cruiser start_experience_factor = 0.14285 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Maarten Harpetsz. Tromp" definition = heavy_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Schorpioen" definition = heavy_cruiser start_experience_factor = 0.14285 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Stier" definition = heavy_cruiser start_experience_factor = 0.11191 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Duinkerke Battleship" definition = heavy_cruiser start_experience_factor = 0.13604 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Emden Battleship" definition = heavy_cruiser start_experience_factor = 0.12339 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Amsterdam Battleship" definition = heavy_cruiser start_experience_factor = 0.14285 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Groningen Battleship" definition = heavy_cruiser start_experience_factor = 0.1015 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Brugge Battleship" definition = heavy_cruiser start_experience_factor = 0.13604 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Duinkerke Battleship" definition = heavy_cruiser start_experience_factor = 0.13604 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Emden Battleship" definition = heavy_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Amsterdam Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Adolf Hertog van Nassau" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Callenburgh" definition = light_cruiser start_experience_factor = 0.10658 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Isaac Sweers" definition = light_cruiser start_experience_factor = 0.10658 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Van Ghent" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Tjerk Hiddes" definition = light_cruiser start_experience_factor = 0.12339 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Van Galen" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Abraham van der Hulst" definition = light_cruiser start_experience_factor = 0.10658 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Van Speijck" definition = light_cruiser start_experience_factor = 0.12339 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Anna Paulowna" definition = light_cruiser start_experience_factor = 0.13604 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Zoutman" definition = light_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Johan Willem Friso" definition = light_cruiser start_experience_factor = 0.10658 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Van Kinsbergen" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Pieter Florisz" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Philips van Almonde" definition = light_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Bloys van Treslong" definition = light_cruiser start_experience_factor = 0.12339 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Jan van Brakel" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Van Amstel" definition = light_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Willem van der Zaan" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.12956 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Emden Cruiser" definition = light_cruiser start_experience_factor = 0.11751 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Java" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Banckert" definition = light_cruiser start_experience_factor = 0.1814 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.19047 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.1814 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.19047 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.1814 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.19047 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.19047 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Emden Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.1814 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Emden Cruiser" definition = light_cruiser start_experience_factor = 0.19047 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Aert van Nes" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Emden Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Emden Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Groningen Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Brugge Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Duinkerke Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Emden Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Amsterdam Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Middelburg Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = HOL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "HOL"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "HOL"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

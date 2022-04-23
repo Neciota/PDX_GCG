@@ -1,0 +1,64 @@
+characters={
+	X09_paul_langle={
+		name=X09_paul_langle
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X09_thibaut_dubois={
+		name=X09_thibaut_dubois
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X09_ettiene_gallieni={
+		name=X09_ettiene_gallieni
+		corps_commander={
+			skill=4
+			attack_skill=5
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X09_amedee_bouet_willaumez={
+		name=X09_amedee_bouet_willaumez
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X09_augustin_saint={
+		name=X09_augustin_saint
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

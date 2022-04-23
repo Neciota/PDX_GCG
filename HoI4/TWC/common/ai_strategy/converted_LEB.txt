@@ -1,0 +1,108 @@
+﻿converted_war_strategies_LEB = {
+	enable = {
+		tag = LEB
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "UAE"
+		value = 3096
+	}
+}
+
+converted_diplo_strategies_LEB = {
+	enable = {
+		tag = LEB
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 275
+	}
+	ai_strategy = {
+		type = contain
+		id = "X21"
+		value = 49
+	}
+	ai_strategy = {
+		type = contain
+		id = "W15"
+		value = 46
+	}
+	ai_strategy = {
+		type = contain
+		id = "X02"
+		value = 30
+	}
+	ai_strategy = {
+		type = contain
+		id = "CYP"
+		value = 30
+	}
+	ai_strategy = {
+		type = contain
+		id = "EGY"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X21"
+		value = 121
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 190
+	}
+	ai_strategy = {
+		type = alliance
+		id = "EGY"
+		value = 67
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HOL"
+		value = 55
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X21"
+		value = 47
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GAB"
+		value = 115
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X96"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X65"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X42"
+		value = 41
+	}
+}

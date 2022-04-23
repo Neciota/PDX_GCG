@@ -1,0 +1,32 @@
+
+state={
+	id=755
+	name="STATE_755"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = W20
+		victory_points = {
+			9517 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = W20
+	}
+
+	provinces={
+		519 3690 6555 9517 9545 9655 11486 11499 
+	}
+	manpower=2442580
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

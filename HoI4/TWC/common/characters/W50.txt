@@ -1,0 +1,16 @@
+characters={
+	W50_charles_annez_de_zillebroeck={
+		name=W50_charles_annez_de_zillebroeck
+		portraits={
+			civilian={
+				large="gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=458
+	name="STATE_458"
+	resources={
+		oil=11.000
+		rubber=156.000
+		steel=3.000
+	}
+
+	history={
+		owner = W44
+		victory_points = {
+			7642 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			7642 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = INS
+		add_core_of = W44
+	}
+
+	provinces={
+		1386 1398 1413 1425 4406 4434 4621 7223 7381 7421 7642 10135 10279 10307 12249 12277 
+	}
+	manpower=11845728
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

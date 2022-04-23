@@ -1,0 +1,16 @@
+characters={
+	SCO_fife_niven={
+		name=SCO_fife_niven
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_Austria_Otto_I.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

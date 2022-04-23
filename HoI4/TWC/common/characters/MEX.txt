@@ -1,0 +1,64 @@
+characters={
+	MEX_hinchie_maxey={
+		name=MEX_hinchie_maxey
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	MEX_samuel_steele={
+		name=MEX_samuel_steele
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MEX_elkanah_gano={
+		name=MEX_elkanah_gano
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MEX_samuel_bee={
+		name=MEX_samuel_bee
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MEX_matthew_waul={
+		name=MEX_matthew_waul
+		portraits={
+			civilian={
+				large="gfx/leaders/NZL/Portrait_NewZealand_Peter_Fraser.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

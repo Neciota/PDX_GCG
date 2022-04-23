@@ -1,0 +1,54 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7520
+		task_force = {
+			name = "1st Fleet"
+			location = 7520
+			ship = { name = "Queensland" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_2 = { amount = 1 owner = AST version_name = "1936 Battleship" } } }
+			ship = { name = "New South Wales" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_2 = { amount = 1 owner = AST version_name = "1936 Battleship" } } }
+			ship = { name = "Big Bruce" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_2 = { amount = 1 owner = AST version_name = "1936 Battleship" } } }
+			ship = { name = "Tasmania" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_2 = { amount = 1 owner = AST version_name = "1936 Battleship" } } }
+			ship = { name = "Commonwealth" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_2 = { amount = 1 owner = AST version_name = "1936 Battleship" } } }
+			ship = { name = "1st Newcastle Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Newcastle Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Sale Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Yalata Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Broome Battleship" definition = heavy_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Encounter" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Brisbane" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Pioneer" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Protector" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Gladstone Cruiser" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Yalata Cruiser" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Broome Cruiser" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Australia" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Melbourne" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Sydney" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Gladstone Cruiser" definition = light_cruiser start_experience_factor = 0.35 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = AST version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "AST"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "AST"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

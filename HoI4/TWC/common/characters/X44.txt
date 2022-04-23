@@ -1,0 +1,52 @@
+characters={
+	X44_kong_jiang={
+		name=X44_kong_jiang
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X44_li_zhao={
+		name=X44_li_zhao
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X44_li_zhao_1={
+		name=X44_li_zhao_1
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X44_wang_jiang={
+		name=X44_wang_jiang
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/r56_portrait_generic_politician_asia_1_fascism.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=527
+	name="STATE_527"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = X85
+		victory_points = {
+			6542 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X85
+	}
+
+	provinces={
+		3530 6542 6568 6581 
+	}
+	manpower=2332104
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,53 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 9957
+		task_force = {
+			name = "1st Fleet"
+			location = 9957
+			ship = { name = "Baybars Abu al-Futuh" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Qalawun al-Salihi" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Barquq" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Muhammad Ali" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Ibrahim" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Ismail" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Said" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Salah al-Din" definition = battleship equipment = { battleship_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Qusayr Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Sirt Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Qusayr Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Halaib Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Ras Gharib Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Sirt Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Dumyat Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "2nd Dumyat Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "1st Benghazi Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Abd al-Hafiz" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Abd al-Hakim" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Abd al-Nasir" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Abd al-Quddus" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = EGY } } }
+			ship = { name = "Abd al-Aziz" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = EGY } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "EGY"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "EGY"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

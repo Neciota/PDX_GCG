@@ -1,0 +1,64 @@
+characters={
+	SIA_phya_chichalerm={
+		name=SIA_phya_chichalerm
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIA_mongkut_saovabha={
+		name=SIA_mongkut_saovabha
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIA_nangklao_saovabha={
+		name=SIA_nangklao_saovabha
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIA_chulalongkorn_suriyawongse={
+		name=SIA_chulalongkorn_suriyawongse
+		navy_leader={
+			skill=3
+			attack_skill=4
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=5
+			legacy_id=0
+		}
+	}
+
+	SIA_plaek_phonphayuhasena={
+		name=SIA_plaek_phonphayuhasena
+		portraits={
+			civilian={
+				large="gfx/leaders/PHI/Portrait_Philippines_Manuel_Luis_Quezon.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=53
+	name="STATE_53"
+
+	history={
+		owner = UAE
+		victory_points = {
+			2196 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			2196 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = TZN
+	}
+
+	provinces={
+		2196 2206 5224 8183 8205 11017 12911 
+	}
+	manpower=3534736
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

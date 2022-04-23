@@ -1,0 +1,138 @@
+﻿converted_war_strategies_BRA = {
+	enable = {
+		tag = BRA
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "X93"
+		value = 2102
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 183
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 140
+	}
+	ai_strategy = {
+		type = conquer
+		id = "VEN"
+		value = 97
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X09"
+		value = 73
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X61"
+		value = 18
+	}
+}
+
+converted_diplo_strategies_BRA = {
+	enable = {
+		tag = BRA
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 378
+	}
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 129
+	}
+	ai_strategy = {
+		type = contain
+		id = "X93"
+		value = 97
+	}
+	ai_strategy = {
+		type = contain
+		id = "VEN"
+		value = 70
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X93"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 103
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X09"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X61"
+		value = 29
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 20
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HOL"
+		value = 175
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 104
+	}
+	ai_strategy = {
+		type = alliance
+		id = "COL"
+		value = 55
+	}
+	ai_strategy = {
+		type = protect
+		id = "VEN"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X93"
+		value = 118
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAL"
+		value = 87
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "ENG"
+		value = 74
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "EGY"
+		value = 59
+	}
+}

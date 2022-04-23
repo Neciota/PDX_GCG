@@ -1,0 +1,36 @@
+
+state={
+	id=128
+	name="STATE_128"
+	resources={
+		aluminium=97.000
+		steel=112.000
+	}
+
+	history={
+		owner = X18
+		victory_points = {
+			3650 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = OCC
+		add_core_of = X18
+		add_claim_by = FRA
+		add_claim_by = SWI
+	}
+
+	provinces={
+		641 762 764 780 817 3589 3646 3650 3762 3764 3768 6613 6639 6668 6975 9590 9736 11716 
+	}
+	manpower=2739500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

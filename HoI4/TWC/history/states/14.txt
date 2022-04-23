@@ -1,0 +1,34 @@
+
+state={
+	id=14
+	name="STATE_14"
+	resources={
+		aluminium=1.000
+		chromium=3.000
+		steel=0.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			10837 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = TUR
+	}
+
+	provinces={
+		2071 4553 8093 10523 10837 10922 12704 12818 
+	}
+	manpower=1668760
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

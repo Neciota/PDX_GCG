@@ -1,0 +1,38 @@
+
+state={
+	id=766
+	name="STATE_766"
+	resources={
+		aluminium=2.000
+		chromium=1.000
+		rubber=7.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = W24
+		victory_points = {
+			7391 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			1321 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = W08
+	}
+
+	provinces={
+		1238 1321 7391 7402 7447 12275 
+	}
+	manpower=4930704
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

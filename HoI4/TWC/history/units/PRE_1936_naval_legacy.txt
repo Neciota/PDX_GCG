@@ -1,0 +1,43 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 321
+		task_force = {
+			name = "3rd Fleet"
+			location = 321
+			ship = { name = "Friedrich der Grosse" definition = battleship equipment = { battleship_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Goeben" definition = battleship equipment = { battleship_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Derfflinger" definition = battleship equipment = { battleship_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "3rd Schwerin Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "4th Schwerin Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Arcona" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Ariadne" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Berlin" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Amazone" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Blitz" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Blücher" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+			ship = { name = "Bremse" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = PRE } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "PRE"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "PRE"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

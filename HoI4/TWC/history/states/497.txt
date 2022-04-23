@@ -1,0 +1,31 @@
+
+state={
+	id=497
+	name="STATE_497"
+
+	history={
+		owner = HOL
+		victory_points = {
+			13010 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			13010 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		13010 
+	}
+	manpower=586804
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

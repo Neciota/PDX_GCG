@@ -1,0 +1,52 @@
+characters={
+	W20_edmund_beck_rzikowsky={
+		name=W20_edmund_beck_rzikowsky
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W20_friedrich_von={
+		name=W20_friedrich_von
+		corps_commander={
+			skill=4
+			attack_skill=6
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	W20_alexander_remmele={
+		name=W20_alexander_remmele
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	W20_konrad_eisner={
+		name=W20_konrad_eisner
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Hermann_Goring.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=710
+	name="STATE_710"
+
+	history={
+		owner = TUR
+		victory_points = {
+			4609 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		4580 4609 4637 10385 10768 
+	}
+	manpower=562720
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

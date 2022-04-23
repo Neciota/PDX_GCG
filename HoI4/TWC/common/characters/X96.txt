@@ -1,0 +1,64 @@
+characters={
+	X96_honda_takamori={
+		name=X96_honda_takamori
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X96_osumi_tetsutaro={
+		name=X96_osumi_tetsutaro
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X96_askikaga_yusaku={
+		name=X96_askikaga_yusaku
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X96_suzuki_tsugumichi={
+		name=X96_suzuki_tsugumichi
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X96_takigawa_kato={
+		name=X96_takigawa_kato
+		portraits={
+			civilian={
+				large="gfx/leaders/JAP/portrait_jap_tetsu_katayama.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

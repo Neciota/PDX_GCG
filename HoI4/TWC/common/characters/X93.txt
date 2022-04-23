@@ -1,0 +1,64 @@
+characters={
+	X93_auguste_langelier={
+		name=X93_auguste_langelier
+		corps_commander={
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X93_pierre_langelier={
+		name=X93_pierre_langelier
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X93_luis_phillippe_robitaille={
+		name=X93_luis_phillippe_robitaille
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X93_pierre_damasne={
+		name=X93_pierre_damasne
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X93_francois_de={
+		name=X93_francois_de
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_USA_Franklin_Roosevelt.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

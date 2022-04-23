@@ -1,0 +1,578 @@
+ideas = {
+	country = {
+		AST_monarch = {
+			allowed = {
+				original_tag = AST
+			}
+
+			allowed_civil_war = {
+				original_tag = AST
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		AUS_monarch = {
+			allowed = {
+				original_tag = AUS
+			}
+
+			allowed_civil_war = {
+				original_tag = AUS
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		BAN_monarch = {
+			allowed = {
+				original_tag = BAN
+			}
+
+			allowed_civil_war = {
+				original_tag = BAN
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		BAS_monarch = {
+			allowed = {
+				original_tag = BAS
+			}
+
+			allowed_civil_war = {
+				original_tag = BAS
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		BOS_monarch = {
+			allowed = {
+				original_tag = BOS
+			}
+
+			allowed_civil_war = {
+				original_tag = BOS
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		CHI_monarch = {
+			allowed = {
+				original_tag = CHI
+			}
+
+			allowed_civil_war = {
+				original_tag = CHI
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		DEN_monarch = {
+			allowed = {
+				original_tag = DEN
+			}
+
+			allowed_civil_war = {
+				original_tag = DEN
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		ENG_monarch = {
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				original_tag = ENG
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		GAB_monarch = {
+			allowed = {
+				original_tag = GAB
+			}
+
+			allowed_civil_war = {
+				original_tag = GAB
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		HUN_monarch = {
+			allowed = {
+				original_tag = HUN
+			}
+
+			allowed_civil_war = {
+				original_tag = HUN
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		LEB_monarch = {
+			allowed = {
+				original_tag = LEB
+			}
+
+			allowed_civil_war = {
+				original_tag = LEB
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		MEX_monarch = {
+			allowed = {
+				original_tag = MEX
+			}
+
+			allowed_civil_war = {
+				original_tag = MEX
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		NZL_monarch = {
+			allowed = {
+				original_tag = NZL
+			}
+
+			allowed_civil_war = {
+				original_tag = NZL
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		ROM_monarch = {
+			allowed = {
+				original_tag = ROM
+			}
+
+			allowed_civil_war = {
+				original_tag = ROM
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		SCA_monarch = {
+			allowed = {
+				original_tag = SCA
+			}
+
+			allowed_civil_war = {
+				original_tag = SCA
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		SIA_monarch = {
+			allowed = {
+				original_tag = SIA
+			}
+
+			allowed_civil_war = {
+				original_tag = SIA
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		SWI_monarch = {
+			allowed = {
+				original_tag = SWI
+			}
+
+			allowed_civil_war = {
+				original_tag = SWI
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		TUR_monarch = {
+			allowed = {
+				original_tag = TUR
+			}
+
+			allowed_civil_war = {
+				original_tag = TUR
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		UAE_monarch = {
+			allowed = {
+				original_tag = UAE
+			}
+
+			allowed_civil_war = {
+				original_tag = UAE
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		USA_monarch = {
+			allowed = {
+				original_tag = USA
+			}
+
+			allowed_civil_war = {
+				original_tag = USA
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		VEN_monarch = {
+			allowed = {
+				original_tag = VEN
+			}
+
+			allowed_civil_war = {
+				original_tag = VEN
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W03_monarch = {
+			allowed = {
+				original_tag = W03
+			}
+
+			allowed_civil_war = {
+				original_tag = W03
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W04_monarch = {
+			allowed = {
+				original_tag = W04
+			}
+
+			allowed_civil_war = {
+				original_tag = W04
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W05_monarch = {
+			allowed = {
+				original_tag = W05
+			}
+
+			allowed_civil_war = {
+				original_tag = W05
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W08_monarch = {
+			allowed = {
+				original_tag = W08
+			}
+
+			allowed_civil_war = {
+				original_tag = W08
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W13_monarch = {
+			allowed = {
+				original_tag = W13
+			}
+
+			allowed_civil_war = {
+				original_tag = W13
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W19_monarch = {
+			allowed = {
+				original_tag = W19
+			}
+
+			allowed_civil_war = {
+				original_tag = W19
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W20_monarch = {
+			allowed = {
+				original_tag = W20
+			}
+
+			allowed_civil_war = {
+				original_tag = W20
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W26_monarch = {
+			allowed = {
+				original_tag = W26
+			}
+
+			allowed_civil_war = {
+				original_tag = W26
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		W34_monarch = {
+			allowed = {
+				original_tag = W34
+			}
+
+			allowed_civil_war = {
+				original_tag = W34
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X00_monarch = {
+			allowed = {
+				original_tag = X00
+			}
+
+			allowed_civil_war = {
+				original_tag = X00
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X01_monarch = {
+			allowed = {
+				original_tag = X01
+			}
+
+			allowed_civil_war = {
+				original_tag = X01
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X14_monarch = {
+			allowed = {
+				original_tag = X14
+			}
+
+			allowed_civil_war = {
+				original_tag = X14
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X21_monarch = {
+			allowed = {
+				original_tag = X21
+			}
+
+			allowed_civil_war = {
+				original_tag = X21
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X35_monarch = {
+			allowed = {
+				original_tag = X35
+			}
+
+			allowed_civil_war = {
+				original_tag = X35
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X42_monarch = {
+			allowed = {
+				original_tag = X42
+			}
+
+			allowed_civil_war = {
+				original_tag = X42
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X47_monarch = {
+			allowed = {
+				original_tag = X47
+			}
+
+			allowed_civil_war = {
+				original_tag = X47
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X51_monarch = {
+			allowed = {
+				original_tag = X51
+			}
+
+			allowed_civil_war = {
+				original_tag = X51
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X53_monarch = {
+			allowed = {
+				original_tag = X53
+			}
+
+			allowed_civil_war = {
+				original_tag = X53
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X77_monarch = {
+			allowed = {
+				original_tag = X77
+			}
+
+			allowed_civil_war = {
+				original_tag = X77
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+		X86_monarch = {
+			allowed = {
+				original_tag = X86
+			}
+
+			allowed_civil_war = {
+				original_tag = X86
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			traits = { popular_figurehead }
+		}
+	}
+}

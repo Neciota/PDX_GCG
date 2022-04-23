@@ -1,0 +1,16 @@
+characters={
+	FIN_kurt_ramsay={
+		name=FIN_kurt_ramsay
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_George_VI.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,52 @@
+characters={
+	W03_venizelos_dousmanis={
+		name=W03_venizelos_dousmanis
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W03_evripidis_sapountzakis={
+		name=W03_evripidis_sapountzakis
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W03_antonios_papoulas={
+		name=W03_antonios_papoulas
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W03_markos_papadopoulos={
+		name=W03_markos_papadopoulos
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

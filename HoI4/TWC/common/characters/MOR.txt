@@ -1,0 +1,64 @@
+characters={
+	MOR_johann_blomberg={
+		name=MOR_johann_blomberg
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MOR_lukas_von={
+		name=MOR_lukas_von
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MOR_julius_braunschweig={
+		name=MOR_julius_braunschweig
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	MOR_paul_cordemann={
+		name=MOR_paul_cordemann
+		navy_leader={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	MOR_leonhard_bohm_ermolli={
+		name=MOR_leonhard_bohm_ermolli
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_USA_Franklin_Roosevelt.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

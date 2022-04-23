@@ -1,0 +1,32 @@
+
+state={
+	id=744
+	name="STATE_744"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = VEN
+		victory_points = {
+			10934 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = VEN
+	}
+
+	provinces={
+		2198 5083 5214 5232 8185 8254 10934 12919 12965 13083 
+	}
+	manpower=1183652
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

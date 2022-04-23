@@ -1,0 +1,33 @@
+
+state={
+	id=214
+	name="STATE_214"
+
+	history={
+		owner = X37
+		victory_points = {
+			6889 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			6889 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = ITA
+		add_core_of = X37
+	}
+
+	provinces={
+		3868 6889 
+	}
+	manpower=156508
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=407
+	name="STATE_407"
+	resources={
+		aluminium=52.000
+		oil=20.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			8070 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 3
+			air_base = 3
+
+		}
+		add_core_of = MEX
+	}
+
+	provinces={
+		1972 2102 3867 3883 4975 5044 8070 10642 10645 10867 10914 12552 12684 12720 12791 
+	}
+	manpower=6339412
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

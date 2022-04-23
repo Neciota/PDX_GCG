@@ -1,0 +1,38 @@
+
+state={
+	id=11
+	name="STATE_11"
+	resources={
+		aluminium=1.000
+		oil=23.000
+		steel=9.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			8117 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+			10797 = {
+				naval_base = 8
+			}
+			air_base = 2
+
+		}
+		add_core_of = UAE
+	}
+
+	provinces={
+		4959 4966 5089 8031 8117 10797 10881 12832 
+	}
+	manpower=2136312
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

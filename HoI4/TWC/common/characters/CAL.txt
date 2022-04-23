@@ -1,0 +1,76 @@
+characters={
+	CAL_gilbert_young={
+		name=CAL_gilbert_young
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=5
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_albert_windham={
+		name=CAL_albert_windham
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_victor_blackwood={
+		name=CAL_victor_blackwood
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_gilbert_young_1={
+		name=CAL_gilbert_young_1
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_albert_elliot={
+		name=CAL_albert_elliot
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_francis_ross={
+		name=CAL_francis_ross
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Oswald_Mosley.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

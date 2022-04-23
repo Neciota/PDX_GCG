@@ -1,0 +1,52 @@
+characters={
+	HUN_laszlo_dessewffy={
+		name=HUN_laszlo_dessewffy
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HUN_bertalan_katona={
+		name=HUN_bertalan_katona
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HUN_beni_ottinger={
+		name=HUN_beni_ottinger
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	HUN_almos_horthy={
+		name=HUN_almos_horthy
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

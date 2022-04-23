@@ -1,0 +1,64 @@
+characters={
+	AUS_rudolf_mergenthaler={
+		name=AUS_rudolf_mergenthaler
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	AUS_michael_von={
+		name=AUS_michael_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	AUS_karl_wittelsbach={
+		name=AUS_karl_wittelsbach
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	AUS_kurt_von={
+		name=AUS_kurt_von
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	AUS_engelbert_von={
+		name=AUS_engelbert_von
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

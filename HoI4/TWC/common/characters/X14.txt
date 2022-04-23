@@ -1,0 +1,52 @@
+characters={
+	X14_franz_goering={
+		name=X14_franz_goering
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_erwin_haynau={
+		name=X14_erwin_haynau
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_alfons_hohenlohe={
+		name=X14_alfons_hohenlohe
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_lorenz_von_baden={
+		name=X14_lorenz_von_baden
+		portraits={
+			civilian={
+				large="gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

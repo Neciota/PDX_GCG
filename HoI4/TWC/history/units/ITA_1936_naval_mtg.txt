@@ -1,0 +1,44 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 925
+		task_force = {
+			name = "3rd Fleet"
+			location = 925
+			ship = { name = "Dante Alighieri" definition = battleship start_experience_factor = 0.04798 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Conti di Cavour" definition = battleship start_experience_factor = 0.04868 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Giulio Cesare" definition = battleship start_experience_factor = 0.1 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Leonarda da Vince" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Andrea Doria" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Duilio" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ITA version_name = "Early Battleship" } } }
+			ship = { name = "Italia" definition = heavy_cruiser start_experience_factor = 0.04965 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Lepanto" definition = heavy_cruiser start_experience_factor = 0.0498 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Francesco Morosini" definition = heavy_cruiser start_experience_factor = 0.04985 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Enrico Dandolo" definition = heavy_cruiser start_experience_factor = 0.04807 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ruggiero di Lauria" definition = heavy_cruiser start_experience_factor = 0.04995 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ITA version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ITA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "ITA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

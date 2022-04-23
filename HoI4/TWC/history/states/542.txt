@@ -1,0 +1,36 @@
+
+state={
+	id=542
+	name="STATE_542"
+	resources={
+		chromium=1.000
+		steel=5.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = PRE
+		victory_points = {
+			3561 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = PRE
+		add_core_of = SAX
+	}
+
+	provinces={
+		425 3561 9524 
+	}
+	manpower=291964
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

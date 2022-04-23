@@ -1,0 +1,98 @@
+﻿converted_war_strategies_GAB = {
+	enable = {
+		tag = GAB
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 3136
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 375
+	}
+}
+
+converted_diplo_strategies_GAB = {
+	enable = {
+		tag = GAB
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 295
+	}
+	ai_strategy = {
+		type = contain
+		id = "HOL"
+		value = 68
+	}
+	ai_strategy = {
+		type = contain
+		id = "COG"
+		value = 24
+	}
+	ai_strategy = {
+		type = contain
+		id = "W33"
+		value = 23
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 235
+	}
+	ai_strategy = {
+		type = alliance
+		id = "NGA"
+		value = 42
+	}
+	ai_strategy = {
+		type = alliance
+		id = "UAE"
+		value = 25
+	}
+	ai_strategy = {
+		type = protect
+		id = "X84"
+		value = 6
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X42"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X96"
+		value = 56
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "NEP"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W33"
+		value = 37
+	}
+}

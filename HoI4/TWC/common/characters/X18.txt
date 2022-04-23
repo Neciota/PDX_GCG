@@ -1,0 +1,64 @@
+characters={
+	X18_bertrans_tezis={
+		name=X18_bertrans_tezis
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_rainaut_rossilhon={
+		name=X18_rainaut_rossilhon
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_lois_cumenge={
+		name=X18_lois_cumenge
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_garcias_mota={
+		name=X18_garcias_mota
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_guilheiumes_lomanhes={
+		name=X18_guilheiumes_lomanhes
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_Canada_King_Edward_VIII.tga"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

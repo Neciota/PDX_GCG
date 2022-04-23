@@ -1,0 +1,37 @@
+
+state={
+	id=16
+	name="STATE_16"
+	resources={
+		oil=32.000
+		steel=6.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			5005 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			5005 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = UAE
+		add_claim_by = TUR
+	}
+
+	provinces={
+		1922 5005 7953 
+	}
+	manpower=569108
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

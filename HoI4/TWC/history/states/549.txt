@@ -1,0 +1,37 @@
+
+state={
+	id=549
+	name="STATE_549"
+	resources={
+		aluminium=29.000
+		steel=36.000
+	}
+
+	history={
+		owner = PRE
+		victory_points = {
+			6282 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			9334 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = PRE
+	}
+
+	provinces={
+		444 537 3473 3572 6236 6282 6309 6334 6390 9252 9277 9306 9334 9361 9387 11260 11288 11316 11343 11372 11478 
+	}
+	manpower=1766672
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

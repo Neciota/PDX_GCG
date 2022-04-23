@@ -1,0 +1,56 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1966
+		task_force = {
+			name = "1st Fleet"
+			location = 1966
+			ship = { name = "1st Antiochia Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Tabuk Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Mukalla Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Basra Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Abadan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Bushire Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Bahrain Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Muscat Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Taizz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "1st Suez Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "2nd Antiochia Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "2nd Basra Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "2nd Abadan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "2nd Bushire Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "3rd Antiochia Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "4th Antiochia Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Aziz" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Hadi" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Haqq" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Jalil" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Latif" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Hafiz" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Hakim" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Nasir" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+			ship = { name = "Abd al-Rahim" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = UAE } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "UAE"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "UAE"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

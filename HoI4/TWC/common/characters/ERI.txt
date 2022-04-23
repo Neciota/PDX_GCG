@@ -1,0 +1,16 @@
+characters={
+	ERI_al_din_kamil={
+		name=ERI_al_din_kamil
+		portraits={
+			civilian={
+				large="gfx/leaders/Arabic_Persian/Portrait_IRQ_maktoum.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

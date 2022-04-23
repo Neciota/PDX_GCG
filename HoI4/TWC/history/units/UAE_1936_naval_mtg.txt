@@ -1,0 +1,48 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1966
+		task_force = {
+			name = "1st Fleet"
+			location = 1966
+			ship = { name = "1st Antiochia Battleship" definition = heavy_cruiser start_experience_factor = 0.02552 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Tabuk Battleship" definition = heavy_cruiser start_experience_factor = 0.02756 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Mukalla Battleship" definition = heavy_cruiser start_experience_factor = 0.03578 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Basra Battleship" definition = heavy_cruiser start_experience_factor = 0.0411 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Abadan Battleship" definition = heavy_cruiser start_experience_factor = 0.02698 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Bushire Battleship" definition = heavy_cruiser start_experience_factor = 0.03358 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Bahrain Battleship" definition = heavy_cruiser start_experience_factor = 0.03506 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Muscat Battleship" definition = heavy_cruiser start_experience_factor = 0.02722 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Taizz Battleship" definition = heavy_cruiser start_experience_factor = 0.02869 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Suez Battleship" definition = heavy_cruiser start_experience_factor = 0.03163 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Antiochia Battleship" definition = heavy_cruiser start_experience_factor = 0.04239 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Basra Battleship" definition = heavy_cruiser start_experience_factor = 0.02934 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Abadan Battleship" definition = heavy_cruiser start_experience_factor = 0.03326 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Bushire Battleship" definition = heavy_cruiser start_experience_factor = 0.03282 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Antiochia Battleship" definition = heavy_cruiser start_experience_factor = 0.12194 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Antiochia Battleship" definition = heavy_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Abd al-Aziz" definition = light_cruiser start_experience_factor = 0.03255 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Hadi" definition = light_cruiser start_experience_factor = 0.03707 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Haqq" definition = light_cruiser start_experience_factor = 0.02401 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Jalil" definition = light_cruiser start_experience_factor = 0.03759 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Latif" definition = light_cruiser start_experience_factor = 0.02405 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Hafiz" definition = light_cruiser start_experience_factor = 0.03435 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Hakim" definition = light_cruiser start_experience_factor = 0.02529 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Nasir" definition = light_cruiser start_experience_factor = 0.03727 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+			ship = { name = "Abd al-Rahim" definition = light_cruiser start_experience_factor = 0.03215 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = UAE version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "UAE"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

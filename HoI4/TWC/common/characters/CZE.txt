@@ -1,0 +1,16 @@
+characters={
+	CZE_hermenegild_vorisek={
+		name=CZE_hermenegild_vorisek
+		portraits={
+			civilian={
+				large="gfx/leaders/EST/portrait_est_konstantin_pats.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

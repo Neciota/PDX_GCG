@@ -1,0 +1,16 @@
+characters={
+	W52_fedor_budonnyy={
+		name=W52_fedor_budonnyy
+		portraits={
+			civilian={
+				large="gfx/leaders/Eastern_European/Portrait_Belarus_Anton_Boryk.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

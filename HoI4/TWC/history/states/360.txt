@@ -1,0 +1,36 @@
+
+state={
+	id=360
+	name="STATE_360"
+	resources={
+		aluminium=10.000
+		steel=6.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = X56
+		victory_points = {
+			10733 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 9
+
+		}
+		add_core_of = CHI
+		add_core_of = MEN
+		add_core_of = X56
+	}
+
+	provinces={
+		1458 1976 2006 4167 4256 4295 5007 5092 7208 7301 7314 7406 7418 7659 8049 10257 10733 10880 12156 12356 12713 
+	}
+	manpower=12156404
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

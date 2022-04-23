@@ -1,0 +1,33 @@
+
+state={
+	id=381
+	name="STATE_381"
+	resources={
+		aluminium=2.000
+		rubber=2.000
+	}
+
+	history={
+		owner = X57
+		victory_points = {
+			8096 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X57
+	}
+
+	provinces={
+		8039 8096 
+	}
+	manpower=2461132
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

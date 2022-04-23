@@ -1,0 +1,32 @@
+
+state={
+	id=587
+	name="STATE_587"
+
+	history={
+		owner = SOV
+		victory_points = {
+			3707 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			3701 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = ROM
+	}
+
+	provinces={
+		414 565 3407 3577 3701 3704 3707 3724 6600 6727 6743 9683 11686 11705 
+	}
+	manpower=2311344
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		aluminium=7.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = X57
+		victory_points = {
+			7950 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = X49
+		add_core_of = X57
+		add_claim_by = GHA
+	}
+
+	provinces={
+		2001 7950 7983 8071 8116 10836 12851 
+	}
+	manpower=5326248
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

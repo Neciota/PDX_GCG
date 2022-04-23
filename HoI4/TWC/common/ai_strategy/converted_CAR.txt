@@ -1,0 +1,143 @@
+﻿converted_war_strategies_CAR = {
+	enable = {
+		tag = CAR
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 1482
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 960
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W01"
+		value = 312
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SLV"
+		value = 234
+	}
+	ai_strategy = {
+		type = conquer
+		id = "AUS"
+		value = 156
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X40"
+		value = 156
+	}
+	ai_strategy = {
+		type = conquer
+		id = "COG"
+		value = 89
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X18"
+		value = 78
+	}
+}
+
+converted_diplo_strategies_CAR = {
+	enable = {
+		tag = CAR
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 318
+	}
+	ai_strategy = {
+		type = contain
+		id = "COG"
+		value = 101
+	}
+	ai_strategy = {
+		type = contain
+		id = "W33"
+		value = 12
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 250
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W01"
+		value = 146
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "UAE"
+		value = 119
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "COG"
+		value = 119
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SLV"
+		value = 73
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "AUS"
+		value = 49
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X18"
+		value = 24
+	}
+	ai_strategy = {
+		type = alliance
+		id = "UAE"
+		value = 136
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X58"
+		value = 88
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRM"
+		value = 69
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PAK"
+		value = 41
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X37"
+		value = 35
+	}
+}

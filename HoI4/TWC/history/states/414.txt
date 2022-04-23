@@ -1,0 +1,38 @@
+
+state={
+	id=414
+	name="STATE_414"
+	resources={
+		steel=11.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			12873 7 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			12746 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = MEX
+		add_claim_by = W09
+	}
+
+	provinces={
+		2051 12746 12873 
+	}
+	manpower=6325316
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

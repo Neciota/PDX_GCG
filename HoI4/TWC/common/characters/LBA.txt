@@ -1,0 +1,52 @@
+characters={
+	LBA_alois_spee={
+		name=LBA_alois_spee
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LBA_jakob_von={
+		name=LBA_jakob_von
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LBA_ruprecht_von={
+		name=LBA_ruprecht_von
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LBA_alfred_halkett={
+		name=LBA_alfred_halkett
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/Portrait_France_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

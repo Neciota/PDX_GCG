@@ -1,0 +1,52 @@
+characters={
+	SWI_ernst_von={
+		name=SWI_ernst_von
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	SWI_adolf_salis_soglio={
+		name=SWI_adolf_salis_soglio
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWI_eduard_knusel={
+		name=SWI_eduard_knusel
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWI_konstantin_tavel={
+		name=SWI_konstantin_tavel
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Heinrich_Himmler.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

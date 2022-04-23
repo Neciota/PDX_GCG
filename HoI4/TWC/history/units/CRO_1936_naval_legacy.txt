@@ -1,0 +1,33 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 11901
+		task_force = {
+			name = "1st Fleet"
+			location = 11901
+			ship = { name = "1st Senj Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = CRO } } }
+			ship = { name = "Ivan Lupis" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = CRO } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "CRO"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "CRO"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

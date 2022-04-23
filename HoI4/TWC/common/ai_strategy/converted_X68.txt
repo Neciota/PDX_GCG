@@ -1,0 +1,153 @@
+﻿converted_war_strategies_X68 = {
+	enable = {
+		tag = X68
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "X56"
+		value = 314
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KOR"
+		value = 309
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 271
+	}
+	ai_strategy = {
+		type = conquer
+		id = "UAE"
+		value = 146
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X09"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAL"
+		value = 24
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 24
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CHI"
+		value = 16
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X35"
+		value = 8
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MON"
+		value = 8
+	}
+}
+
+converted_diplo_strategies_X68 = {
+	enable = {
+		tag = X68
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "X56"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "KOR"
+		value = 233
+	}
+	ai_strategy = {
+		type = contain
+		id = "MON"
+		value = 220
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KOR"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X56"
+		value = 196
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 77
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "UAE"
+		value = 42
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 20
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CHI"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 3
+	}
+	ai_strategy = {
+		type = alliance
+		id = "JAP"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 182
+	}
+	ai_strategy = {
+		type = alliance
+		id = "CHI"
+		value = 54
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X62"
+		value = 80
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "KOR"
+		value = 70
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X42"
+		value = 65
+	}
+}

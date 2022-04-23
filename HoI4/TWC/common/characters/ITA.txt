@@ -1,0 +1,64 @@
+characters={
+	ITA_andrea_emo={
+		name=ITA_andrea_emo
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	ITA_innocenzo_cadorna={
+		name=ITA_innocenzo_cadorna
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ITA_felice_ricotti_magnani={
+		name=ITA_felice_ricotti_magnani
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ITA_costanzo_thaon={
+		name=ITA_costanzo_thaon
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	ITA_guglielmo_thaon_di_revel={
+		name=ITA_guglielmo_thaon_di_revel
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_Italy_Benito_Mussolini.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

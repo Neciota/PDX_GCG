@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 9713
+		task_force = {
+			name = "3rd Fleet"
+			location = 9713
+			ship = { name = "1st Saint Francis' Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "1st Oregon City Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "1st Saint Francis' Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "Olompali" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "Sonoma" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "1st Saint Francis' Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "2nd Saint Francis' Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "3rd Saint Francis' Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "California" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "William Ide" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+			ship = { name = "Los Angeles" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CAL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "CAL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "CAL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

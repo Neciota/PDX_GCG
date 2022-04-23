@@ -1,0 +1,7 @@
+name = "Converted - TWC"
+path = "mod/TWC/"
+user_dir = "TWC_user_dir"
+replace_path="common/ideologies"
+replace_path="history/countries"
+replace_path="history/states"
+supported_version="1.11.*"

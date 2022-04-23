@@ -1,0 +1,36 @@
+
+state={
+	id=519
+	name="STATE_519"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = NIC
+		victory_points = {
+			7991 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			7991 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = COL
+		add_claim_by = NIC
+	}
+
+	provinces={
+		7991 
+	}
+	manpower=955348
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

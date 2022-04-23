@@ -1,0 +1,30 @@
+
+state={
+	id=311
+	name="STATE_311"
+
+	history={
+		owner = HUN
+		victory_points = {
+			619 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = HUN
+		add_claim_by = X15
+	}
+
+	provinces={
+		614 619 3614 3617 3623 6643 9621 11580 11787 
+	}
+	manpower=624400
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

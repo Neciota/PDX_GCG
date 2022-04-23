@@ -1,0 +1,36 @@
+
+state={
+	id=768
+	name="STATE_768"
+	resources={
+		aluminium=6.000
+		chromium=19.000
+		steel=5.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = SIK
+		victory_points = {
+			12511 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
+
+		}
+		add_core_of = CHI
+		add_core_of = SIK
+	}
+
+	provinces={
+		1483 1675 1825 1919 2058 4316 4391 4467 4768 4923 5062 8027 10187 10417 10488 10530 11687 12370 12430 12511 12581 12805 
+	}
+	manpower=2068556
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

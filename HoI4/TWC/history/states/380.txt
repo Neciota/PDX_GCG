@@ -1,0 +1,34 @@
+
+state={
+	id=380
+	name="STATE_380"
+	resources={
+		aluminium=1.000
+		rubber=0.000
+		steel=0.000
+	}
+
+	history={
+		owner = X57
+		victory_points = {
+			5070 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X57
+	}
+
+	provinces={
+		5070 
+	}
+	manpower=504520
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

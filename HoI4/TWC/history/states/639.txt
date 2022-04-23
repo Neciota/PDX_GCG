@@ -1,0 +1,38 @@
+
+state={
+	id=639
+	name="STATE_639"
+	resources={
+		aluminium=0.000
+		rubber=0.000
+	}
+
+	history={
+		owner = W52
+		victory_points = {
+			8207 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			8207 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = GAB
+		add_core_of = RCG
+		add_core_of = W52
+	}
+
+	provinces={
+		8207 10948 13210 
+	}
+	manpower=1287292
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

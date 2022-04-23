@@ -1,0 +1,195 @@
+bookmarks = {
+	bookmark = {
+		name = GRAND_CAMPAIGN_NAME
+		desc = GRAND_CAMPAIGN_DESC
+		date = 1936.1.1.12
+		picture = GFX_select_date_1936
+		default_country = "---"
+		default = yes
+		SOV= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power }
+		}
+		X56= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power }
+		}
+		HOL= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power }
+		}
+		USA= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power USA_monarch }
+		}
+		MEX= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power MEX_monarch MEX_politicised_army }
+		}
+		UAE= {
+			history = "democratic_GP_CONV_DESC"
+			ideology = democratic
+			ideas = { great_power UAE_monarch }
+		}
+		JAP= {
+			history = "absolutist_GP_CONV_DESC"
+			ideology = absolutist
+			ideas = { great_power }
+		}
+		CAL= {
+			history = "fascism_GP_CONV_DESC"
+			ideology = fascism
+			ideas = { great_power }
+		}
+		"---"= {
+			history = "OTHER_GRAND_CAMPAIGN_DESC"
+		}
+		AFG = {
+			minor = yes
+			history = "communism_SP_CONV_DESC"
+			ideology = communism
+			ideas = { }
+		}
+		AST = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { AST_monarch }
+		}
+		AUS = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { AUS_monarch }
+		}
+		BRA = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		COL = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		EGY = {
+			minor = yes
+			history = "communism_SP_CONV_DESC"
+			ideology = communism
+			ideas = { }
+		}
+		ENG = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { ENG_monarch }
+		}
+		FRA = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		GHA = {
+			minor = yes
+			history = "fascism_SP_CONV_DESC"
+			ideology = fascism
+			ideas = { }
+		}
+		HAN = {
+			minor = yes
+			history = "absolutist_SP_CONV_DESC"
+			ideology = absolutist
+			ideas = { }
+		}
+		HON = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		HUN = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { HUN_monarch }
+		}
+		ITA = {
+			minor = yes
+			history = "fascism_SP_CONV_DESC"
+			ideology = fascism
+			ideas = { vittoria_mutilata }
+		}
+		KOR = {
+			minor = yes
+			history = "absolutist_SP_CONV_DESC"
+			ideology = absolutist
+			ideas = { }
+		}
+		POL = {
+			minor = yes
+			history = "neutrality_SP_CONV_DESC"
+			ideology = neutrality
+			ideas = { }
+		}
+		PRE = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		SIK = {
+			minor = yes
+			history = "fascism_SP_CONV_DESC"
+			ideology = fascism
+			ideas = { }
+		}
+		SWE = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		W09 = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		W20 = {
+			minor = yes
+			history = "fascism_SP_CONV_DESC"
+			ideology = fascism
+			ideas = { W20_monarch }
+		}
+		W21 = {
+			minor = yes
+			history = "fascism_SP_CONV_DESC"
+			ideology = fascism
+			ideas = { }
+		}
+		W24 = {
+			minor = yes
+			history = "absolutist_SP_CONV_DESC"
+			ideology = absolutist
+			ideas = { }
+		}
+		X34 = {
+			minor = yes
+			history = "democratic_SP_CONV_DESC"
+			ideology = democratic
+			ideas = { }
+		}
+		effect = {
+			randomize_weather = 22345 # <-Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

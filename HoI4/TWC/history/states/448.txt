@@ -1,0 +1,37 @@
+
+state={
+	id=448
+	name="STATE_448"
+	resources={
+		oil=1.000
+		steel=5.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			391 50 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			68 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = HOL
+	}
+
+	provinces={
+		68 391 3211 3314 6241 9363 9498 11456 
+	}
+	manpower=11999952
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

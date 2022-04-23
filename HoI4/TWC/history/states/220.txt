@@ -1,0 +1,36 @@
+
+state={
+	id=220
+	name="STATE_220"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = EGY
+		victory_points = {
+			7011 25 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			11964 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		992 1068 3996 4055 4076 4145 7011 7091 7117 7164 10005 10073 11964 
+	}
+	manpower=8260916
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	X46_chingis_genden={
+		name=X46_chingis_genden
+		portraits={
+			civilian={
+				large="gfx/leaders/Asian_Steppe/portrait_MON_Gengis_Khan.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

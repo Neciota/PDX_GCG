@@ -1,0 +1,38 @@
+
+state={
+	id=687
+	name="STATE_687"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = W02
+		victory_points = {
+			11366 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			11366 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = GER
+		add_core_of = HAN
+		add_core_of = W02
+		add_claim_by = DEN
+	}
+
+	provinces={
+		317 332 11251 11366 
+	}
+	manpower=618752
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

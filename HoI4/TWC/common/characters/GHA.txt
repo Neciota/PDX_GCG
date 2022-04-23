@@ -1,0 +1,52 @@
+characters={
+	GHA_eduard_kohler={
+		name=GHA_eduard_kohler
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GHA_gerhard_von={
+		name=GHA_gerhard_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GHA_eduard_von={
+		name=GHA_eduard_von
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	GHA_alfred_hortstein={
+		name=GHA_alfred_hortstein
+		portraits={
+			civilian={
+				large="gfx/leaders/FIN/Portrait_Finland_Kyosti_Kallio.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

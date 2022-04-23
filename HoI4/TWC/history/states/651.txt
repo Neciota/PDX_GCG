@@ -1,0 +1,37 @@
+
+state={
+	id=651
+	name="STATE_651"
+	resources={
+		rubber=143.000
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = SIA
+		victory_points = {
+			7236 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			7236 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = SIA
+	}
+
+	provinces={
+		1281 1308 1337 1394 4312 4319 4348 4371 4388 4392 7236 7587 10193 12122 12201 12220 
+	}
+	manpower=512832
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

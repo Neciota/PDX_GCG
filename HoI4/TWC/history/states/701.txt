@@ -1,0 +1,36 @@
+
+state={
+	id=701
+	name="STATE_701"
+	resources={
+		chromium=10.000
+		oil=3.000
+		steel=4.000
+		tungsten=9.000
+	}
+
+	history={
+		owner = W05
+		victory_points = {
+			4893 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = TAJ
+		add_core_of = W05
+	}
+
+	provinces={
+		4893 7448 7519 7584 8053 10476 10781 10852 12248 12314 12653 12871 12877 
+	}
+	manpower=1330024
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

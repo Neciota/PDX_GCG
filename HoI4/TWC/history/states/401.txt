@@ -1,0 +1,32 @@
+
+state={
+	id=401
+	name="STATE_401"
+
+	history={
+		owner = X66
+		victory_points = {
+			10735 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4003 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = X66
+	}
+
+	provinces={
+		1147 1971 1980 4003 4110 4382 7049 7084 10735 
+	}
+	manpower=1684692
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=643
+	name="STATE_643"
+	resources={
+		aluminium=2.000
+		rubber=1.000
+		steel=0.000
+	}
+
+	history={
+		owner = W52
+		victory_points = {
+			2080 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GAB
+		add_core_of = W52
+		add_claim_by = CAR
+	}
+
+	provinces={
+		2080 5054 8078 11012 
+	}
+	manpower=4037856
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

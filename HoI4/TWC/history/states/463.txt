@@ -1,0 +1,33 @@
+
+state={
+	id=463
+	name="STATE_463"
+
+	history={
+		owner = W44
+		victory_points = {
+			7557 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			10342 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = W44
+		add_core_of = X63
+	}
+
+	provinces={
+		1437 7369 7557 10342 
+	}
+	manpower=551524
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

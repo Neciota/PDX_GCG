@@ -1,0 +1,37 @@
+
+state={
+	id=683
+	name="STATE_683"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = SWE
+		victory_points = {
+			9279 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			211 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = SCA
+		add_core_of = SWE
+		add_claim_by = DEN
+	}
+
+	provinces={
+		211 242 299 329 363 3229 3307 6120 6148 6345 6412 9251 9279 9300 9329 9362 9406 9410 11160 11215 11231 11280 11311 11327 11376 11390 
+	}
+	manpower=1007532
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

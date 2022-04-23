@@ -1,0 +1,35 @@
+
+state={
+	id=100
+	name="STATE_100"
+
+	history={
+		owner = X09
+		victory_points = {
+			13084 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			13084 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = X09
+		add_claim_by = BAS
+		add_claim_by = PUE
+	}
+
+	provinces={
+		4450 9377 13084 
+	}
+	manpower=2463784
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

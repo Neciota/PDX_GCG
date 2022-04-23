@@ -1,0 +1,52 @@
+characters={
+	BAN_reza_ali={
+		name=BAN_reza_ali
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAN_najimuddin_qasim={
+		name=BAN_najimuddin_qasim
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAN_reza_bahadur={
+		name=BAN_reza_bahadur
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAN_quli_sarfaraz={
+		name=BAN_quli_sarfaraz
+		portraits={
+			civilian={
+				large="gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

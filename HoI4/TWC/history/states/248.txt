@@ -1,0 +1,30 @@
+
+state={
+	id=248
+	name="STATE_248"
+
+	history={
+		owner = W39
+		victory_points = {
+			12633 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W39
+		add_claim_by = X35
+	}
+
+	provinces={
+		7688 7888 12633 12651 
+	}
+	manpower=933316
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

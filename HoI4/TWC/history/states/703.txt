@@ -1,0 +1,29 @@
+
+state={
+	id=703
+	name="STATE_703"
+
+	history={
+		owner = LBA
+		victory_points = {
+			4117 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		4117 7154 10037 11940 
+	}
+	manpower=19602
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

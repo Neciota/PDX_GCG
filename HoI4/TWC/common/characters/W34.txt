@@ -1,0 +1,52 @@
+characters={
+	W34_peljidiin_chagdarjav={
+		name=W34_peljidiin_chagdarjav
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W34_baterdene_tomorbaatar={
+		name=W34_baterdene_tomorbaatar
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W34_kubilai_damdinbazar={
+		name=W34_kubilai_damdinbazar
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W34_sodnomyn_chagdarjav={
+		name=W34_sodnomyn_chagdarjav
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/Portrait_Asia_Generic_new_3.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

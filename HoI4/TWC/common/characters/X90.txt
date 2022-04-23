@@ -1,0 +1,16 @@
+characters={
+	X90_jalil_aadzam={
+		name=X90_jalil_aadzam
+		portraits={
+			civilian={
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Indonesia_Mohammad_Hatta.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

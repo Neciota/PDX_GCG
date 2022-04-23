@@ -1,0 +1,32 @@
+
+state={
+	id=700
+	name="STATE_700"
+	resources={
+		chromium=14.000
+	}
+
+	history={
+		owner = W05
+		victory_points = {
+			7775 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = W05
+	}
+
+	provinces={
+		1216 1573 1623 4629 7639 7682 7775 10671 12161 12239 12722 
+	}
+	manpower=1996408
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

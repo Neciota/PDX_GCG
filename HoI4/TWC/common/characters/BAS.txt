@@ -1,0 +1,64 @@
+characters={
+	BAS_danie_jansen={
+		name=BAS_danie_jansen
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAS_dirkie_gavankar={
+		name=BAS_dirkie_gavankar
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAS_siener_foch={
+		name=BAS_siener_foch
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAS_andries_bloodgood={
+		name=BAS_andries_bloodgood
+		navy_leader={
+			skill=3
+			attack_skill=2
+			defense_skill=4
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAS_danie_markle={
+		name=BAS_danie_markle
+		portraits={
+			civilian={
+				large="gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

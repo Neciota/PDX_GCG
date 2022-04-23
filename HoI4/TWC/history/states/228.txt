@@ -1,0 +1,21 @@
+
+state={
+	id=228
+	name="STATE_228"
+	impassable = yes
+
+	history={
+		owner = EGY
+		add_core_of = X52
+		add_claim_by = X43
+	}
+
+	provinces={
+		8028 10758 10780 10805 
+	}
+	manpower=1828376
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

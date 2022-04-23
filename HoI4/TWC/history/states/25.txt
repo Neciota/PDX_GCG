@@ -1,0 +1,35 @@
+
+state={
+	id=25
+	name="STATE_25"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			10840 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			10752 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = UAE
+	}
+
+	provinces={
+		1920 1973 4924 10752 10840 
+	}
+	manpower=1629320
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

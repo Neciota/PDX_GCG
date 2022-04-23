@@ -1,0 +1,36 @@
+
+state={
+	id=173
+	name="STATE_173"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = CAL
+		victory_points = {
+			8119 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			8119 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = MEX
+		add_claim_by = CAL
+	}
+
+	provinces={
+		1892 1904 2069 7964 8119 10848 12461 12736 12833 12859 13215 13216 
+	}
+	manpower=3235976
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

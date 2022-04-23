@@ -1,0 +1,103 @@
+﻿converted_war_strategies_NZL = {
+	enable = {
+		tag = NZL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 140
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X09"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 42
+	}
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 42
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAL"
+		value = 18
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X35"
+		value = 3
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 3
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 3
+	}
+}
+
+converted_diplo_strategies_NZL = {
+	enable = {
+		tag = NZL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = "X09"
+		value = 70
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 47
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 14
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 14
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 1
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 1
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "TEX"
+		value = 90
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X95"
+		value = 23
+	}
+}

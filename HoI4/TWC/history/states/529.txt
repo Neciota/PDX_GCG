@@ -1,0 +1,34 @@
+
+state={
+	id=529
+	name="STATE_529"
+	resources={
+		aluminium=9.000
+		steel=45.000
+	}
+
+	history={
+		owner = X85
+		victory_points = {
+			587 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = X85
+	}
+
+	provinces={
+		587 3547 9575 11435 11470 
+	}
+	manpower=3414452
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

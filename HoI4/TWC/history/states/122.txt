@@ -1,0 +1,32 @@
+
+state={
+	id=122
+	name="STATE_122"
+	resources={
+		aluminium=18.000
+	}
+
+	history={
+		owner = BAY
+		victory_points = {
+			571 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = BAY
+	}
+
+	provinces={
+		532 571 692 707 3299 3541 3571 3688 3705 6725 9515 9652 9681 11497 11620 11653 
+	}
+	manpower=2063404
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

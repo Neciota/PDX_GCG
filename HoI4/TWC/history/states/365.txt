@@ -1,0 +1,30 @@
+
+state={
+	id=365
+	name="STATE_365"
+
+	history={
+		owner = X56
+		victory_points = {
+			1588 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = CHI
+		add_core_of = X56
+	}
+
+	provinces={
+		930 1499 1502 1545 1558 1588 1627 1638 1645 1693 1732 1847 3877 4503 4506 4561 4592 4633 4642 4649 4809 4876 7526 7582 7613 7767 7812 7832 7848 7873 7894 7897 9831 10368 10379 10541 10567 10638 10675 10698 11836 11903 12337 12469 12478 12485 12548 12618 
+	}
+	manpower=2826064
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

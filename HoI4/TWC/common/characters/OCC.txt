@@ -1,0 +1,40 @@
+characters={
+	OCC_ugos_cumenge={
+		name=OCC_ugos_cumenge
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	OCC_girauds_catz={
+		name=OCC_girauds_catz
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	OCC_gaston_caldairo={
+		name=OCC_gaston_caldairo
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_USA_Wendell_Willkie.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

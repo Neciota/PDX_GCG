@@ -1,0 +1,64 @@
+characters={
+	X15_otto_von={
+		name=X15_otto_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_franz_hoobreuk={
+		name=X15_franz_hoobreuk
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_eduard_eisner={
+		name=X15_eduard_eisner
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_alois_von={
+		name=X15_alois_von
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_ernst_remmele={
+		name=X15_ernst_remmele
+		portraits={
+			civilian={
+				large="gfx/leaders/AUS/Portrait_Austria_Kurt_Schuschnigg.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

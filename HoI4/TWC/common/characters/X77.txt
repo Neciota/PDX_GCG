@@ -1,0 +1,16 @@
+characters={
+	X77_fingall_niven={
+		name=X77_fingall_niven
+		portraits={
+			civilian={
+				large="gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

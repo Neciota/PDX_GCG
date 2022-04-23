@@ -1,0 +1,30 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 4132
+		task_force = {
+			name = "1st Fleet"
+			location = 4132
+			ship = { name = "1st Rajkot Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "1st Vizagapatnam Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Rajkot Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Vizagapatnam Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Vizagapatnam Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "4th Vizagapatnam Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Rajkot Steam Frigate" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = X66 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X66"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

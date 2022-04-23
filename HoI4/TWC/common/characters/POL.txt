@@ -1,0 +1,76 @@
+characters={
+	POL_ludwik_pilsudski={
+		name=POL_ludwik_pilsudski
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	POL_tadeusz_kruszewski={
+		name=POL_tadeusz_kruszewski
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	POL_jozef_soltyk={
+		name=POL_jozef_soltyk
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	POL_waclaw_fabryvy={
+		name=POL_waclaw_fabryvy
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	POL_maciej_chlopicki={
+		name=POL_maciej_chlopicki
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	POL_dezydery_brzoska={
+		name=POL_dezydery_brzoska
+		portraits={
+			civilian={
+				large="gfx/leaders/LAT/portrait_lat_karlis_ulmanis.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

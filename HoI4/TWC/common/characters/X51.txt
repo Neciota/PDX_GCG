@@ -1,0 +1,52 @@
+characters={
+	X51_kifayat_alokzai={
+		name=X51_kifayat_alokzai
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X51_kifayat_khan={
+		name=X51_kifayat_khan
+		corps_commander={
+			skill=2
+			attack_skill=5
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X51_juma_khan={
+		name=X51_juma_khan
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X51_atta_khan={
+		name=X51_atta_khan
+		portraits={
+			civilian={
+				large="gfx/leaders/Indian/Portrait_Madras_C_Rajagopalachari.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

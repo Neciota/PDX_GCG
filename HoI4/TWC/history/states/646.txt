@@ -1,0 +1,33 @@
+
+state={
+	id=646
+	name="STATE_646"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = W52
+		victory_points = {
+			12830 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CAR
+		add_core_of = W52
+	}
+
+	provinces={
+		1974 3165 5084 11108 12719 12830 
+	}
+	manpower=2388948
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

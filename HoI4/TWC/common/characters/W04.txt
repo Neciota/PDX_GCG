@@ -1,0 +1,64 @@
+characters={
+	W04_vakhtang_sabinin={
+		name=W04_vakhtang_sabinin
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W04_eduard_eliava={
+		name=W04_eduard_eliava
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	W04_vladimer_amilakhvari={
+		name=W04_vladimer_amilakhvari
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W04_sergo_maglakelidze={
+		name=W04_sergo_maglakelidze
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	W04_radish_kereselidze={
+		name=W04_radish_kereselidze
+		portraits={
+			civilian={
+				large="gfx/leaders/SPR/Portrait_Spain_Manuel_Azana.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

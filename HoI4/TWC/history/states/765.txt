@@ -1,0 +1,40 @@
+
+state={
+	id=765
+	name="STATE_765"
+	resources={
+		aluminium=2.000
+		chromium=1.000
+		rubber=13.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = W24
+		victory_points = {
+			4416 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			4416 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = W32
+		add_claim_by = W23
+		add_claim_by = W24
+	}
+
+	provinces={
+		1409 4315 4327 4416 7265 7288 7363 8067 10130 10246 10274 10808 12247 
+	}
+	manpower=3160568
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

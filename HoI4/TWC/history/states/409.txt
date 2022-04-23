@@ -1,0 +1,36 @@
+
+state={
+	id=409
+	name="STATE_409"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			10765 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 2
+			4908 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = MEX
+	}
+
+	provinces={
+		4908 4977 5071 8012 8033 10765 13214 
+	}
+	manpower=3310012
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

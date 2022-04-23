@@ -1,0 +1,33 @@
+
+state={
+	id=12
+	name="STATE_12"
+	resources={
+		aluminium=6.000
+		steel=2.000
+	}
+
+	history={
+		owner = UAE
+		victory_points = {
+			1896 6 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = AZR
+	}
+
+	provinces={
+		1636 1822 1896 4755 7604 12793 12861 
+	}
+	manpower=5881776
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

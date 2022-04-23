@@ -1,0 +1,35 @@
+
+state={
+	id=427
+	name="STATE_427"
+	resources={
+		steel=0.000
+	}
+
+	history={
+		owner = MOR
+		victory_points = {
+			4097 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			989 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = MOR
+	}
+
+	provinces={
+		989 1111 4097 4154 7116 7173 7958 
+	}
+	manpower=489468
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

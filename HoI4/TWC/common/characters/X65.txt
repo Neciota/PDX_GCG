@@ -1,0 +1,64 @@
+characters={
+	X65_leon_diwa={
+		name=X65_leon_diwa
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X65_emilio_aguainaldo={
+		name=X65_emilio_aguainaldo
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X65_arcadio_aguainaldo={
+		name=X65_arcadio_aguainaldo
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X65_arcadio_plata={
+		name=X65_arcadio_plata
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X65_arcadio_mabini={
+		name=X65_arcadio_mabini
+		portraits={
+			civilian={
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_DEI_Palar.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=148
+	name="STATE_148"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = X21
+		victory_points = {
+			11586 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = W19
+		add_core_of = X10
+		add_core_of = X21
+		add_claim_by = SER
+	}
+
+	provinces={
+		630 797 3609 3956 3984 6634 6998 9599 9602 9756 11583 11586 
+	}
+	manpower=826428
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=59
+	name="STATE_59"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = W56
+		victory_points = {
+			5128 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			5128 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = MAD
+		add_core_of = W56
+	}
+
+	provinces={
+		5128 5222 8188 
+	}
+	manpower=3506848
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

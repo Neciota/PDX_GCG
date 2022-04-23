@@ -1,0 +1,38 @@
+
+state={
+	id=58
+	name="STATE_58"
+	resources={
+		aluminium=6.000
+		rubber=1.000
+	}
+
+	history={
+		owner = W57
+		victory_points = {
+			2123 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			2123 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = TZN
+		add_core_of = W57
+	}
+
+	provinces={
+		2123 2159 2202 2217 5164 10972 
+	}
+	manpower=2848352
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

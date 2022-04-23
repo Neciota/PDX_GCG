@@ -1,0 +1,40 @@
+characters={
+	X47_zinovios_voulgaris={
+		name=X47_zinovios_voulgaris
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X47_kyriakos_sofoulis={
+		name=X47_kyriakos_sofoulis
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X47_emmanouil_sarafis={
+		name=X47_emmanouil_sarafis
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_Papal_State_Angelo_Cerica.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

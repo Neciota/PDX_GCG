@@ -1,0 +1,33 @@
+
+state={
+	id=622
+	name="STATE_622"
+
+	history={
+		owner = SOV
+		victory_points = {
+			12518 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 1
+			10598 = {
+				naval_base = 8
+			}
+			air_base = 2
+
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+		1714 1805 1865 4455 4810 4881 7772 10540 10572 10598 11607 12518 12551 12592 12650 12683 
+	}
+	manpower=2247044
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=192
+	name="STATE_192"
+	resources={
+		oil=2.000
+		rubber=12.000
+	}
+
+	history={
+		owner = COL
+		victory_points = {
+			8047 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			8252 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = COL
+		add_core_of = X94
+	}
+
+	provinces={
+		5051 5120 8047 8075 8252 10888 11020 12798 
+	}
+	manpower=5177912
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

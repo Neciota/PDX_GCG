@@ -1,0 +1,64 @@
+characters={
+	DEN_axel_meza={
+		name=DEN_axel_meza
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DEN_michael_reventlow={
+		name=DEN_michael_reventlow
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DEN_edvard_de={
+		name=DEN_edvard_de
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DEN_folke_meza={
+		name=DEN_folke_meza
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	DEN_tage_guntelberg={
+		name=DEN_tage_guntelberg
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

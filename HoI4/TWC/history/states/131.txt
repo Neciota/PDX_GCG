@@ -1,0 +1,33 @@
+
+state={
+	id=131
+	name="STATE_131"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = X18
+		victory_points = {
+			9642 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = FRA
+		add_claim_by = X18
+	}
+
+	provinces={
+		698 3666 6698 9642 
+	}
+	manpower=1196064
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

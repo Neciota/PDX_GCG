@@ -1,0 +1,64 @@
+characters={
+	BOS_abdulvehhab_silajdzic={
+		name=BOS_abdulvehhab_silajdzic
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BOS_hamdija_lagumdzija={
+		name=BOS_hamdija_lagumdzija
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BOS_safet_rizvanbegovic={
+		name=BOS_safet_rizvanbegovic
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	BOS_dzemaludin_sabanadzovic={
+		name=BOS_dzemaludin_sabanadzovic
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	BOS_naser_belkic={
+		name=BOS_naser_belkic
+		portraits={
+			civilian={
+				large="gfx/leaders/BUL/Portrait_Bulgaria_Georgi_Dimitrov.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 12304
+		task_force = {
+			name = "1st Fleet"
+			location = 12304
+			ship = { name = "Bellerophon" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Superb" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Temeraire" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "3rd Jamaica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "1st Jamaica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "2nd Jamaica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "4th Jamaica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Imperieuse" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Warspite" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Shannon" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BAS } } }
+			ship = { name = "Nelson" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BAS } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "BAS"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "BAS"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

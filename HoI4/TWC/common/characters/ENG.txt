@@ -1,0 +1,64 @@
+characters={
+	ENG_christopher_o'leary={
+		name=ENG_christopher_o'leary
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ENG_patrick_kelly={
+		name=ENG_patrick_kelly
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ENG_harry_o'brien={
+		name=ENG_harry_o'brien
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	ENG_frank_pearse={
+		name=ENG_frank_pearse
+		navy_leader={
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	ENG_liam_cosgrave={
+		name=ENG_liam_cosgrave
+		portraits={
+			civilian={
+				large="gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

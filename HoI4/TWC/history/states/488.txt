@@ -1,0 +1,39 @@
+
+state={
+	id=488
+	name="STATE_488"
+	resources={
+		aluminium=0.000
+		rubber=1.000
+		steel=0.000
+	}
+
+	history={
+		owner = W45
+		victory_points = {
+			2050 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			2050 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = W45
+		add_core_of = X84
+		add_claim_by = BEN
+	}
+
+	provinces={
+		2050 12731 12817 
+	}
+	manpower=11821052
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

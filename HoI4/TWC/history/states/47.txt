@@ -1,0 +1,34 @@
+
+state={
+	id=47
+	name="STATE_47"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = W53
+		victory_points = {
+			7912 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = W53
+		add_core_of = X48
+		add_core_of = X50
+	}
+
+	provinces={
+		2009 5010 7912 7980 8036 10734 12714 12856 
+	}
+	manpower=17502920
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

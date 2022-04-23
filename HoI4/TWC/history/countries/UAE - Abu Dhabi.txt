@@ -1,0 +1,667 @@
+﻿capital = 19
+set_major = yes
+set_research_slots = 4
+add_named_threat = { threat = 1.4243 name = infamy }
+
+oob = "UAE_OOB"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "UAE_1936_naval_mtg"
+	else = { 
+		set_naval_oob = "UAE_1936_naval_legacy"
+	}
+}
+
+# Starting tech
+set_technology = {
+	basic_train = 1
+	early_bomber = 1
+	early_fighter = 1
+	electronic_mechanical_engineering = 1
+	fuel_refining = 1
+	fuel_silos = 1
+	gw_artillery = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	interwar_antiair = 1
+	interwar_artillery = 1
+	motorised_infantry = 1
+	support_weapons = 1
+	synth_oil_experiments = 1
+	tactical_bomber1 = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_support = 1
+}
+
+if = {
+	limit = { NOT = { has_dlc = "No Step Back" } }
+	set_technology = {
+		basic_light_tank = 1
+		gwtank = 1
+		improved_light_tank = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "La Resistance" }
+	set_technology = {
+		armored_car1 = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_battery = 1
+		basic_naval_mines = 1
+		basic_torpedo = 1
+		early_ship_hull_cruiser = 1
+		early_ship_hull_light = 1
+	}
+}
+
+if = {
+	limit = { has_dlc = "No Step Back" }
+	set_technology = {
+		basic_heavy_tank_chassis = 1
+		basic_light_tank_chassis = 1
+		basic_medium_tank_chassis = 1
+		gwtank_chassis = 1
+		improved_light_tank_chassis = 1
+	}
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_battleship = 1
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+		transport = 1
+	}
+}
+
+# Research Bonuses
+add_doctrine_cost_reduction = {
+	name = air_doc_bonus
+	cost_reduction = 0.99
+	uses = 1
+	category = air_doctrine
+}
+add_doctrine_cost_reduction = {
+	name = land_doc_bonus
+	cost_reduction = 0.99
+	uses = 1
+	category = land_doctrine
+}
+
+set_country_flag = conv_arabia
+starting_train_buffer = 1.5
+set_convoys = 25
+
+add_equipment_to_stockpile = { type = artillery_equipment_1 amount = 1234 producer = UAE }
+add_equipment_to_stockpile = { type = fighter_equipment_0 amount = 240 producer = UAE }
+add_equipment_to_stockpile = { type = gw_tank_equipment amount = 66 producer = UAE }
+add_equipment_to_stockpile = { type = infantry_equipment_0 amount = 283 producer = UAE }
+add_equipment_to_stockpile = { type = tac_bomber_equipment_0 amount = 240 producer = UAE }
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1931.9.21"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 2
+	communism = 3
+	democratic = 86
+	fascism = 3
+	neutrality = 4
+	radical = 2
+}
+
+# DIPLOMACY
+if = {
+    limit = {
+        has_dlc = "Together for Victory"
+    }
+    set_autonomy = {
+        target = BAN
+        autonomous_state = autonomy_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = TUR
+        autonomous_state = autonomy_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W04
+        autonomous_state = autonomy_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W05
+        autonomous_state = autonomy_colony
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W15
+        autonomous_state = autonomy_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W53
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W54
+        autonomous_state = autonomy_dominion
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W55
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W56
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W57
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W58
+        autonomous_state = autonomy_colony
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W59
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    set_autonomy = {
+        target = W60
+        autonomous_state = autonomy_integrated_puppet
+        freedom_level = 0.4
+    }
+    else = {
+        puppet = BAN
+        puppet = TUR
+        puppet = W04
+        puppet = W05
+        puppet = W15
+        puppet = W53
+        puppet = W54
+        puppet = W55
+        puppet = W56
+        puppet = W57
+        puppet = W58
+        puppet = W59
+        puppet = W60
+    }
+}
+
+if = {
+    limit = {has_dlc = "Together for Victory" }
+
+    add_to_tech_sharing_group = UAE_research
+}
+
+give_guarantee = AST
+diplomatic_relation = { country = AST relation = non_aggression_pact }
+
+give_guarantee = BAN
+diplomatic_relation = { country = BAN relation = non_aggression_pact }
+
+give_guarantee = CAL
+diplomatic_relation = { country = CAL relation = non_aggression_pact }
+
+give_guarantee = CYP
+diplomatic_relation = { country = CYP relation = non_aggression_pact }
+
+give_guarantee = ENG
+diplomatic_relation = { country = ENG relation = non_aggression_pact }
+
+give_guarantee = HOL
+diplomatic_relation = { country = HOL relation = non_aggression_pact }
+
+give_guarantee = JAP
+diplomatic_relation = { country = JAP relation = non_aggression_pact }
+
+give_guarantee = MEX
+diplomatic_relation = { country = MEX relation = non_aggression_pact }
+
+give_guarantee = MOR
+diplomatic_relation = { country = MOR relation = non_aggression_pact }
+
+give_guarantee = NGA
+diplomatic_relation = { country = NGA relation = non_aggression_pact }
+
+give_guarantee = PAK
+diplomatic_relation = { country = PAK relation = non_aggression_pact }
+
+give_guarantee = SIK
+diplomatic_relation = { country = SIK relation = non_aggression_pact }
+
+give_guarantee = SOV
+diplomatic_relation = { country = SOV relation = non_aggression_pact }
+
+give_guarantee = TUR
+diplomatic_relation = { country = TUR relation = non_aggression_pact }
+
+give_guarantee = USA
+diplomatic_relation = { country = USA relation = non_aggression_pact }
+
+give_guarantee = W04
+diplomatic_relation = { country = W04 relation = non_aggression_pact }
+
+give_guarantee = W05
+diplomatic_relation = { country = W05 relation = non_aggression_pact }
+
+give_guarantee = W15
+diplomatic_relation = { country = W15 relation = non_aggression_pact }
+
+give_guarantee = W21
+diplomatic_relation = { country = W21 relation = non_aggression_pact }
+
+give_guarantee = W23
+diplomatic_relation = { country = W23 relation = non_aggression_pact }
+
+give_guarantee = W24
+diplomatic_relation = { country = W24 relation = non_aggression_pact }
+
+give_guarantee = X02
+diplomatic_relation = { country = X02 relation = non_aggression_pact }
+
+give_guarantee = X10
+diplomatic_relation = { country = X10 relation = non_aggression_pact }
+
+give_guarantee = X12
+diplomatic_relation = { country = X12 relation = non_aggression_pact }
+
+give_guarantee = X42
+diplomatic_relation = { country = X42 relation = non_aggression_pact }
+
+give_guarantee = X57
+diplomatic_relation = { country = X57 relation = non_aggression_pact }
+
+give_guarantee = X58
+diplomatic_relation = { country = X58 relation = non_aggression_pact }
+
+give_guarantee = X65
+diplomatic_relation = { country = X65 relation = non_aggression_pact }
+
+give_guarantee = X66
+diplomatic_relation = { country = X66 relation = non_aggression_pact }
+
+give_guarantee = X81
+diplomatic_relation = { country = X81 relation = non_aggression_pact }
+
+give_guarantee = X88
+diplomatic_relation = { country = X88 relation = non_aggression_pact }
+
+add_opinion_modifier = { target = AFG modifier = negative_191 }
+add_opinion_modifier = { target = AST modifier = positive_196 }
+add_opinion_modifier = { target = AUS modifier = positive_200 }
+add_opinion_modifier = { target = BAN modifier = positive_200 }
+give_military_access = BAN
+set_truce = { target = BAN days = 960 }
+add_opinion_modifier = { target = BAS modifier = positive_5 }
+add_opinion_modifier = { target = BAY modifier = negative_175 }
+add_opinion_modifier = { target = BOS modifier = negative_50 }
+add_opinion_modifier = { target = BRA modifier = positive_150 }
+add_opinion_modifier = { target = BRM modifier = negative_186 }
+add_opinion_modifier = { target = BUL modifier = negative_66 }
+add_opinion_modifier = { target = CAL modifier = positive_200 }
+give_military_access = CAL
+add_opinion_modifier = { target = CAR modifier = negative_4 }
+add_opinion_modifier = { target = CHI modifier = negative_110 }
+add_opinion_modifier = { target = COG modifier = positive_42 }
+add_opinion_modifier = { target = COL modifier = positive_74 }
+set_truce = { target = COL days = 1061 }
+add_opinion_modifier = { target = CRO modifier = positive_170 }
+add_opinion_modifier = { target = CYP modifier = positive_144 }
+add_opinion_modifier = { target = DAH modifier = positive_67 }
+add_opinion_modifier = { target = DEN modifier = positive_105 }
+add_opinion_modifier = { target = EGY modifier = negative_199 }
+add_opinion_modifier = { target = ENG modifier = positive_200 }
+give_military_access = ENG
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GAB modifier = negative_190 }
+set_truce = { target = GAB days = 866 }
+add_opinion_modifier = { target = GHA modifier = negative_200 }
+add_opinion_modifier = { target = HAN modifier = positive_115 }
+add_opinion_modifier = { target = HOL modifier = positive_150 }
+give_military_access = HOL
+add_opinion_modifier = { target = HON modifier = positive_90 }
+add_opinion_modifier = { target = HUN modifier = positive_115 }
+add_opinion_modifier = { target = ITA modifier = positive_20 }
+add_opinion_modifier = { target = JAP modifier = positive_165 }
+add_opinion_modifier = { target = KOR modifier = negative_95 }
+add_opinion_modifier = { target = LBA modifier = positive_115 }
+add_opinion_modifier = { target = LEB modifier = negative_82 }
+add_opinion_modifier = { target = MEX modifier = positive_200 }
+set_truce = { target = MEX days = 1061 }
+add_opinion_modifier = { target = MON modifier = negative_115 }
+add_opinion_modifier = { target = MOR modifier = positive_200 }
+give_military_access = MOR
+add_opinion_modifier = { target = NEP modifier = negative_197 }
+add_opinion_modifier = { target = NGA modifier = positive_160 }
+add_opinion_modifier = { target = NIC modifier = positive_30 }
+add_opinion_modifier = { target = NZL modifier = negative_10 }
+add_opinion_modifier = { target = PAK modifier = positive_113 }
+add_opinion_modifier = { target = POL modifier = positive_200 }
+add_opinion_modifier = { target = PRE modifier = positive_54 }
+add_opinion_modifier = { target = SER modifier = positive_70 }
+add_opinion_modifier = { target = SIA modifier = positive_107 }
+add_opinion_modifier = { target = SIK modifier = positive_200 }
+give_military_access = SIK
+add_opinion_modifier = { target = SLV modifier = negative_90 }
+add_opinion_modifier = { target = SOV modifier = positive_185 }
+give_military_access = SOV
+add_opinion_modifier = { target = SPR modifier = positive_155 }
+add_opinion_modifier = { target = SWE modifier = negative_21 }
+add_opinion_modifier = { target = SWI modifier = positive_105 }
+add_opinion_modifier = { target = TEX modifier = positive_70 }
+add_opinion_modifier = { target = TUR modifier = positive_199 }
+give_military_access = TUR
+add_opinion_modifier = { target = USA modifier = positive_165 }
+add_opinion_modifier = { target = VEN modifier = positive_80 }
+add_opinion_modifier = { target = W01 modifier = positive_155 }
+add_opinion_modifier = { target = W02 modifier = positive_104 }
+add_opinion_modifier = { target = W04 modifier = positive_199 }
+add_opinion_modifier = { target = W05 modifier = positive_198 }
+add_opinion_modifier = { target = W10 modifier = positive_147 }
+add_opinion_modifier = { target = W13 modifier = positive_70 }
+add_opinion_modifier = { target = W15 modifier = positive_198 }
+give_military_access = W15
+add_opinion_modifier = { target = W17 modifier = positive_55 }
+add_opinion_modifier = { target = W18 modifier = positive_105 }
+add_opinion_modifier = { target = W20 modifier = negative_30 }
+add_opinion_modifier = { target = W21 modifier = positive_200 }
+add_opinion_modifier = { target = W23 modifier = positive_153 }
+add_opinion_modifier = { target = W24 modifier = positive_200 }
+give_military_access = W24
+add_opinion_modifier = { target = W26 modifier = positive_25 }
+add_opinion_modifier = { target = W33 modifier = negative_119 }
+set_truce = { target = W33 days = 1440 }
+add_opinion_modifier = { target = W34 modifier = positive_107 }
+add_opinion_modifier = { target = X01 modifier = negative_135 }
+add_opinion_modifier = { target = X02 modifier = positive_110 }
+add_opinion_modifier = { target = X09 modifier = negative_10 }
+add_opinion_modifier = { target = X10 modifier = positive_200 }
+add_opinion_modifier = { target = X12 modifier = positive_156 }
+add_opinion_modifier = { target = X14 modifier = negative_141 }
+add_opinion_modifier = { target = X15 modifier = positive_120 }
+add_opinion_modifier = { target = X17 modifier = positive_15 }
+add_opinion_modifier = { target = X18 modifier = positive_110 }
+add_opinion_modifier = { target = X19 modifier = positive_120 }
+add_opinion_modifier = { target = X21 modifier = positive_120 }
+add_opinion_modifier = { target = X34 modifier = positive_170 }
+add_opinion_modifier = { target = X36 modifier = negative_199 }
+add_opinion_modifier = { target = X37 modifier = negative_75 }
+add_opinion_modifier = { target = X40 modifier = positive_100 }
+add_opinion_modifier = { target = X42 modifier = positive_105 }
+add_opinion_modifier = { target = X43 modifier = negative_165 }
+add_opinion_modifier = { target = X44 modifier = negative_85 }
+add_opinion_modifier = { target = X51 modifier = positive_105 }
+add_opinion_modifier = { target = X56 modifier = negative_200 }
+add_opinion_modifier = { target = X57 modifier = positive_195 }
+add_opinion_modifier = { target = X58 modifier = positive_200 }
+add_opinion_modifier = { target = X61 modifier = negative_200 }
+set_truce = { target = X61 days = 887 }
+add_opinion_modifier = { target = X65 modifier = positive_200 }
+add_opinion_modifier = { target = X66 modifier = positive_111 }
+give_military_access = X66
+add_opinion_modifier = { target = X74 modifier = positive_134 }
+add_opinion_modifier = { target = X76 modifier = negative_45 }
+add_opinion_modifier = { target = X81 modifier = positive_155 }
+add_opinion_modifier = { target = X84 modifier = negative_10 }
+add_opinion_modifier = { target = X85 modifier = positive_105 }
+add_opinion_modifier = { target = X86 modifier = positive_102 }
+add_opinion_modifier = { target = X88 modifier = positive_200 }
+add_opinion_modifier = { target = X91 modifier = negative_81 }
+add_opinion_modifier = { target = X93 modifier = positive_110 }
+add_opinion_modifier = { target = X95 modifier = positive_60 }
+add_opinion_modifier = { target = X96 modifier = positive_25 }
+add_opinion_modifier = { target = X98 modifier = positive_110 }
+
+
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	add_ideas = MTG_naval_treaty_adherent
+}
+add_ideas = {
+	great_power
+	UAE_monarch
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_heiren
+}
+set_stability = 0.60
+set_war_support = 0.60
+
+recruit_character = UAE_ma_sun
+recruit_character = UAE_kong_ting
+recruit_character = UAE_cheng_qiu
+recruit_character = UAE_mao_jin
+recruit_character = UAE_hsia_ye
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Ruirong Zhao"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { UAE }
+	}
+
+	create_operative_leader = {
+		name = "Tianhui Hu"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { UAE }
+	}
+
+	create_operative_leader = {
+		name = "Tianhui Sun"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { UAE }
+	}
+
+	create_operative_leader = {
+		name = "Yang Ting"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { UAE }
+	}
+
+	create_operative_leader = {
+		name = "Gao Jiang"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { UAE }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	create_equipment_variant = {
+		name = "Early Battleship"
+		type = battleship_1
+		upgrades = {
+			ship_armor_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Destroyer"
+		type = destroyer_1
+		upgrades = {
+			destroyer_engine_upgrade = 1
+			ship_ASW_upgrade = 1
+			ship_anti_air_upgrade = 1
+			ship_torpedo_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Heavy Cruiser"
+		type = heavy_cruiser_1
+		upgrades = {
+			ship_armor_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Light Cruiser"
+		type = light_cruiser_1
+		upgrades = {
+			ship_anti_air_upgrade = 1
+			ship_engine_upgrade = 1
+			ship_gun_upgrade = 1
+			ship_reliability_upgrade = 1
+		}
+	}
+
+	create_equipment_variant = {
+		name = "Early Submarine"
+		type = submarine_1
+		upgrades = {
+			ship_reliability_upgrade = 1
+			sub_engine_upgrade = 1
+			sub_stealth_upgrade = 1
+			sub_torpedo_upgrade = 1
+		}
+	}
+
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	create_equipment_variant = {
+		name = "Early Destroyer"
+		type = ship_hull_light_1
+		name_group = UAE_DD_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_engine_slot = light_ship_engine_1
+			fixed_ship_fire_control_system_slot = empty
+			fixed_ship_radar_slot = ship_sonar_1
+			fixed_ship_torpedo_slot = ship_torpedo_1
+			mid_1_custom_slot = ship_depth_charge_1
+			rear_1_custom_slot = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Early Heavy Cruiser"
+		type = ship_hull_cruiser_1
+		name_group = UAE_CA_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_armor_slot = ship_armor_cruiser_1
+			fixed_ship_battery_slot = ship_medium_battery_1
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_secondaries_slot = ship_secondaries_1
+			mid_1_custom_slot = ship_secondaries_1
+			mid_2_custom_slot = ship_medium_battery_1
+			rear_1_custom_slot = empty
+		}
+	}
+	create_equipment_variant = {
+		name = "Early Light Cruiser"
+		type = ship_hull_cruiser_1
+		name_group = UAE_CL_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_armor_slot = ship_armor_cruiser_1
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = ship_sonar_1
+			fixed_ship_secondaries_slot = ship_secondaries_1
+			mid_1_custom_slot = ship_torpedo_1
+			mid_2_custom_slot = ship_light_battery_1
+			rear_1_custom_slot = empty
+		}
+	}
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+	create_equipment_variant = {
+		name = "Basic Heavy Tank"
+		type = heavy_tank_chassis_1
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_heavy_three_man_tank_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Basic Medium Tank"
+		type = medium_tank_chassis_1
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_medium_one_man_tank_turret
+		}
+	}
+	create_equipment_variant = {
+		name = "Improved Light Tank"
+		type = light_tank_chassis_2
+		parent_version = 0
+		modules = {
+			armor_type_slot = tank_riveted_armor
+			engine_type_slot = tank_gasoline_engine
+			main_armament_slot = tank_small_cannon
+			suspension_type_slot = tank_bogie_suspension
+			turret_type_slot = tank_light_two_man_tank_turret
+		}
+	}
+}

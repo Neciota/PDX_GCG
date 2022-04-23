@@ -1,0 +1,64 @@
+characters={
+	SWE_henrik_vega={
+		name=SWE_henrik_vega
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWE_gunnar_dyrssen={
+		name=SWE_gunnar_dyrssen
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWE_viktor_nordenskiold={
+		name=SWE_viktor_nordenskiold
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWE_verner_lindman={
+		name=SWE_verner_lindman
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SWE_julius_leijonhufvud={
+		name=SWE_julius_leijonhufvud
+		portraits={
+			civilian={
+				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

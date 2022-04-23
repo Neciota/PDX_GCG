@@ -1,0 +1,16 @@
+characters={
+	X04_minkyaw_myo={
+		name=X04_minkyaw_myo
+		portraits={
+			civilian={
+				large="gfx/leaders/BHU/portrait_bhu_jigme_wangchuk.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=371
+	name="STATE_371"
+	resources={
+		chromium=5.000
+		rubber=3.000
+		steel=26.000
+		tungsten=54.000
+	}
+
+	history={
+		owner = X56
+		victory_points = {
+			1047 7 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			1047 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = CHI
+		add_core_of = X45
+		add_core_of = X56
+	}
+
+	provinces={
+		1047 1078 1120 1162 1202 4050 4165 4189 4207 7067 7108 7141 7152 7182 9938 9970 9978 9997 10062 10080 11938 12014 12095 
+	}
+	manpower=12054500
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

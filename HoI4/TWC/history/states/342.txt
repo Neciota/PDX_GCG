@@ -1,0 +1,35 @@
+
+state={
+	id=342
+	name="STATE_342"
+	resources={
+		rubber=1.000
+		steel=3.000
+	}
+
+	history={
+		owner = X56
+		victory_points = {
+			4619 4 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = CHI
+		add_core_of = X45
+		add_core_of = X56
+	}
+
+	provinces={
+		1036 4619 4631 7167 7580 7637 9959 10462 12467 
+	}
+	manpower=14973212
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

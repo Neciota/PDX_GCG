@@ -1,0 +1,36 @@
+
+state={
+	id=370
+	name="STATE_370"
+	resources={
+		steel=2.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = X56
+		victory_points = {
+			4525 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = CHI
+		add_core_of = X46
+		add_claim_by = X45
+		add_claim_by = X56
+	}
+
+	provinces={
+		1698 1778 1959 2028 2087 3427 4525 4783 4960 4986 5031 5076 5100 7048 7511 7631 7727 7803 7971 8055 8102 8127 10424 10451 10629 10770 10854 10899 12331 12403 12596 12609 12706 12750 12820 12880 
+	}
+	manpower=4316920
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

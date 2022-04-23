@@ -1,0 +1,23 @@
+
+state={
+	id=77
+	name="STATE_77"
+	resources={
+		steel=0.000
+	}
+	impassable = yes
+
+	history={
+		owner = W60
+		add_core_of = W60
+	}
+
+	provinces={
+		8103 
+	}
+	manpower=154054
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

@@ -1,0 +1,64 @@
+characters={
+	TUR_ali_binay={
+		name=TUR_ali_binay
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TUR_numan_akyol={
+		name=TUR_numan_akyol
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TUR_abdulhamid_yilmaz={
+		name=TUR_abdulhamid_yilmaz
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	TUR_kemal_aziz={
+		name=TUR_kemal_aziz
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TUR_edhem_akkilic={
+		name=TUR_edhem_akkilic
+		portraits={
+			civilian={
+				large="gfx/leaders/TUR/Portrait_Turkey_Ismet_Inonu.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

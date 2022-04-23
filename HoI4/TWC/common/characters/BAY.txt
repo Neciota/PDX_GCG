@@ -1,0 +1,52 @@
+characters={
+	BAY_jakob_wurttemberg={
+		name=BAY_jakob_wurttemberg
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAY_gebhard_von={
+		name=BAY_gebhard_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAY_konrad_von={
+		name=BAY_konrad_von
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BAY_julius_von_schonburg={
+		name=BAY_julius_von_schonburg
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/portrait_europe_generic_6.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

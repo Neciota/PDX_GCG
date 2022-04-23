@@ -1,0 +1,16 @@
+characters={
+	MRT_mujahid_al_zahrawi={
+		name=MRT_mujahid_al_zahrawi
+		portraits={
+			civilian={
+				large="gfx/leaders/JOR/Portrait_Arabia_Generic_2.dds"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

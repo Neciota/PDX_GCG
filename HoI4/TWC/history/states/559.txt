@@ -1,0 +1,36 @@
+
+state={
+	id=559
+	name="STATE_559"
+	resources={
+		aluminium=4.000
+		steel=9.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			650 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			8194 = {
+				naval_base = 8
+			}
+			air_base = 1
+
+		}
+		add_core_of = X93
+	}
+
+	provinces={
+		650 5191 5192 5228 8194 8222 11000 12914 
+	}
+	manpower=2246312
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

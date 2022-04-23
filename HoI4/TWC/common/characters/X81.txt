@@ -1,0 +1,64 @@
+characters={
+	X81_saamoothiri_perumal={
+		name=X81_saamoothiri_perumal
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X81_cheraman_varma={
+		name=X81_cheraman_varma
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X81_marthanda_varma={
+		name=X81_marthanda_varma
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X81_chithira_rama={
+		name=X81_chithira_rama
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X81_raja_perumal={
+		name=X81_raja_perumal
+		portraits={
+			civilian={
+				large="gfx/leaders/Indian/Portrait_PRF_Ahmad_Ali_of_Malerjotla.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

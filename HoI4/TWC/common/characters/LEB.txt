@@ -1,0 +1,52 @@
+characters={
+	LEB_ali_halil={
+		name=LEB_ali_halil
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LEB_tawfiq_abu={
+		name=LEB_tawfiq_abu
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	LEB_sa'd_al_ghazzawi={
+		name=LEB_sa'd_al_ghazzawi
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LEB_abd_ibn={
+		name=LEB_abd_ibn
+		portraits={
+			civilian={
+				large="gfx/leaders/Arabic_Persian/Portrait_KUR_Kamuran.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

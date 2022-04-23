@@ -1,0 +1,35 @@
+
+state={
+	id=496
+	name="STATE_496"
+	resources={
+		aluminium=1.000
+		rubber=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = W45
+		victory_points = {
+			1932 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = W45
+		add_core_of = X78
+	}
+
+	provinces={
+		1932 2025 8021 
+	}
+	manpower=761064
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

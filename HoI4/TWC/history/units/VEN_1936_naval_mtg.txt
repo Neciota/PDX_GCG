@@ -1,0 +1,43 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 8113
+		task_force = {
+			name = "1st Fleet"
+			location = 8113
+			ship = { name = "3rd Paramaribo Dreadnought" definition = battleship start_experience_factor = 0.04219 equipment = { ship_hull_heavy_2 = { amount = 1 owner = VEN version_name = "1936 Battleship" } } }
+			ship = { name = "1st Caracas Dreadnought" definition = battleship equipment = { ship_hull_heavy_2 = { amount = 1 owner = VEN version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Paramaribo Dreadnought" definition = battleship start_experience_factor = 0.05 equipment = { ship_hull_heavy_2 = { amount = 1 owner = VEN version_name = "1936 Battleship" } } }
+			ship = { name = "4th Coro Battleship" definition = heavy_cruiser start_experience_factor = 0.09233 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Coro Battleship" definition = heavy_cruiser start_experience_factor = 0.12788 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Coro Battleship" definition = heavy_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "9th Coro Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "10th Coro Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Belém Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Belém Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = VEN version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "VEN"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "VEN"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

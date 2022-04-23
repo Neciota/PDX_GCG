@@ -1,0 +1,35 @@
+
+state={
+	id=263
+	name="STATE_263"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = W37
+		victory_points = {
+			8248 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			8219 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = W37
+	}
+
+	provinces={
+		5158 8219 8248 12981 
+	}
+	manpower=1695488
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

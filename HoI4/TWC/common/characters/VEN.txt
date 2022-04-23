@@ -1,0 +1,64 @@
+characters={
+	VEN_louis_theron={
+		name=VEN_louis_theron
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	VEN_joubert_botha={
+		name=VEN_joubert_botha
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	VEN_paul_de={
+		name=VEN_paul_de
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	VEN_hendrik_la={
+		name=VEN_hendrik_la
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	VEN_hendrik_kruger={
+		name=VEN_hendrik_kruger
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

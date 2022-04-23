@@ -1,0 +1,31 @@
+
+state={
+	id=180
+	name="STATE_180"
+
+	history={
+		owner = CHI
+		victory_points = {
+			7302 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			4286 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		4286 7302 12159 13080 
+	}
+	manpower=374240
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

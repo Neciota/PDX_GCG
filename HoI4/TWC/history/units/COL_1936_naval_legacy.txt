@@ -1,0 +1,44 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 8199
+		task_force = {
+			name = "1st Fleet"
+			location = 8199
+			ship = { name = "Buenaventura" definition = battleship equipment = { battleship_2 = { amount = 1 owner = COL } } }
+			ship = { name = "Bolívar" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = COL } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 12790
+		task_force = {
+			name = "2nd Fleet"
+			location = 12790
+			ship = { name = "Almirante Padilla" definition = battleship equipment = { battleship_2 = { amount = 1 owner = COL } } }
+			ship = { name = "Bogotá" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = COL } } }
+			ship = { name = "Cali" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = COL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "COL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "COL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=472
+	name="STATE_472"
+	resources={
+		aluminium=4.000
+		rubber=0.000
+	}
+
+	history={
+		owner = W50
+		victory_points = {
+			12787 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			12742 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = W50
+		add_core_of = X06
+	}
+
+	provinces={
+		10862 12742 12785 12787 
+	}
+	manpower=3829228
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

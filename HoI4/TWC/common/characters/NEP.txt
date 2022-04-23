@@ -1,0 +1,28 @@
+characters={
+	NEP_deva_rana={
+		name=NEP_deva_rana
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	NEP_bhimsen_singh={
+		name=NEP_bhimsen_singh
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/Portrait_India_Generic_new_1.tga"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

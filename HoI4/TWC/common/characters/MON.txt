@@ -1,0 +1,52 @@
+characters={
+	MON_chingis_tserendorj={
+		name=MON_chingis_tserendorj
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MON_peljidiin_genden={
+		name=MON_peljidiin_genden
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MON_chingis_jamyan={
+		name=MON_chingis_jamyan
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MON_kubilai_bodoo={
+		name=MON_kubilai_bodoo
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/Portrait_Asia_Generic_new_2.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

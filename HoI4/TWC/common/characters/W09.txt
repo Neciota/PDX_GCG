@@ -1,0 +1,28 @@
+characters={
+	W09_aculnahuacatl_macehualli={
+		name=W09_aculnahuacatl_macehualli
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W09_chsaaxcejj_cano={
+		name=W09_chsaaxcejj_cano
+		portraits={
+			civilian={
+				large="gfx/leaders/Generic/r56_portrait_generic_politician_south_america_1.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

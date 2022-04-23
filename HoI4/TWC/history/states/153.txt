@@ -1,0 +1,35 @@
+
+state={
+	id=153
+	name="STATE_153"
+	resources={
+		chromium=16.000
+	}
+
+	history={
+		owner = X21
+		victory_points = {
+			6990 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			9930 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X21
+	}
+
+	provinces={
+		6990 9791 9930 11774 11905 
+	}
+	manpower=1226468
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

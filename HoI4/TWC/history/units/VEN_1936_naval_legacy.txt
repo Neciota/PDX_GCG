@@ -1,0 +1,41 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 8113
+		task_force = {
+			name = "1st Fleet"
+			location = 8113
+			ship = { name = "3rd Paramaribo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "1st Caracas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "2nd Paramaribo Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "4th Coro Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "5th Coro Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "6th Coro Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "9th Coro Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "10th Coro Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "2nd Belém Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEN } } }
+			ship = { name = "3rd Belém Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = VEN } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "VEN"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "VEN"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

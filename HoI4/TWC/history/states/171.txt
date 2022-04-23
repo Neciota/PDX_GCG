@@ -1,0 +1,33 @@
+
+state={
+	id=171
+	name="STATE_171"
+	resources={
+		tungsten=99.000
+	}
+
+	history={
+		owner = CAL
+		victory_points = {
+			4865 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = MEX
+		add_claim_by = CAL
+	}
+
+	provinces={
+		1663 1740 1756 4668 4742 4865 7764 7818 10582 10651 10662 12573 12699 
+	}
+	manpower=5536440
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

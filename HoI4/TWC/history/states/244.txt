@@ -1,0 +1,37 @@
+
+state={
+	id=244
+	name="STATE_244"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = W40
+		victory_points = {
+			7289 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			1284 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = W40
+		add_core_of = X77
+		add_core_of = X82
+	}
+
+	provinces={
+		983 1284 1341 1356 1764 3911 4305 4345 4417 4419 4422 4769 7289 7291 7345 7433 7435 7683 7807 7810 7875 7893 9601 10174 10230 10249 10320 10534 10700 10715 11902 12149 12205 12223 12276 12291 
+	}
+	manpower=2041740
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

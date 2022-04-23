@@ -1,0 +1,33 @@
+
+state={
+	id=690
+	name="STATE_690"
+
+	history={
+		owner = W04
+		victory_points = {
+			3653 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			3653 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = GEO
+		add_core_of = W04
+	}
+
+	provinces={
+		3653 
+	}
+	manpower=87412
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

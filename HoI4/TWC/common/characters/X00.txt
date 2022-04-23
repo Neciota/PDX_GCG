@@ -1,0 +1,16 @@
+characters={
+	X00_makhmut_tukay={
+		name=X00_makhmut_tukay
+		portraits={
+			civilian={
+				large="gfx/leaders/Turkic_Steppe/Portrait_TUR_Fethi_Okyar.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}
