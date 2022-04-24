@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = W42
+		owner = W44
 		victory_points = {
 			12240 0 
 		}
@@ -22,7 +22,7 @@ state={
 
 		}
 		add_core_of = PNG
-		add_core_of = W42
+		add_core_of = W44
 	}
 
 	provinces={
