@@ -6,4 +6,4 @@ After cloning the repository to your local disk, ensure you have links on your c
 
 `mklink /j "TWC" "YourPathTo\PDX_GCG\HoI4\TWC"`
 
-`mklink "TWC.mod" ""YourPathTo\PDX_GCG\HoI4\TWC.mod"`
+The .mod file has to be copy-pasted to the HoI4 mods folder, as this cannot be symlinked (apparently), and it is different for everyone anyways.
