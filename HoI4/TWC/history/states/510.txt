@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = W50
+		owner = HOL
 		victory_points = {
 			7992 10 
 		}
@@ -22,7 +22,6 @@ state={
 
 		}
 		add_core_of = MRT
-		add_core_of = W50
 		add_core_of = X39
 	}
 

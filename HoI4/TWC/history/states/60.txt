@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = W56
+		owner = UAE
 		victory_points = {
 			2200 0 
 		}
@@ -22,7 +22,6 @@ state={
 
 		}
 		add_core_of = MAD
-		add_core_of = W56
 	}
 
 	provinces={

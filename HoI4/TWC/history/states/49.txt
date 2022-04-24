@@ -4,7 +4,7 @@ state={
 	name="STATE_49"
 
 	history={
-		owner = W53
+		owner = UAE
 		victory_points = {
 			10928 10 
 		}
@@ -19,7 +19,6 @@ state={
 
 		}
 		add_core_of = SOM
-		add_core_of = W53
 	}
 
 	provinces={

@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = W52
+		owner = SOV
 		victory_points = {
 			2080 0 
 		}
@@ -21,7 +21,6 @@ state={
 
 		}
 		add_core_of = GAB
-		add_core_of = W52
 		add_claim_by = CAR
 	}
 

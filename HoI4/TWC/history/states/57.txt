@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = W57
+		owner = UAE
 		victory_points = {
 			12971 1 
 		}
@@ -22,7 +22,6 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = W57
 		add_claim_by = TZN
 	}
 

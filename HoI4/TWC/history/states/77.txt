@@ -8,8 +8,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = W60
-		add_core_of = W60
+		owner = UAE
 	}
 
 	provinces={

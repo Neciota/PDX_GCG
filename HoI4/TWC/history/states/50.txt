@@ -4,7 +4,7 @@ state={
 	name="STATE_50"
 
 	history={
-		owner = W53
+		owner = UAE
 		victory_points = {
 			4985 10 
 		}
@@ -19,7 +19,6 @@ state={
 
 		}
 		add_core_of = DJI
-		add_core_of = W53
 	}
 
 	provinces={
