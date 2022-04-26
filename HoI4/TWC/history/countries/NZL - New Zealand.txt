@@ -1,5 +1,6 @@
 ﻿capital = 521
 set_research_slots = 3
+set_cosmetic_tag = NZL_HOL
 
 oob = "NZL_OOB"
 if = {

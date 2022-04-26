@@ -1,5 +1,6 @@
 ﻿capital = 741
 set_research_slots = 3
+set_cosmetic_tag = VEN_HOL
 
 oob = "VEN_OOB"
 if = {

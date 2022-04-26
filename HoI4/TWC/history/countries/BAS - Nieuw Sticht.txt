@@ -1,5 +1,6 @@
 ﻿capital = 199
 set_research_slots = 3
+set_cosmetic_tag = BAS_HOL
 
 oob = "BAS_OOB"
 if = {

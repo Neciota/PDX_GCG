@@ -2,6 +2,7 @@
 set_major = yes
 set_research_slots = 4
 add_named_threat = { threat = 0.218 name = infamy }
+set_cosmetic_tag = USA_HOL
 
 oob = "USA_OOB"
 if = {

@@ -1,5 +1,6 @@
 ﻿capital = 456
 set_research_slots = 3
+set_cosmetic_tag = W44_HOL
 
 oob = "W44_OOB"
 if = {
