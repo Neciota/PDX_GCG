@@ -12,179 +12,1370 @@ focus_tree = {
 	
 	default = no
 	
-	shared_focus = army_effort
-	shared_focus = aviation_effort
-	shared_focus = naval_effort
-	shared_focus = industrial_effort
-	shared_focus = political_effort
-
+	#Revise Critical Infrastructure
 	focus = {
-		id = WarPropX56
-		icon = GFX_goal_generic_propaganda
-		text = WarProp
-		x = 28
-		y = 0
+		id = X56_revise_critical_infrastructure
+		icon = GFX_goal_generic_construct_infrastructure
+		x = 19
+		y = 4
 		cost = 10
-		available = {
-		threat > 0.000050
-	}
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_a_short_step  }
+		ai_will_do = { factor = 2 }
 		completion_reward = {
-		add_stability = 0.05
-	}
-		ai_will_do = {
-		factor = 10
-	}
+			build_railway = {
+			  level = 2
+			  build_only_on_allied = yes
+			  controller_priority = {
+			    base = 1
+			   
+			    modifier = {
+			      tag = MAN
+			      add = 2
+			    }
+			  }
+			  fallback = yes
+			  start_province = 12093
+			  target_province = 3900
+			}
+			
+			
+			
+			build_railway = {
+			  level = 2
+			  build_only_on_allied = yes
+			  controller_priority = {
+			    base = 1
+			   
+			    modifier = {
+			      tag = MAN
+			      add = 2
+			    }
+			  }
+			  fallback = yes
+			  start_province = 10058
+			  target_province = 7191
+			}
+			
+			
+			build_railway = {
+			  level = 2
+			  build_only_on_allied = yes
+			  controller_priority = {
+			    base = 1
+			   
+			    modifier = {
+			      tag = MAN
+			      add = 2
+			    }
+			  }
+			  fallback = yes
+			  start_province = 10058
+			  target_province = 4196
+			}
+			
+			
+			build_railway = {
+			  level = 2
+			  build_only_on_allied = yes
+			  controller_priority = {
+			    base = 1
+			   
+			    modifier = {
+			      tag = MAN
+			      add = 2
+			    }
+			  }
+			  fallback = yes
+			  start_province = 10750
+			  target_province = 4709
+			}
+			
+			
+			
+		}
 	}
 
+	#Constant Support
 	focus = {
-		id = PrepInterX56
-		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = PrepInter
-		prerequisite = { focus = WarPropX56 }
-		x = 0
-		y = 1
-		relative_position_id = WarPropX56
+		id = X56_constant_support
+		icon = GFX_goal_generic_air_bomber
+		x = 15
+		y = 3
 		cost = 10
-		available = {
-		threat > 0.000075
-	}
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_clear_sky  }
+		ai_will_do = { factor = 1 }
 		completion_reward = {
-		add_political_power = 120
-		set_rule = { can_send_volunteers = yes }
-	}
-		ai_will_do = {
-		factor = 10
-	}
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = cas_bomber
+			}
+			
+			
+			
+		}
 	}
 
+	#Japanese Cooperation
 	focus = {
-		id = LimX56
-		icon = GFX_goal_generic_more_territorial_claims
-		text = Lim
-		prerequisite = { focus = PrepInterX56 }
-		x = 0
-		y = 1
-		relative_position_id = PrepInterX56
+		id = X56_japanese_cooperation
+		icon = GFX_focus_chi_collaboration_with_the_japanese
+		x = 20
+		y = 6
 		cost = 10
-		available = {
-		threat > 0.000125
-	}
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_an_increasing_stride  }
+		ai_will_do = { factor = 2 }
 		completion_reward = {
-		add_ideas = limited_interventionism
-	}
-		ai_will_do = {
-		factor = 10
-	}
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = arms_factory
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = arms_factory
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = mil_1
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = arms_factory
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = arms_factory
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = mil_2
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = arms_factory
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = arms_factory
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = mil_3
+			}
+			
+			
+		}
 	}
 
+	#Research Grants
 	focus = {
-		id = WarPlanX56JAP
-		icon = GFX_goal_generic_position_armies
-		text = WarPlanJAP
-		prerequisite = { focus = LimX56 }
-		bypass = {
-		has_war_with = JAP
-	}
-		x = 0
-		y = 1
-		relative_position_id = LimX56
+		id = X56_research_grants
+		icon = GFX_focus_research
+		x = 18
+		y = 6
 		cost = 10
-		available = {
-		any_other_country = {
-			original_tag = JAP
-			exists = yes
-			NOT = { has_government = democratic }
-			NOT = { is_in_faction_with = ROOT }
-			OR = {
-				has_offensive_war = yes
-				has_added_tension_amount > 30
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_an_increasing_stride  }
+		completion_reward = {
+			add_research_slot = 1
+			
+			
+		}
+	}
+
+	#A Big Skip
+	focus = {
+		id = X56_a_big_skip
+		icon = GFX_focus_generic_industry_2
+		x = 18
+		y = 7
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_japanese_cooperation  focus = X56_research_grants  focus = X56_statebacked_corporations  }
+		ai_will_do = { factor = 3 }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_leap_4
+				remove_idea = X56_leap_3
 			}
 		}
 	}
-		completion_reward = {
-		army_experience = 20
-		add_doctrine_cost_reduction = {
-			name = land_doc_bonus
-			cost_reduction = 0.3
-			uses = 1
-			category = land_doctrine
-		}
-	}
-		ai_will_do = {
-		factor = 10
-	}
-	}
 
+	#A Large Hop
 	focus = {
-		id = EmbargoX56JAP
-		icon = GFX_goal_generic_trade
-		text = EmbargoJAP
-		prerequisite = { focus =  WarPlanX56JAP }
-		bypass = {
-		has_war_with = JAP
-	}
-		x = 0
-		y = 1
-		relative_position_id = WarPlanX56JAP
+		id = X56_a_large_hop
+		icon = GFX_focus_generic_industry_2
+		x = 18
+		y = 8
 		cost = 10
-		available = {
-		any_other_country = {
-			original_tag = JAP
-			exists = yes
-			NOT = { has_government = democratic }
-			NOT = { is_in_faction_with = ROOT }
-			OR = {
-				has_offensive_war = yes
-				has_added_tension_amount > 30
-				threat > 0.6
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_a_big_skip  }
+		ai_will_do = { factor = 3 }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_leap_5
+				remove_idea = X56_leap_4
 			}
 		}
 	}
+
+	#Annex Hunan
+	focus = {
+		id = X56_annex_hunan
+		icon = GFX_focus_usa_focus_on_asia
+		x = 26
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_ANNEXATION
+		}
+		prerequisite = { focus = X56_the_grand_president  }
 		completion_reward = {
-		JAP = {
-			add_opinion_modifier = { target = ROOT modifier = embargo }
+			create_wargoal = {
+			    type = annex_everything
+			    target = X44
+			}
+			
+			
+			
 		}
 	}
-		ai_will_do = {
-		factor = 10
-	}
-	}
 
+	#Expand the Shanghai Shipyards
 	focus = {
-		id = WARX56JAP
-		icon = GFX_goal_support_democracy
-		text = WARJAP
-		prerequisite = { focus =  EmbargoX56JAP }
-		bypass = {
-		has_war_with = JAP
-	}
-		x = 0
-		y = 1
-		relative_position_id = EmbargoX56JAP
-		cost = 10
-		available = {
-		has_war = no
-		any_other_country = {
-			original_tag = JAP
-			exists = yes
-			NOT = { has_government = democratic }
-			NOT = { is_in_faction_with = ROOT }
-			OR = {
-				has_offensive_war = yes
-				has_added_tension_amount > 30
-				threat > 0.6
+		id = X56_expand_the_shanghai_shipyards
+		icon = GFX_goal_generic_construct_naval_dockyard
+		x = 1
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_expand_the_qinhuangdao_shipyards  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_5
+			}random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_6
+			}random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_7
+			}random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_8
+			}random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_9
+			}random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_10
 			}
 		}
 	}
+
+	#Promote the Young Ensigns
+	focus = {
+		id = X56_promote_the_young_ensigns
+		icon = GFX_goal_generic_navy_doctrines_tactics
+		x = 2
+		y = 1
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		ai_will_do = { factor = 1 }
 		completion_reward = {
-		declare_war_on = {
-			type = puppet_wargoal_focus
-			target = JAP
+			add_doctrine_cost_reduction = {
+				name = X56_promote_the_young_ensigns
+				cost_reduction = 0.5
+				uses = 2
+				category = naval_doctrine
+			}
 		}
 	}
-		ai_will_do = {
-		factor = 10
+
+	#Expand the Qinhuangdao Shipyards
+	focus = {
+		id = X56_expand_the_qinhuangdao_shipyards
+		icon = GFX_goal_generic_construct_naval_dockyard
+		x = 1
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_promote_the_young_ensigns  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_1
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_2
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_3
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = dockyard
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+			type = dockyard
+			level = 1
+			instant_build = yes
+			}
+			set_state_flag = naval_4
+			}
+			
+			
+		}
 	}
+
+	#Look at the Dutch
+	focus = {
+		id = X56_look_at_the_dutch
+		icon = GFX_X56_look_at_the_dutch-201
+		x = 3
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_promote_the_young_ensigns  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_promote_the_young_ensigns
+				cost_reduction = 0.5
+				uses = 2
+				category = naval_doctrine
+			}
+		}
+	}
+
+	#The Final Preparations
+	focus = {
+		id = X56_the_final_preparations
+		icon = GFX_goal_generic_production
+		x = 18
+		y = 1
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_ideas = X56_leap_1
+		}
+	}
+
+	#Steel Behemoths
+	focus = {
+		id = X56_steel_behemoths
+		icon = GFX_focus_generic_navy_battleship2
+		x = 3
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_coastal_defence  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = bb_tech
+			}
+			
+			
+			
+		}
+	}
+
+	#Coastal Defence
+	focus = {
+		id = X56_coastal_defence
+		icon = GFX_focus_generic_destroyer
+		x = 3
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_look_at_the_dutch  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = dd_tech
+			}
+			
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = cl_tech
+			}
+			
+		}
+	}
+
+	#Contest the Indian Ocean
+	focus = {
+		id = X56_contest_the_indian_ocean
+		icon = GFX_focus_usa_focus_on_asia
+		x = 2
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_ANNEXATION
+		}
+		prerequisite = { focus = X56_steel_behemoths  } prerequisite = { focus = X56_expand_the_shanghai_shipyards  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			declare_war_on = {
+			    target = w44
+			    type = puppet_wargoal_focus
+			}
+			
+			
+			
+			
+			
+		}
+	}
+
+	#Patrol Bombers
+	focus = {
+		id = X56_patrol_bombers
+		icon = GFX_goal_generic_air_naval_bomber
+		x = 5
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_look_at_the_dutch  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = naval_bomber
+			}
+			
+			
+			
+			
+		}
+	}
+
+	#Shanghai Military Academy
+	focus = {
+		id = X56_shanghai_military_academy
+		icon = GFX_focus_chi_whampoa_military_academy
+		x = 11
+		y = 1
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_ideas = X56_shanghai_academy;
+			add_command_power = 50
+			army_experience = 40
+		}
+	}
+
+	#Look to our Strengths
+	focus = {
+		id = X56_look_to_our_strengths
+		icon = GFX_goal_rhineland
+		x = 9
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_shanghai_military_academy  }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_look_to_our_strengths
+				cost_reduction = 0.5
+				uses = 2
+				category = land_doctrine
+			}
+		}
+	}
+
+	#Large Arms Production
+	focus = {
+		id = X56_large_arms_production
+		icon = GFX_goal_generic_army_artillery2
+		x = 7
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_look_to_our_strengths  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_ideas = X56_artillery_focus
+		}
+	}
+
+	#Clear Sky
+	focus = {
+		id = X56_clear_sky
+		icon = GFX_goal_generic_army_doctrines
+		x = 14
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_shanghai_military_academy  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_clear_sky
+				cost_reduction = 0.5
+				uses = 2
+				category = air_doctrine
+			}
+		}
+	}
+
+	#Study the Mexican Failures
+	focus = {
+		id = X56_study_the_mexican_failures
+		icon = GFX_focus_attack_mexico
+		x = 9
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_look_to_our_strengths  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_study_the_mexican_failures
+				cost_reduction = 0.5
+				uses = 2
+				category = land_doctrine
+			}
+		}
+	}
+
+	#Expand the Academy
+	focus = {
+		id = X56_expand_the_academy
+		icon = GFX_focus_usa_honor_the_confederacy
+		x = 9
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_study_the_mexican_failures  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_expand_the_academy
+				cost_reduction = 0.5
+				uses = 2
+				category = land_doctrine
+			}
+		}
+	}
+
+	#Rapid Armament
+	focus = {
+		id = X56_rapid_armament
+		icon = GFX_goal_generic_small_arms
+		x = 11
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_shanghai_military_academy  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_ideas = X56_infantry_focus
+		}
+	}
+
+	#Advanced Fighter Patrols
+	focus = {
+		id = X56_advanced_fighter_patrols
+		icon = GFX_goal_generic_air_fighter
+		x = 13
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_clear_sky  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = light_fighter
+			}
+		}
+	}
+
+	#Massed Breakthrough
+	focus = {
+		id = X56_massed_breakthrough
+		icon = GFX_goal_generic_army_tanks
+		x = 11
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_rapid_armament  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = cat_medium_armor
+			}
+		}
+	}
+
+	#Vast Firepower
+	focus = {
+		id = X56_vast_firepower
+		icon = GFX_goal_continuous_armor_production
+		x = 11
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_massed_breakthrough  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_ideas = X56_tank_focus
+		}
+	}
+
+	#Develop Tactical Insights
+	focus = {
+		id = X56_develop_tactical_insights
+		icon = GFX_goal_generic_build_airforce
+		x = 14
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_advanced_fighter_patrols  } prerequisite = { focus = X56_constant_support  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_doctrine_cost_reduction = {
+				name = X56_develop_tactical_insights
+				cost_reduction = 0.5
+				uses = 2
+				category = air_doctrine
+			}
+		}
+	}
+
+	#The Weapon to end all Weapons
+	focus = {
+		id = X56_the_weapon_to_end_all_weapons
+		icon = GFX_focus_wonderweapons
+		x = 12
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_vast_firepower  } prerequisite = { focus = X56_develop_tactical_insights  }
+		ai_will_do = { factor = 1 }
+		completion_reward = {
+			add_tech_bonus = {
+			    bonus = 0.5
+			    uses = 2
+			    category = nuclear
+			}
+			
+			
+			
+		}
+	}
+
+	#Concentrate Industry
+	focus = {
+		id = X56_concentrate_industry
+		icon = GFX_goal_generic_construct_civ_factory
+		x = 19
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_the_final_preparations  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+			type = industrial_complex
+			level = 2
+			instant_build = yes
+			}
+			set_state_flag = civ_1
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+			type = industrial_complex
+			level = 2
+			instant_build = yes
+			}
+			set_state_flag = civ_2
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+			type = industrial_complex
+			level = 2
+			instant_build = yes
+			}
+			set_state_flag = civ_3
+			}
+			
+			
+		}
+	}
+
+	#Improve the Resource Base
+	focus = {
+		id = X56_improve_the_resource_base
+		icon = GFX_goal_generic_construction2
+		x = 17
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_the_final_preparations  }
+		completion_reward = {
+			add_resource = {
+			    type = steel
+			    amount = 64
+			}
+			
+			
+			add_resource = {
+			    type = oil
+			    amount = 32
+			}
+			
+			
+			add_resource = {
+			    type = chrome
+			    amount = 24
+			}
+			
+			
+			
+		}
+	}
+
+	#A Short Step
+	focus = {
+		id = X56_a_short_step
+		icon = GFX_focus_generic_industry_1
+		x = 18
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_concentrate_industry  focus = X56_improve_the_resource_base  }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_leap_2
+				remove_idea = X56_leap_1
+			}
+		}
+	}
+
+	#Promote Investments
+	focus = {
+		id = X56_promote_investments
+		icon = GFX_focus_mex_privatisation
+		x = 17
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_a_short_step  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = industrial_complex
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = civ_4
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = industrial_complex
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = civ_5
+			}
+			
+			
+		}
+	}
+
+	#An Increasing Stride
+	focus = {
+		id = X56_an_increasing_stride
+		icon = GFX_focus_generic_industry_1
+		x = 18
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_promote_investments  focus = X56_revise_critical_infrastructure  }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_leap_3
+				remove_idea = X56_leap_2
+			}
+		}
+	}
+
+	#The Great Leap
+	focus = {
+		id = X56_the_great_leap
+		icon = GFX_focus_generic_industry_3
+		x = 18
+		y = 9
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_a_large_hop  }
+		ai_will_do = { factor = 4 }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_leap_6
+				remove_idea = X56_leap_5
+			}
+		}
+	}
+
+	#State-backed Corporations
+	focus = {
+		id = X56_statebacked_corporations
+		icon = GFX_goal_generic_national_unity
+		x = 16
+		y = 6
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = X56_an_increasing_stride  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = industrial_complex
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = civ_7
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = industrial_complex
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = civ_8
+			}
+			
+			random_owned_controlled_state = {
+			limit = {
+			free_building_slots = {
+			building = industrial_complex
+			size > 0
+			include_locked = yes
+			}
+			}
+			add_extra_state_shared_building_slots = 3
+			add_building_construction = {
+			type = industrial_complex
+			level = 3
+			instant_build = yes
+			}
+			set_state_flag = civ_9
+			}
+			
+			
+		}
+	}
+
+	#The Grand President
+	focus = {
+		id = X56_the_grand_president
+		icon = GFX_focus_prc_remove_chiang_kai_shek
+		x = 24
+		y = 1
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_political_power = 300
+			add_ideas = X56_kuomintang_1
+		}
+	}
+
+	#Improved Tutelage
+	focus = {
+		id = X56_improved_tutelage
+		icon = GFX_goal_generic_neutrality_focus
+		x = 22
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_the_grand_president  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			swap_ideas = {
+				add_idea = X56_kuomintang_2
+				remove_idea = X56_kuomintang_1
+			}
+		}
+	}
+
+	#Enshrine Rights and Duties
+	focus = {
+		id = X56_enshrine_rights_and_duties
+		icon = GFX_focus_generic_treaty
+		x = 22
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_improved_tutelage  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_stability = 0.3
+			
+			
+		}
+	}
+
+	#Education Reforms
+	focus = {
+		id = X56_education_reforms
+		icon = GFX_focus_research
+		x = 24
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = X56_land_pensions  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_research_slot = 1
+			
+			
+		}
+	}
+
+	#Local Voting
+	focus = {
+		id = X56_local_voting
+		icon = GFX_focus_usa_voter_registration_act
+		x = 22
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_enshrine_rights_and_duties  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_war_support = 0.3
+			
+			
+			add_political_power = 150
+			
+			
+			
+		}
+	}
+
+	#National Healthcare
+	focus = {
+		id = X56_national_healthcare
+		icon = GFX_focus_generic_concessions
+		x = 24
+		y = 2
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_the_grand_president  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_ideas = X56_healthcare
+		}
+	}
+
+	#Land Pensions
+	focus = {
+		id = X56_land_pensions
+		icon = GFX_goal_generic_positive_trade_relations
+		x = 24
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_national_healthcare  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			add_ideas = X56_land_pensions
+		}
+	}
+
+	#Annex the Imperial Provinces
+	focus = {
+		id = X56_annex_the_imperial_provinces
+		icon = GFX_focus_chi_one_china_policy
+		x = 26
+		y = 3
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_ANNEXATION
+		}
+		prerequisite = { focus = X56_annex_hunan  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			declare_war_on = {
+			    target = CHI
+			    type = annex_everything
+			}
+			
+			
+			
+		}
+	}
+
+	#Grand Alliance of the Pacific
+	focus = {
+		id = X56_grand_alliance_of_the_pacific
+		icon = GFX_goal_generic_alliance
+		x = 26
+		y = 4
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = X56_annex_the_imperial_provinces  }
+		ai_will_do = { factor = 2 }
+		completion_reward = {
+			create_faction = GRAND_ALLIANCE_PACIFIC
+			add_to_faction = JAP
+			
+			add_to_faction = SIA
+			
+			add_to_faction = MEX
+			
+			add_to_faction = CAL
+			
+			add_to_faction = X61
+			
+			add_to_faction = COL
+			
+			add_to_faction = X66
+			
+			
+		}
+	}
+
+	#Avenge the Siberian Humiliation
+	focus = {
+		id = X56_avenge_the_siberian_humiliation
+		icon = GFX_focus_eng_expose_the_belly_of_the_bear
+		x = 23
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_ANNEXATION
+		}
+		prerequisite = { focus = X56_grand_alliance_of_the_pacific  } prerequisite = { focus = X56_education_reforms  } prerequisite = { focus = X56_local_voting  }
+		ai_will_do = { factor = 4 }
+		completion_reward = {
+			declare_war_on = {
+			    target = SOV
+			    type = annex_everything
+			}
+			
+			
+			
+		}
+	}
+
+	#Avenge the Indian Wars
+	focus = {
+		id = X56_avenge_the_indian_wars
+		icon = GFX_focus_RAJ_all_india_forward_bloc
+		x = 25
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_ANNEXATION
+		}
+		prerequisite = { focus = X56_local_voting  } prerequisite = { focus = X56_education_reforms  } prerequisite = { focus = X56_grand_alliance_of_the_pacific  }
+		ai_will_do = { factor = 4 }
+		completion_reward = {
+			declare_war_on = {
+			    target = UAE
+			    type = annex_everything
+			}
+			
+			
+			
+		}
 	}
 
 }
