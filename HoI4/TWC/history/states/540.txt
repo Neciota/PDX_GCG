@@ -2,35 +2,31 @@
 state={
 	id=540
 	name="STATE_540"
+	resources={
+		steel=74.000
+	}
 
 	history={
-		owner = POL
+		owner = PRE
 		victory_points = {
-			362 10 
+			514 1 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			362 = {
-				naval_base = 6
-			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = KSH
-		add_core_of = POL
 		add_core_of = PRE
 	}
 
 	provinces={
-		334 362 389 3295 3324 6347 9263 
+		514 573 3514 3535 6559 9441 9471 9535 11481 
 	}
-	manpower=425656
+	manpower=2689128
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 
 	local_supplies=10.0
 }

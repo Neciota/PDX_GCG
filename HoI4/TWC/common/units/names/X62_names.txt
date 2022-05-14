@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
+			"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 		}
 	}
 

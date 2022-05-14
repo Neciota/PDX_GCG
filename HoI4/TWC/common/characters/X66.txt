@@ -1,30 +1,6 @@
 characters={
-	X66_hussain_singh={
-		name=X66_hussain_singh
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	X66_rai_bachittar={
-		name=X66_rai_bachittar
-		corps_commander={
-			skill=3
-			attack_skill=1
-			defense_skill=4
-			planning_skill=1
-			logistics_skill=5
-			legacy_id=0
-		}
-	}
-
-	X66_malik_ur={
-		name=X66_malik_ur
+	X66_singu_myo={
+		name=X66_singu_myo
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -35,27 +11,51 @@ characters={
 		}
 	}
 
-	X66_sawai_tiwana={
-		name=X66_sawai_tiwana
-		navy_leader={
-			skill=2
+	X66_thibaw_bandula={
+		name=X66_thibaw_bandula
+		corps_commander={
+			skill=1
 			attack_skill=1
-			defense_skill=3
-			maneuvering_skill=1
-			coordination_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X66_muhammad_tiwana={
-		name=X66_muhammad_tiwana
+	X66_maung_min={
+		name=X66_maung_min
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X66_mindon_myo={
+		name=X66_mindon_myo
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	X66_maha_myo={
+		name=X66_maha_myo
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_PRF_Bhupinder_Singh.tga"
+				large="gfx/leaders/TIB/Portrait_Tibet_Jamphel_Yeshe_Gyaltsen.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=dictatorship
 			expire="1965.1.1.1"
 			id=-1
 		}

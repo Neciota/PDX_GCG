@@ -3,20 +3,20 @@ state={
 	id=223
 	name="STATE_223"
 	resources={
-		aluminium=0.000
-		steel=7.000
+		aluminium=2.000
+		steel=13.000
 	}
 
 	history={
 		owner = EGY
 		victory_points = {
-			10031 2 
+			1151 2 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 1
-			9957 = {
+			12889 = {
 				naval_base = 10
 			}
 			air_base = 1
@@ -26,9 +26,9 @@ state={
 	}
 
 	provinces={
-		1080 4143 7030 7144 7188 9957 10028 10031 10126 11974 12004 12044 
+		1028 1064 1151 1206 4068 4910 5069 7073 7156 10097 10844 11999 12002 12071 12771 12889 
 	}
-	manpower=1617964
+	manpower=1031748
 	buildings_max_level_factor=1.000
 	state_category=town
 

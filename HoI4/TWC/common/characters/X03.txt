@@ -1,9 +1,9 @@
 characters={
-	X03_tukaroto_wherowhero={
-		name=X03_tukaroto_wherowhero
+	X03_pagan_ne_myo={
+		name=X03_pagan_ne_myo
 		portraits={
 			civilian={
-				large="gfx/leaders/Aborigine_Polynesia/Portrait_HAW_David_Kawananakoa.dds"
+				large="gfx/leaders/BHU/portrait_bhu_jigme_wangchuk.dds"
 			}
 		}
 		country_leader={

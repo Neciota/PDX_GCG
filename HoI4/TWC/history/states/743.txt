@@ -2,35 +2,29 @@
 state={
 	id=743
 	name="STATE_743"
-	resources={
-		oil=15.000
-	}
 
 	history={
-		owner = VEN
+		owner = ARM
 		victory_points = {
-			10912 2 
+			12318 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
-			arms_factory = 1
-			10767 = {
-				naval_base = 10
-			}
-			air_base = 1
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = VEN
-		add_claim_by = COL
+		add_core_of = ARM
+		add_core_of = GRE
 	}
 
 	provinces={
-		1981 5317 7915 8050 10736 10767 10823 10849 10879 10912 
+		652 789 6976 6991 9858 9886 10399 11853 11880 12318 
 	}
-	manpower=1795368
+	manpower=456656
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 
 	local_supplies=10.0
 }

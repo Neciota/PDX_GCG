@@ -1,0 +1,52 @@
+characters={
+	LUX_gustav_schobber={
+		name=LUX_gustav_schobber
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	LUX_michael_benedek={
+		name=LUX_michael_benedek
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	LUX_reinhold_von={
+		name=LUX_reinhold_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LUX_eduard_stolzer={
+		name=LUX_eduard_stolzer
+		portraits={
+			civilian={
+				large="gfx/leaders/HOL/Portrait_Netherlands_Dirk_Jan_de_Geer.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

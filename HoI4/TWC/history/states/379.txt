@@ -3,33 +3,32 @@ state={
 	id=379
 	name="STATE_379"
 	resources={
-		aluminium=3.000
-		rubber=1.000
-		steel=0.000
+		aluminium=0.000
+		chromium=2.000
+		tungsten=2.000
 	}
 
 	history={
-		owner = X57
+		owner = X51
 		victory_points = {
-			8122 1 
+			10311 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			arms_factory = 1
+			air_base = 1
 
 		}
-		add_core_of = X57
-		add_claim_by = X06
+		add_core_of = X51
 	}
 
 	provinces={
-		5013 8065 8122 
+		5019 5063 7060 10311 10511 11950 12114 12226 
 	}
-	manpower=1750892
+	manpower=2575184
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 
 	local_supplies=10.0
 }

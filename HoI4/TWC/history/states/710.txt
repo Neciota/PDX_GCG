@@ -2,27 +2,32 @@
 state={
 	id=710
 	name="STATE_710"
+	resources={
+		steel=84.000
+	}
 
 	history={
-		owner = TUR
+		owner = USA
 		victory_points = {
-			4609 0 
+			10341 10 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 4
 			arms_factory = 0
-			air_base = 0
+			air_base = 7
 
 		}
+		add_core_of = USA
+		add_core_of = X60
 	}
 
 	provinces={
-		4580 4609 4637 10385 10768 
+		703 926 1560 1760 1849 3699 4029 4166 4738 4834 7776 7829 9657 9678 10341 10526 12357 12456 
 	}
-	manpower=562720
+	manpower=3981904
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_city
 
 	local_supplies=10.0
 }

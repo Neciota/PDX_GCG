@@ -3,35 +3,38 @@ state={
 	id=168
 	name="STATE_168"
 	resources={
-		aluminium=11.000
-		chromium=38.000
-		steel=5.000
+		aluminium=20.000
+		oil=350.000
+		steel=19.000
+		tungsten=9.000
 	}
 
 	history={
-		owner = X21
+		owner = CAL
 		victory_points = {
-			940 1 
+			9671 40 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
-			arms_factory = 0
-			1005 = {
-				naval_base = 2
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			9713 = {
+				naval_base = 10
 			}
-			air_base = 0
+			air_base = 10
 
 		}
-		add_core_of = X21
+		add_core_of = CAL
+		add_claim_by = MEX
 	}
 
 	provinces={
-		784 869 940 1005 1119 1122 3788 3876 3983 4008 4127 6807 6877 6894 7143 9755 9763 9811 9861 9878 11792 11860 11907 12013 12016 
+		610 677 710 766 768 781 823 941 986 1432 1562 1601 1651 3588 3644 3677 3678 3784 3840 4331 4518 4657 4727 4799 6482 6665 6681 6694 6699 6745 6757 6772 6861 6876 6881 7517 7667 7986 9637 9671 9697 9713 9730 9814 9855 9911 10159 10387 10483 11658 11698 11757 11763 11795 11859 11876 12303 12374 12425 
 	}
-	manpower=700768
+	manpower=39225460
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

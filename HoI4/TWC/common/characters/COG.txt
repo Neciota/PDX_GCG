@@ -11,11 +11,11 @@ characters={
 		}
 	}
 
-	COG_carlo_di_savoia_aosta={
-		name=COG_carlo_di_savoia_aosta
+	COG_enrico_di_robilant={
+		name=COG_enrico_di_robilant
 		portraits={
 			civilian={
-				large="gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+				large="gfx/leaders/ITA/Portrait_Italy_Victor_Emmanuel_III.dds"
 			}
 		}
 		country_leader={

@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X61_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X61_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X61_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X61_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X61_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X61_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X61_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X61_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X61_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X61_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+		
 	}
 }
 

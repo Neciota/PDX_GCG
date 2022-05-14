@@ -2,34 +2,31 @@
 state={
 	id=280
 	name="STATE_280"
-	resources={
-		steel=19.000
-	}
 
 	history={
-		owner = FRA
+		owner = HAN
 		victory_points = {
-			3495 1 
+			241 1 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			11600 = {
-				naval_base = 4
+			241 = {
+				naval_base = 2
 			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = FRA
+		add_core_of = HAN
 	}
 
 	provinces={
-		503 527 655 3495 3523 3659 9631 9867 11600 11613 
+		241 247 309 336 
 	}
-	manpower=547120
+	manpower=1095340
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

@@ -47,15 +47,15 @@ characters={
 		}
 	}
 
-	GAB_yegor_nikolayevich={
-		name=GAB_yegor_nikolayevich
+	GAB_oleg_gurko={
+		name=GAB_oleg_gurko
 		portraits={
 			civilian={
-				large="gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+				large="gfx/leaders/Eastern_European/Portrait_Belarus_Vladimir_I.tga"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=prussian_const
 			expire="1965.1.1.1"
 			id=-1
 		}

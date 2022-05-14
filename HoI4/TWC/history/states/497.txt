@@ -2,30 +2,35 @@
 state={
 	id=497
 	name="STATE_497"
+	resources={
+		aluminium=4.000
+		steel=6.000
+	}
 
 	history={
-		owner = HOL
+		owner = X58
 		victory_points = {
-			13010 0 
+			4872 0 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			13010 = {
-				naval_base = 6
+			5239 = {
+				naval_base = 1
 			}
-			air_base = 1
+			air_base = 0
 
 		}
+		add_core_of = X58
 	}
 
 	provinces={
-		13010 
+		1848 1873 3721 4218 4426 4790 4872 5119 5239 6728 7185 7782 9615 10585 10605 12145 12636 12688 
 	}
-	manpower=586804
+	manpower=181980
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

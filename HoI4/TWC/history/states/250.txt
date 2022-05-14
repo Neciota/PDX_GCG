@@ -3,32 +3,29 @@ state={
 	id=250
 	name="STATE_250"
 	resources={
-		aluminium=1.000
-		steel=6.000
+		steel=4.000
 	}
 
 	history={
-		owner = W40
+		owner = ENG
 		victory_points = {
-			6778 10 
+			10966 0 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 1
 			industrial_complex = 0
-			arms_factory = 1
-			air_base = 6
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = W40
-		add_core_of = X77
 	}
 
 	provinces={
-		598 3602 6778 6916 9721 9754 10381 11662 11665 11722 
+		1552 2126 4735 7548 8054 10966 
 	}
-	manpower=1506972
+	manpower=613700
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

@@ -1,49 +1,13 @@
 characters={
-	W17_joachim_der={
-		name=W17_joachim_der
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W17_walter_d'aspre={
-		name=W17_walter_d'aspre
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	W17_ernst_von={
-		name=W17_ernst_von
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W17_alexander_von={
-		name=W17_alexander_von
+	W17_zhu_lu={
+		name=W17_zhu_lu
 		portraits={
 			civilian={
-				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+				large="gfx/leaders/CHI/Portrait_China_weng_wenhao.dds"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

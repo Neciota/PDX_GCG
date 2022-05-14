@@ -4,16 +4,16 @@ state={
 	name="STATE_180"
 
 	history={
-		owner = CHI
+		owner = PRC
 		victory_points = {
-			7302 0 
+			13038 0 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			4286 = {
-				naval_base = 1
+			13021 = {
+				naval_base = 10
 			}
 			air_base = 1
 
@@ -21,9 +21,9 @@ state={
 	}
 
 	provinces={
-		4286 7302 12159 13080 
+		4387 7393 13020 13021 13022 13038 13050 13054 13055 13056 13057 
 	}
-	manpower=374240
+	manpower=411968
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 

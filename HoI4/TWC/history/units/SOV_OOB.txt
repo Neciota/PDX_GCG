@@ -270,14 +270,14 @@ units = {
 	}
 	division = {
 		name = "1. Assault Division"
-		location = 3529
+		location = 396
 		division_template = "Assault Division"
 		start_experience_factor = 0.6
 		start_equipment_factor = 1.0
 	}
 	division = {
 		name = "1. Cavalry Brigade"
-		location = 3529
+		location = 396
 		division_template = "Cavalry Brigade"
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0
@@ -319,14 +319,14 @@ units = {
 	}
 	division = {
 		name = "1. Assault Division"
-		location = 6338
+		location = 9370
 		division_template = "Assault Division"
 		start_experience_factor = 0.5
 		start_equipment_factor = 0.9
 	}
 	division = {
 		name = "1. Cavalry Brigade"
-		location = 6338
+		location = 9370
 		division_template = "Cavalry Brigade"
 		start_experience_factor = 0.3
 		start_equipment_factor = 1.0

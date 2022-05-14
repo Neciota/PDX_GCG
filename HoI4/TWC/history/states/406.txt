@@ -3,35 +3,33 @@ state={
 	id=406
 	name="STATE_406"
 	resources={
-		aluminium=96.000
-		oil=580.000
+		steel=0.000
 	}
 
 	history={
-		owner = MEX
+		owner = MOR
 		victory_points = {
-			12341 7 
+			4097 1 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 6
-			arms_factory = 3
-			dockyard = 3
-			10337 = {
-				naval_base = 10
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			989 = {
+				naval_base = 1
 			}
-			air_base = 3
+			air_base = 0
 
 		}
-		add_core_of = MEX
+		add_core_of = MOR
 	}
 
 	provinces={
-		805 1500 1915 1927 1954 1998 2019 2042 2055 2082 3875 3960 3972 4577 4884 4955 5001 5022 5038 5061 5085 6785 6798 6968 6987 7628 7836 7981 8064 9773 9829 9908 9920 10337 10504 10740 10778 10861 10894 12301 12341 12369 12410 12486 12728 12782 12848 12875 12893 
+		989 1111 4097 4154 7116 7173 7958 
 	}
-	manpower=16040228
+	manpower=489468
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=pastoral
 
 	local_supplies=10.0
 }

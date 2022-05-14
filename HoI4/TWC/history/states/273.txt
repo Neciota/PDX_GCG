@@ -3,34 +3,38 @@ state={
 	id=273
 	name="STATE_273"
 	resources={
-		steel=12.000
+		aluminium=5.000
+		chromium=0.000
+		steel=7.000
+		tungsten=0.000
 	}
 
 	history={
-		owner = ENG
+		owner = COR
 		victory_points = {
-			6103 2 
+			6788 15 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-			arms_factory = 1
+			arms_factory = 0
 			dockyard = 1
-			11446 = {
-				naval_base = 6
+			6788 = {
+				naval_base = 10
 			}
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = ENG
+		add_core_of = COR
+		add_core_of = ITA
 	}
 
 	provinces={
-		507 3501 6103 6221 6270 6489 9458 11333 11446 11471 13070 
+		3772 6788 11891 
 	}
-	manpower=5340964
+	manpower=1943444
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=town
 
 	local_supplies=10.0
 }

@@ -1,0 +1,64 @@
+characters={
+	DNZ_hermann_von={
+		name=DNZ_hermann_von
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DNZ_johann_reuter={
+		name=DNZ_johann_reuter
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DNZ_bernhard_heppendorf={
+		name=DNZ_bernhard_heppendorf
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DNZ_august_von={
+		name=DNZ_august_von
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	DNZ_albrecht_groener={
+		name=DNZ_albrecht_groener
+		portraits={
+			civilian={
+				large="gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

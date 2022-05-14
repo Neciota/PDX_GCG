@@ -1,13 +1,49 @@
 characters={
-	SAX_gunther_von_blomberg={
-		name=SAX_gunther_von_blomberg
+	SAX_joachim_der={
+		name=SAX_joachim_der
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_walter_d'aspre={
+		name=SAX_walter_d'aspre
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	SAX_ernst_von={
+		name=SAX_ernst_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAX_alois_gablenz={
+		name=SAX_alois_gablenz
 		portraits={
 			civilian={
-				large="gfx/leaders/Western_European/Portrait_Germany_Wilhelm_V.tga"
+				large="gfx/leaders/Western_European/Portrait_NEE_joseph_kennedy_sr.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

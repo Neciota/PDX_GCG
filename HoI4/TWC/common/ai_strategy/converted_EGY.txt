@@ -52,7 +52,7 @@ converted_diplo_strategies_EGY = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X21"
+		id = "GRE"
 		value = 30
 	}
 	ai_strategy = {
@@ -82,27 +82,22 @@ converted_diplo_strategies_EGY = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X43"
+		id = "NGR"
 		value = 99
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X98"
-		value = 99
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "W33"
+		id = "X74"
 		value = 99
 	}
 	ai_strategy = {
 		type = antagonize
 		id = "CAR"
-		value = 92
+		value = 99
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W10"
+		id = "X83"
 		value = 92
 	}
 	ai_strategy = {
@@ -132,7 +127,7 @@ converted_diplo_strategies_EGY = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X56"
+		id = "CHI"
 		value = 77
 	}
 	ai_strategy = {
@@ -152,12 +147,12 @@ converted_diplo_strategies_EGY = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "W33"
+		id = "CAR"
 		value = 21
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X66"
+		id = "X51"
 		value = 121
 	}
 	ai_strategy = {

@@ -128,7 +128,7 @@ lar_local_recruitment = {
 	visible = { has_done_agency_upgrade = upgrade_training_centers }
 	visibility_type = map_and_decisions_view
 	on_map_area = {
-		state = 453
+		state = 432
 		name = LAR_recruitment_europe
 		zoom = 650
 
@@ -140,7 +140,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 714
+		state = 707
 		name = LAR_recruitment_north_america
 		zoom = 850
 
@@ -152,7 +152,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 558
+		state = 551
 		name = LAR_recruitment_south_america
 		zoom = 850
 
@@ -164,7 +164,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 641
+		state = 630
 		name = LAR_recruitment_africa
 		zoom = 850
 
@@ -176,7 +176,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 362
+		state = 341
 		name = LAR_recruitment_asia
 		zoom = 850
 
@@ -191,7 +191,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 90
+		state = 89
 		name = LAR_recruitment_oceania
 		zoom = 850
 
@@ -203,7 +203,7 @@ lar_local_recruitment = {
 		}
 	}
 	on_map_area = {
-		state = 115
+		state = 114
 		name = LAR_recruitment_india
 		zoom = 850
 
@@ -252,13 +252,6 @@ democratic_on_the_rise = {
 
 fascism_on_the_rise = {
 	icon = generic_fascism
-	allowed = {
-		always = yes
-	}
-}
-
-radical_on_the_rise = {
-	icon = generic_communism
 	allowed = {
 		always = yes
 	}

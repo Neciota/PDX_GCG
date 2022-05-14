@@ -2,34 +2,27 @@
 state={
 	id=333
 	name="STATE_333"
-	resources={
-		chromium=88.000
-	}
 
 	history={
-		owner = JAP
+		owner = CHI
 		victory_points = {
-			10020 10 
+			4504 4 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 6
+			infrastructure = 4
+			industrial_complex = 5
 			arms_factory = 2
-			dockyard = 2
-			1025 = {
-				naval_base = 10
-			}
-			air_base = 8
+			air_base = 2
 
 		}
-		add_core_of = JAP
-		add_core_of = X83
+		add_core_of = CHI
+		add_core_of = PRC
 	}
 
 	provinces={
-		1020 1025 1158 1183 4027 4102 4164 4198 7110 7178 9950 10011 10020 10092 11925 11949 12006 12032 
+		1010 1474 1884 4325 4504 4532 7521 7549 7577 8095 9939 10616 10763 10819 
 	}
-	manpower=8752264
+	manpower=7682352
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

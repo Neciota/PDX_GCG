@@ -35,8 +35,8 @@ characters={
 		}
 	}
 
-	SWI_konstantin_tavel={
-		name=SWI_konstantin_tavel
+	SWI_josef_calonder={
+		name=SWI_josef_calonder
 		portraits={
 			civilian={
 				large="gfx/leaders/GER/Portrait_Germany_Heinrich_Himmler.dds"

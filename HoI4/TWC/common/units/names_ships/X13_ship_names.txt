@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X13_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X13_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X13_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X13_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X13_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X13_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X13_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X13_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X13_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X13_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+		
 	}
 }
 

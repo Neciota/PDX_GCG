@@ -3,28 +3,32 @@ state={
 	id=397
 	name="STATE_397"
 	resources={
-		tungsten=3.000
+		chromium=0.000
 	}
 
 	history={
-		owner = X66
+		owner = MEX
 		victory_points = {
-			5086 4 
+			8017 7 
 		}
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 4
-			arms_factory = 2
-			air_base = 2
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			8017 = {
+				naval_base = 10
+			}
+			air_base = 4
 
 		}
-		add_core_of = X66
+		add_core_of = MEX
 	}
 
 	provinces={
-		4915 5086 12137 
+		8017 
 	}
-	manpower=6303448
+	manpower=1837796
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

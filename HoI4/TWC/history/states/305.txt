@@ -3,34 +3,34 @@ state={
 	id=305
 	name="STATE_305"
 	resources={
-		chromium=0.000
+		steel=2.000
+		tungsten=9.000
 	}
 
 	history={
-		owner = HON
+		owner = JAP
 		victory_points = {
-			12738 1 
+			7155 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 1
-			12738 = {
+			industrial_complex = 1
+			arms_factory = 0
+			4107 = {
 				naval_base = 10
 			}
 			air_base = 1
 
 		}
-		add_core_of = HON
-		add_core_of = MEX
+		add_core_of = KOR
 	}
 
 	provinces={
-		12738 
+		1003 4107 7070 7155 9981 10065 11915 12040 
 	}
-	manpower=2269904
+	manpower=4439032
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_city
 
 	local_supplies=10.0
 }

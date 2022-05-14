@@ -3,30 +3,33 @@ state={
 	id=410
 	name="STATE_410"
 	resources={
-		steel=8.000
+		steel=7.000
 	}
 
 	history={
-		owner = MEX
+		owner = MOR
 		victory_points = {
-			12827 3 
+			1145 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 3
-			arms_factory = 1
-			air_base = 2
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			1145 = {
+				naval_base = 4
+			}
+			air_base = 1
 
 		}
-		add_core_of = MEX
+		add_core_of = MOR
 	}
 
 	provinces={
-		2037 4898 7935 8097 10809 10830 10916 12745 12827 12850 12897 
+		1145 1160 4046 7081 7166 10078 11939 12051 
 	}
-	manpower=5389976
+	manpower=799340
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=rural
 
 	local_supplies=10.0
 }

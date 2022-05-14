@@ -321,7 +321,7 @@ units = {
 		name = "3. Infantry Division"
 		location = 12790
 		division_template = "Infantry Division"
-		start_experience_factor = 0.4
+		start_experience_factor = 0.5
 		start_equipment_factor = 0.8
 	}
 	division = {
@@ -342,7 +342,7 @@ units = {
 		name = "6. Infantry Division"
 		location = 12790
 		division_template = "Infantry Division"
-		start_experience_factor = 0.6
+		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	division = {
@@ -356,21 +356,21 @@ units = {
 		name = "8. Infantry Division"
 		location = 12790
 		division_template = "Infantry Division"
-		start_experience_factor = 0.5
+		start_experience_factor = 0.6
 		start_equipment_factor = 1.0
 	}
 	division = {
 		name = "9. Infantry Division"
 		location = 12790
 		division_template = "Infantry Division"
-		start_experience_factor = 0.6
+		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	division = {
 		name = "10. Infantry Division"
 		location = 12790
 		division_template = "Infantry Division"
-		start_experience_factor = 0.6
+		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	division = {
@@ -384,7 +384,7 @@ units = {
 		name = "2. Infantry Brigade"
 		location = 12790
 		division_template = "Infantry Brigade"
-		start_experience_factor = 0.5
+		start_experience_factor = 0.6
 		start_equipment_factor = 1.0
 	}
 	division = {

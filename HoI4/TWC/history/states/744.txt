@@ -3,30 +3,31 @@ state={
 	id=744
 	name="STATE_744"
 	resources={
-		aluminium=3.000
+		steel=3.000
 	}
 
 	history={
-		owner = VEN
+		owner = ARM
 		victory_points = {
-			10934 2 
+			9868 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 1
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = VEN
+		add_core_of = ARM
+		add_core_of = GRE
 	}
 
 	provinces={
-		2198 5083 5214 5232 8185 8254 10934 12919 12965 13083 
+		3979 6919 9868 9954 11797 
 	}
-	manpower=1183652
+	manpower=860064
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 
 	local_supplies=10.0
 }

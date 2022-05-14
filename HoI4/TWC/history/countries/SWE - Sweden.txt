@@ -1,4 +1,4 @@
-﻿capital = 679
+﻿capital = 672
 set_research_slots = 3
 add_named_threat = { threat = 0.2634 name = infamy }
 
@@ -108,7 +108,7 @@ add_equipment_to_stockpile = { type = infantry_equipment_0 amount = 2 producer =
 
 set_politics = {
     ruling_party = democratic
-    last_election = "1932.4.18"
+    last_election = "1932.5.18"
     election_frequency = 48
     elections_allowed = yes
 }
@@ -119,7 +119,6 @@ set_popularities = {
 	democratic = 78
 	fascism = 9
 	neutrality = 5
-	radical = 0
 }
 
 # DIPLOMACY
@@ -128,12 +127,12 @@ if = {
         has_dlc = "Together for Victory"
     }
     set_autonomy = {
-        target = X40
+        target = COR
         autonomous_state = autonomy_puppet
         freedom_level = 0.4
     }
     else = {
-        puppet = X40
+        puppet = COR
     }
 }
 
@@ -146,10 +145,8 @@ if = {
 give_guarantee = POL
 diplomatic_relation = { country = POL relation = non_aggression_pact }
 
-give_guarantee = SOV
-diplomatic_relation = { country = SOV relation = non_aggression_pact }
-
 add_opinion_modifier = { target = AFG modifier = negative_100 }
+add_opinion_modifier = { target = ARM modifier = negative_200 }
 add_opinion_modifier = { target = AST modifier = negative_10 }
 add_opinion_modifier = { target = AUS modifier = negative_135 }
 add_opinion_modifier = { target = BAS modifier = positive_5 }
@@ -160,17 +157,24 @@ add_opinion_modifier = { target = BRA modifier = positive_60 }
 add_opinion_modifier = { target = BUL modifier = negative_200 }
 add_opinion_modifier = { target = CAL modifier = positive_40 }
 add_opinion_modifier = { target = CAR modifier = negative_200 }
+add_opinion_modifier = { target = CAT modifier = negative_135 }
+add_opinion_modifier = { target = CHI modifier = positive_185 }
 add_opinion_modifier = { target = COG modifier = negative_170 }
 add_opinion_modifier = { target = COL modifier = negative_45 }
+add_opinion_modifier = { target = COR modifier = positive_200 }
 add_opinion_modifier = { target = CRO modifier = negative_55 }
 add_opinion_modifier = { target = CYP modifier = negative_200 }
+add_opinion_modifier = { target = CZE modifier = negative_53 }
 add_opinion_modifier = { target = DAH modifier = negative_150 }
+add_opinion_modifier = { target = DDR modifier = negative_15 }
 add_opinion_modifier = { target = DEN modifier = positive_132 }
+add_opinion_modifier = { target = DNZ modifier = negative_70 }
 add_opinion_modifier = { target = EGY modifier = negative_50 }
 add_opinion_modifier = { target = ENG modifier = negative_42 }
 add_opinion_modifier = { target = FRA modifier = negative_200 }
 add_opinion_modifier = { target = GAB modifier = negative_119 }
 add_opinion_modifier = { target = GHA modifier = negative_150 }
+add_opinion_modifier = { target = GRE modifier = negative_10 }
 add_opinion_modifier = { target = HAN modifier = negative_40 }
 add_opinion_modifier = { target = HOL modifier = positive_200 }
 add_opinion_modifier = { target = HON modifier = positive_20 }
@@ -179,71 +183,60 @@ add_opinion_modifier = { target = ITA modifier = negative_200 }
 add_opinion_modifier = { target = JAP modifier = positive_90 }
 add_opinion_modifier = { target = LBA modifier = negative_40 }
 add_opinion_modifier = { target = LEB modifier = negative_150 }
+add_opinion_modifier = { target = LUX modifier = negative_87 }
+add_opinion_modifier = { target = MEK modifier = positive_15 }
 add_opinion_modifier = { target = MEX modifier = positive_180 }
 add_opinion_modifier = { target = MOR modifier = negative_117 }
 add_opinion_modifier = { target = NEP modifier = negative_150 }
 add_opinion_modifier = { target = NGA modifier = negative_195 }
+add_opinion_modifier = { target = NGR modifier = negative_80 }
 add_opinion_modifier = { target = NIC modifier = positive_20 }
 add_opinion_modifier = { target = NZL modifier = positive_5 }
+add_opinion_modifier = { target = PAL modifier = negative_190 }
 add_opinion_modifier = { target = POL modifier = positive_135 }
 add_opinion_modifier = { target = PRE modifier = negative_200 }
 add_opinion_modifier = { target = SER modifier = negative_10 }
+add_opinion_modifier = { target = SHL modifier = negative_35 }
 add_opinion_modifier = { target = SIA modifier = positive_50 }
 add_opinion_modifier = { target = SIK modifier = negative_160 }
+add_opinion_modifier = { target = SIL modifier = negative_177 }
 add_opinion_modifier = { target = SLV modifier = negative_200 }
-add_opinion_modifier = { target = SOV modifier = positive_192 }
+add_opinion_modifier = { target = SOV modifier = positive_102 }
 add_opinion_modifier = { target = SPR modifier = negative_80 }
 add_opinion_modifier = { target = SWI modifier = negative_94 }
 add_opinion_modifier = { target = TEX modifier = positive_20 }
+add_opinion_modifier = { target = TMS modifier = negative_10 }
 add_opinion_modifier = { target = TUR modifier = negative_200 }
 add_opinion_modifier = { target = UAE modifier = negative_21 }
 add_opinion_modifier = { target = USA modifier = positive_30 }
 add_opinion_modifier = { target = VEN modifier = positive_5 }
-add_opinion_modifier = { target = W01 modifier = positive_125 }
-add_opinion_modifier = { target = W02 modifier = negative_35 }
-add_opinion_modifier = { target = W04 modifier = negative_200 }
-add_opinion_modifier = { target = W05 modifier = negative_10 }
-add_opinion_modifier = { target = W13 modifier = positive_15 }
-add_opinion_modifier = { target = W15 modifier = negative_200 }
-add_opinion_modifier = { target = W18 modifier = negative_135 }
-add_opinion_modifier = { target = W20 modifier = negative_200 }
-add_opinion_modifier = { target = W23 modifier = positive_50 }
-add_opinion_modifier = { target = W26 modifier = negative_65 }
-add_opinion_modifier = { target = W33 modifier = negative_200 }
-add_opinion_modifier = { target = X01 modifier = negative_87 }
-add_opinion_modifier = { target = X02 modifier = negative_150 }
-add_opinion_modifier = { target = X09 modifier = positive_20 }
-add_opinion_modifier = { target = X10 modifier = negative_200 }
-add_opinion_modifier = { target = X12 modifier = negative_150 }
-add_opinion_modifier = { target = X14 modifier = negative_195 }
-add_opinion_modifier = { target = X15 modifier = negative_80 }
-add_opinion_modifier = { target = X17 modifier = negative_70 }
-add_opinion_modifier = { target = X18 modifier = negative_200 }
-add_opinion_modifier = { target = X19 modifier = negative_55 }
-add_opinion_modifier = { target = X21 modifier = negative_10 }
-add_opinion_modifier = { target = X34 modifier = negative_53 }
-add_opinion_modifier = { target = X35 modifier = positive_30 }
-add_opinion_modifier = { target = X36 modifier = negative_200 }
-add_opinion_modifier = { target = X37 modifier = negative_20 }
-add_opinion_modifier = { target = X40 modifier = positive_200 }
-add_opinion_modifier = { target = X43 modifier = negative_80 }
-add_opinion_modifier = { target = X44 modifier = negative_10 }
-add_opinion_modifier = { target = X56 modifier = positive_185 }
-add_opinion_modifier = { target = X57 modifier = positive_20 }
-add_opinion_modifier = { target = X60 modifier = negative_50 }
-add_opinion_modifier = { target = X61 modifier = positive_10 }
-add_opinion_modifier = { target = X65 modifier = negative_200 }
-add_opinion_modifier = { target = X74 modifier = negative_177 }
-add_opinion_modifier = { target = X76 modifier = positive_5 }
-add_opinion_modifier = { target = X84 modifier = negative_200 }
-add_opinion_modifier = { target = X85 modifier = negative_190 }
-add_opinion_modifier = { target = X86 modifier = negative_10 }
-add_opinion_modifier = { target = X88 modifier = positive_50 }
-add_opinion_modifier = { target = X91 modifier = negative_100 }
-add_opinion_modifier = { target = X93 modifier = positive_42 }
-add_opinion_modifier = { target = X95 modifier = negative_15 }
-add_opinion_modifier = { target = X96 modifier = negative_200 }
-add_opinion_modifier = { target = X98 modifier = positive_30 }
+add_opinion_modifier = { target = VGE modifier = negative_80 }
+add_opinion_modifier = { target = VOL modifier = positive_20 }
+add_opinion_modifier = { target = WGR modifier = negative_195 }
+add_opinion_modifier = { target = WUR modifier = negative_200 }
+add_opinion_modifier = { target = X01 modifier = negative_150 }
+add_opinion_modifier = { target = X08 modifier = positive_20 }
+add_opinion_modifier = { target = X09 modifier = negative_200 }
+add_opinion_modifier = { target = X11 modifier = negative_150 }
+add_opinion_modifier = { target = X14 modifier = negative_200 }
+add_opinion_modifier = { target = X15 modifier = negative_55 }
+add_opinion_modifier = { target = X30 modifier = negative_200 }
+add_opinion_modifier = { target = X31 modifier = negative_20 }
+add_opinion_modifier = { target = X35 modifier = negative_10 }
+add_opinion_modifier = { target = X46 modifier = negative_50 }
+add_opinion_modifier = { target = X47 modifier = positive_10 }
+add_opinion_modifier = { target = X50 modifier = negative_200 }
+add_opinion_modifier = { target = X57 modifier = positive_5 }
+add_opinion_modifier = { target = X64 modifier = negative_10 }
+add_opinion_modifier = { target = X66 modifier = positive_50 }
+add_opinion_modifier = { target = X69 modifier = negative_100 }
+add_opinion_modifier = { target = X71 modifier = positive_42 }
+add_opinion_modifier = { target = X72 modifier = negative_200 }
+add_opinion_modifier = { target = X74 modifier = positive_30 }
+add_opinion_modifier = { target = X77 modifier = positive_125 }
+add_opinion_modifier = { target = X78 modifier = negative_200 }
+add_opinion_modifier = { target = X90 modifier = positive_50 }
+add_opinion_modifier = { target = X93 modifier = negative_65 }
 
 
 add_ideas = {
@@ -259,14 +252,14 @@ recruit_character = SWE_henrik_vega
 recruit_character = SWE_gunnar_dyrssen
 recruit_character = SWE_viktor_nordenskiold
 recruit_character = SWE_verner_lindman
-recruit_character = SWE_julius_leijonhufvud
+recruit_character = SWE_gustav_ingelman
 
 if = {
 	limit = {
 		has_dlc = "La Resistance"
 	}
 	create_operative_leader = {
-		name = "Eira Sprengtportem"
+		name = "Sara Tingsten"
 		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
 		traits = {}
 		bypass_recruitment = no
@@ -276,7 +269,7 @@ if = {
 	}
 
 	create_operative_leader = {
-		name = "Sara Tingsten"
+		name = "Anna Lindman"
 		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
 		traits = {}
 		bypass_recruitment = no
@@ -286,7 +279,7 @@ if = {
 	}
 
 	create_operative_leader = {
-		name = "Anna Lindman"
+		name = "Caroline Virgin"
 		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
 		traits = {}
 		bypass_recruitment = no
@@ -296,7 +289,7 @@ if = {
 	}
 
 	create_operative_leader = {
-		name = "Viktor Virgin"
+		name = "Viktor Brahe"
 		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
 		traits = {}
 		bypass_recruitment = no
@@ -305,7 +298,7 @@ if = {
 	}
 
 	create_operative_leader = {
-		name = "Viktor Brahe"
+		name = "Julius Leijonhufvud"
 		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
 		traits = {}
 		bypass_recruitment = no

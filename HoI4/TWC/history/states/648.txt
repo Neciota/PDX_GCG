@@ -3,36 +3,36 @@ state={
 	id=648
 	name="STATE_648"
 	resources={
-		aluminium=50.000
-		chromium=16.000
+		chromium=5.000
+		steel=5.000
+		tungsten=13.000
 	}
 
 	history={
-		owner = SER
+		owner = SIA
 		victory_points = {
-			9809 15 
+			4379 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 2
+			industrial_complex = 0
 			arms_factory = 0
-			9821 = {
-				naval_base = 10
+			dockyard = 1
+			10309 = {
+				naval_base = 4
 			}
-			air_base = 6
+			air_base = 0
 
 		}
-		add_core_of = SER
-		add_core_of = X21
-		add_claim_by = ITA
+		add_core_of = SIA
 	}
 
 	provinces={
-		937 6913 9809 9821 11858 
+		1248 1300 1302 1328 1400 1605 4255 4334 4363 4379 4397 4405 7229 7280 7380 10137 10162 10180 10309 12109 12297 
 	}
-	manpower=1044028
+	manpower=2054360
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

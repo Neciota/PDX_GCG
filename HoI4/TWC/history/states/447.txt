@@ -3,32 +3,35 @@ state={
 	id=447
 	name="STATE_447"
 	resources={
-		chromium=2.000
+		aluminium=4.000
+		rubber=1.000
 		steel=1.000
-		tungsten=1.000
 	}
 
 	history={
-		owner = NEP
+		owner = HOL
 		victory_points = {
-			7374 15 
+			12858 0 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
+			infrastructure = 3
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 5
+			12858 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = NEP
+		add_core_of = X32
 	}
 
 	provinces={
-		4386 4435 4987 5310 7374 10825 10910 12892 
+		1909 12802 12858 
 	}
-	manpower=1393592
+	manpower=3593060
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

@@ -2,37 +2,28 @@
 state={
 	id=766
 	name="STATE_766"
-	resources={
-		aluminium=2.000
-		chromium=1.000
-		rubber=7.000
-		tungsten=6.000
-	}
 
 	history={
-		owner = W24
+		owner = KAZ
 		victory_points = {
-			7391 15 
+			7392 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			1321 = {
-				naval_base = 4
-			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = W08
+		add_core_of = KAZ
 	}
 
 	provinces={
-		1238 1321 7391 7402 7447 12275 
+		1243 1312 4277 7354 7392 10179 10220 10275 10277 12121 12177 
 	}
-	manpower=4930704
+	manpower=88280
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=rural
 
 	local_supplies=10.0
 }

@@ -3,39 +3,31 @@ state={
 	id=369
 	name="STATE_369"
 	resources={
-		aluminium=1.000
-		rubber=3.000
-		steel=0.000
-		tungsten=3.000
+		oil=42.000
 	}
 
 	history={
-		owner = X56
+		owner = X46
 		victory_points = {
-			4196 7 
+			1352 15 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 7
-			arms_factory = 2
-			dockyard = 3
-			7071 = {
-				naval_base = 10
-			}
-			air_base = 3
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
 
 		}
-		add_core_of = CHI
-		add_core_of = X45
-		add_core_of = X56
+		add_core_of = MEX
+		add_core_of = X46
 	}
 
 	provinces={
-		1006 1094 1138 1166 1193 4053 4070 4099 4113 4169 4196 7027 7071 7099 7131 10010 10012 10042 10054 10069 10084 10093 11961 11986 12057 12084 
+		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
 	}
-	manpower=18575164
+	manpower=5458852
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=metropolis
 
 	local_supplies=10.0
 }

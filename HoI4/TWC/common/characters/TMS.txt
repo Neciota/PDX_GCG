@@ -1,13 +1,49 @@
 characters={
-	TMS_murad_beg={
-		name=TMS_murad_beg
+	TMS_iltazar_bahadur={
+		name=TMS_iltazar_bahadur
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TMS_quli_bahadur={
+		name=TMS_quli_bahadur
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TMS_allah_khan={
+		name=TMS_allah_khan
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	TMS_alimqul_khan={
+		name=TMS_alimqul_khan
 		portraits={
 			civilian={
-				large="gfx/leaders/TUR/portrait_tur_abdulmejid_ii.dds"
+				large="gfx/leaders/TUR/Portrait_Turkey_Ismet_Inonu.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

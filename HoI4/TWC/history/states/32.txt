@@ -24,7 +24,7 @@ state={
 
 		}
 		add_core_of = BRM
-		add_core_of = X04
+		add_core_of = X03
 	}
 
 	provinces={

@@ -2,32 +2,31 @@
 state={
 	id=444
 	name="STATE_444"
-	resources={
-		steel=12.000
-	}
 
 	history={
-		owner = X74
+		owner = HOL
 		victory_points = {
-			3444 1 
+			7542 0 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
+			4593 = {
+				naval_base = 8
+			}
 			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = X74
+		add_core_of = PNG
 	}
 
 	provinces={
-		3444 9522 
+		1546 1602 1617 1629 4468 4509 4524 4552 4593 7269 7487 7512 7529 7542 7570 7585 7627 8235 8250 10369 10396 10436 10505 10990 12315 12371 12386 12457 
 	}
-	manpower=615000
+	manpower=1013584
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

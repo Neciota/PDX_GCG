@@ -2,28 +2,35 @@
 state={
 	id=356
 	name="STATE_356"
+	resources={
+		aluminium=7.000
+		rubber=1.000
+		steel=1.000
+	}
 
 	history={
-		owner = X56
+		owner = VOL
 		victory_points = {
-			10750 0 
+			8116 10 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
 
 		}
-		add_core_of = CHI
+		add_core_of = VOL
+		add_core_of = X38
+		add_claim_by = GHA
 	}
 
 	provinces={
-		1882 2053 2099 4536 4914 4964 7270 7940 7997 8018 8037 10490 10750 10796 10834 10865 11448 12815 12846 12890 12899 
+		2001 7950 7983 8071 8116 10836 12851 
 	}
-	manpower=5982916
+	manpower=5326248
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=metropolis
 
 	local_supplies=10.0
 }

@@ -1,7 +1,7 @@
 ITA_OPERATIVE_CODENAME_HISTORICAL = {
 	name = ITA_OPERATIVE_CODENAME_HISTORICAL
 
-	for_countries = { CAR COG ITA W01 X38 X40 }
+	for_countries = { COG COR ITA X77 }
 
 	type = codename
 

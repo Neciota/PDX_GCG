@@ -16,13 +16,13 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
-		value = 70
+		id = "VOL"
+		value = 97
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X57"
-		value = 67
+		id = "X08"
+		value = 70
 	}
 	ai_strategy = {
 		type = conquer
@@ -31,12 +31,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X84"
-		value = 30
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X21"
+		id = "GRE"
 		value = 24
 	}
 	ai_strategy = {
@@ -77,12 +72,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X84"
-		value = 183
-	}
-	ai_strategy = {
-		type = contain
-		id = "X57"
+		id = "VOL"
 		value = 136
 	}
 	ai_strategy = {
@@ -92,7 +82,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X43"
+		id = "NGR"
 		value = 13
 	}
 	ai_strategy = {
@@ -102,7 +92,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X98"
+		id = "X74"
 		value = 13
 	}
 	ai_strategy = {
@@ -112,7 +102,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X57"
+		id = "VOL"
 		value = 97
 	}
 	ai_strategy = {
@@ -122,7 +112,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 21
 	}
 	ai_strategy = {
@@ -132,7 +122,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X21"
+		id = "GRE"
 		value = 7
 	}
 	ai_strategy = {
@@ -152,7 +142,7 @@ converted_diplo_strategies_DAH = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X98"
+		id = "X74"
 		value = 200
 	}
 	ai_strategy = {
@@ -171,28 +161,23 @@ converted_diplo_strategies_DAH = {
 		value = 12
 	}
 	ai_strategy = {
-		type = protect
-		id = "X84"
-		value = 140
-	}
-	ai_strategy = {
 		type = declare_war
-		id = "X58"
+		id = "X44"
 		value = 52
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "W10"
+		id = "X83"
 		value = 49
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X43"
+		id = "NGR"
 		value = 29
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X98"
+		id = "X74"
 		value = 22
 	}
 }

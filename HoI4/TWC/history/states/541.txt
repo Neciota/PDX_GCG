@@ -6,28 +6,26 @@ state={
 	history={
 		owner = PRE
 		victory_points = {
-			6389 1 
+			6332 1 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
 			dockyard = 1
-			6389 = {
-				naval_base = 10
+			6332 = {
+				naval_base = 8
 			}
 			air_base = 1
 
 		}
-		add_core_of = GER
 		add_core_of = PRE
-		add_core_of = W02
 	}
 
 	provinces={
-		3231 3368 6257 6389 9320 11331 
+		266 281 348 395 3288 3384 6332 6375 9327 9346 9372 9398 11245 11265 11386 
 	}
-	manpower=850272
+	manpower=1282528
 	buildings_max_level_factor=1.000
 	state_category=rural
 

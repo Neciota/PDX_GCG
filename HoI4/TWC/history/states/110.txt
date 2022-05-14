@@ -2,14 +2,11 @@
 state={
 	id=110
 	name="STATE_110"
-	resources={
-		aluminium=4.000
-	}
 
 	history={
 		owner = AUS
 		victory_points = {
-			596 0 
+			9611 1 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,13 +15,14 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = SLV
+		add_core_of = AUS
+		add_core_of = X93
 	}
 
 	provinces={
-		596 665 3654 6672 
+		3627 9611 11594 
 	}
-	manpower=340656
+	manpower=347272
 	buildings_max_level_factor=1.000
 	state_category=rural
 

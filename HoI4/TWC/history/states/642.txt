@@ -2,30 +2,31 @@
 state={
 	id=642
 	name="STATE_642"
+	resources={
+		aluminium=1.000
+		rubber=0.000
+		steel=0.000
+	}
 
 	history={
-		owner = SOV
+		owner = X74
 		victory_points = {
-			1664 1 
+			12707 15 
 		}
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			4669 = {
-				naval_base = 1
-			}
-			air_base = 0
+			air_base = 5
 
 		}
-		add_core_of = SOV
+		add_core_of = X74
 	}
 
 	provinces={
-		96 1664 1684 1729 1757 3169 3415 4669 4761 7689 7738 7781 7809 8461 9142 10536 10561 10564 12517 12545 
+		12707 
 	}
-	manpower=629000
+	manpower=591036
 	buildings_max_level_factor=1.000
 	state_category=rural
 

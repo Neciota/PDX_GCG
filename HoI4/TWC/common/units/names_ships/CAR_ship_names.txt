@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ CAR_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ CAR_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ CAR_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ CAR_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ CAR_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ CAR_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ CAR_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ CAR_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ CAR_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ CAR_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Azande" "Baramo" "Nzambi" "Yambio" "Upemba" "Mwari" "Mulopwe" "Mulungu" "Mbonga" "Mutare" "Mazendere" "Mboko" "Musikavanhu" "Mutorwa" 
+		
 	}
 }
 

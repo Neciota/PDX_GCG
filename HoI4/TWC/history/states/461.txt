@@ -2,33 +2,28 @@
 state={
 	id=461
 	name="STATE_461"
-	resources={
-		oil=4.000
-		rubber=47.000
-	}
 
 	history={
-		owner = W44
+		owner = HOL
 		victory_points = {
-			12129 0 
+			13002 10 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 0
 			arms_factory = 0
-			12129 = {
-				naval_base = 10
+			13002 = {
+				naval_base = 1
 			}
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = W44
 	}
 
 	provinces={
-		1230 1304 1316 2170 2222 4279 4335 4409 7227 8221 10282 10310 12129 12955 
+		13002 
 	}
-	manpower=1153560
+	manpower=19516
 	buildings_max_level_factor=1.000
 	state_category=rural
 

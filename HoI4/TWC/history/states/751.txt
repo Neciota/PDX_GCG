@@ -3,31 +3,30 @@ state={
 	id=751
 	name="STATE_751"
 	resources={
-		steel=3.000
+		tungsten=2.000
 	}
 
 	history={
-		owner = W15
+		owner = X88
 		victory_points = {
-			9868 1 
+			8010 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 			industrial_complex = 0
 			arms_factory = 0
 			air_base = 0
 
 		}
-		add_core_of = W15
-		add_core_of = X21
+		add_core_of = X88
 	}
 
 	provinces={
-		3979 6919 9868 9954 11797 
+		8010 12860 
 	}
-	manpower=860064
+	manpower=378344
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

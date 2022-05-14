@@ -4,6 +4,41 @@
 		always = no
 	}
 	
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 1039
+	}
+	ai_strategy = {
+		type = conquer
+		id = "GHA"
+		value = 489
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 156
+	}
+	ai_strategy = {
+		type = conquer
+		id = "UAE"
+		value = 140
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X08"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 6
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 3
+	}
 }
 
 converted_diplo_strategies_X32 = {
@@ -15,4 +50,104 @@ converted_diplo_strategies_X32 = {
 		always = no
 	}
 	
+	ai_strategy = {
+		type = contain
+		id = "HOL"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 180
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 121
+	}
+	ai_strategy = {
+		type = contain
+		id = "GHA"
+		value = 88
+	}
+	ai_strategy = {
+		type = contain
+		id = "VOL"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GHA"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 345
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "UAE"
+		value = 32
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 32
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X08"
+		value = 16
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 1
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "VOL"
+		value = 118
+	}
+	ai_strategy = {
+		type = alliance
+		id = "MOR"
+		value = 111
+	}
+	ai_strategy = {
+		type = alliance
+		id = "UAE"
+		value = 61
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BAN"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GHA"
+		value = 117
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRM"
+		value = 107
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PAK"
+		value = 43
+	}
 }

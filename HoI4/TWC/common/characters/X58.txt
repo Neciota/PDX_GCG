@@ -1,49 +1,13 @@
 characters={
-	X58_nga_ya={
-		name=X58_nga_ya
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X58_pyi_cheng={
-		name=X58_pyi_cheng
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X58_natsu_min={
-		name=X58_natsu_min
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X58_natsu_leng={
-		name=X58_natsu_leng
+	X58_cormag_mackenzie={
+		name=X58_cormag_mackenzie
 		portraits={
 			civilian={
-				large="gfx/leaders/SIA/Portrait_Siam_Phraya_Phahon.dds"
+				large="gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

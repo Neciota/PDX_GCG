@@ -2,34 +2,30 @@
 state={
 	id=660
 	name="STATE_660"
-	resources={
-		aluminium=3.000
-		steel=4.000
-	}
 
 	history={
-		owner = SLV
+		owner = SPR
 		victory_points = {
-			628 0 
+			9764 1 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			628 = {
-				naval_base = 1
+			dockyard = 1
+			9764 = {
+				naval_base = 6
 			}
 			air_base = 1
 
 		}
-		add_core_of = ITA
-		add_claim_by = SLV
+		add_core_of = SPR
 	}
 
 	provinces={
-		628 
+		854 872 897 3898 3899 6812 6836 6865 6927 6966 9764 9797 9824 11779 13223 13225 
 	}
-	manpower=209764
+	manpower=1154924
 	buildings_max_level_factor=1.000
 	state_category=rural
 

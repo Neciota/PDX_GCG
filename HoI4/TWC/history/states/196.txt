@@ -3,31 +3,35 @@ state={
 	id=196
 	name="STATE_196"
 	resources={
-		rubber=1.000
-		tungsten=0.000
+		chromium=160.000
+		steel=4.000
 	}
 
 	history={
-		owner = COG
+		owner = BAS
 		victory_points = {
-			10766 0 
+			7622 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 0
+			dockyard = 1
+			7622 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = COG
+		add_core_of = BAS
 	}
 
 	provinces={
-		1181 1950 2073 2154 4941 6027 7161 10766 10858 12783 12808 12847 
+		1550 4476 4600 7451 7546 7590 7622 10374 10498 12347 
 	}
-	manpower=7278096
+	manpower=4048048
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=large_city
 
 	local_supplies=10.0
 }

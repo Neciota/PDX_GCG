@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel" 
+		"Jan Hus" "Karel IV" "Prokop Veliký" "Anton Bernolák" "Ludovít Štúr" 
 	}
 }
 
@@ -26,7 +26,7 @@ CZE_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Praha" "Brno" "Ostrava" "Plzen" "Liberec" 
+		"Praha" "Brno" "Ostrava" "Bratislava" "Košice" 
 	}
 }
 
@@ -42,7 +42,7 @@ CZE_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Milešovka" "Lovos" "Hazmburk" "Koštálov" "Ceské Stredohorí" 
+		"Milešovka" "Lovos" "Hazmburk" "Beskydok" "Gerlachovský štít" 
 	}
 }
 
@@ -58,7 +58,7 @@ CZE_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Kolodeje" "Chvaly" 
+		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
 	}
 }
 
@@ -74,7 +74,7 @@ CZE_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Kolodeje" "Chvaly" 
+		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
 	}
 }
 
@@ -90,7 +90,7 @@ CZE_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
+		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
 	}
 }
 
@@ -106,7 +106,7 @@ CZE_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
+		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
 	}
 }
 
@@ -122,7 +122,7 @@ CZE_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Jizera" "Metuje" "Morava" "Svratka" "Olza" 
+		"Jizera" "Metuje" "Morava" "Hron" "Bodrog" 
 	}
 }
 
@@ -138,7 +138,7 @@ CZE_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Jizera" "Metuje" "Morava" "Svratka" "Olza" 
+		"Jizera" "Metuje" "Morava" "Hron" "Bodrog" 
 	}
 }
 
@@ -154,7 +154,7 @@ CZE_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Kolodeje" "Chvaly" 
+		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
 	}
 }
 
@@ -170,7 +170,7 @@ CZE_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek" 
+		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Ján Šimbracký" "Zachariáš Zarewutius" 
 	}
 }
 

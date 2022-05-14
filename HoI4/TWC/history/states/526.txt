@@ -2,30 +2,37 @@
 state={
 	id=526
 	name="STATE_526"
+	resources={
+		rubber=2.000
+		steel=4.000
+		tungsten=4.000
+	}
 
 	history={
-		owner = X85
+		owner = X66
 		victory_points = {
-			589 15 
+			7295 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 1
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 6
+			7295 = {
+				naval_base = 4
+			}
+			air_base = 0
 
 		}
-		add_core_of = GER
-		add_core_of = W17
-		add_core_of = X85
+		add_core_of = BRM
+		add_core_of = X66
 	}
 
 	provinces={
-		589 3397 3574 6444 6488 6549 6594 9486 11445 
+		1296 1315 1385 1403 4275 4408 7295 10217 12125 12238 12292 
 	}
-	manpower=4497708
+	manpower=684992
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=pastoral
 
 	local_supplies=10.0
 }

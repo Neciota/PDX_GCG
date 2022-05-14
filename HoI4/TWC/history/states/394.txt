@@ -2,35 +2,33 @@
 state={
 	id=394
 	name="STATE_394"
-	resources={
-		oil=11.000
-		tungsten=28.000
-	}
 
 	history={
-		owner = X61
+		owner = MEX
 		victory_points = {
-			1869 15 
+			12753 7 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 0
-			1869 = {
-				naval_base = 2
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			12867 = {
+				naval_base = 10
 			}
-			air_base = 5
+			air_base = 4
 
 		}
-		add_core_of = X61
+		add_core_of = MEX
+		add_claim_by = W00
 	}
 
 	provinces={
-		1214 1323 1393 1420 1799 1858 1869 1872 4385 4870 7259 10228 10258 10273 10548 12231 12259 12272 12508 12571 
+		1900 2021 12753 12867 
 	}
-	manpower=20660
+	manpower=4769840
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

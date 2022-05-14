@@ -1,9 +1,33 @@
 characters={
-	X83_yashiro_keisuke={
-		name=X83_yashiro_keisuke
+	X83_vachaspati_singh={
+		name=X83_vachaspati_singh
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X83_ashtravakra_mishra={
+		name=X83_ashtravakra_mishra
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X83_asvaghosa_jarasandh={
+		name=X83_asvaghosa_jarasandh
 		portraits={
 			civilian={
-				large="gfx/leaders/Korean_Japan/Portrait_Japan_Hirohito_kr.tga"
+				large="gfx/leaders/Indian/Portrait_PRF_Maharaja_Ranbir_Singh.tga"
 			}
 		}
 		country_leader={

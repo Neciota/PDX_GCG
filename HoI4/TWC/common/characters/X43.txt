@@ -1,37 +1,13 @@
 characters={
-	X43_daud_al_hajj={
-		name=X43_daud_al_hajj
-		corps_commander={
-			skill=2
-			attack_skill=4
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X43_sharif_abasama={
-		name=X43_sharif_abasama
-		corps_commander={
-			skill=3
-			attack_skill=2
-			defense_skill=1
-			planning_skill=2
-			logistics_skill=5
-			legacy_id=0
-		}
-	}
-
-	X43_daud_al_hajj_1={
-		name=X43_daud_al_hajj_1
+	X43_panhop_sobaipuri={
+		name=X43_panhop_sobaipuri
 		portraits={
 			civilian={
-				large="gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+				large="gfx/leaders/Central_American_Native/portrait_Apocalypto_absolutist.dds"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

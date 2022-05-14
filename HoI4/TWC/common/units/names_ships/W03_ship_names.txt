@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Kilkis" "Aspis" "Vasilefs Konstantinos" "Salamis" "Athina" "Constantinopolis" "Sparta" "Leonidas" "Mégas Aléxandros" "Pericles" "Olympias" 
+		"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk" 
 	}
 }
 
@@ -26,7 +26,7 @@ W03_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Karteria" "Panopi" "Pliksavra" "Afroessa" "Sfendoni" "Hydra" "Spetsai" "Psara" "Limnos" "Vasilissa Olga" 
+		"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik" 
 	}
 }
 
@@ -42,7 +42,7 @@ W03_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Nikolis Apostolis" "Tombazis" "Poros" "Andreas Vokos" "Laskarina Bouboulina" "Constantine Kanaris" "Plixavra" "Averof" 
+		"Admiraal Generaal" "Beschermer" "Brederode" "Campen" "Eendracht" "Eenhoorn" "Frederik Hendrik" "Gouden Leeuw" "Graaf Willem" "Groote Liefde" "Jozua" "Kameel" "Kapitein Generaal" "Landman" "Louisa Hendrika" "Overwinnaer" "Prinses Amalia" "Prinses Roijaal" "Prins Friso" "Prins Willem" "Rosenkrans" "Salamander" "Vergulde Maen" "Verwachting" "Unie" "Vrede" "Vrijheid" "Witte Lam" 
 	}
 }
 
@@ -58,7 +58,7 @@ W03_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Aetos" "Ierax" "Leon" "Panthir" "Ifestos" "Makedonía" "Naxos" "Évia" "Limnos" "Zakynthos" 
+		"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
 	}
 }
 
@@ -74,7 +74,7 @@ W03_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Aetos" "Ierax" "Leon" "Panthir" "Ifestos" "Makedonía" "Naxos" "Évia" "Limnos" "Zakynthos" 
+		"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
 	}
 }
 
@@ -90,7 +90,7 @@ W03_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Sfendoni" "Thessalía" "Apeiros" "Attikí" "Pelopónnisos" "Circe" "Eurýkleia" "Aiolia" "Kriti" "Ródos" 
+		"Buffel" "Guinea" "Schorpioen" "Stier" 
 	}
 }
 
@@ -106,7 +106,7 @@ W03_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Sfendoni" "Thessalía" "Apeiros" "Attikí" "Pelopónnisos" "Circe" "Eurýkleia" "Aiolia" "Kriti" "Ródos" 
+		"Buffel" "Guinea" "Schorpioen" "Stier" 
 	}
 }
 
@@ -122,7 +122,7 @@ W03_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Navarhos Miaoulis" "Georgios Averof" "Elli" "Antinaurkos Condoriotis" "Lambros Katsonis" "Árgos" "Agamemnon" "Gyáros" "Tilemachos" "Delfoí" 
+		"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" "Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen" "Pieter Florisz" "Philips van Almonde" "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan" 
 	}
 }
 
@@ -138,7 +138,7 @@ W03_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Navarhos Miaoulis" "Georgios Averof" "Elli" "Antinaurkos Condoriotis" "Lambros Katsonis" "Árgos" "Agamemnon" "Gyáros" "Tilemachos" "Delfoí" 
+		"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" "Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen" "Pieter Florisz" "Philips van Almonde" "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan" 
 	}
 }
 
@@ -154,7 +154,7 @@ W03_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Aetos" "Ierax" "Leon" "Panthir" "Ifestos" "Makedonía" "Naxos" "Évia" "Limnos" "Zakynthos" 
+		"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
 	}
 }
 
@@ -170,7 +170,7 @@ W03_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Hellas" "Navarino" "Psara" "Prinkips Maximilianos" "Maxamillianos" "Mount Othrys" "Thíva" "Skirka" "Heratos" "Aeolus" 
+		"Wolf" "Fret" "Hermelijn" "Vos" "Panter" "Jaguar" "Lynx" "Leeuw" "Jakhals" 
 	}
 }
 

@@ -3,35 +3,32 @@ state={
 	id=399
 	name="STATE_399"
 	resources={
-		aluminium=2.000
-		chromium=2.000
-		steel=1.000
-		tungsten=3.000
+		aluminium=1.000
+		chromium=1.000
+		steel=3.000
 	}
 
 	history={
-		owner = X66
+		owner = MON
 		victory_points = {
-			12854 10 
+			4801 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 5
+			industrial_complex = 0
 			arms_factory = 1
-			air_base = 10
+			air_base = 1
 
 		}
-		add_core_of = X20
-		add_core_of = X66
-		add_core_of = X72
+		add_core_of = MON
 	}
 
 	provinces={
-		1199 1949 2036 2105 4106 4410 4950 4953 5096 7080 7205 8076 10332 10801 10807 10816 11993 11995 12080 12799 12854 
+		1723 1743 1787 1853 1859 1868 4655 4729 4732 4786 4792 4801 4856 4862 4873 7717 7749 7752 7823 7885 10554 10558 10575 10578 10632 10647 10689 10708 12533 12539 12557 12605 12612 12629 12665 12669 12686 
 	}
-	manpower=7517336
+	manpower=1043012
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=rural
 
 	local_supplies=10.0
 }

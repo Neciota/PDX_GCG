@@ -3,31 +3,34 @@ state={
 	id=312
 	name="STATE_312"
 	resources={
-		aluminium=6.000
-		chromium=6.000
+		chromium=88.000
 	}
 
 	history={
-		owner = HUN
+		owner = JAP
 		victory_points = {
-			646 1 
+			4102 7 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 1
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			1025 = {
+				naval_base = 10
+			}
+			air_base = 4
 
 		}
-		add_core_of = HUN
+		add_core_of = JAP
 	}
 
 	provinces={
-		646 662 3649 9606 11592 11608 
+		1020 1025 1158 1183 4027 4102 4164 4198 7110 7178 9950 10011 10020 10092 11925 11949 12006 12032 
 	}
-	manpower=1383708
+	manpower=8752264
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

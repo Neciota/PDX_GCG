@@ -1,9 +1,21 @@
 characters={
-	X48_hailu_dinsa={
-		name=X48_hailu_dinsa
+	X48_unkham_som={
+		name=X48_unkham_som
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X48_phraya_bun={
+		name=X48_phraya_bun
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_SUD_Abd_Mahdi.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Siam_Rama_IX.tga"
 			}
 		}
 		country_leader={

@@ -4,26 +4,27 @@ state={
 	name="STATE_317"
 
 	history={
-		owner = ITA
+		owner = CHI
 		victory_points = {
-			3780 1 
+			4469 7 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 4
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
 
 		}
-		add_core_of = ITA
+		add_core_of = CHI
+		add_core_of = PRC
 	}
 
 	provinces={
-		607 773 969 3780 6661 9584 11568 11587 
+		1027 1034 1180 1203 1438 1519 1531 1575 4074 4174 4469 4538 4634 7158 7571 10367 10421 10480 10507 12078 12300 12344 12432 
 	}
-	manpower=1858924
+	manpower=18687740
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

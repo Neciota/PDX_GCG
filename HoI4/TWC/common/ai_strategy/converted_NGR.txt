@@ -1,0 +1,148 @@
+﻿converted_war_strategies_NGR = {
+	enable = {
+		tag = NGR
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "EGY"
+		value = 781
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 144
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 140
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MOR"
+		value = 81
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X08"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X74"
+		value = 39
+	}
+}
+
+converted_diplo_strategies_NGR = {
+	enable = {
+		tag = NGR
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "X74"
+		value = 241
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 207
+	}
+	ai_strategy = {
+		type = contain
+		id = "MOR"
+		value = 167
+	}
+	ai_strategy = {
+		type = contain
+		id = "EGY"
+		value = 158
+	}
+	ai_strategy = {
+		type = contain
+		id = "NGA"
+		value = 67
+	}
+	ai_strategy = {
+		type = contain
+		id = "GHA"
+		value = 66
+	}
+	ai_strategy = {
+		type = contain
+		id = "DAH"
+		value = 17
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "EGY"
+		value = 388
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X74"
+		value = 312
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MOR"
+		value = 144
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 47
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X08"
+		value = 23
+	}
+	ai_strategy = {
+		type = alliance
+		id = "VOL"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HOL"
+		value = 152
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ENG"
+		value = 19
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GHA"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X74"
+		value = 129
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X62"
+		value = 35
+	}
+}

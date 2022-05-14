@@ -22,7 +22,7 @@ focus_tree = {
 		id = border_disputesVENCOL
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesCOL
-		x = 28
+		x = 26
 		y = 0
 		cost = 10
 		available = {
@@ -32,7 +32,7 @@ focus_tree = {
 			COL = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 191
+				owns_state = 190
 			}
 		}
 		completion_reward = {
@@ -103,11 +103,11 @@ focus_tree = {
 			COL = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 191
+				owns_state = 190
 			}
 		}
 		completion_reward = {
-			add_state_claim = 191
+			add_state_claim = 190
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				COL = { country_event = { id = reconquest_news.1 } }
@@ -180,7 +180,7 @@ focus_tree = {
 			COL = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 191
+				owns_state = 190
 			}
 		}
 		completion_reward = {
@@ -209,14 +209,14 @@ focus_tree = {
 			COL = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 191
+				owns_state = 190
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = COL
 				type = take_state_focus
-				generator = { 191 }
+				generator = { 190 }
 			}
 		}
 		ai_will_do = {
@@ -228,7 +228,7 @@ focus_tree = {
 		id = border_disputesVENBRA
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesBRA
-		x = 30
+		x = 28
 		y = 0
 		cost = 10
 		available = {
@@ -237,7 +237,7 @@ focus_tree = {
 			BRA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 141
+				owns_state = 140
 			}
 		}
 		completion_reward = {
@@ -308,11 +308,11 @@ focus_tree = {
 			BRA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 141
+				owns_state = 140
 			}
 		}
 		completion_reward = {
-			add_state_claim = 141
+			add_state_claim = 140
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				BRA = { country_event = { id = reconquest_news.1 } }
@@ -385,7 +385,7 @@ focus_tree = {
 			BRA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 141
+				owns_state = 140
 			}
 		}
 		completion_reward = {
@@ -414,14 +414,14 @@ focus_tree = {
 			BRA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 141
+				owns_state = 140
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = BRA
 				type = take_state_focus
-				generator = { 141 }
+				generator = { 140 }
 			}
 		}
 		ai_will_do = {
@@ -433,7 +433,7 @@ focus_tree = {
 		id = border_disputesVENSOV
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesSOV
-		x = 32
+		x = 30
 		y = 0
 		cost = 10
 		available = {
@@ -442,7 +442,7 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
@@ -513,11 +513,11 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
-			add_state_claim = 604
+			add_state_claim = 593
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				SOV = { country_event = { id = reconquest_news.1 } }
@@ -590,7 +590,7 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
@@ -619,14 +619,14 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = SOV
 				type = take_state_focus
-				generator = { 604 }
+				generator = { 593 }
 			}
 		}
 		ai_will_do = {
@@ -635,19 +635,224 @@ focus_tree = {
 	}
 
 	focus = {
-		id = border_disputesVENX09
+		id = border_disputesVENX97
 		icon = GFX_goal_generic_more_territorial_claims
-		text = border_disputesX09
+		text = border_disputesX97
+		x = 32
+		y = 0
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			X97 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 761
+			}
+		}
+		completion_reward = {
+			add_war_support = 0.05
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X97 value > 0 }
+			}
+			modifier = {
+				factor = 0
+				X97 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X97
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				X97 = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = assert_claimsVENX97
+		icon = GFX_goal_generic_territory_or_war
+		text = assert_claimsX97
+		prerequisite = { focus = border_disputesVENX97 }
+		x = 0
+		y = 1
+		relative_position_id = border_disputesVENX97
+		cost = 10
+		available = {
+			date > 1938.3.1
+			is_subject = no
+			has_war = no
+			X97 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 761
+			}
+		}
+		completion_reward = {
+			add_state_claim = 761
+			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
+			hidden_effect = {
+				X97 = { country_event = { id = reconquest_news.1 } }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				OR = {
+					has_government = democratic
+					has_government = neutrality
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X97 value > 0 }
+			}
+			modifier = {
+				factor = 0
+				X97 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X97
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				date < 1938.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.25
+				date < 1939.4.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.4
+				date < 1939.8.1
+			}
+			modifier = {
+				factor = 0
+				threat > 0.5
+			}
+			modifier = {
+				factor = 2
+				X97 = { surrender_progress > 0.2 }
+			}
+		}
+	}
+
+	focus = {
+		id = prepare_for_warVENX97
+		icon = GFX_goal_generic_position_armies
+		text = prepare_for_warX97
+		prerequisite = { focus = assert_claimsVENX97 }
+		bypass = {
+			has_war_with = X97
+		}
+		x = 0
+		y = 1
+		relative_position_id = assert_claimsVENX97
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			X97 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 761
+			}
+		}
+		completion_reward = {
+			add_manpower = 10000
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = neighbor_warVENX97
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = neighbor_warX97
+		prerequisite = { focus = prepare_for_warVENX97 }
+		bypass = {
+			has_war_with = X97
+		}
+		x = 0
+		y = 1
+		relative_position_id = prepare_for_warVENX97
+		cost = 10
+		available = {
+			is_subject = no
+			has_war = no
+			X97 = {
+				exists = yes
+				not_allies_or_subjects = yes
+				owns_state = 761
+			}
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = X97
+				type = take_state_focus
+				generator = { 761 }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	focus = {
+		id = border_disputesVENX08
+		icon = GFX_goal_generic_more_territorial_claims
+		text = border_disputesX08
 		x = 34
 		y = 0
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X09 = {
+			X08 = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 102
+				owns_state = 101
 			}
 		}
 		completion_reward = {
@@ -664,16 +869,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X09 value > 0 }
+				has_opinion = { target = X08 value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X09 = { in_weak_faction = no }
+				X08 = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X09
+					has_subject = X08
 					in_weak_faction = no
 				}
 			}
@@ -697,35 +902,35 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X09 = { surrender_progress > 0.2 }
+				X08 = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = assert_claimsVENX09
+		id = assert_claimsVENX08
 		icon = GFX_goal_generic_territory_or_war
-		text = assert_claimsX09
-		prerequisite = { focus = border_disputesVENX09 }
+		text = assert_claimsX08
+		prerequisite = { focus = border_disputesVENX08 }
 		x = 0
 		y = 1
-		relative_position_id = border_disputesVENX09
+		relative_position_id = border_disputesVENX08
 		cost = 10
 		available = {
 			date > 1938.2.1
 			is_subject = no
 			has_war = no
-			X09 = {
+			X08 = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 102
+				owns_state = 101
 			}
 		}
 		completion_reward = {
-			add_state_claim = 102
+			add_state_claim = 101
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
-				X09 = { country_event = { id = reconquest_news.1 } }
+				X08 = { country_event = { id = reconquest_news.1 } }
 			}
 		}
 		ai_will_do = {
@@ -739,16 +944,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X09 value > 0 }
+				has_opinion = { target = X08 value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X09 = { in_weak_faction = no }
+				X08 = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X09
+					has_subject = X08
 					in_weak_faction = no
 				}
 			}
@@ -772,30 +977,30 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X09 = { surrender_progress > 0.2 }
+				X08 = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = prepare_for_warVENX09
+		id = prepare_for_warVENX08
 		icon = GFX_goal_generic_position_armies
-		text = prepare_for_warX09
-		prerequisite = { focus = assert_claimsVENX09 }
+		text = prepare_for_warX08
+		prerequisite = { focus = assert_claimsVENX08 }
 		bypass = {
-			has_war_with = X09
+			has_war_with = X08
 		}
 		x = 0
 		y = 1
-		relative_position_id = assert_claimsVENX09
+		relative_position_id = assert_claimsVENX08
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X09 = {
+			X08 = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 102
+				owns_state = 101
 			}
 		}
 		completion_reward = {
@@ -807,236 +1012,31 @@ focus_tree = {
 	}
 
 	focus = {
-		id = neighbor_warVENX09
+		id = neighbor_warVENX08
 		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = neighbor_warX09
-		prerequisite = { focus = prepare_for_warVENX09 }
+		text = neighbor_warX08
+		prerequisite = { focus = prepare_for_warVENX08 }
 		bypass = {
-			has_war_with = X09
+			has_war_with = X08
 		}
 		x = 0
 		y = 1
-		relative_position_id = prepare_for_warVENX09
+		relative_position_id = prepare_for_warVENX08
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X09 = {
+			X08 = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 102
+				owns_state = 101
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
-				target = X09
+				target = X08
 				type = take_state_focus
-				generator = { 102 }
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-
-	focus = {
-		id = border_disputesVENX93
-		icon = GFX_goal_generic_more_territorial_claims
-		text = border_disputesX93
-		x = 36
-		y = 0
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			X93 = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 577
-			}
-		}
-		completion_reward = {
-			add_war_support = 0.05
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				OR = {
-					has_government = democratic
-					has_government = neutrality
-				}
-			}
-			modifier = {
-				factor = 0
-				has_opinion = { target = X93 value > 0 }
-			}
-			modifier = {
-				factor = 0
-				X93 = { in_weak_faction = no }
-			}
-			modifier = {
-				factor = 0
-				any_country = {
-					has_subject = X93
-					in_weak_faction = no
-				}
-			}
-			modifier = {
-				factor = 0
-				date < 1938.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.25
-				date < 1939.4.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.4
-				date < 1939.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.5
-			}
-			modifier = {
-				factor = 2
-				X93 = { surrender_progress > 0.2 }
-			}
-		}
-	}
-
-	focus = {
-		id = assert_claimsVENX93
-		icon = GFX_goal_generic_territory_or_war
-		text = assert_claimsX93
-		prerequisite = { focus = border_disputesVENX93 }
-		x = 0
-		y = 1
-		relative_position_id = border_disputesVENX93
-		cost = 10
-		available = {
-			date > 1939.7.1
-			is_subject = no
-			has_war = no
-			X93 = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 577
-			}
-		}
-		completion_reward = {
-			add_state_claim = 577
-			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
-			hidden_effect = {
-				X93 = { country_event = { id = reconquest_news.1 } }
-			}
-		}
-		ai_will_do = {
-			factor = 10
-			modifier = {
-				factor = 0
-				OR = {
-					has_government = democratic
-					has_government = neutrality
-				}
-			}
-			modifier = {
-				factor = 0
-				has_opinion = { target = X93 value > 0 }
-			}
-			modifier = {
-				factor = 0
-				X93 = { in_weak_faction = no }
-			}
-			modifier = {
-				factor = 0
-				any_country = {
-					has_subject = X93
-					in_weak_faction = no
-				}
-			}
-			modifier = {
-				factor = 0
-				date < 1938.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.25
-				date < 1939.4.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.4
-				date < 1939.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.5
-			}
-			modifier = {
-				factor = 2
-				X93 = { surrender_progress > 0.2 }
-			}
-		}
-	}
-
-	focus = {
-		id = prepare_for_warVENX93
-		icon = GFX_goal_generic_position_armies
-		text = prepare_for_warX93
-		prerequisite = { focus = assert_claimsVENX93 }
-		bypass = {
-			has_war_with = X93
-		}
-		x = 0
-		y = 1
-		relative_position_id = assert_claimsVENX93
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			X93 = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 577
-			}
-		}
-		completion_reward = {
-			add_manpower = 10000
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-
-	focus = {
-		id = neighbor_warVENX93
-		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = neighbor_warX93
-		prerequisite = { focus = prepare_for_warVENX93 }
-		bypass = {
-			has_war_with = X93
-		}
-		x = 0
-		y = 1
-		relative_position_id = prepare_for_warVENX93
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			X93 = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 577
-			}
-		}
-		completion_reward = {
-			declare_war_on = {
-				target = X93
-				type = take_state_focus
-				generator = { 577 }
+				generator = { 101 }
 			}
 		}
 		ai_will_do = {

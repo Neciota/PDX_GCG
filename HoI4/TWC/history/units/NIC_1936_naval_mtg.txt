@@ -1,10 +1,10 @@
 units = {
 	fleet = {
 		name = "1st Fleet"
-		naval_base = 1988
+		naval_base = 12738
 		task_force = {
 			name = "1st Fleet"
-			location = 1988
+			location = 12738
 			ship = { name = "Cristóbal Colón" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = NIC version_name = "Early Battleship" } } }
 			ship = { name = "Diriangén" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = NIC version_name = "Early Battleship" } } }
 			ship = { name = "Emiliano Chamorro" definition = battleship start_experience_factor = 0.35 equipment = { ship_hull_heavy_1 = { amount = 1 owner = NIC version_name = "Early Battleship" } } }
@@ -19,7 +19,7 @@ units = {
 	}
 	fleet = {
 		name = "2nd Fleet"
-		naval_base = 7991
+		naval_base = 4969
 		task_force = {
 			name = "2nd Fleet"
 			location = 5650

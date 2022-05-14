@@ -2,27 +2,30 @@
 state={
 	id=287
 	name="STATE_287"
+	resources={
+		aluminium=5.000
+		steel=5.000
+	}
 
 	history={
-		owner = FRA
+		owner = HUN
 		victory_points = {
-			6766 10 
+			6711 2 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 1
-			arms_factory = 0
-			air_base = 6
+			arms_factory = 1
+			air_base = 1
 
 		}
-		add_core_of = OCC
-		add_claim_by = FRA
+		add_core_of = HUN
 	}
 
 	provinces={
-		929 943 3749 3915 3948 6766 6775 6931 9882 9884 11697 11699 11702 12169 
+		676 693 696 713 727 746 3665 3694 3696 3709 6682 6697 6711 6714 6731 9619 9640 9672 9687 9704 11622 11676 
 	}
-	manpower=2804236
+	manpower=2631332
 	buildings_max_level_factor=1.000
 	state_category=large_town
 

@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X09_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Bahoruco" "Desolación" "Destrucción" "El Pavor" "El Terror" "La Bombarda" "Neiba" "Samana" "Siete Cabezas" "Yamasa" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X09_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Cibao" "Diecinueve de Marzo" "La Merced" "Leonor" "Libertad" "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" "Victoria" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X09_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X09_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X09_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X09_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X09_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X09_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X09_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X09_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Cristóbal Colón" "Diego de Ocampo" "Dios" "Grito de Capoyillo" "La Española" "Libertad" "Patria" "Taíno" "Trabucazo de Mella" "Trinitaria" 
+		
 	}
 }
 

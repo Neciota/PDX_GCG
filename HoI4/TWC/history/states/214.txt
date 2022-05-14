@@ -4,30 +4,30 @@ state={
 	name="STATE_214"
 
 	history={
-		owner = X37
+		owner = EGY
 		victory_points = {
-			6889 15 
+			9940 10 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
-			6889 = {
+			1164 = {
 				naval_base = 10
 			}
 			air_base = 6
 
 		}
-		add_core_of = ITA
-		add_core_of = X37
+		add_core_of = GRE
+		add_core_of = X25
 	}
 
 	provinces={
-		3868 6889 
+		1164 4170 9940 12058 
 	}
-	manpower=156508
+	manpower=422424
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

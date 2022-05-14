@@ -3,32 +3,33 @@ state={
 	id=120
 	name="STATE_120"
 	resources={
-		aluminium=28.000
+		oil=0.000
 	}
 
 	history={
-		owner = X14
+		owner = VGE
 		victory_points = {
-			11604 1 
+			686 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 7
 
 		}
-		add_core_of = SWI
-		add_core_of = X14
-		add_core_of = X18
+		add_core_of = HUN
+		add_core_of = SLO
+		add_core_of = VGE
+		add_claim_by = CZE
 	}
 
 	provinces={
-		636 3612 6666 6683 9587 9618 9620 9622 9638 11590 11601 11604 
+		686 3670 11627 
 	}
-	manpower=1451444
+	manpower=1997900
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

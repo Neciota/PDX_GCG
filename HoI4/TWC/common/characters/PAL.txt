@@ -1,0 +1,52 @@
+characters={
+	PAL_lukas_fritsch={
+		name=PAL_lukas_fritsch
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	PAL_eduard_von={
+		name=PAL_eduard_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	PAL_franz_von={
+		name=PAL_franz_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	PAL_konrad_hohenzollern={
+		name=PAL_konrad_hohenzollern
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_USA_Happy_Chandler.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

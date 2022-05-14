@@ -2,28 +2,35 @@
 state={
 	id=278
 	name="STATE_278"
+	resources={
+		oil=2.000
+	}
 
 	history={
-		owner = FRA
+		owner = HAN
 		victory_points = {
-			11506 15 
+			6349 15 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			industrial_complex = 1
-			arms_factory = 1
+			arms_factory = 0
+			dockyard = 1
+			6349 = {
+				naval_base = 4
+			}
 			air_base = 6
 
 		}
-		add_core_of = FRA
+		add_core_of = HAN
 	}
 
 	provinces={
-		6547 6949 9507 9523 9534 9725 11491 11506 11518 
+		374 3234 3271 3395 6218 6263 6298 6325 6349 9264 
 	}
-	manpower=2204568
+	manpower=1664496
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 
 	local_supplies=10.0
 }

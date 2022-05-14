@@ -3,32 +3,35 @@ state={
 	id=438
 	name="STATE_438"
 	resources={
-		aluminium=5.000
-		rubber=1.000
+		oil=5.000
+		rubber=86.000
 		steel=1.000
 	}
 
 	history={
-		owner = MOR
+		owner = HOL
 		victory_points = {
-			2044 0 
+			4608 0 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 0
+			4608 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = GHA
+		add_core_of = INS
 	}
 
 	provinces={
-		2044 5101 7930 7954 10788 
+		1209 4306 4390 4608 7654 10479 10491 12293 12472 
 	}
-	manpower=1012301
+	manpower=11322496
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

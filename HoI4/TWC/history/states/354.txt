@@ -4,25 +4,26 @@ state={
 	name="STATE_354"
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			4504 1 
+			4709 6 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 2
 
 		}
-		add_core_of = CHI
-		add_core_of = X56
+		add_core_of = PRC
+		add_core_of = SIK
+		add_core_of = X36
 	}
 
 	provinces={
-		1010 1474 1884 4325 4504 4532 7521 7549 7577 8095 9939 10616 10763 10819 
+		1708 1783 1838 1844 4704 4709 4714 4770 4788 4823 4843 4849 4947 5736 7693 7702 7732 7737 7792 7850 7866 10545 10614 10674 10691 10839 12524 12526 12590 12598 12601 12656 12671 12737 
 	}
-	manpower=7682352
+	manpower=1926980
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

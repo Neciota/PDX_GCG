@@ -1,13 +1,37 @@
 characters={
-	X31_nuckshopubbe_tombigbee={
-		name=X31_nuckshopubbe_tombigbee
+	X31_luigi_colautti={
+		name=X31_luigi_colautti
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X31_roberto_pattiera={
+		name=X31_roberto_pattiera
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=4
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X31_luigi_arpino={
+		name=X31_luigi_arpino
 		portraits={
 			civilian={
-				large="gfx/leaders/central_american_native/portrait_nat_carib_democratic.dds"
+				large="gfx/leaders/Mediterranean/Portrait_SPR_Jaime_I.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=prussian_const
 			expire="1965.1.1.1"
 			id=-1
 		}

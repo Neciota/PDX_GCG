@@ -4,14 +4,13 @@ state={
 	name="STATE_382"
 	resources={
 		aluminium=1.000
-		rubber=0.000
-		steel=0.000
+		tungsten=6.000
 	}
 
 	history={
-		owner = X57
+		owner = X51
 		victory_points = {
-			12874 1 
+			4072 0 
 		}
 		buildings = {
 			infrastructure = 3
@@ -20,16 +19,15 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = TOG
-		add_core_of = X57
+		add_core_of = X56
 	}
 
 	provinces={
-		12874 
+		4072 7177 10019 
 	}
-	manpower=75228
+	manpower=598700
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

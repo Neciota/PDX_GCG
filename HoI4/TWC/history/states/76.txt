@@ -5,7 +5,6 @@ state={
 	resources={
 		chromium=6.000
 		oil=2.000
-		steel=0.000
 	}
 
 	history={
@@ -24,9 +23,9 @@ state={
 	}
 
 	provinces={
-		1960 2016 4961 5060 8052 8084 10739 10795 10827 10851 12744 
+		1960 2016 5060 8052 8084 10739 10795 10827 10851 12744 
 	}
-	manpower=1871142
+	manpower=2025196
 	buildings_max_level_factor=1.000
 	state_category=town
 

@@ -22,7 +22,7 @@ focus_tree = {
 		id = reclaim_coresSLV
 		icon = GFX_goal_generic_more_territorial_claims
 		text = reclaim_cores
-		x = 28
+		x = 26
 		y = 0
 		cost = 10
 		available = {
@@ -65,7 +65,7 @@ focus_tree = {
 				NOT = { AUS = { any_owned_state = { is_core_of = ROOT } } }
 			}
 		}
-		x = 28
+		x = 26
 		y = 1
 		cost = 10
 		available = {
@@ -368,7 +368,7 @@ focus_tree = {
 			declare_war_on = {
 				target = AUS
 				type = take_core_state
-				generator = { 108 110 112 113 }
+				generator = { 107 109 111 112 }
 			}
 			add_named_threat = { threat = 1 name = declare_war_NF_threat }
 		}
@@ -438,19 +438,19 @@ focus_tree = {
 	}
 
 	focus = {
-		id = border_disputesSLVX21
+		id = border_disputesSLVGRE
 		icon = GFX_goal_generic_more_territorial_claims
-		text = border_disputesX21
-		x = 30
+		text = border_disputesGRE
+		x = 28
 		y = 0
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X21 = {
+			GRE = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 149
+				owns_state = 148
 			}
 		}
 		completion_reward = {
@@ -467,16 +467,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X21 value > 0 }
+				has_opinion = { target = GRE value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X21 = { in_weak_faction = no }
+				GRE = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X21
+					has_subject = GRE
 					in_weak_faction = no
 				}
 			}
@@ -500,35 +500,35 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X21 = { surrender_progress > 0.2 }
+				GRE = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = assert_claimsSLVX21
+		id = assert_claimsSLVGRE
 		icon = GFX_goal_generic_territory_or_war
-		text = assert_claimsX21
-		prerequisite = { focus = border_disputesSLVX21 }
+		text = assert_claimsGRE
+		prerequisite = { focus = border_disputesSLVGRE }
 		x = 0
 		y = 1
-		relative_position_id = border_disputesSLVX21
+		relative_position_id = border_disputesSLVGRE
 		cost = 10
 		available = {
 			date > 1936.7.1
 			is_subject = no
 			has_war = no
-			X21 = {
+			GRE = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 149
+				owns_state = 148
 			}
 		}
 		completion_reward = {
-			add_state_claim = 149
+			add_state_claim = 148
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
-				X21 = { country_event = { id = reconquest_news.1 } }
+				GRE = { country_event = { id = reconquest_news.1 } }
 			}
 		}
 		ai_will_do = {
@@ -542,16 +542,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X21 value > 0 }
+				has_opinion = { target = GRE value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X21 = { in_weak_faction = no }
+				GRE = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X21
+					has_subject = GRE
 					in_weak_faction = no
 				}
 			}
@@ -575,30 +575,30 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X21 = { surrender_progress > 0.2 }
+				GRE = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = prepare_for_warSLVX21
+		id = prepare_for_warSLVGRE
 		icon = GFX_goal_generic_position_armies
-		text = prepare_for_warX21
-		prerequisite = { focus = assert_claimsSLVX21 }
+		text = prepare_for_warGRE
+		prerequisite = { focus = assert_claimsSLVGRE }
 		bypass = {
-			has_war_with = X21
+			has_war_with = GRE
 		}
 		x = 0
 		y = 1
-		relative_position_id = assert_claimsSLVX21
+		relative_position_id = assert_claimsSLVGRE
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X21 = {
+			GRE = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 149
+				owns_state = 148
 			}
 		}
 		completion_reward = {
@@ -610,31 +610,31 @@ focus_tree = {
 	}
 
 	focus = {
-		id = neighbor_warSLVX21
+		id = neighbor_warSLVGRE
 		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = neighbor_warX21
-		prerequisite = { focus = prepare_for_warSLVX21 }
+		text = neighbor_warGRE
+		prerequisite = { focus = prepare_for_warSLVGRE }
 		bypass = {
-			has_war_with = X21
+			has_war_with = GRE
 		}
 		x = 0
 		y = 1
-		relative_position_id = prepare_for_warSLVX21
+		relative_position_id = prepare_for_warSLVGRE
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X21 = {
+			GRE = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 149
+				owns_state = 148
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
-				target = X21
+				target = GRE
 				type = take_state_focus
-				generator = { 149 }
+				generator = { 148 }
 			}
 		}
 		ai_will_do = {
@@ -646,7 +646,7 @@ focus_tree = {
 		id = border_disputesSLVBOS
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesBOS
-		x = 32
+		x = 30
 		y = 0
 		cost = 10
 		available = {
@@ -655,7 +655,7 @@ focus_tree = {
 			BOS = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 125
+				owns_state = 124
 			}
 		}
 		completion_reward = {
@@ -726,11 +726,11 @@ focus_tree = {
 			BOS = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 125
+				owns_state = 124
 			}
 		}
 		completion_reward = {
-			add_state_claim = 125
+			add_state_claim = 124
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				BOS = { country_event = { id = reconquest_news.1 } }
@@ -803,7 +803,7 @@ focus_tree = {
 			BOS = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 125
+				owns_state = 124
 			}
 		}
 		completion_reward = {
@@ -832,14 +832,14 @@ focus_tree = {
 			BOS = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 125
+				owns_state = 124
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = BOS
 				type = take_state_focus
-				generator = { 125 }
+				generator = { 124 }
 			}
 		}
 		ai_will_do = {
@@ -851,7 +851,7 @@ focus_tree = {
 		id = border_disputesSLVCRO
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesCRO
-		x = 34
+		x = 32
 		y = 0
 		cost = 10
 		available = {
@@ -860,7 +860,7 @@ focus_tree = {
 			CRO = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 202
+				owns_state = 201
 			}
 		}
 		completion_reward = {
@@ -931,11 +931,11 @@ focus_tree = {
 			CRO = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 202
+				owns_state = 201
 			}
 		}
 		completion_reward = {
-			add_state_claim = 202
+			add_state_claim = 201
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				CRO = { country_event = { id = reconquest_news.1 } }
@@ -1008,7 +1008,7 @@ focus_tree = {
 			CRO = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 202
+				owns_state = 201
 			}
 		}
 		completion_reward = {
@@ -1037,14 +1037,14 @@ focus_tree = {
 			CRO = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 202
+				owns_state = 201
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = CRO
 				type = take_state_focus
-				generator = { 202 }
+				generator = { 201 }
 			}
 		}
 		ai_will_do = {
@@ -1056,7 +1056,7 @@ focus_tree = {
 		id = border_disputesSLVSER
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesSER
-		x = 36
+		x = 34
 		y = 0
 		cost = 10
 		available = {
@@ -1065,7 +1065,7 @@ focus_tree = {
 			SER = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 648
+				owns_state = 641
 			}
 		}
 		completion_reward = {
@@ -1136,11 +1136,11 @@ focus_tree = {
 			SER = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 648
+				owns_state = 641
 			}
 		}
 		completion_reward = {
-			add_state_claim = 648
+			add_state_claim = 641
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				SER = { country_event = { id = reconquest_news.1 } }
@@ -1213,7 +1213,7 @@ focus_tree = {
 			SER = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 648
+				owns_state = 641
 			}
 		}
 		completion_reward = {
@@ -1242,14 +1242,14 @@ focus_tree = {
 			SER = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 648
+				owns_state = 641
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = SER
 				type = take_state_focus
-				generator = { 648 }
+				generator = { 641 }
 			}
 		}
 		ai_will_do = {

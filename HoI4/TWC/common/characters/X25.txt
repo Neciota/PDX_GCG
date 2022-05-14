@@ -1,9 +1,9 @@
 characters={
-	X25_sheohmantho_tanzinapebina={
-		name=X25_sheohmantho_tanzinapebina
+	X25_vasos_tsolakoglou={
+		name=X25_vasos_tsolakoglou
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
+				large="gfx/leaders/Mediterranean/Portrait_Portugal_Duarte_Nuno.tga"
 			}
 		}
 		country_leader={

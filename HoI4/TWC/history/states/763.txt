@@ -3,37 +3,34 @@ state={
 	id=763
 	name="STATE_763"
 	resources={
-		chromium=13.000
-		tungsten=83.000
+		aluminium=6.000
+		chromium=19.000
+		steel=5.000
+		tungsten=2.000
 	}
 
 	history={
-		owner = W24
+		owner = SIK
 		victory_points = {
-			10190 20 
+			12511 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 0
-			12208 = {
-				naval_base = 4
-			}
-			air_base = 6
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
 
 		}
-		add_core_of = W08
-		add_core_of = W24
-		add_core_of = X75
-		add_claim_by = W32
+		add_core_of = PRC
+		add_core_of = SIK
 	}
 
 	provinces={
-		1412 4278 4291 4344 7244 7250 7395 8011 8100 10190 10208 12105 12146 12208 12734 
+		1483 1675 1825 1919 2058 4316 4391 4467 4768 4923 5062 8027 10187 10417 10488 10530 11687 12370 12430 12511 12581 12805 
 	}
-	manpower=5991424
+	manpower=2068556
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=town
 
 	local_supplies=10.0
 }

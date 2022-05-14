@@ -3,32 +3,29 @@ state={
 	id=291
 	name="STATE_291"
 	resources={
-		aluminium=1.000
-		rubber=0.000
+		aluminium=6.000
+		chromium=6.000
 	}
 
 	history={
-		owner = GAB
+		owner = HUN
 		victory_points = {
-			5036 15 
+			646 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
-			5036 = {
-				naval_base = 6
-			}
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = GAB
+		add_core_of = HUN
 	}
 
 	provinces={
-		5036 
+		646 662 3649 9606 11592 11608 
 	}
-	manpower=231536
+	manpower=1383708
 	buildings_max_level_factor=1.000
 	state_category=rural
 

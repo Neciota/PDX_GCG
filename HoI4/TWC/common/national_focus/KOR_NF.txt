@@ -22,7 +22,7 @@ focus_tree = {
 		id = reclaim_coresKOR
 		icon = GFX_goal_generic_more_territorial_claims
 		text = reclaim_cores
-		x = 28
+		x = 26
 		y = 0
 		cost = 10
 		available = {
@@ -65,7 +65,7 @@ focus_tree = {
 				NOT = { JAP = { any_owned_state = { is_core_of = ROOT } } }
 			}
 		}
-		x = 28
+		x = 26
 		y = 1
 		cost = 10
 		available = {
@@ -368,7 +368,7 @@ focus_tree = {
 			declare_war_on = {
 				target = JAP
 				type = take_core_state
-				generator = { 325 326 327 }
+				generator = { 304 305 306 }
 			}
 			add_named_threat = { threat = 1 name = declare_war_NF_threat }
 		}
@@ -441,7 +441,7 @@ focus_tree = {
 		id = border_disputesKORSOV
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesSOV
-		x = 30
+		x = 28
 		y = 0
 		cost = 10
 		available = {
@@ -450,7 +450,7 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
@@ -521,11 +521,11 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
-			add_state_claim = 604
+			add_state_claim = 593
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				SOV = { country_event = { id = reconquest_news.1 } }
@@ -598,7 +598,7 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
@@ -627,14 +627,14 @@ focus_tree = {
 			SOV = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 604
+				owns_state = 593
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = SOV
 				type = take_state_focus
-				generator = { 604 }
+				generator = { 593 }
 			}
 		}
 		ai_will_do = {

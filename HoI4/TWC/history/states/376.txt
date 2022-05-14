@@ -3,31 +3,30 @@ state={
 	id=376
 	name="STATE_376"
 	resources={
-		steel=2.000
+		tungsten=3.000
 	}
 
 	history={
-		owner = X56
+		owner = X51
 		victory_points = {
-			12763 0 
+			5086 4 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 2
+			air_base = 2
 
 		}
-		add_core_of = CHI
-		add_core_of = SIK
+		add_core_of = X51
 	}
 
 	provinces={
-		2041 2084 4558 7316 8005 12763 12884 
+		4915 5086 12137 
 	}
-	manpower=2132220
+	manpower=6303448
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

@@ -22,7 +22,7 @@ focus_tree = {
 		id = border_disputesSWEDEN
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesDEN
-		x = 28
+		x = 26
 		y = 0
 		cost = 10
 		available = {
@@ -31,7 +31,7 @@ focus_tree = {
 			DEN = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 210
+				owns_state = 209
 			}
 		}
 		completion_reward = {
@@ -102,11 +102,11 @@ focus_tree = {
 			DEN = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 210
+				owns_state = 209
 			}
 		}
 		completion_reward = {
-			add_state_claim = 210
+			add_state_claim = 209
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				DEN = { country_event = { id = reconquest_news.1 } }
@@ -179,7 +179,7 @@ focus_tree = {
 			DEN = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 210
+				owns_state = 209
 			}
 		}
 		completion_reward = {
@@ -208,14 +208,14 @@ focus_tree = {
 			DEN = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 210
+				owns_state = 209
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = DEN
 				type = take_state_focus
-				generator = { 210 }
+				generator = { 209 }
 			}
 		}
 		ai_will_do = {
@@ -227,7 +227,7 @@ focus_tree = {
 		id = border_disputesSWEENG
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesENG
-		x = 30
+		x = 28
 		y = 0
 		cost = 10
 		available = {
@@ -236,7 +236,7 @@ focus_tree = {
 			ENG = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 252
+				owns_state = 236
 			}
 		}
 		completion_reward = {
@@ -307,11 +307,11 @@ focus_tree = {
 			ENG = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 252
+				owns_state = 236
 			}
 		}
 		completion_reward = {
-			add_state_claim = 252
+			add_state_claim = 236
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				ENG = { country_event = { id = reconquest_news.1 } }
@@ -384,7 +384,7 @@ focus_tree = {
 			ENG = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 252
+				owns_state = 236
 			}
 		}
 		completion_reward = {
@@ -413,14 +413,14 @@ focus_tree = {
 			ENG = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 252
+				owns_state = 236
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = ENG
 				type = take_state_focus
-				generator = { 252 }
+				generator = { 236 }
 			}
 		}
 		ai_will_do = {
@@ -432,7 +432,7 @@ focus_tree = {
 		id = border_disputesSWEUSA
 		icon = GFX_goal_generic_more_territorial_claims
 		text = border_disputesUSA
-		x = 32
+		x = 30
 		y = 0
 		cost = 10
 		available = {
@@ -441,7 +441,7 @@ focus_tree = {
 			USA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 736
+				owns_state = 729
 			}
 		}
 		completion_reward = {
@@ -512,11 +512,11 @@ focus_tree = {
 			USA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 736
+				owns_state = 729
 			}
 		}
 		completion_reward = {
-			add_state_claim = 736
+			add_state_claim = 729
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
 				USA = { country_event = { id = reconquest_news.1 } }
@@ -589,7 +589,7 @@ focus_tree = {
 			USA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 736
+				owns_state = 729
 			}
 		}
 		completion_reward = {
@@ -618,14 +618,14 @@ focus_tree = {
 			USA = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 736
+				owns_state = 729
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
 				target = USA
 				type = take_state_focus
-				generator = { 736 }
+				generator = { 729 }
 			}
 		}
 		ai_will_do = {

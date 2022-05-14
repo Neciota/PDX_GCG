@@ -1,21 +1,57 @@
 characters={
-	X62_unkham_som={
-		name=X62_unkham_som
+	X62_saamoothiri_perumal={
+		name=X62_saamoothiri_perumal
 		corps_commander={
 			skill=2
-			attack_skill=2
+			attack_skill=1
 			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X62_cheraman_varma={
+		name=X62_cheraman_varma
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X62_marthanda_varma={
+		name=X62_marthanda_varma
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X62_ong_long={
-		name=X62_ong_long
+	X62_chithira_rama={
+		name=X62_chithira_rama
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X62_saamoothiri_varma={
+		name=X62_saamoothiri_varma
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Siam_Rama_IX.tga"
+				large="gfx/leaders/Indian/Portrait_PRF_Rajaram_II_of_Kolhapur.tga"
 			}
 		}
 		country_leader={

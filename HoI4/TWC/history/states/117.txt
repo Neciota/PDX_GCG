@@ -4,29 +4,25 @@ state={
 	name="STATE_117"
 
 	history={
-		owner = X13
+		owner = X12
 		victory_points = {
-			12810 1 
+			2008 2 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			dockyard = 1
-			12810 = {
-				naval_base = 4
-			}
+			industrial_complex = 2
+			arms_factory = 1
 			air_base = 1
 
 		}
 		add_core_of = MEX
-		add_claim_by = X13
+		add_core_of = X12
 	}
 
 	provinces={
-		10732 12810 
+		2008 
 	}
-	manpower=1968892
+	manpower=2141660
 	buildings_max_level_factor=1.000
 	state_category=town
 

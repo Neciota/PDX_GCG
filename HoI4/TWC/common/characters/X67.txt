@@ -3,7 +3,7 @@ characters={
 		name=X67_wahunsenacawh_unawat
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
+				large="gfx/leaders/North_American_Native/portrait_Native_American.dds"
 			}
 		}
 		country_leader={

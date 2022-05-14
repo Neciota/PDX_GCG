@@ -2,29 +2,29 @@
 state={
 	id=401
 	name="STATE_401"
+	resources={
+		aluminium=8.000
+	}
 
 	history={
-		owner = X66
+		owner = MON
 		victory_points = {
-			10735 1 
+			4222 1 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			4003 = {
-				naval_base = 1
-			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = X66
+		add_core_of = MON
 	}
 
 	provinces={
-		1147 1971 1980 4003 4110 4382 7049 7084 10735 
+		1551 1608 1796 1811 1871 4222 4555 4612 6988 7578 7648 10363 10372 10499 11752 12348 12448 12554 
 	}
-	manpower=1684692
+	manpower=116340
 	buildings_max_level_factor=1.000
 	state_category=rural
 

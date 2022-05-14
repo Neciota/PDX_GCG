@@ -1,0 +1,52 @@
+characters={
+	COR_fiorenzo_baldissera={
+		name=COR_fiorenzo_baldissera
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COR_leopoldo_cusani={
+		name=COR_leopoldo_cusani
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	COR_benito_pelloux={
+		name=COR_benito_pelloux
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	COR_faustino_di_robilant={
+		name=COR_faustino_di_robilant
+		portraits={
+			civilian={
+				large="gfx/leaders/SPR/Portrait_Spain_Manuel_Azana.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

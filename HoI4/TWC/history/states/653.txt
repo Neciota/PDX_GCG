@@ -2,31 +2,36 @@
 state={
 	id=653
 	name="STATE_653"
+	resources={
+		aluminium=3.000
+		steel=4.000
+	}
 
 	history={
-		owner = SIA
+		owner = SLV
 		victory_points = {
-			4401 10 
+			628 0 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			4223 = {
-				naval_base = 4
+			628 = {
+				naval_base = 1
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = CAM
+		add_core_of = ITA
+		add_claim_by = SLV
 	}
 
 	provinces={
-		1285 1396 1423 4223 4284 4341 4401 7238 7271 7303 7331 7347 10232 10261 12133 12176 12204 12232 12288 
+		628 
 	}
-	manpower=2203124
+	manpower=209764
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 
 	local_supplies=10.0
 }

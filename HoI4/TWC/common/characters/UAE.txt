@@ -51,7 +51,7 @@ characters={
 		name=UAE_hsia_ye
 		portraits={
 			civilian={
-				large="gfx/leaders/Sino/Portrait_CHI_Hu_shi.tga"
+				large="gfx/leaders/CHI/Portrait_China_weng_wenhao.dds"
 			}
 		}
 		country_leader={

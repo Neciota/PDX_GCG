@@ -1,21 +1,21 @@
 characters={
-	X42_pingali_sitaramaraju={
-		name=X42_pingali_sitaramaraju
+	X42_raja_thampuran={
+		name=X42_raja_thampuran
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X42_swathi_perumal={
+		name=X42_swathi_perumal
 		corps_commander={
 			skill=2
-			attack_skill=1
-			defense_skill=2
-			planning_skill=2
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X42_alluri_naidu={
-		name=X42_alluri_naidu
-		corps_commander={
-			skill=1
-			attack_skill=1
+			attack_skill=3
 			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
@@ -23,27 +23,15 @@ characters={
 		}
 	}
 
-	X42_venkatadri_sriramulu={
-		name=X42_venkatadri_sriramulu
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	X42_kandukuri_veeresalingam={
-		name=X42_kandukuri_veeresalingam
+	X42_saamoothiri_varma={
+		name=X42_saamoothiri_varma
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_BHC_Nirmal_Kumar_Bose.tga"
+				large="gfx/leaders/Indian/Portrait_Madras_C_Rajagopalachari.tga"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

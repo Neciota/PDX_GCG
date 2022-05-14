@@ -27,7 +27,7 @@ characters={
 		name=HON_george_rabin
 		portraits={
 			civilian={
-				large="gfx/leaders/HOL/Portrait_Netherlands_Dirk_Jan_de_Geer.dds"
+				large="gfx/leaders/FRA/Portrait_France_Paul_Reynaud.dds"
 			}
 		}
 		country_leader={

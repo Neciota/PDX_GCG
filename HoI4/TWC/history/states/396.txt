@@ -2,28 +2,35 @@
 state={
 	id=396
 	name="STATE_396"
+	resources={
+		chromium=1.000
+	}
 
 	history={
-		owner = X66
+		owner = MEX
 		victory_points = {
-			10898 1 
+			12823 7 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 1
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			12823 = {
+				naval_base = 10
+			}
+			air_base = 4
 
 		}
-		add_core_of = X66
+		add_core_of = MEX
 	}
 
 	provinces={
-		10843 10898 12792 
+		12823 13093 
 	}
-	manpower=1100816
+	manpower=7632264
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

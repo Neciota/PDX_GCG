@@ -1,33 +1,9 @@
 characters={
-	X14_franz_goering={
-		name=X14_franz_goering
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X14_erwin_haynau={
-		name=X14_erwin_haynau
+	X14_bertrans_tezis={
+		name=X14_bertrans_tezis
 		corps_commander={
 			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X14_alfons_hohenlohe={
-		name=X14_alfons_hohenlohe
-		corps_commander={
-			skill=1
-			attack_skill=1
+			attack_skill=3
 			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
@@ -35,15 +11,51 @@ characters={
 		}
 	}
 
-	X14_lorenz_von_baden={
-		name=X14_lorenz_von_baden
+	X14_rainaut_rossilhon={
+		name=X14_rainaut_rossilhon
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_lois_cumenge={
+		name=X14_lois_cumenge
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_garcias_mota={
+		name=X14_garcias_mota
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X14_pau_carro={
+		name=X14_pau_carro
 		portraits={
 			civilian={
-				large="gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
+				large="gfx/leaders/Western_European/Portrait_Germany_Wilhelm_V.tga"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=prussian_const
 			expire="1965.1.1.1"
 			id=-1
 		}

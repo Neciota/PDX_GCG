@@ -149,5 +149,25 @@ ideas = {
 			traits = { infantry_equipment_manufacturer }
 		}
 
+		X98_artillery_manufacturer = {
+
+			picture = generic_artillery_manufacturer_2
+
+			allowed = {
+				original_tag = X98
+				NOT = {
+					has_available_idea_with_traits = { idea = artillery_manufacturer limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				artillery = 0.15
+			}
+
+			traits = { artillery_manufacturer }
+		}
 	}
 }

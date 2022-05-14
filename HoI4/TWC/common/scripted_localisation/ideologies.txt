@@ -20,10 +20,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTISTE
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICALE
-	}
 }
 defined_text = {
 	name = GetIdeologieCap
@@ -46,10 +42,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTISTE_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICALE_CAP
 	}
 }
 defined_text = {
@@ -74,10 +66,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL
-	}
 }
 defined_text = {
 	name = GetIdeoAdjMSAnimCap
@@ -100,10 +88,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_CAP
 	}
 }
 defined_text = {
@@ -128,10 +112,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL
-	}
 }
 defined_text = {
 	name = GetIdeoAdjMSInanCap
@@ -154,10 +134,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_CAP
 	}
 }
 defined_text = {
@@ -182,10 +158,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_SHE
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_SHE
-	}
 }
 defined_text = {
 	name = GetIdeoAdjFSAnimCap
@@ -208,10 +180,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_SHE_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_SHE_CAP
 	}
 }
 defined_text = {
@@ -236,10 +204,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_SHE
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_SHE
-	}
 }
 defined_text = {
 	name = GetIdeoAdjFSInanCap
@@ -262,10 +226,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_SHE_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_SHE_CAP
 	}
 }
 defined_text = {
@@ -290,10 +250,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_THEY
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_THEY
-	}
 }
 defined_text = {
 	name = GetIdeoAdjMPAnimCap
@@ -316,10 +272,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_THEY_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_THEY_CAP
 	}
 }
 defined_text = {
@@ -344,10 +296,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_THEY
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_THEY
-	}
 }
 defined_text = {
 	name = GetIdeoAdjMPInanCap
@@ -370,10 +318,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_THEY_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_THEY_CAP
 	}
 }
 defined_text = {
@@ -398,10 +342,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_HY
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_HY
-	}
 }
 defined_text = {
 	name = GetIdeoAdjFPAnimCap
@@ -424,10 +364,6 @@ defined_text = {
 	text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_HY_CAP
-	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_HY_CAP
 	}
 }
 defined_text = {
@@ -452,10 +388,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_HY
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_HY
-	}
 }
 defined_text = {
 	name = GetIdeoAdjFPInanCap
@@ -479,10 +411,6 @@ defined_text = {
 		trigger = { has_government = absolutist }
 		localization_key = FRLOC_ABSOLUTIST_HY_CAP
 	}
-	text = {
-		trigger = { has_government = radical }
-		localization_key = FRLOC_RADICAL_HY_CAP
-	}
 }
 defined_text = {
 	name = GetLeLaLIdeo
@@ -491,7 +419,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = FRLOC_LE
@@ -521,7 +448,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = FRLOC_LE_CAP
@@ -551,7 +477,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = FRLOC_DU
@@ -581,7 +506,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = FRLOC_DU_CAP
@@ -611,7 +535,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -634,7 +557,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -657,7 +579,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -680,7 +601,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -703,7 +623,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = ITLOC_IL
@@ -733,7 +652,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = ITLOC_IL_CAP
@@ -763,7 +681,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = ITLOC_DEL
@@ -793,7 +710,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 			}
 		}
 		localization_key = ITLOC_DEL_CAP
@@ -823,7 +739,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -846,7 +761,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -869,7 +783,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}
@@ -892,7 +805,6 @@ defined_text = {
 			OR = {
 				has_government = fascism
 				has_government = communism
-				has_government = radical
 				has_government = absolutist
 			}
 		}

@@ -1,13 +1,25 @@
 characters={
-	X82_keukuck_ganogeh={
-		name=X82_keukuck_ganogeh
+	X82_aculnahuacatl_macehualli={
+		name=X82_aculnahuacatl_macehualli
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X82_sergio_gallardo={
+		name=X82_sergio_gallardo
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
+				large="gfx/leaders/Central_American_Native/portrait_Apocalypto_democratic.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

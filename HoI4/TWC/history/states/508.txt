@@ -3,32 +3,32 @@ state={
 	id=508
 	name="STATE_508"
 	resources={
-		aluminium=4.000
+		aluminium=0.000
 		rubber=1.000
 		steel=0.000
 	}
 
 	history={
-		owner = HOL
+		owner = NGA
 		victory_points = {
-			12751 1 
+			4997 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 1
-			air_base = 1
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
 
 		}
-		add_core_of = GHA
+		add_core_of = NGA
 	}
 
 	provinces={
-		4957 5045 8008 12751 
+		4997 
 	}
-	manpower=2353300
+	manpower=4298344
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_city
 
 	local_supplies=10.0
 }

@@ -3,34 +3,32 @@ state={
 	id=417
 	name="STATE_417"
 	resources={
-		chromium=1.000
+		aluminium=5.000
+		rubber=1.000
+		steel=1.000
 	}
 
 	history={
-		owner = MEX
+		owner = MOR
 		victory_points = {
-			12823 7 
+			2044 0 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 6
-			arms_factory = 3
-			dockyard = 3
-			12823 = {
-				naval_base = 10
-			}
-			air_base = 3
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = MEX
+		add_core_of = GHA
 	}
 
 	provinces={
-		12823 13093 
+		2044 5101 7930 7954 10788 
 	}
-	manpower=7632264
+	manpower=1012301
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=rural
 
 	local_supplies=10.0
 }

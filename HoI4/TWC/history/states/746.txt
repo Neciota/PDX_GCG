@@ -2,29 +2,31 @@
 state={
 	id=746
 	name="STATE_746"
+	resources={
+		aluminium=3.000
+	}
 
 	history={
-		owner = W13
+		owner = SAX
 		victory_points = {
-			3355 1 
+			11417 15 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
 
 		}
-		add_core_of = GER
-		add_core_of = W13
+		add_core_of = SAX
 	}
 
 	provinces={
-		3355 
+		561 586 3474 6540 9416 9557 9572 11404 11417 11529 11544 
 	}
-	manpower=443972
+	manpower=3040260
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

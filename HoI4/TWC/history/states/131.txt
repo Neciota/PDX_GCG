@@ -2,32 +2,33 @@
 state={
 	id=131
 	name="STATE_131"
-	resources={
-		steel=20.000
-	}
 
 	history={
-		owner = X18
+		owner = X15
 		victory_points = {
-			9642 0 
+			3552 15 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			3552 = {
+				naval_base = 8
+			}
+			air_base = 6
 
 		}
-		add_core_of = FRA
-		add_claim_by = X18
+		add_core_of = X15
+		add_claim_by = FRA
 	}
 
 	provinces={
-		698 3666 6698 9642 
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11465 11508 11616 
 	}
-	manpower=1196064
+	manpower=5301420
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=metropolis
 
 	local_supplies=10.0
 }

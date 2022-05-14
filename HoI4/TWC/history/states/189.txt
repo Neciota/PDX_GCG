@@ -2,35 +2,28 @@
 state={
 	id=189
 	name="STATE_189"
-	resources={
-		steel=2.000
-	}
 
 	history={
 		owner = COL
 		victory_points = {
-			2079 1 
+			5026 2 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			arms_factory = 0
-			7936 = {
-				naval_base = 1
-			}
+			arms_factory = 1
 			air_base = 1
 
 		}
 		add_core_of = COL
-		add_claim_by = NIC
 	}
 
 	provinces={
-		2079 7936 10846 
+		2007 5026 10792 12729 12770 12825 
 	}
-	manpower=1423804
+	manpower=2383248
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 
 	local_supplies=10.0
 }

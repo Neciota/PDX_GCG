@@ -3,33 +3,34 @@ state={
 	id=383
 	name="STATE_383"
 	resources={
-		aluminium=1.000
-		rubber=0.000
-		steel=0.000
+		aluminium=4.000
+		chromium=4.000
+		steel=3.000
 	}
 
 	history={
-		owner = X57
+		owner = X51
 		victory_points = {
-			12843 15 
+			12420 0 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 3
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = TOG
-		add_core_of = X57
+		add_core_of = X56
+		add_claim_by = X11
+		add_claim_by = X16
 	}
 
 	provinces={
-		12843 13212 
+		1510 1579 7430 7574 8120 10030 10401 10872 12420 12781 
 	}
-	manpower=75576
+	manpower=2719196
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 
 	local_supplies=10.0
 }

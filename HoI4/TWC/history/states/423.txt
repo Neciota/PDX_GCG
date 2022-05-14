@@ -3,16 +3,13 @@ state={
 	id=423
 	name="STATE_423"
 	resources={
-		aluminium=1.000
-		chromium=6.000
-		steel=6.000
-		tungsten=2.000
+		steel=12.000
 	}
 
 	history={
-		owner = MON
+		owner = SIL
 		victory_points = {
-			12641 1 
+			3444 1 
 		}
 		buildings = {
 			infrastructure = 4
@@ -21,15 +18,15 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = MON
+		add_core_of = SIL
 	}
 
 	provinces={
-		1672 1826 7751 7786 10643 10683 12641 
+		3444 9522 
 	}
-	manpower=155024
+	manpower=615000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

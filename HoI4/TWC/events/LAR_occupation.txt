@@ -119,7 +119,6 @@ country_event = {
 					set_temp_variable = { allowed_party_democratic = 1 }
 					set_temp_variable = { allowed_party_fascism = 1 }
 					set_temp_variable = { allowed_party_neutrality = 1 }
-					set_temp_variable = { allowed_party_radical = 1 }
 					
 					# do not change ideology of occupier country
 					var:occupier_country = {
@@ -167,12 +166,6 @@ country_event = {
 									neutrality = 100
 								}
 								set_politics = { ruling_party = neutrality elections_allowed = no }
-							}
-							allowed_party_radical = {
-								set_popularities = {
-									radical = 100
-								}
-								set_politics = { ruling_party = radical elections_allowed = no }
 							}
 						}
 					}

@@ -3,7 +3,7 @@ characters={
 		name=ICE_sigurdur_arnorsson
 		portraits={
 			civilian={
-				large="gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
 			}
 		}
 		country_leader={

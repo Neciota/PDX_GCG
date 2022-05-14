@@ -3,31 +3,35 @@ state={
 	id=578
 	name="STATE_578"
 	resources={
-		steel=24.000
+		steel=2.000
 	}
 
 	history={
-		owner = X95
+		owner = SOV
 		victory_points = {
-			6469 15 
+			9340 6 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 5
+			industrial_complex = 4
 			arms_factory = 1
-			air_base = 6
+			dockyard = 1
+			9340 = {
+				naval_base = 10
+			}
+			air_base = 2
 
 		}
-		add_core_of = GER
-		add_core_of = X95
+		add_core_of = EST
+		add_claim_by = LIT
 	}
 
 	provinces={
-		529 6469 6570 9482 
+		222 265 310 319 341 3194 3255 3296 3298 3319 3388 3525 6222 6322 6342 6459 7482 9240 9262 9275 9317 9340 9501 10323 10493 11222 11246 11302 11358 
 	}
-	manpower=1634520
+	manpower=4124956
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

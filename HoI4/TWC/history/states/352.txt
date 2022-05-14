@@ -3,32 +3,29 @@ state={
 	id=352
 	name="STATE_352"
 	resources={
-		steel=7.000
+		steel=1.000
 	}
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			7000 7 
+			4425 0 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 9
-			arms_factory = 3
-			air_base = 4
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = CHI
-		add_core_of = X45
-		add_core_of = X56
 	}
 
 	provinces={
-		1169 1188 4032 4058 4093 4190 4208 6828 7000 7092 7109 10053 12026 12062 
+		1082 4425 10920 12464 
 	}
-	manpower=18695212
+	manpower=1135096
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=rural
 
 	local_supplies=10.0
 }

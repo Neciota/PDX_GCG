@@ -3,33 +3,35 @@ state={
 	id=672
 	name="STATE_672"
 	resources={
-		tungsten=76.000
+		aluminium=6.000
+		steel=30.000
 	}
 
 	history={
-		owner = SPR
+		owner = SWE
 		victory_points = {
-			11805 1 
+			6050 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			11805 = {
-				naval_base = 6
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			6050 = {
+				naval_base = 8
 			}
-			air_base = 1
+			air_base = 7
 
 		}
-		add_core_of = SPR
+		add_core_of = SWE
 	}
 
 	provinces={
-		799 844 924 970 980 3798 3861 6924 11768 11805 
+		35 161 3106 3182 6050 6127 6209 6311 6397 9109 9149 9185 9308 9393 11082 11163 11188 11278 11289 11380 
 	}
-	manpower=1477512
+	manpower=3886372
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 
 	local_supplies=10.0
 }

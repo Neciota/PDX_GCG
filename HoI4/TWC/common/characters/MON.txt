@@ -39,7 +39,7 @@ characters={
 		name=MON_kubilai_bodoo
 		portraits={
 			civilian={
-				large="gfx/leaders/Generic/Portrait_Asia_Generic_new_2.tga"
+				large="gfx/leaders/Generic/Portrait_Asia_Generic_new_3.tga"
 			}
 		}
 		country_leader={

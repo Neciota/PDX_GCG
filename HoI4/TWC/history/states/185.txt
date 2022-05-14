@@ -2,28 +2,32 @@
 state={
 	id=185
 	name="STATE_185"
+	resources={
+		oil=4.000
+	}
 
 	history={
-		owner = CHI
+		owner = PRC
 		victory_points = {
-			13052 0 
+			12446 1 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 			industrial_complex = 0
 			arms_factory = 0
-			13052 = {
+			12446 = {
 				naval_base = 10
 			}
-			air_base = 1
+			air_base = 0
 
 		}
+		add_core_of = PRC
 	}
 
 	provinces={
-		13052 
+		1322 1399 1515 1820 12446 13037 
 	}
-	manpower=95916
+	manpower=325316
 	buildings_max_level_factor=1.000
 	state_category=rural
 

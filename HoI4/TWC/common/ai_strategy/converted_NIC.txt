@@ -21,12 +21,12 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "ENG"
+		id = "X58"
 		value = 75
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
@@ -36,7 +36,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X93"
+		id = "X71"
 		value = 8
 	}
 }
@@ -87,7 +87,7 @@ converted_diplo_strategies_NIC = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 41
 	}
 	ai_strategy = {
@@ -107,7 +107,7 @@ converted_diplo_strategies_NIC = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X93"
+		id = "X71"
 		value = 2
 	}
 	ai_strategy = {
@@ -117,7 +117,7 @@ converted_diplo_strategies_NIC = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X93"
+		id = "X71"
 		value = 119
 	}
 	ai_strategy = {
@@ -137,12 +137,12 @@ converted_diplo_strategies_NIC = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "W35"
+		id = "X99"
 		value = 20
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X34"
+		id = "CZE"
 		value = 103
 	}
 	ai_strategy = {

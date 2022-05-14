@@ -2,18 +2,21 @@
 state={
 	id=178
 	name="STATE_178"
+	resources={
+		chromium=119.000
+	}
 
 	history={
-		owner = CHI
+		owner = PRC
 		victory_points = {
-			4357 0 
+			4268 0 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			4357 = {
-				naval_base = 1
+			4268 = {
+				naval_base = 10
 			}
 			air_base = 1
 
@@ -21,9 +24,9 @@ state={
 	}
 
 	provinces={
-		4357 12103 
+		1263 4231 4268 7264 10160 12132 
 	}
-	manpower=31912
+	manpower=173900
 	buildings_max_level_factor=1.000
 	state_category=rural
 

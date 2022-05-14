@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -26,7 +26,7 @@ X35_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -42,7 +42,7 @@ X35_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -58,7 +58,7 @@ X35_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -74,7 +74,7 @@ X35_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -90,7 +90,7 @@ X35_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -106,7 +106,7 @@ X35_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -122,7 +122,7 @@ X35_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -138,7 +138,7 @@ X35_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -154,7 +154,7 @@ X35_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 
@@ -170,7 +170,7 @@ X35_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 	}
 }
 

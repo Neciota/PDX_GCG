@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			
+			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
 		}
 	}
 

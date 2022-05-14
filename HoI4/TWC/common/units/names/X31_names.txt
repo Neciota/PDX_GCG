@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Osijek" "Janko Draškovic" "Antun Mihanovic" "Ljudevit Gaj" "Rijeka" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Hrvatska" "Maksimilijan Vrhovac" "Ilirski pokret" "Slavonija" "Zagreb" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Dubrovnik" "Ragusa" "Split" "Pula" "Gospic" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Ivan Lupis" "Janko Vukovic" "Matija Politeo" "Ante Tresic Pavicic" "Branimir" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Sava" "Drava" "Kupa" "Korana" "Cesma" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Krk" "Brijuni" "Lošinj" "Cres" "Ilovik" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" "Kana'ti" "Selu" "Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la" "Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha" 
+			"Dinara" "Kamešnica" "Biokovo" "Velebit" "Plješevica" 
 		}
 	}
 

@@ -1,33 +1,9 @@
 characters={
-	X01_gustav_schobber={
-		name=X01_gustav_schobber
+	X01_themistoklis_elladas={
+		name=X01_themistoklis_elladas
 		corps_commander={
-			skill=3
-			attack_skill=3
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=5
-			legacy_id=0
-		}
-	}
-
-	X01_michael_benedek={
-		name=X01_michael_benedek
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	X01_reinhold_von={
-		name=X01_reinhold_von
-		corps_commander={
-			skill=1
-			attack_skill=1
+			skill=2
+			attack_skill=4
 			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
@@ -35,15 +11,51 @@ characters={
 		}
 	}
 
-	X01_ernst_seitz={
-		name=X01_ernst_seitz
+	X01_aristidis_elladas={
+		name=X01_aristidis_elladas
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X01_avgostinos_elladas={
+		name=X01_avgostinos_elladas
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X01_charilaos_gonatas={
+		name=X01_charilaos_gonatas
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X01_charalampos_vassos={
+		name=X01_charalampos_vassos
 		portraits={
 			civilian={
-				large="gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
+				large="gfx/leaders/SPR/Portrait_Spain_Manuel_Azana.dds"
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

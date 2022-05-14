@@ -1,9 +1,9 @@
 characters={
-	X07_pashchenene_hunkpapha={
-		name=X07_pashchenene_hunkpapha
+	X07_ruchinath_aideo={
+		name=X07_ruchinath_aideo
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
+				large="gfx/leaders/Indian/Portrait_Madras_Sri_Ramakrishna_Ranga_Rao.tga"
 			}
 		}
 		country_leader={

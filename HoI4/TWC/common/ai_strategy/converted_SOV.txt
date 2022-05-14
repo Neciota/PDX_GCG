@@ -7,7 +7,7 @@
 	ai_strategy = {
 		type = conquer
 		id = "COG"
-		value = 336
+		value = 418
 	}
 	ai_strategy = {
 		type = conquer
@@ -16,7 +16,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X56"
+		id = "CHI"
 		value = 191
 	}
 	ai_strategy = {
@@ -26,7 +26,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W34"
+		id = "KAZ"
 		value = 180
 	}
 	ai_strategy = {
@@ -46,22 +46,17 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W04"
+		id = "X78"
 		value = 123
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W05"
+		id = "TMS"
 		value = 118
 	}
 	ai_strategy = {
 		type = conquer
 		id = "CAR"
-		value = 82
-	}
-	ai_strategy = {
-		type = conquer
-		id = "W33"
 		value = 66
 	}
 	ai_strategy = {
@@ -102,7 +97,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X56"
+		id = "CHI"
 		value = 78
 	}
 	ai_strategy = {
@@ -117,7 +112,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X21"
+		id = "GRE"
 		value = 31
 	}
 	ai_strategy = {
@@ -132,11 +127,6 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "CAR"
-		value = 400
-	}
-	ai_strategy = {
-		type = antagonize
 		id = "COG"
 		value = 297
 	}
@@ -147,7 +137,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X56"
+		id = "CHI"
 		value = 179
 	}
 	ai_strategy = {
@@ -167,7 +157,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W33"
+		id = "CAR"
 		value = 124
 	}
 	ai_strategy = {
@@ -177,7 +167,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X86"
+		id = "X64"
 		value = 84
 	}
 	ai_strategy = {
@@ -192,7 +182,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X21"
+		id = "GRE"
 		value = 47
 	}
 	ai_strategy = {
@@ -227,7 +217,7 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "W04"
+		id = "X78"
 		value = 65
 	}
 	ai_strategy = {
@@ -237,12 +227,12 @@ converted_diplo_strategies_SOV = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "W05"
+		id = "TMS"
 		value = 57
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X56"
+		id = "CHI"
 		value = 176
 	}
 	ai_strategy = {

@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X50_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X50_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X50_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X50_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X50_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X50_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X50_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X50_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X50_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X50_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Yodit" "Shewa" "Mara Takla" "Lalibela" "Yekuno Amlak" "Tigray" "Tatadum" "Seyum" "Kedus Harbe" "Na'akueto La'ab" "Yetbarak" 
+		
 	}
 }
 

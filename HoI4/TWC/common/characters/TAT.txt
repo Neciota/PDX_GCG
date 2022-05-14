@@ -3,7 +3,7 @@ characters={
 		name=TAT_yusuf_yanbayev
 		portraits={
 			civilian={
-				large="gfx/leaders/ALB/Portrait_Albania_King_Zog.dds"
+				large="gfx/leaders/TUR/portrait_tur_abdulmejid_ii.dds"
 			}
 		}
 		country_leader={

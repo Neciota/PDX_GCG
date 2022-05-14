@@ -1,13 +1,37 @@
 characters={
-	X99_wanbdi_luta={
-		name=X99_wanbdi_luta
+	X99_jacinto_itzan={
+		name=X99_jacinto_itzan
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X99_cristobal_itzan={
+		name=X99_cristobal_itzan
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X99_rolando_chaac={
+		name=X99_rolando_chaac
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
+				large="gfx/leaders/Central_American_Native/Portrait_HON_Jose_Maria_Moncada.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

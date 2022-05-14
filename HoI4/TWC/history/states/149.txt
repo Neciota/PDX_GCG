@@ -3,30 +3,30 @@ state={
 	id=149
 	name="STATE_149"
 	resources={
-		aluminium=2.000
-		steel=2.000
+		aluminium=45.000
+		chromium=91.000
 	}
 
 	history={
-		owner = X21
+		owner = GRE
 		victory_points = {
-			11741 15 
+			3882 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 3
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = W19
-		add_core_of = X21
+		add_core_of = GRE
+		add_core_of = X96
 	}
 
 	provinces={
-		953 982 11741 
+		833 867 907 974 3833 3865 3882 6886 11856 
 	}
-	manpower=311284
+	manpower=453736
 	buildings_max_level_factor=1.000
 	state_category=rural
 

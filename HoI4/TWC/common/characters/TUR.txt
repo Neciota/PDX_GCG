@@ -51,7 +51,7 @@ characters={
 		name=TUR_edhem_akkilic
 		portraits={
 			civilian={
-				large="gfx/leaders/TUR/Portrait_Turkey_Ismet_Inonu.dds"
+				large="gfx/leaders/Turkic_Steppe/Portrait_TUR_Ismet_Inonu.tga"
 			}
 		}
 		country_leader={

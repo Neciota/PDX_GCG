@@ -2,30 +2,29 @@
 state={
 	id=681
 	name="STATE_681"
+	resources={
+		aluminium=22.000
+	}
 
 	history={
-		owner = SWE
+		owner = SWI
 		victory_points = {
-			9228 1 
+			3660 15 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			9228 = {
-				naval_base = 8
-			}
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = SCA
-		add_core_of = SWE
+		add_core_of = SWI
 	}
 
 	provinces={
-		9228 
+		658 661 663 3641 3660 3662 9600 11623 
 	}
-	manpower=33136
+	manpower=842516
 	buildings_max_level_factor=1.000
 	state_category=rural
 

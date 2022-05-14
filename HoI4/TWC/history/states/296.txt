@@ -2,31 +2,26 @@
 state={
 	id=296
 	name="STATE_296"
-	resources={
-		aluminium=2.000
-		chromium=3.000
-		steel=3.000
-	}
 
 	history={
-		owner = X42
+		owner = ITA
 		victory_points = {
-			10171 15 
+			3780 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = X42
+		add_core_of = ITA
 	}
 
 	provinces={
-		4557 4883 7619 10171 
+		607 773 969 3780 6661 9584 11568 11587 
 	}
-	manpower=1200552
+	manpower=1858924
 	buildings_max_level_factor=1.000
 	state_category=rural
 

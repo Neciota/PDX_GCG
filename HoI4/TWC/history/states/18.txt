@@ -15,16 +15,15 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
+			industrial_complex = 3
 			arms_factory = 0
-			dockyard = 1
 			12774 = {
 				naval_base = 6
 			}
 			air_base = 6
 
 		}
-		add_core_of = X16
+		add_core_of = X13
 		add_claim_by = UAE
 	}
 

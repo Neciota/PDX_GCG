@@ -2,19 +2,31 @@
 state={
 	id=229
 	name="STATE_229"
-	impassable = yes
 
 	history={
 		owner = EGY
-		add_core_of = X52
+		victory_points = {
+			12766 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			5091 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = ERI
 	}
 
 	provinces={
-		1956 4913 7939 8128 10917 
+		5017 5047 5091 8043 12723 12766 
 	}
-	manpower=103248
+	manpower=629072
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=town
 
 	local_supplies=10.0
 }

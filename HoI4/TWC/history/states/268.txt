@@ -3,30 +3,35 @@ state={
 	id=268
 	name="STATE_268"
 	resources={
-		steel=4.000
+		aluminium=16.000
+		steel=35.000
 	}
 
 	history={
-		owner = W37
+		owner = FRA
 		victory_points = {
-			10966 0 
+			9737 0 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 0
+			9737 = {
+				naval_base = 2
+			}
+			air_base = 1
 
 		}
-		add_core_of = W37
+		add_core_of = OCC
+		add_claim_by = FRA
 	}
 
 	provinces={
-		1552 2126 4735 7548 8054 10966 
+		743 3740 6621 6759 6762 6777 9710 9717 9737 
 	}
-	manpower=613700
+	manpower=2481092
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 
 	local_supplies=10.0
 }

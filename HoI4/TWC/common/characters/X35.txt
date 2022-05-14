@@ -1,13 +1,49 @@
 characters={
-	X35_lockie_carr={
-		name=X35_lockie_carr
+	X35_kong_jiang={
+		name=X35_kong_jiang
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X35_li_zhao={
+		name=X35_li_zhao
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X35_li_zhao_1={
+		name=X35_li_zhao_1
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X35_yang_jiang={
+		name=X35_yang_jiang
 		portraits={
 			civilian={
-				large="gfx/leaders/FRA/Portrait_France_Paul_Reynaud.dds"
+				large="gfx/leaders/Asia/portrait_asia_generic_4.dds"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=fascism_ideology
 			expire="1965.1.1.1"
 			id=-1
 		}

@@ -6,7 +6,7 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "X96"
+		id = "X72"
 		value = 216
 	}
 	ai_strategy = {
@@ -16,13 +16,13 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "SOV"
-		value = 140
+		id = "CAL"
+		value = 144
 	}
 	ai_strategy = {
 		type = conquer
-		id = "CAL"
-		value = 120
+		id = "SOV"
+		value = 140
 	}
 	ai_strategy = {
 		type = conquer
@@ -31,27 +31,22 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
 		type = conquer
-		id = "CHI"
+		id = "PRC"
 		value = 46
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X35"
-		value = 24
-	}
-	ai_strategy = {
-		type = conquer
-		id = "ENG"
+		id = "X46"
 		value = 8
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X60"
+		id = "X58"
 		value = 8
 	}
 	ai_strategy = {
@@ -87,12 +82,12 @@ converted_diplo_strategies_JAP = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "CHI"
+		id = "PRC"
 		value = 74
 	}
 	ai_strategy = {
 		type = contain
-		id = "X56"
+		id = "CHI"
 		value = 47
 	}
 	ai_strategy = {
@@ -102,17 +97,17 @@ converted_diplo_strategies_JAP = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "CHI"
+		id = "PRC"
 		value = 150
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 121
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X60"
+		id = "X46"
 		value = 78
 	}
 	ai_strategy = {
@@ -137,7 +132,7 @@ converted_diplo_strategies_JAP = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X56"
+		id = "CHI"
 		value = 200
 	}
 	ai_strategy = {
@@ -152,12 +147,12 @@ converted_diplo_strategies_JAP = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "X96"
+		id = "X72"
 		value = 92
 	}
 	ai_strategy = {
 		type = protect
-		id = "CHI"
+		id = "PRC"
 		value = 40
 	}
 	ai_strategy = {

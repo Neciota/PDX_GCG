@@ -2,31 +2,30 @@
 state={
 	id=114
 	name="STATE_114"
-	resources={
-		tungsten=5.000
-	}
 
 	history={
-		owner = X12
+		owner = X11
 		victory_points = {
-			2054 15 
+			2086 3 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 6
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
 
 		}
-		add_core_of = X12
+		add_core_of = X11
+		add_claim_by = X69
+		add_claim_by = X83
 	}
 
 	provinces={
-		2054 7905 
+		1377 1983 2005 2032 2086 4045 4299 5055 7064 7334 8082 8114 9973 10751 12777 12786 12868 
 	}
-	manpower=4249948
+	manpower=26979840
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

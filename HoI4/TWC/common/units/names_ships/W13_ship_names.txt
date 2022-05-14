@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Lorelai" "Rhinelander" "Derfflinger" "Friedrich der Große" "Goeben" "Großer Kurfürst" "Helgoland" "Hindenburg" "Kaiser" "Kaiserin" "König" "König Albert" "Kronprinz" "Lützow" "Mackensen" "Markgraf" "Moltke" "Nassau" "Oldenburg" "Ostfriesland" "Posen" "Rheinland" "Sachsen" "Seydlitz" "Thüringen" "Westfalen" 
+		"Al Khalifa" "Al Bin Ali" "Al Thani" "Al Nahyan" "Al Maktum" "Al Qawasim" 
 	}
 }
 
@@ -26,7 +26,7 @@ W13_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Lorelai" "Arminius" "Bremen" "Carola" "Charlotte" "Frankfurt" "Friedrich Carl" "Friedrich der Große" "Großer Kurfürst" "Hamburg" "Hansa" "Kaiser" "König Wilhelm" "Kronprinz" "Leipzig" "Lübeck" "Marie" "Medusa" "Möwe" "Moltke" "Nixe" "Oldenburg" "Olga" "Otter" "Pfeil" "Preußen" "Preußischer Adler" "Prinz Adalbert" "Sophie" 
+		"Ala al-Din" "Husam al-Din" "Izz al-Din" "Jalal al-Din" "Khayr al-Din" "Majid al-Din" "Nasir al-Din" "Nur al-Din" "Safi al-Din" "Salah al-Din" "Siraj al-Din" 
 	}
 }
 
@@ -42,7 +42,7 @@ W13_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Lorelai" "Rhinelander" "Brandenburg" "Braunschweig" "Deutschland" "Hannover" "Hessen" "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der Große" "Kurfürst Friedrich Wilhelm" "Mecklenburg" "Pommern" "Preußen" "Schlesien" "Schleswig-Holstein" "Wettin" 
+		"Zubara" "Muharraq" "Manama" "Dawha" "Abu Dhabi" "Dubayy" "Al-Shariqa" "Ajman" 
 	}
 }
 
@@ -58,7 +58,7 @@ W13_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der Große" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "Möwe" "Preußischer Adler" "Seeadler" "Seelöwe" "Vineta" "Wolf" 
+		"Alif" "Amin" "Anwar" "Ayham" "Bahir" "Dhakwan" "Falah" "Faraj" "Fawzan" "Ghanim" "Ghassan" "Hanbal" "Haris" "Hashim" "Iqbal" "Jal" "Junayd" "Kadar" "Kazim" "Khalis" "Khulus" "Luay" "Mashhur" "Muflih" "Mulham" "Munahid" "Nabhan" "Nawfal" "Nazim" "Numan" "Ramiz" "Sharaf" "Siddiq" "Tawfiq" "Yasir" "Zayn" "Zubayr" 
 	}
 }
 
@@ -74,7 +74,7 @@ W13_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der Große" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "Möwe" "Preußischer Adler" "Seeadler" "Seelöwe" "Vineta" "Wolf" 
+		"Alif" "Amin" "Anwar" "Ayham" "Bahir" "Dhakwan" "Falah" "Faraj" "Fawzan" "Ghanim" "Ghassan" "Hanbal" "Haris" "Hashim" "Iqbal" "Jal" "Junayd" "Kadar" "Kazim" "Khalis" "Khulus" "Luay" "Mashhur" "Muflih" "Mulham" "Munahid" "Nabhan" "Nawfal" "Nazim" "Numan" "Ramiz" "Sharaf" "Siddiq" "Tawfiq" "Yasir" "Zayn" "Zubayr" 
 	}
 }
 
@@ -90,7 +90,7 @@ W13_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Lorelai" "Ägir" "Basilisk" "Beowulf" "Biene" "Bremse" "Brummer" "Cameleon" "Crocodill" "Frithjof" "Hagen" "Heimdall" "Hildebrand" "Hummel" "Mücke" "Natter" "Odin" "Rhein" "Sachsen" "Salamander" "Skorpion" "Siegfried" "Viper" "Wespe" 
+		"Badr al-Din" "Diya al-Din" "Baha al-Din" "Imad al-Din" "Jamal al-Din" "Lutf al-Din" "Najm al-Din" "Sayf al-Din" 
 	}
 }
 
@@ -106,7 +106,7 @@ W13_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Lorelai" "Ägir" "Basilisk" "Beowulf" "Biene" "Bremse" "Brummer" "Cameleon" "Crocodill" "Frithjof" "Hagen" "Heimdall" "Hildebrand" "Hummel" "Mücke" "Natter" "Odin" "Rhein" "Sachsen" "Salamander" "Skorpion" "Siegfried" "Viper" "Wespe" 
+		"Badr al-Din" "Diya al-Din" "Baha al-Din" "Imad al-Din" "Jamal al-Din" "Lutf al-Din" "Najm al-Din" "Sayf al-Din" 
 	}
 }
 
@@ -122,7 +122,7 @@ W13_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Lorelai" "Amazone" "Arcona" "Ariadne" "Berlin" "Blücher" "Blitz" "Bremen" "Bremse" "Breslau" "Brummer" "Bussard" "Köln" "Comet" "Condor" "Cormoran" "Danzig" "Deutschland" "Dresden" "Elbing" "Emden" "Falke" "Frankfurt" "Freya" "Friedrich Carl" "Fürst Bismarck" "Gazelle" "Gefion" "Geier" "Gneisenau" "Graudenz" "Greif" "Hamburg" "Hansa" "Hela" "Hertha" "Irene" "Jagd" "Kaiserin Augusta" "Königsberg" "Kolberg" "Leipzig" "Lübeck" "Magdeburg" "Medusa" "Meteor" "Niobe" "Nymphe" "Pillau" "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" "Regensburg" "Roon" "Rostock" "Scharnhorst" "Schwalbe" "Seeadler" "Sperber" "Stettin" "Stralsund" "Thetis" "Undine" "Victoria Louise" "Vineta" "Wacht" "Yorck" 
+		"Abd al-Aziz" "Abd al-Hadi" "Abd al-Haqq" "Abd al-Jalil" "Abd al-Latif" "Abd al-Hafiz" "Abd al-Hakim" "Abd al-Nasir" "Abd al-Quddus" "Abd al-Rahim" "Abd al-Malik" "Abd al-Rashid" "Abd al-Rahman" "Abd al-Sami" "Abd al-Wadud" "Abd al-Wahhab" 
 	}
 }
 
@@ -138,7 +138,7 @@ W13_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Lorelai" "Amazone" "Arcona" "Ariadne" "Berlin" "Blücher" "Blitz" "Bremen" "Bremse" "Breslau" "Brummer" "Bussard" "Köln" "Comet" "Condor" "Cormoran" "Danzig" "Deutschland" "Dresden" "Elbing" "Emden" "Falke" "Frankfurt" "Freya" "Friedrich Carl" "Fürst Bismarck" "Gazelle" "Gefion" "Geier" "Gneisenau" "Graudenz" "Greif" "Hamburg" "Hansa" "Hela" "Hertha" "Irene" "Jagd" "Kaiserin Augusta" "Königsberg" "Kolberg" "Leipzig" "Lübeck" "Magdeburg" "Medusa" "Meteor" "Niobe" "Nymphe" "Pillau" "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" "Regensburg" "Roon" "Rostock" "Scharnhorst" "Schwalbe" "Seeadler" "Sperber" "Stettin" "Stralsund" "Thetis" "Undine" "Victoria Louise" "Vineta" "Wacht" "Yorck" 
+		"Abd al-Aziz" "Abd al-Hadi" "Abd al-Haqq" "Abd al-Jalil" "Abd al-Latif" "Abd al-Hafiz" "Abd al-Hakim" "Abd al-Nasir" "Abd al-Quddus" "Abd al-Rahim" "Abd al-Malik" "Abd al-Rashid" "Abd al-Rahman" "Abd al-Sami" "Abd al-Wadud" "Abd al-Wahhab" 
 	}
 }
 
@@ -154,7 +154,7 @@ W13_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Barbarossa" "Kap Trafalgar" "Cormoran" "Iltis" "Kaiser Wilhelm der Große" "Kronprinz Wilhelm" "Leopard" "Loreley" "Meteor" "Möwe" "Preußischer Adler" "Seeadler" "Seelöwe" "Vineta" "Wolf" 
+		"Alif" "Amin" "Anwar" "Ayham" "Bahir" "Dhakwan" "Falah" "Faraj" "Fawzan" "Ghanim" "Ghassan" "Hanbal" "Haris" "Hashim" "Iqbal" "Jal" "Junayd" "Kadar" "Kazim" "Khalis" "Khulus" "Luay" "Mashhur" "Muflih" "Mulham" "Munahid" "Nabhan" "Nawfal" "Nazim" "Numan" "Ramiz" "Sharaf" "Siddiq" "Tawfiq" "Yasir" "Zayn" "Zubayr" 
 	}
 }
 
@@ -170,7 +170,7 @@ W13_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Lorelai" "Adler" "Albatross" "Alexandrine" "Amazone" "Arcona" "Ariadne" "Augusta" "Barbarossa" "Basilisk" "Bismarck" "Blitz" "Blücher" "Cameleon" "Comet" "Cyclop" "Delphin" "Der Königliche Ernst August" "Deutschland" "Drache" "Eber" "Eckernförde" "Elbe" "Elisabeth" "Erzherzog Johann" "Franklin" "Freya" "Fuchs" "Gazelle" "Gefion" "Gneisenau" "Grille" "Großherzog von Oldenburg" "Habicht" "Hay" "Hertha" "Hyäne" "Iltis" "Jäger" "Luise" "Meteor" "Natter" "Niobe" "Nymphe" "Pfeil" "Salamander" "Schwalbe" "Skorpion" "Sperber" "Stein" "Stosch" "Thetis" "Tiger" "Undine" "Victoria" "Vineta" "Wespe" "Wolf" "Ziethen" 
+		"Akram" "Atif" "Ayman" "Bahir" "Fadil" "Fath" "Firas" "Fawwaz" "Ghalib" "Hakim" "Humam" "Jabbar" "Jawhar" "Kamal" "Khalid" "Masud" "Mamun" "Majid" "Mufid" "Mukhtar" "Muntasir" "Qudamat" "Rashad" "Sa'ad" "Tahir" "Thabit" "Wafiq" "Yusuf" "Zahir" "Zafir" 
 	}
 }
 

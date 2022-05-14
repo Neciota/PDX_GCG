@@ -2,36 +2,29 @@
 state={
 	id=353
 	name="STATE_353"
-	resources={
-		aluminium=2.000
-		steel=3.000
-		tungsten=3.000
-	}
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			12732 1 
+			1970 0 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
-			arms_factory = 1
-			air_base = 1
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = CHI
-		add_core_of = X45
-		add_core_of = X56
-		add_claim_by = X46
+		add_core_of = PRC
+		add_core_of = SIK
 	}
 
 	provinces={
-		517 531 556 1630 1647 1933 1985 2022 3742 3745 4313 4888 4939 5025 5057 5193 6638 7397 7911 8081 10724 12327 12732 12776 12797 12882 
+		1703 1766 1943 1970 2015 2074 4682 4828 4973 5016 5042 5087 7273 7790 7949 8042 8086 8112 10315 10821 10885 10911 12119 12864 
 	}
-	manpower=12674640
+	manpower=1052384
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=rural
 
 	local_supplies=10.0
 }

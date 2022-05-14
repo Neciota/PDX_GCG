@@ -1,7 +1,7 @@
 GENERIC_FRA_OPERATIVE_CODENAME_HISTORICAL = {
 	name = NAME_THEME_HISTORICAL_OPERATIVES
 
-	for_countries = { FRA OCC X09 X18 }
+	for_countries = { FRA OCC X08 X14 }
 
 	type = codename
 

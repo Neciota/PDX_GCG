@@ -2,34 +2,34 @@
 state={
 	id=770
 	name="STATE_770"
-	resources={
-		aluminium=45.000
-		chromium=40.000
-		steel=39.000
-		tungsten=11.000
-	}
 
 	history={
-		owner = W34
+		owner = W00
 		victory_points = {
-			4581 15 
+			10773 15 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
+			dockyard = 1
+			8032 = {
+				naval_base = 10
+			}
 			air_base = 6
 
 		}
-		add_core_of = W34
+		add_core_of = MEX
+		add_core_of = W00
+		add_claim_by = X82
 	}
 
 	provinces={
-		1239 1287 1382 1402 1459 1591 1668 1749 1818 1840 1864 4224 4250 4389 4492 4578 4581 4595 4636 4638 4651 4661 4674 4686 4764 4773 4845 4867 7243 7332 7335 7350 7405 7407 7486 7501 7507 7556 7597 7600 7657 7706 7711 7777 7784 7795 7856 7890 10146 10148 10161 10218 10235 10290 10292 10353 10366 10408 10452 10506 10508 10547 10550 10584 10601 10603 10610 10619 10653 10660 10680 12329 12340 12385 12397 12427 12471 12487 12529 12564 12583 12594 12635 12640 12658 12662 13197 
+		5066 8032 8236 10730 10773 10832 12712 
 	}
-	manpower=2519244
+	manpower=14231544
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

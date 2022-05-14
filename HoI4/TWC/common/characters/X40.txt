@@ -1,45 +1,45 @@
 characters={
-	X40_fiorenzo_baldissera={
-		name=X40_fiorenzo_baldissera
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X40_leopoldo_cusani={
-		name=X40_leopoldo_cusani
+	X40_kifayat_alokzai={
+		name=X40_kifayat_alokzai
 		corps_commander={
 			skill=2
-			attack_skill=3
-			defense_skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X40_kifayat_khan={
+		name=X40_kifayat_khan
+		corps_commander={
+			skill=2
+			attack_skill=5
+			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X40_benito_pelloux={
-		name=X40_benito_pelloux
-		navy_leader={
-			skill=1
+	X40_juma_khan={
+		name=X40_juma_khan
+		corps_commander={
+			skill=2
 			attack_skill=1
-			defense_skill=1
-			maneuvering_skill=1
-			coordination_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=2
 			legacy_id=0
 		}
 	}
 
-	X40_giulio_pacoret_de_saint_bon={
-		name=X40_giulio_pacoret_de_saint_bon
+	X40_rahmatullah_alokzai={
+		name=X40_rahmatullah_alokzai
 		portraits={
 			civilian={
-				large="gfx/leaders/Mediterranean/Portrait_SRI_Giacomo_Matteotti.tga"
+				large="gfx/leaders/Indian/Portrait_BHC_Nirmal_Kumar_Bose.tga"
 			}
 		}
 		country_leader={

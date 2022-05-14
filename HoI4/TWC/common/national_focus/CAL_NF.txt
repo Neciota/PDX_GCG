@@ -18,4 +18,287 @@ focus_tree = {
 	shared_focus = industrial_effort
 	shared_focus = political_effort
 
+	focus = {
+		id = The_third_wayCAL
+		icon = GFX_goal_support_fascism
+		text = The_third_way
+		x = 28
+		y = 0
+		cost = 10
+		completion_reward = {
+		add_named_threat = { threat = 2 name = The_third_way }
+		add_ideas = fascist_influence
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = mil_marchCAL
+		icon = GFX_goal_generic_allies_build_infantry
+		text = mil_march
+		prerequisite = { focus = The_third_wayCAL }
+		x = 0
+		y = 1
+		relative_position_id = The_third_wayCAL
+		cost = 10
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 2
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		}
+	}
+
+	focus = {
+		id = CAL_anschluss_TEX
+		icon = GFX_goal_anschluss
+		text = _anschluss_TEX
+		prerequisite = { focus = mil_marchCAL }
+		x = -2
+		y = 1
+		relative_position_id = mil_marchCAL
+		cost = 10
+		available = {
+		TEX = {
+			has_war = no
+			is_puppet = no
+			is_in_faction = no
+		}
+		is_puppet = no
+		date > 1938.1.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 2 name = "Union with Texas" }
+		army_experience = 10
+		if = {
+			limit = {
+				country_exists = TEX
+			}
+			TEX = {
+				country_event = NFEvents.1
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = CAL_anschluss_X29
+		icon = GFX_goal_anschluss
+		text = _anschluss_X29
+		prerequisite = { focus = mil_marchCAL }
+		x = 0
+		y = 1
+		relative_position_id = mil_marchCAL
+		cost = 10
+		available = {
+		X29 = {
+			has_war = no
+			is_puppet = no
+			is_in_faction = no
+		}
+		is_puppet = no
+		date > 1938.1.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 2 name = "Union with Deseret" }
+		army_experience = 10
+		if = {
+			limit = {
+				country_exists = X29
+			}
+			X29 = {
+				country_event = NFEvents.4
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = CAL_anschluss_X47
+		icon = GFX_goal_anschluss
+		text = _anschluss_X47
+		prerequisite = { focus = mil_marchCAL }
+		x = 2
+		y = 1
+		relative_position_id = mil_marchCAL
+		cost = 10
+		available = {
+		X47 = {
+			has_war = no
+			is_puppet = no
+			is_in_faction = no
+		}
+		is_puppet = no
+		date > 1937.7.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 2 name = "Union with Alaska" }
+		army_experience = 10
+		if = {
+			limit = {
+				country_exists = X47
+			}
+			X47 = {
+				country_event = NFEvents.7
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = expand_the_reichCAL
+		icon = GFX_goal_generic_political_pressure
+		text = expand_the_reich
+		prerequisite = { focus = CAL_anschluss_TEX focus = CAL_anschluss_X29 focus = CAL_anschluss_X47 }
+
+		x = 0
+		y = 3
+		relative_position_id = The_third_wayCAL
+		cost = 10
+		completion_reward = {
+		add_named_threat = { threat = 3 name = expand_the_reich }
+		add_political_power = 150
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = CAL_sudeten_X58
+		icon = GFX_goal_anschluss
+		text = _sudeten_X58
+		prerequisite = { focus = expand_the_reichCAL }
+		bypass = {
+	  has_war_with = X58
+	}
+		x = 0
+		y = 1
+		relative_position_id = expand_the_reichCAL
+		cost = 10
+		available = {
+		is_puppet = no
+		date > 1939.1.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 2 name = "Demand Territory from Newfoundland" }
+		army_experience = 10
+		if = {
+			limit = {
+				country_exists = X58
+			}
+			X58 = {
+				country_event = NFEvents.10
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = CAL_finish_X58
+		icon = GFX_goal_generic_territory_or_war
+		text = _finish_X58
+		prerequisite = { focus =  CAL_sudeten_X58 }
+		bypass = {
+		has_war_with = X58
+	}
+		x = 0
+		y = 1
+		relative_position_id = CAL_sudeten_X58
+		cost = 10
+		available = {
+		X58 = { is_in_faction = no }
+	}
+		completion_reward = {
+		add_named_threat = { threat = 3 name = "Fate of Newfoundland" }
+		create_wargoal = {
+			type = annex_everything
+			target = X58
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = GP_WarMEXCAL
+		icon = GFX_goal_generic_major_war
+		text = GP_WarMEX
+		bypass = {
+		has_war_with = MEX
+	}
+		x = 32
+		y = 0
+		cost = 10
+		available = {
+		has_war = no
+		date > 1939.4.1
+	}
+		completion_reward = {
+		add_named_threat = { threat = 5 name = "War with Mexico" }
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = MEX
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = MEX ratio < 1 }
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				
+			}
+		}
+	}
+	}
+
 }

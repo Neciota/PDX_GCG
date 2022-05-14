@@ -2,28 +2,35 @@
 state={
 	id=638
 	name="STATE_638"
+	resources={
+		chromium=20.000
+	}
 
 	history={
 		owner = SOV
 		victory_points = {
-			13061 2 
+			6420 1 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
-			arms_factory = 1
-			air_base = 0
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			568 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
+		add_core_of = CRI
 		add_core_of = SOV
 	}
 
 	provinces={
-		1819 2877 4006 4229 4878 6211 10589 12549 12634 13061 
+		429 568 588 721 737 767 3399 3421 3449 3466 3573 3767 6420 6474 6493 6596 6771 6776 9571 9712 9729 11405 11700 
 	}
-	manpower=999368
+	manpower=4557476
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=large_city
 
 	local_supplies=10.0
 }

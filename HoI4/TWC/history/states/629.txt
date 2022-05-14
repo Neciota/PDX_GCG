@@ -3,33 +3,34 @@ state={
 	id=629
 	name="STATE_629"
 	resources={
-		chromium=2.000
+		aluminium=2.000
+		rubber=1.000
 	}
 
 	history={
 		owner = SOV
 		victory_points = {
-			11617 0 
+			8193 0 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			11617 = {
-				naval_base = 10
+			12975 = {
+				naval_base = 4
 			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = GEO
+		add_core_of = COG
 	}
 
 	provinces={
-		672 11599 11617 11647 
+		2192 3109 6008 8193 12975 
 	}
-	manpower=737448
+	manpower=4280004
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 
 	local_supplies=10.0
 }

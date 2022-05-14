@@ -3,35 +3,34 @@ state={
 	id=188
 	name="STATE_188"
 	resources={
-		oil=15.000
-		steel=2.000
+		steel=3.000
 	}
 
 	history={
 		owner = COL
 		victory_points = {
-			12790 20 
+			7991 1 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			12790 = {
+			7991 = {
 				naval_base = 10
 			}
-			air_base = 6
+			air_base = 1
 
 		}
 		add_core_of = COL
+		add_claim_by = NIC
 	}
 
 	provinces={
-		1937 2023 2085 8056 10864 12703 12790 12845 
+		2079 7936 7991 10846 
 	}
-	manpower=6315728
+	manpower=2376472
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=city
 
 	local_supplies=10.0
 }

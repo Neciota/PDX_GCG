@@ -1,13 +1,61 @@
 characters={
-	X30_tzannis_manos={
-		name=X30_tzannis_manos
+	X30_al_mukammal_bendahara={
+		name=X30_al_mukammal_bendahara
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=4
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X30_al_mukammal_ahmad={
+		name=X30_al_mukammal_ahmad
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X30_shahabuddin_muadzam={
+		name=X30_shahabuddin_muadzam
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X30_yusuf_muadzam={
+		name=X30_yusuf_muadzam
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X30_isandar_muadzam={
+		name=X30_isandar_muadzam
 		portraits={
 			civilian={
-				large="gfx/leaders/Mediterranean/Portrait_SPR_Jaime_I.tga"
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=leninism
 			expire="1965.1.1.1"
 			id=-1
 		}

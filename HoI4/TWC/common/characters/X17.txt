@@ -1,61 +1,13 @@
 characters={
-	X17_hermann_von={
-		name=X17_hermann_von
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=5
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X17_johann_reuter={
-		name=X17_johann_reuter
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X17_bernhard_heppendorf={
-		name=X17_bernhard_heppendorf
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X17_august_von={
-		name=X17_august_von
-		navy_leader={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			maneuvering_skill=3
-			coordination_skill=1
-			legacy_id=0
-		}
-	}
-
-	X17_leopold_von={
-		name=X17_leopold_von
+	X17_kiles_calapooya={
+		name=X17_kiles_calapooya
 		portraits={
 			civilian={
-				large="gfx/leaders/FRA/portrait_fra_leon_blum.dds"
+				large="gfx/leaders/central_american_native/portrait_nat_carib_democratic.dds"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

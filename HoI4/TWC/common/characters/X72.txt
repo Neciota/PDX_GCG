@@ -1,13 +1,61 @@
 characters={
-	X72_bajirao_bowa_sahib={
-		name=X72_bajirao_bowa_sahib
+	X72_honda_takamori={
+		name=X72_honda_takamori
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_osumi_tetsutaro={
+		name=X72_osumi_tetsutaro
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_askikaga_yusaku={
+		name=X72_askikaga_yusaku
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_suzuki_tsugumichi={
+		name=X72_suzuki_tsugumichi
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_masachika_katsura={
+		name=X72_masachika_katsura
 		portraits={
 			civilian={
-				large="gfx/leaders/Generic/Portrait_India_Generic_new_2.tga"
+				large="gfx/leaders/JAP/portrait_jap_tetsu_katayama.dds"
 			}
 		}
 		country_leader={
-			ideology=leninism
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

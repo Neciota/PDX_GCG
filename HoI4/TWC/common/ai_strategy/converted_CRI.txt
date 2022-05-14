@@ -1,0 +1,118 @@
+﻿converted_war_strategies_CRI = {
+	enable = {
+		tag = CRI
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 2743
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X08"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KAZ"
+		value = 40
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HUN"
+		value = 23
+	}
+}
+
+converted_diplo_strategies_CRI = {
+	enable = {
+		tag = CRI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 196
+	}
+	ai_strategy = {
+		type = contain
+		id = "HUN"
+		value = 83
+	}
+	ai_strategy = {
+		type = contain
+		id = "KAZ"
+		value = 83
+	}
+	ai_strategy = {
+		type = contain
+		id = "ARM"
+		value = 48
+	}
+	ai_strategy = {
+		type = contain
+		id = "X14"
+		value = 44
+	}
+	ai_strategy = {
+		type = contain
+		id = "TUR"
+		value = 39
+	}
+	ai_strategy = {
+		type = contain
+		id = "PRE"
+		value = 37
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X08"
+		value = 47
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HUN"
+		value = 38
+	}
+	ai_strategy = {
+		type = alliance
+		id = "CHI"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HOL"
+		value = 145
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GRE"
+		value = 143
+	}
+	ai_strategy = {
+		type = alliance
+		id = "UAE"
+		value = 136
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X93"
+		value = 33
+	}
+}

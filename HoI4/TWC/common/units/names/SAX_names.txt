@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Dresden" "Bautzen" "Chemnitz" "Freiberg" "Leipzig" "Löbau" "Meißen" "Plauen" "Schwarzenberg" "Zwickau" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Sachsen" "August der Starke" "Heinrich der Löwe" "König von Polen" "Wettin" "Friedrich August" "König Albert" "Kurfürst" "Askanien" "Aurora" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Dresden" "Bautzen" "Chemnitz" "Freiberg" "Leipzig" "Löbau" "Meißen" "Plauen" "Schwarzenberg" "Zwickau" 
+			
 		}
 	}
 

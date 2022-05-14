@@ -3,33 +3,34 @@ state={
 	id=207
 	name="STATE_207"
 	resources={
-		oil=1.000
-		steel=6.000
+		aluminium=4.000
+		steel=20.000
+		tungsten=2.000
 	}
 
 	history={
-		owner = X34
+		owner = CZE
 		victory_points = {
-			3553 10 
+			11679 10 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 4
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 7
+			air_base = 6
 
 		}
 		add_core_of = SLO
-		add_core_of = X34
-		add_core_of = X73
+		add_claim_by = CZE
+		add_claim_by = HUN
 	}
 
 	provinces={
-		421 445 3414 3553 3583 6485 6562 6590 9412 9551 9567 
+		541 555 581 3484 3537 3550 3565 3581 3716 6561 6573 6586 6604 9537 9539 9692 11522 11539 11554 11679 
 	}
-	manpower=2199404
+	manpower=1750656
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 
 	local_supplies=10.0
 }

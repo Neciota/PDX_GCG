@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X51_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X51_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X51_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X51_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X51_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X51_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X51_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X51_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X51_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X51_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Alia" "Alisha" "Aziza" "Beas" "Chenab" "Fatimah" "Guru" "Indus" "Jalsena" "Jhelum" "Khan" "Nausena" "Nav ka Yudh" "Niknaz" "Niloufa" "Ravi" "Sagar" "Sutlej" "Yasmine" "Zahira" 
+		
 	}
 }
 

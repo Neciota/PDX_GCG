@@ -1,9 +1,9 @@
 characters={
-	X54_meurig_argall={
-		name=X54_meurig_argall
+	X54_jos_pattinama={
+		name=X54_jos_pattinama
 		portraits={
 			civilian={
-				large="gfx/leaders/Western_European/Portrait_Norway_Haakon_VII.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Sarawak_Ahmad_Tajuddin.tga"
 			}
 		}
 		country_leader={

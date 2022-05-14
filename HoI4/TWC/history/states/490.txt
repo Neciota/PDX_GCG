@@ -3,37 +3,23 @@ state={
 	id=490
 	name="STATE_490"
 	resources={
-		aluminium=0.000
-		rubber=1.000
-		steel=0.000
+		aluminium=1.000
+		rubber=0.000
+		steel=4.000
 	}
+	impassable = yes
 
 	history={
 		owner = HOL
-		victory_points = {
-			1992 6 
-		}
-		buildings = {
-			infrastructure = 5
-			industrial_complex = 3
-			arms_factory = 1
-			dockyard = 2
-			10831 = {
-				naval_base = 6
-			}
-			air_base = 2
-
-		}
-		add_core_of = X78
-		add_claim_by = GAB
+		add_core_of = MRT
 	}
 
 	provinces={
-		1992 10831 
+		1897 1962 7943 8035 10771 10779 10838 
 	}
-	manpower=7629108
+	manpower=118952
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=wasteland
 
 	local_supplies=10.0
 }

@@ -3,31 +3,32 @@ state={
 	id=119
 	name="STATE_119"
 	resources={
-		aluminium=3.000
+		aluminium=28.000
 	}
 
 	history={
-		owner = X14
+		owner = WGR
 		victory_points = {
-			11640 15 
+			11604 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 1
-			air_base = 6
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
 
 		}
-		add_core_of = W20
+		add_core_of = SWI
+		add_core_of = WGR
 		add_core_of = X14
 	}
 
 	provinces={
-		694 3679 3692 6712 6934 11640 
+		636 3612 6666 6683 9587 9618 9620 9622 9638 11590 11601 11604 
 	}
-	manpower=571348
+	manpower=1451444
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 
 	local_supplies=10.0
 }

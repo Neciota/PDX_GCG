@@ -23,7 +23,7 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = X16
+		add_core_of = X13
 	}
 
 	provinces={

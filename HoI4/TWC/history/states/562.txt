@@ -3,32 +3,32 @@ state={
 	id=562
 	name="STATE_562"
 	resources={
-		steel=2.000
-		tungsten=4.000
+		aluminium=3.000
+		steel=3.000
+		tungsten=13.000
 	}
 
 	history={
-		owner = X93
+		owner = X71
 		victory_points = {
-			8203 1 
+			8216 1 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 1
+			industrial_complex = 0
 			arms_factory = 0
 			air_base = 0
 
 		}
-		add_core_of = X93
-		add_claim_by = BRA
+		add_core_of = X71
 	}
 
 	provinces={
-		2195 2209 5165 8203 10973 
+		2208 5143 8216 8255 
 	}
-	manpower=371340
+	manpower=687616
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

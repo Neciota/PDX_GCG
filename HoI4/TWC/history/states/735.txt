@@ -2,28 +2,37 @@
 state={
 	id=735
 	name="STATE_735"
+	resources={
+		aluminium=15.000
+		oil=90.000
+		steel=20.000
+	}
 
 	history={
-		owner = USA
+		owner = VEN
 		victory_points = {
-			3975 2 
+			10855 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 1
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			4526 = {
+				naval_base = 8
+			}
 			air_base = 1
 
 		}
-		add_core_of = USA
+		add_core_of = VEN
+		add_claim_by = COL
 	}
 
 	provinces={
-		801 3941 3975 4627 6850 6958 6971 7466 7588 7646 9923 10441 11888 
+		1997 2052 4526 5088 10855 
 	}
-	manpower=4376664
+	manpower=1411688
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

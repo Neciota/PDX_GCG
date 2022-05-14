@@ -4,26 +4,27 @@ state={
 	name="STATE_752"
 
 	history={
-		owner = W17
+		owner = X88
 		victory_points = {
-			13116 1 
+			11955 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
+			infrastructure = 2
+			industrial_complex = 1
 			arms_factory = 1
-			air_base = 1
+			air_base = 5
 
 		}
-		add_core_of = W17
+		add_core_of = X83
+		add_core_of = X88
 	}
 
 	provinces={
-		6421 13116 
+		5002 5040 7938 9951 10794 11955 
 	}
-	manpower=1369764
+	manpower=4493258
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=metropolis
 
 	local_supplies=10.0
 }

@@ -3,29 +3,29 @@ state={
 	id=265
 	name="STATE_265"
 	resources={
-		tungsten=2.000
+		aluminium=4.000
+		steel=5.000
 	}
 
 	history={
-		owner = W38
+		owner = FRA
 		victory_points = {
-			2168 10 
+			13011 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = W31
-		add_core_of = W38
+		add_core_of = FRA
 	}
 
 	provinces={
-		2168 5151 
+		551 680 3506 3533 6531 9490 9658 11732 13011 
 	}
-	manpower=187916
+	manpower=867396
 	buildings_max_level_factor=1.000
 	state_category=rural
 

@@ -1,21 +1,9 @@
 characters={
-	X73_drahoslav_fibich={
-		name=X73_drahoslav_fibich
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	X73_frantisek_josef_balaban={
-		name=X73_frantisek_josef_balaban
+	X73_tuanku_shah={
+		name=X73_tuanku_shah
 		portraits={
 			civilian={
-				large="gfx/leaders/Eastern_European/Portrait_Lithuania_Kazimieras_II_Tiskevicius.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Iskander_I_Perak.tga"
 			}
 		}
 		country_leader={

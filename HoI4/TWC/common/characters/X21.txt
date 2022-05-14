@@ -1,61 +1,13 @@
 characters={
-	X21_eleftherios_mouskos={
-		name=X21_eleftherios_mouskos
-		corps_commander={
-			skill=2
-			attack_skill=4
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X21_venizelos_sofoulis={
-		name=X21_venizelos_sofoulis
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X21_dimitrios_charalampis={
-		name=X21_dimitrios_charalampis
-		corps_commander={
-			skill=2
-			attack_skill=4
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X21_tzannis_tsakalotos={
-		name=X21_tzannis_tsakalotos
-		navy_leader={
-			skill=3
-			attack_skill=3
-			defense_skill=6
-			maneuvering_skill=1
-			coordination_skill=1
-			legacy_id=0
-		}
-	}
-
-	X21_dimitrios_venizelos={
-		name=X21_dimitrios_venizelos
+	X21_klehkentsoot_suquamish={
+		name=X21_klehkentsoot_suquamish
 		portraits={
 			civilian={
-				large="gfx/leaders/SPR/Portrait_Spain_Manuel_Azana.dds"
+				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

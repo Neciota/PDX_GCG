@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -26,7 +26,7 @@ X29_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -42,7 +42,7 @@ X29_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -58,7 +58,7 @@ X29_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -74,7 +74,7 @@ X29_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -90,7 +90,7 @@ X29_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -106,7 +106,7 @@ X29_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -122,7 +122,7 @@ X29_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -138,7 +138,7 @@ X29_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -154,7 +154,7 @@ X29_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 
@@ -170,7 +170,7 @@ X29_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		
+		"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
 	}
 }
 

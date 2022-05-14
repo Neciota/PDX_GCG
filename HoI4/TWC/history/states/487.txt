@@ -3,34 +3,32 @@ state={
 	id=487
 	name="STATE_487"
 	resources={
-		rubber=0.000
+		aluminium=3.000
+		rubber=1.000
+		steel=0.000
 	}
 
 	history={
-		owner = W44
+		owner = HOL
 		victory_points = {
-			12240 0 
+			5045 6 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 0
-			12240 = {
-				naval_base = 8
-			}
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 2
+			air_base = 2
 
 		}
-		add_core_of = PNG
-		add_core_of = W44
+		add_core_of = GHA
 	}
 
 	provinces={
-		1389 4393 4418 5135 7365 7614 10251 10423 11004 11018 12154 12193 12237 12240 12400 12428 12931 
+		4957 5045 8008 
 	}
-	manpower=911228
+	manpower=2353300
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

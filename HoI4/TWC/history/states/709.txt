@@ -3,32 +3,30 @@ state={
 	id=709
 	name="STATE_709"
 	resources={
-		aluminium=1.000
-		steel=0.000
+		steel=126.000
 	}
 
 	history={
-		owner = TUR
+		owner = USA
 		victory_points = {
-			4901 0 
+			1866 2 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
 
 		}
-		add_core_of = AZR
-		add_claim_by = TUR
+		add_core_of = USA
 	}
 
 	provinces={
-		4825 4901 10454 
+		1719 1866 1867 4664 4807 6752 6827 7536 9880 10618 10719 12577 
 	}
-	manpower=492708
+	manpower=3546940
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 
 	local_supplies=10.0
 }

@@ -1,9 +1,9 @@
 characters={
-	X23_peaypaymanshee_paytokothe={
-		name=X23_peaypaymanshee_paytokothe
+	X23_pulican_huirivis={
+		name=X23_pulican_huirivis
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_Native_American.dds"
+				large="gfx/leaders/Central_American_Native/portrait_nat_carib_absolutist.dds"
 			}
 		}
 		country_leader={

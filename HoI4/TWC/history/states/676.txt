@@ -3,32 +3,32 @@ state={
 	id=676
 	name="STATE_676"
 	resources={
-		aluminium=16.000
-		chromium=2.000
+		steel=8.000
 	}
 
 	history={
 		owner = SWE
 		victory_points = {
-			122 0 
+			9279 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			6176 = {
-				naval_base = 10
+			211 = {
+				naval_base = 1
 			}
 			air_base = 1
 
 		}
-		add_core_of = SCA
+		add_core_of = SWE
+		add_claim_by = DEN
 	}
 
 	provinces={
-		14 53 65 100 122 137 144 199 3049 3059 3090 3094 3114 3129 3188 3192 6072 6080 6145 6151 6176 6184 6216 9036 9047 9096 9103 9170 9174 9196 9204 9296 11029 11101 11176 11198 11367 
+		211 242 299 329 363 3229 3307 6120 6148 6345 6412 9251 9279 9300 9329 9362 9406 9410 11160 11215 11231 11280 11311 11327 11376 11390 
 	}
-	manpower=1352196
+	manpower=1007532
 	buildings_max_level_factor=1.000
 	state_category=rural
 

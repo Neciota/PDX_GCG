@@ -3,13 +3,15 @@ state={
 	id=232
 	name="STATE_232"
 	resources={
-		rubber=0.000
+		aluminium=1.000
+		rubber=2.000
+		steel=1.000
 	}
 
 	history={
 		owner = EGY
 		victory_points = {
-			5097 0 
+			1969 0 
 		}
 		buildings = {
 			infrastructure = 3
@@ -18,15 +20,15 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = ERI
+		add_core_of = NGR
 	}
 
 	provinces={
-		2072 5041 5097 7944 
+		1891 1969 
 	}
-	manpower=3672672
+	manpower=4033028
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_city
 
 	local_supplies=10.0
 }

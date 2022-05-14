@@ -1,0 +1,52 @@
+characters={
+	WGR_franz_goering={
+		name=WGR_franz_goering
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WGR_erwin_haynau={
+		name=WGR_erwin_haynau
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WGR_alfons_hohenlohe={
+		name=WGR_alfons_hohenlohe
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WGR_jakob_geiss={
+		name=WGR_jakob_geiss
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_USA_John_Nance_Garner.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

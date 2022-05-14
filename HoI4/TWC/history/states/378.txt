@@ -3,33 +3,35 @@ state={
 	id=378
 	name="STATE_378"
 	resources={
-		aluminium=1.000
-		rubber=0.000
-		steel=0.000
+		aluminium=2.000
+		chromium=2.000
+		steel=1.000
+		tungsten=3.000
 	}
 
 	history={
-		owner = X57
+		owner = X51
 		victory_points = {
-			12794 1 
+			12854 10 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 10
 
 		}
-		add_core_of = X57
-		add_claim_by = GHA
+		add_core_of = X16
+		add_core_of = X51
+		add_core_of = X56
 	}
 
 	provinces={
-		12794 
+		1199 1949 2036 2105 4106 4410 4950 4953 5096 7080 7205 8076 10332 10801 10807 10816 11993 11995 12080 12799 12854 
 	}
-	manpower=883696
+	manpower=7517336
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

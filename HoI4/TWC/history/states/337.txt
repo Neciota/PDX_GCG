@@ -2,30 +2,35 @@
 state={
 	id=337
 	name="STATE_337"
+	resources={
+		aluminium=2.000
+		oil=2.000
+		steel=8.000
+		tungsten=0.000
+	}
 
 	history={
-		owner = X51
+		owner = CHI
 		victory_points = {
-			12708 10 
+			4925 7 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 5
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
 
 		}
-		add_core_of = NEP
-		add_core_of = X41
-		add_core_of = X51
+		add_core_of = CHI
+		add_core_of = PRC
 	}
 
 	provinces={
-		1129 2076 7106 12708 
+		1257 1367 1395 1918 1999 2045 2067 4375 4403 4407 4925 4999 7240 7294 7988 8026 8104 9966 10132 10726 10787 10817 10841 10856 10903 11972 12141 12705 12724 12819 12837 
 	}
-	manpower=907520
+	manpower=22920116
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

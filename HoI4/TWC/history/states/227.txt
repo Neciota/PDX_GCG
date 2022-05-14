@@ -2,33 +2,20 @@
 state={
 	id=227
 	name="STATE_227"
-	resources={
-		aluminium=1.000
-		rubber=1.000
-		steel=1.000
-	}
+	impassable = yes
 
 	history={
 		owner = EGY
-		victory_points = {
-			2056 0 
-		}
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
-
-		}
-		add_core_of = X43
+		add_core_of = X41
+		add_claim_by = NGR
 	}
 
 	provinces={
-		2056 
+		8028 10758 10780 10805 
 	}
-	manpower=652220
+	manpower=1828376
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=wasteland
 
 	local_supplies=10.0
 }

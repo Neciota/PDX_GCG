@@ -3,32 +3,30 @@ state={
 	id=701
 	name="STATE_701"
 	resources={
-		chromium=10.000
-		oil=3.000
-		steel=4.000
-		tungsten=9.000
+		oil=46.000
+		steel=2.000
 	}
 
 	history={
-		owner = W05
+		owner = TUR
 		victory_points = {
-			4893 1 
+			7661 10 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 4
+			industrial_complex = 2
 			arms_factory = 0
-			air_base = 1
+			air_base = 10
 
 		}
-		add_core_of = TAJ
-		add_core_of = W05
+		add_core_of = AZR
+		add_core_of = TUR
 	}
 
 	provinces={
-		4893 7448 7519 7584 8053 10476 10781 10852 12248 12314 12653 12871 12877 
+		1536 4473 4614 7495 7661 12434 
 	}
-	manpower=1330024
+	manpower=682068
 	buildings_max_level_factor=1.000
 	state_category=rural
 

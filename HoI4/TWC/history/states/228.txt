@@ -6,14 +6,13 @@ state={
 
 	history={
 		owner = EGY
-		add_core_of = X52
-		add_claim_by = X43
+		add_core_of = X41
 	}
 
 	provinces={
-		8028 10758 10780 10805 
+		1956 4913 7939 8128 10917 
 	}
-	manpower=1828376
+	manpower=103248
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 

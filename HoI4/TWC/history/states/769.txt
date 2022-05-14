@@ -3,30 +3,36 @@ state={
 	id=769
 	name="STATE_769"
 	resources={
-		steel=2.000
+		chromium=2.000
+		rubber=2.000
+		steel=1.000
 	}
 
 	history={
-		owner = W33
+		owner = X99
 		victory_points = {
-			2081 15 
+			4991 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 5
+			2077 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = W33
+		add_core_of = MEX
+		add_claim_by = X99
 	}
 
 	provinces={
-		1993 2081 3181 7963 9152 13211 
+		2077 4991 
 	}
-	manpower=1892432
+	manpower=2091396
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

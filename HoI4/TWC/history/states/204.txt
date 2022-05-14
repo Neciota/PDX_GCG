@@ -2,35 +2,28 @@
 state={
 	id=204
 	name="STATE_204"
-	resources={
-		chromium=8.000
-	}
 
 	history={
-		owner = CYP
+		owner = CZE
 		victory_points = {
-			11984 15 
+			3585 3 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			arms_factory = 0
-			7193 = {
-				naval_base = 2
-			}
-			air_base = 6
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
 
 		}
-		add_core_of = CYP
-		add_core_of = X21
+		add_core_of = CZE
 	}
 
 	provinces={
-		7193 11984 
+		424 469 543 3418 3585 5283 6418 6440 6470 7857 9414 9555 11401 11414 11432 
 	}
-	manpower=488472
+	manpower=2886828
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

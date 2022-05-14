@@ -2,33 +2,32 @@
 state={
 	id=420
 	name="STATE_420"
-	resources={
-		aluminium=1.000
-		chromium=1.000
-		steel=3.000
-	}
 
 	history={
-		owner = MON
+		owner = MOR
 		victory_points = {
-			4801 1 
+			3118 0 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			industrial_complex = 0
-			arms_factory = 1
+			arms_factory = 0
+			3118 = {
+				naval_base = 1
+			}
 			air_base = 1
 
 		}
-		add_core_of = MON
+		add_core_of = X80
+		add_claim_by = MOR
 	}
 
 	provinces={
-		1723 1743 1787 1853 1859 1868 4655 4729 4732 4786 4792 4801 4856 4862 4873 7717 7749 7752 7823 7885 10554 10558 10575 10578 10632 10647 10689 10708 12533 12539 12557 12605 12612 12629 12665 12669 12686 
+		3118 
 	}
-	manpower=1043012
+	manpower=146856
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

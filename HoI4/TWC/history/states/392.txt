@@ -4,29 +4,30 @@ state={
 	name="STATE_392"
 
 	history={
-		owner = X61
+		owner = MEX
 		victory_points = {
-			10707 1 
+			4956 7 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
-			arms_factory = 0
-			13090 = {
-				naval_base = 2
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			10889 = {
+				naval_base = 10
 			}
-			air_base = 0
+			air_base = 4
 
 		}
-		add_core_of = X61
+		add_core_of = MEX
 	}
 
 	provinces={
-		1135 1830 4833 4848 7855 7884 10679 10694 10707 12661 13069 13090 13091 13202 13203 
+		1952 4956 8079 10889 
 	}
-	manpower=1138296
+	manpower=7538568
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

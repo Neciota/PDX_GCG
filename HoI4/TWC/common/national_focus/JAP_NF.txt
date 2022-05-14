@@ -22,7 +22,7 @@ focus_tree = {
 		id = EmpireGloryJAP
 		icon = GFX_goal_anschluss
 		text = EmpireGlory
-		x = 33
+		x = 31
 		y = 0
 		cost = 10
 		completion_reward = {
@@ -334,17 +334,17 @@ focus_tree = {
 	}
 
 	focus = {
-		id = ProtectorateJAPX58
+		id = ProtectorateJAPX44
 		icon = GFX_goal_generic_major_war
-		text = ProtectorateX58
+		text = ProtectorateX44
 		prerequisite = { focus = ColonialArmyJAP }
 		bypass = {
 		OR = {
 			ROOT = {
-				is_in_faction_with = X58
-				has_war_with = X58
+				is_in_faction_with = X44
+				has_war_with = X44
 			}
-			NOT = { country_exists = X58 }
+			NOT = { country_exists = X44 }
 		}
 	}
 		x = 0
@@ -352,19 +352,19 @@ focus_tree = {
 		relative_position_id = ColonialArmyJAP
 		cost = 10
 		available = {
-		X58 = { is_in_faction = no }
+		X44 = { is_in_faction = no }
 	}
 		completion_reward = {
 		create_wargoal = {
 			type = annex_everything
-			target = X58
+			target = X44
 		}
 	}
 		ai_will_do = {
 		factor = 10
 		modifier = {
 			factor = 0
-			strength_ratio = { tag = X58 ratio < 1 }
+			strength_ratio = { tag = X44 ratio < 1 }
 		}
 	}
 	}
@@ -373,7 +373,7 @@ focus_tree = {
 		id = ProtectorateJAPPAK
 		icon = GFX_goal_generic_major_war
 		text = ProtectoratePAK
-		prerequisite = { focus = ProtectorateJAPX58 }
+		prerequisite = { focus = ProtectorateJAPX44 }
 		bypass = {
 		OR = {
 			ROOT = {
@@ -385,7 +385,7 @@ focus_tree = {
 	}
 		x = 0
 		y = 1
-		relative_position_id = ProtectorateJAPX58
+		relative_position_id = ProtectorateJAPX44
 		cost = 10
 		available = {
 		PAK = { is_in_faction = no }
@@ -751,17 +751,17 @@ focus_tree = {
 	}
 
 	focus = {
-		id = AnnexJAPX96
+		id = AnnexJAPX72
 		icon = GFX_goal_generic_major_war
-		text = AnnexX96
+		text = AnnexX72
 		prerequisite = { focus = PrepTheBorderJAP }
 		bypass = {
 		OR = {
 			ROOT = {
-				is_in_faction_with = X96
-				has_war_with = X96
+				is_in_faction_with = X72
+				has_war_with = X72
 			}
-			NOT = { country_exists = X96 }
+			NOT = { country_exists = X72 }
 		}
 	}
 		x = 2
@@ -769,35 +769,35 @@ focus_tree = {
 		relative_position_id = PrepTheBorderJAP
 		cost = 10
 		available = {
-		X96 = { is_in_faction = no }
+		X72 = { is_in_faction = no }
 	}
 		completion_reward = {
 		create_wargoal = {
 			type = annex_everything
-			target = X96
+			target = X72
 		}
 	}
 		ai_will_do = {
 		factor = 5
 		modifier = {
 			factor = 0
-			strength_ratio = { tag = X96 ratio < 1 }
+			strength_ratio = { tag = X72 ratio < 1 }
 		}
 	}
 	}
 
 	focus = {
-		id = AnnexJAPCHI
+		id = AnnexJAPPRC
 		icon = GFX_goal_generic_major_war
-		text = AnnexCHI
+		text = AnnexPRC
 		prerequisite = { focus = NatSpiritJAP }
 		bypass = {
 		OR = {
 			ROOT = {
-				is_in_faction_with = CHI
-				has_war_with = CHI
+				is_in_faction_with = PRC
+				has_war_with = PRC
 			}
-			NOT = { country_exists = CHI }
+			NOT = { country_exists = PRC }
 		}
 	}
 		x = 1
@@ -805,21 +805,62 @@ focus_tree = {
 		relative_position_id = NatSpiritJAP
 		cost = 10
 		available = {
-		CHI = { is_in_faction = no }
+		PRC = { is_in_faction = no }
 	}
 		completion_reward = {
 		create_wargoal = {
 			type = annex_everything
-			target = CHI
+			target = PRC
 		}
 	}
 		ai_will_do = {
 		factor = 5
 		modifier = {
 			factor = 0
-			strength_ratio = { tag = CHI ratio < 1 }
+			strength_ratio = { tag = PRC ratio < 1 }
 		}
 	}
+	}
+
+	focus = {
+		id = War_withCHIJAP
+		icon = GFX_goal_generic_major_war
+		text = War_withCHI
+		bypass = {
+ 		has_war_with = CHI
+ 	}
+		x = 31
+		y = 5
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 5 name = "War with Kuomintang China" }
+			declare_war_on = {
+				type = annex_everything
+				target = CHI
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = CHI ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = CAL
+					has_war_with = UAE
+					has_war_with = MEX
+					has_war_with = SOV
+					has_war_with = USA
+					has_war_with = HOL
+				}
+			}
+		}
 	}
 
 }

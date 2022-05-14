@@ -2,34 +2,29 @@
 state={
 	id=78
 	name="STATE_78"
-	resources={
-		steel=15.000
-		tungsten=11.000
-	}
 
 	history={
 		owner = UAE
 		victory_points = {
-			7565 10 
+			7186 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 0
 			arms_factory = 0
-			4245 = {
+			dockyard = 1
+			1091 = {
 				naval_base = 4
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = BAN
-		add_core_of = X53
 	}
 
 	provinces={
-		1159 1609 4062 4204 4245 4644 7220 7565 10077 10389 12050 12338 
+		1091 1175 4096 7186 7214 9955 11914 11959 12027 12068 
 	}
-	manpower=24523220
+	manpower=9593984
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

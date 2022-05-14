@@ -5,13 +5,13 @@ state={
 	resources={
 		rubber=0.000
 		steel=0.000
-		tungsten=1.000
+		tungsten=2.000
 	}
 
 	history={
 		owner = BRM
 		victory_points = {
-			1492 15 
+			4019 10 
 		}
 		buildings = {
 			infrastructure = 1
@@ -21,13 +21,13 @@ state={
 
 		}
 		add_core_of = BRM
-		add_core_of = W22
+		add_core_of = X89
 	}
 
 	provinces={
-		1492 3999 4087 4454 4541 4588 7163 7190 7469 7534 10033 10386 10486 11966 12335 12404 12492 
+		4019 4059 4202 7034 
 	}
-	manpower=496120
+	manpower=96032
 	buildings_max_level_factor=1.000
 	state_category=rural
 

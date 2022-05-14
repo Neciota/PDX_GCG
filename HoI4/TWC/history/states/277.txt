@@ -3,35 +3,32 @@ state={
 	id=277
 	name="STATE_277"
 	resources={
-		aluminium=8.000
-		steel=47.000
+		aluminium=1.000
+		chromium=7.000
+		steel=9.000
 	}
 
 	history={
-		owner = FRA
+		owner = X34
 		victory_points = {
-			9561 1 
+			7465 1 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 1
 			industrial_complex = 0
 			arms_factory = 0
-			dockyard = 1
-			485 = {
-				naval_base = 4
-			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = FRA
+		add_core_of = X34
 	}
 
 	provinces={
-		454 485 3402 6585 9561 11420 11549 
+		1622 7428 7465 10469 12241 12490 
 	}
-	manpower=1219124
+	manpower=496420
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

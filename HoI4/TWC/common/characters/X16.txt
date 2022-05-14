@@ -1,9 +1,9 @@
 characters={
-	X16_nasir_khan={
-		name=X16_nasir_khan
+	X16_pheran_singh={
+		name=X16_pheran_singh
 		portraits={
 			civilian={
-				large="gfx/leaders/Arabic_Persian/Portrait_KUR_Mahmud_Barzanji.tga"
+				large="gfx/leaders/Indian/Portrait_MYS_Krishna_Wadiyar.tga"
 			}
 		}
 		country_leader={

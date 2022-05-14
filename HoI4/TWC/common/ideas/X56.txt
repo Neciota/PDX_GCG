@@ -1,311 +1,173 @@
 ideas = {
-	country = {
-		X56_shanghai_academy = {
-		
+	# TECHNOLOGY
+	tank_manufacturer = {
+
+		designer = yes
+
+		X56_tank_manufacturer = {
+
+			picture = generic_tank_manufacturer_1
+
 			allowed = {
 				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = idea_chi_whampoa_military_academy
-			
-			removal_cost = -1
-
-			modifier = {
-				max_command_power = 50
-			}
-		}
-		
-		X56_artillery_focus = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_artillery_regiments
-			
-			removal_cost = -1
-
-			equipment_bonus = {
-				artillery_equipment = {
-					build_cost_ic = -0.2 instant = yes
+				NOT = {
+					has_available_idea_with_traits = { idea = tank_manufacturer limit = 1 }
 				}
 			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				armor = 0.15
+			}
+
+			traits = { tank_manufacturer }
 		}
-		
-		X56_infantry_focus = {
-		
+	}
+
+	naval_manufacturer = {
+
+		designer = yes
+
+		X56_naval_manufacturer = {
+
+			picture = generic_naval_manufacturer_1
+
 			allowed = {
 				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_infantry_bonus
-			
-			removal_cost = -1
-
-			equipment_bonus = {
-				infantry_equipment = {
-					build_cost_ic = -0.2 instant = yes
+				NOT = {
+					has_available_idea_with_traits = { idea = naval_manufacturer limit = 1 }
 				}
 			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				naval_equipment = 0.15
+			}
+
+			traits = { naval_manufacturer }
 		}
-		
-		X56_tank_focus = {
-		
+	}
+
+	aircraft_manufacturer = {
+
+		designer = yes
+
+		X56_light_aircraft_manufacturer = {
+
+			picture = generic_air_manufacturer_1
+
 			allowed = {
 				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_armor
-			
-			removal_cost = -1
-
-			equipment_bonus = {
-				medium_tank_equipment = {
-					build_cost_ic = -0.2 instant = yes
+				NOT = {
+					has_available_idea_with_traits = { idea = light_aircraft_manufacturer limit = 1 }
 				}
 			}
-		}
-		
-		X56_leap_1 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				air_equipment = 0.15
 			}
 
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.05
-				consumer_goods_factor = -0.05
-				production_factory_efficiency_gain_factor = 0.02
-				production_factory_max_efficiency_factor = 0.02
-			}
-		}
-		
-		X56_leap_2 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.1
-				consumer_goods_factor = -0.1
-				production_factory_efficiency_gain_factor = 0.05
-				production_factory_max_efficiency_factor = 0.05
-			}
-		}
-		
-		X56_leap_3 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.15
-				consumer_goods_factor = -0.15
-				production_factory_efficiency_gain_factor = 0.07
-				production_factory_max_efficiency_factor = 0.07
-			}
-		}
-		
-		X56_leap_4 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.2
-				consumer_goods_factor = -0.2
-				production_factory_efficiency_gain_factor = 0.1
-				production_factory_max_efficiency_factor = 0.1
-			}
-		}
-		
-		X56_leap_5 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.25
-				consumer_goods_factor = -0.2
-				production_factory_efficiency_gain_factor = 0.15
-				production_factory_max_efficiency_factor = 0.15
-			}
-		}
-		
-		X56_leap_6 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_production_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				production_speed_buildings_factor = 0.3
-				consumer_goods_factor = -0.2
-				production_factory_efficiency_gain_factor = 0.2
-				production_factory_max_efficiency_factor = 0.2
-			}
-		}
-		
-		X56_kuomintang_1 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = idea_chi_chinese_unity
-			
-			removal_cost = -1
-
-			modifier = {
-				political_power_factor = 0.15
-			}
-		}
-		
-		X56_kuomintang_2 = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = idea_chi_chinese_unity
-			
-			removal_cost = -1
-
-			modifier = {
-				political_power_factor = 0.3
-			}
-		}
-		
-		X56_healthcare = {
-		
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_manpower_bonus
-			
-			removal_cost = -1
-
-			modifier = {
-				recruitable_population = 0.05
-			}
-		}
-		
-		X56_land_pensions = {
-	
-			allowed = {
-				original_tag = X56
-				always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			picture = generic_agrarian_reform
-			
-			removal_cost = -1
-
-			modifier = {
-				army_core_defence_factor = 0.2
-				attack_bonus_against_cores = 0.2
-			}
+			traits = { light_aircraft_manufacturer }
 		}
 
 	}
-	
-	# TECHNOLOGY
+
+	industrial_concern = {
+
+		X56_industrial_concern = {
+
+			picture = generic_industrial_concern_1
+
+			allowed = {
+				original_tag = X56
+				NOT = {
+					has_available_idea_with_traits = { idea = industrial_concern limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				industry = 0.15
+			}
+
+			traits = { industrial_concern }
+		}
+
+		X56_electronics_concern = {
+
+			picture = generic_electronics_concern_1
+
+			allowed = {
+				original_tag = X56
+				NOT = {
+					has_available_idea_with_traits = { idea = electronics_concern limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				electronics = 0.15
+			}
+
+			traits = { electronics_concern }
+		}
+	}
+
+	materiel_manufacturer = {
+
+		designer = yes
+
+		X56_infantry_equipment_manufacturer = {
+
+			picture = generic_infantry_equipment_manufacturer_2
+
+			allowed = {
+				original_tag = X56
+				NOT = {
+					has_available_idea_with_traits = { idea = infantry_equipment_manufacturer limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				infantry_weapons = 0.15
+			}
+
+			traits = { infantry_equipment_manufacturer }
+		}
+
+		X56_artillery_manufacturer = {
+
+			picture = generic_artillery_manufacturer_2
+
+			allowed = {
+				original_tag = X56
+				NOT = {
+					has_available_idea_with_traits = { idea = artillery_manufacturer limit = 1 }
+				}
+			}
+
+			cost = 150
+			removal_cost = 10
+
+			research_bonus = {
+				artillery = 0.15
+			}
+
+			traits = { artillery_manufacturer }
+		}
+	}
 }

@@ -1,6 +1,30 @@
 characters={
-	CAR_raffaele_savoia={
-		name=CAR_raffaele_savoia
+	CAR_muhammad_gawrang={
+		name=CAR_muhammad_gawrang
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAR_abd_gawrang={
+		name=CAR_abd_gawrang
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAR_al_rahman_mohammed={
+		name=CAR_al_rahman_mohammed
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -11,15 +35,15 @@ characters={
 		}
 	}
 
-	CAR_ambrogio_fanti={
-		name=CAR_ambrogio_fanti
+	CAR_abd_al_rahman_as_saghir={
+		name=CAR_abd_al_rahman_as_saghir
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=leninism
 			expire="1965.1.1.1"
 			id=-1
 		}

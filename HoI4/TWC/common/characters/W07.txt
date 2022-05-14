@@ -1,13 +1,13 @@
 characters={
-	W07_jose_tupiniquim={
-		name=W07_jose_tupiniquim
+	W07_charles_annez_de_zillebroeck={
+		name=W07_charles_annez_de_zillebroeck
 		portraits={
 			civilian={
-				large="gfx/leaders/central_american_native/portrait_nat_carib_absolutist.dds"
+				large="gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

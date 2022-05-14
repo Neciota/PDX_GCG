@@ -3,30 +3,35 @@ state={
 	id=592
 	name="STATE_592"
 	resources={
-		steel=17.000
+		oil=4.000
+		steel=59.000
 	}
 
 	history={
 		owner = SOV
 		victory_points = {
-			306 3 
+			3338 2 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 3
-			arms_factory = 2
-			air_base = 2
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			3338 = {
+				naval_base = 2
+			}
+			air_base = 0
 
 		}
 		add_core_of = SOV
 	}
 
 	provinces={
-		207 223 226 236 248 287 306 354 387 2999 3210 3215 3235 3247 3278 3297 3313 3344 3362 6264 6273 6293 6303 6367 6387 6400 9265 9287 9343 9351 9386 9399 11234 11250 11272 11290 11315 11326 11336 11349 11353 
+		140 154 180 183 312 3064 3065 3075 3080 3086 3092 3130 3147 3168 3338 6016 6102 6105 6159 6192 9041 9055 9099 9101 9248 11038 11042 11089 11171 
 	}
-	manpower=2490516
+	manpower=682864
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 
 	local_supplies=10.0
 }

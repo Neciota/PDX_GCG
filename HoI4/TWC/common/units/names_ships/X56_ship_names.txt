@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -26,7 +26,7 @@ X56_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -42,7 +42,7 @@ X56_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -58,7 +58,7 @@ X56_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -74,7 +74,7 @@ X56_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -90,7 +90,7 @@ X56_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -106,7 +106,7 @@ X56_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -122,7 +122,7 @@ X56_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -138,7 +138,7 @@ X56_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -154,7 +154,7 @@ X56_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 
@@ -170,7 +170,7 @@ X56_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" "Chao Ho" "Hai Chi" "Ying Swei" "Chao Ho" "Ning Hai" "Ping Hai" "Chung king" "Nan Shin" "Pao Nim" "Ying Ching" "Ton Chi" "Hai Yung" "Hai Shew" "Hai Shen" "Ying Swei" "Fei Hung" 
+		"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
 	}
 }
 

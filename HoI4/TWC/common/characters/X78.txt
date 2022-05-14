@@ -1,9 +1,57 @@
 characters={
-	X78_orji_equiano={
-		name=X78_orji_equiano
+	X78_vakhtang_sabinin={
+		name=X78_vakhtang_sabinin
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X78_eduard_eliava={
+		name=X78_eduard_eliava
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X78_vladimer_amilakhvari={
+		name=X78_vladimer_amilakhvari
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X78_sergo_maglakelidze={
+		name=X78_sergo_maglakelidze
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X78_sergo_ramishvili={
+		name=X78_sergo_ramishvili
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_LIB_Clarence_Simpson.tga"
+				large="gfx/leaders/Mediterranean/Portrait_Papal_State_Angelo_Cerica.tga"
 			}
 		}
 		country_leader={

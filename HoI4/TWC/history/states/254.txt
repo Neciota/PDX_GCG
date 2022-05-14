@@ -2,33 +2,34 @@
 state={
 	id=254
 	name="STATE_254"
+	resources={
+		steel=12.000
+	}
 
 	history={
 		owner = ENG
 		victory_points = {
-			13003 1 
+			6103 2 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 3
 			arms_factory = 0
-			dockyard = 1
-			13003 = {
-				naval_base = 1
+			11446 = {
+				naval_base = 6
 			}
 			air_base = 1
 
 		}
 		add_core_of = ENG
-		add_core_of = SCO
 	}
 
 	provinces={
-		13003 
+		507 3501 6103 6221 6270 6489 9458 11333 11446 11471 13070 
 	}
-	manpower=106552
+	manpower=5340964
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=metropolis
 
 	local_supplies=10.0
 }

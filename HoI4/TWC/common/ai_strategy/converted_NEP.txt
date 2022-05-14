@@ -6,12 +6,12 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "X12"
+		id = "X11"
 		value = 362
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X51"
+		id = "X40"
 		value = 301
 	}
 	ai_strategy = {
@@ -21,7 +21,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W21"
+		id = "X88"
 		value = 141
 	}
 	ai_strategy = {
@@ -36,12 +36,12 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X91"
+		id = "X69"
 		value = 8
 	}
 }
@@ -67,7 +67,7 @@ converted_diplo_strategies_NEP = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "W21"
+		id = "X88"
 		value = 107
 	}
 	ai_strategy = {
@@ -77,27 +77,27 @@ converted_diplo_strategies_NEP = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X12"
+		id = "X11"
 		value = 76
 	}
 	ai_strategy = {
 		type = contain
-		id = "X51"
+		id = "X40"
 		value = 73
 	}
 	ai_strategy = {
 		type = contain
-		id = "X56"
+		id = "CHI"
 		value = 52
 	}
 	ai_strategy = {
 		type = contain
-		id = "X42"
+		id = "X34"
 		value = 32
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X51"
+		id = "X40"
 		value = 400
 	}
 	ai_strategy = {
@@ -107,17 +107,17 @@ converted_diplo_strategies_NEP = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X12"
+		id = "X11"
 		value = 108
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W21"
+		id = "X88"
 		value = 61
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W10"
+		id = "X83"
 		value = 43
 	}
 	ai_strategy = {
@@ -127,32 +127,32 @@ converted_diplo_strategies_NEP = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X56"
+		id = "CHI"
 		value = 40
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 13
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X91"
+		id = "X69"
 		value = 7
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X66"
+		id = "X51"
 		value = 200
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X56"
+		id = "CHI"
 		value = 129
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X91"
+		id = "X69"
 		value = 10
 	}
 	ai_strategy = {
@@ -162,22 +162,22 @@ converted_diplo_strategies_NEP = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X42"
+		id = "X34"
 		value = 107
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "W33"
+		id = "CAR"
 		value = 94
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X51"
+		id = "X40"
 		value = 70
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X02"
+		id = "X01"
 		value = 54
 	}
 }

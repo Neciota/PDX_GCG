@@ -3,28 +3,32 @@ state={
 	id=664
 	name="STATE_664"
 	resources={
-		tungsten=35.000
+		steel=8.000
+		tungsten=300.000
 	}
 
 	history={
 		owner = SPR
 		victory_points = {
-			11798 1 
+			9817 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 1
-			air_base = 1
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			9817 = {
+				naval_base = 4
+			}
+			air_base = 0
 
 		}
 		add_core_of = SPR
 	}
 
 	provinces={
-		809 931 985 3930 6866 6902 6948 6954 9839 9877 9917 9925 11756 11780 11798 11851 13230 
+		724 845 877 889 938 3892 3969 6818 6921 6941 6996 9787 9817 11673 11885 
 	}
-	manpower=947100
+	manpower=1298144
 	buildings_max_level_factor=1.000
 	state_category=rural
 

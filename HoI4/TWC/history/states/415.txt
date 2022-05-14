@@ -2,33 +2,36 @@
 state={
 	id=415
 	name="STATE_415"
+	resources={
+		steel=8.000
+	}
 
 	history={
-		owner = MEX
+		owner = MOR
 		victory_points = {
-			12753 5 
+			11969 2 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 5
-			arms_factory = 2
-			dockyard = 2
-			12867 = {
-				naval_base = 10
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			4163 = {
+				naval_base = 4
 			}
-			air_base = 2
+			air_base = 1
 
 		}
-		add_core_of = MEX
-		add_claim_by = W36
+		add_core_of = MOR
+		add_claim_by = X80
 	}
 
 	provinces={
-		1900 2021 12753 12867 
+		1037 1046 1105 3987 4061 4129 4163 4992 7005 7077 7162 7180 9983 9994 10026 10082 10091 11921 11935 11957 11969 12000 
 	}
-	manpower=4769840
+	manpower=1383432
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=town
 
 	local_supplies=10.0
 }

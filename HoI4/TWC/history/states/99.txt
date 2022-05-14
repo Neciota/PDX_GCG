@@ -2,22 +2,32 @@
 state={
 	id=99
 	name="STATE_99"
-	resources={
-		oil=0.000
-	}
-	impassable = yes
 
 	history={
-		owner = AST
-		add_core_of = AST
+		owner = X08
+		victory_points = {
+			13084 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			13084 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = X08
+		add_claim_by = BAS
 	}
 
 	provinces={
-		2223 8237 10979 11013 12915 12936 12992 
+		4450 9377 13084 
 	}
-	manpower=396316
+	manpower=2463784
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=large_town
 
 	local_supplies=10.0
 }

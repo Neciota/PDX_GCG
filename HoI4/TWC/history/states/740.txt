@@ -2,36 +2,28 @@
 state={
 	id=740
 	name="STATE_740"
-	resources={
-		aluminium=300.000
-	}
 
 	history={
-		owner = VEN
+		owner = MEK
 		victory_points = {
-			12716 10 
+			11388 15 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			10906 = {
-				naval_base = 10
-			}
 			air_base = 6
 
 		}
-		add_core_of = VEN
-		add_core_of = X05
+		add_core_of = MEK
 	}
 
 	provinces={
-		1928 4934 4982 8107 10906 12716 12828 12885 
+		495 564 3524 9443 9509 11388 11431 11533 
 	}
-	manpower=689360
+	manpower=2810808
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 
 	local_supplies=10.0
 }

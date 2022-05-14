@@ -6,28 +6,29 @@ state={
 	history={
 		owner = USA
 		victory_points = {
-			3957 50 
+			12384 3 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 4
+			infrastructure = 4
+			industrial_complex = 3
 			arms_factory = 1
 			dockyard = 1
-			3957 = {
+			1480 = {
 				naval_base = 10
 			}
-			air_base = 10
+			air_base = 2
 
 		}
 		add_core_of = USA
+		add_core_of = X26
 	}
 
 	provinces={
-		3957 6823 6892 6929 6984 9758 9786 11892 
+		638 968 1433 1480 5090 7118 7583 7612 9949 9996 10394 10437 10465 10492 11975 12325 12384 12470 12498 
 	}
-	manpower=5746296
+	manpower=7813800
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

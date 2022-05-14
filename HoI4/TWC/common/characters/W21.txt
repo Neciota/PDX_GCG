@@ -1,49 +1,13 @@
 characters={
-	W21_vatsyayana_mishra={
-		name=W21_vatsyayana_mishra
-		corps_commander={
-			skill=3
-			attack_skill=4
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W21_maharshi_singh={
-		name=W21_maharshi_singh
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W21_maharshi_mishra={
-		name=W21_maharshi_mishra
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=2
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W21_ashtravakra_mishra={
-		name=W21_ashtravakra_mishra
+	W21_piet_bachar={
+		name=W21_piet_bachar
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_BHC_Chandra_Bose.tga"
+				large="gfx/leaders/Western_European/Portrait_USA_Happy_Chandler.tga"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

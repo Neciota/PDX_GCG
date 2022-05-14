@@ -11,7 +11,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
@@ -27,21 +27,16 @@
 	ai_strategy = {
 		type = conquer
 		id = "CAL"
-		value = 18
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X35"
-		value = 3
-	}
-	ai_strategy = {
-		type = conquer
-		id = "ENG"
-		value = 3
+		value = 21
 	}
 	ai_strategy = {
 		type = conquer
 		id = "HOL"
+		value = 3
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X58"
 		value = 3
 	}
 }
@@ -57,7 +52,7 @@ converted_diplo_strategies_NZL = {
 	
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
@@ -97,7 +92,7 @@ converted_diplo_strategies_NZL = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X95"
+		id = "DDR"
 		value = 23
 	}
 }

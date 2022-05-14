@@ -3,34 +3,33 @@ state={
 	id=127
 	name="STATE_127"
 	resources={
-		oil=1.000
+		aluminium=103.000
+		steel=122.000
 	}
 
 	history={
-		owner = X17
+		owner = X14
 		victory_points = {
-			3326 15 
+			3650 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-			arms_factory = 0
-			3326 = {
-				naval_base = 8
-			}
-			air_base = 6
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = X17
+		add_core_of = X14
+		add_claim_by = FRA
+		add_claim_by = SWI
 	}
 
 	provinces={
-		309 3326 
+		641 762 764 780 817 3589 3646 3650 3762 3764 3768 6613 6639 6668 6786 6975 9590 9736 11716 
 	}
-	manpower=236200
+	manpower=2739500
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 
 	local_supplies=10.0
 }

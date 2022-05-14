@@ -1,13 +1,61 @@
 characters={
-	X71_al_mukammal_raja_ahmad={
-		name=X71_al_mukammal_raja_ahmad
+	X71_auguste_langelier={
+		name=X71_auguste_langelier
+		corps_commander={
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X71_pierre_langelier={
+		name=X71_pierre_langelier
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X71_luis_phillippe_robitaille={
+		name=X71_luis_phillippe_robitaille
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X71_pierre_damasne={
+		name=X71_pierre_damasne
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X71_narcisse_caron={
+		name=X71_narcisse_caron
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Abdul_Rahman_Negeri_Sembilan.tga"
+				large="gfx/leaders/CAN/Portrait_Canada_Mackenzie_King.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

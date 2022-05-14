@@ -3,16 +3,13 @@ state={
 	id=81
 	name="STATE_81"
 	resources={
-		chromium=3.000
-		oil=1.000
-		steel=1.000
-		tungsten=5.000
+		steel=2.000
 	}
 
 	history={
 		owner = AFG
 		victory_points = {
-			2101 1 
+			1978 0 
 		}
 		buildings = {
 			infrastructure = 1
@@ -21,15 +18,16 @@ state={
 			air_base = 0
 
 		}
-		add_core_of = AFG
+		add_core_of = X69
+		add_claim_by = AFG
 	}
 
 	provinces={
-		1948 2017 2062 2101 4949 5020 5064 5082 8090 10789 12769 12831 
+		1978 4998 12717 
 	}
-	manpower=2275368
+	manpower=1077292
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 
 	local_supplies=10.0
 }

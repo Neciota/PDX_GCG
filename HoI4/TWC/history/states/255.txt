@@ -2,18 +2,22 @@
 state={
 	id=255
 	name="STATE_255"
+	resources={
+		steel=11.000
+	}
 
 	history={
 		owner = ENG
 		victory_points = {
-			3379 2 
+			3369 2 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 1
 			arms_factory = 0
-			276 = {
-				naval_base = 1
+			dockyard = 1
+			3422 = {
+				naval_base = 6
 			}
 			air_base = 1
 
@@ -22,11 +26,11 @@ state={
 	}
 
 	provinces={
-		276 385 3242 3329 3379 11257 
+		540 3369 3422 3463 6351 6378 6526 9484 9562 11406 
 	}
-	manpower=1587320
+	manpower=3498964
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

@@ -2,32 +2,30 @@
 state={
 	id=478
 	name="STATE_478"
-	resources={
-		aluminium=2.000
-		chromium=34.000
-		steel=4.000
-	}
 
 	history={
 		owner = HOL
 		victory_points = {
-			12648 0 
+			13018 0 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 1
+			13018 = {
+				naval_base = 2
+			}
+			air_base = 0
 
 		}
 	}
 
 	provinces={
-		4556 5231 12064 12648 
+		2165 13017 13018 
 	}
-	manpower=3089836
+	manpower=504184
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 
 	local_supplies=10.0
 }

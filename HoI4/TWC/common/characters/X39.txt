@@ -1,21 +1,9 @@
 characters={
-	X39_ahmadu_sa'id={
-		name=X39_ahmadu_sa'id
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=4
-			legacy_id=0
-		}
-	}
-
-	X39_alfa_bello={
-		name=X39_alfa_bello
+	X39_jawe_sachi={
+		name=X39_jawe_sachi
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_KTG_Mabumba_Kitanika.tga"
+				large="gfx/leaders/African/Portrait_SOM_Ali_Shire.tga"
 			}
 		}
 		country_leader={

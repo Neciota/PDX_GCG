@@ -1,0 +1,52 @@
+characters={
+	ARM_tharyvoulos_stanotas={
+		name=ARM_tharyvoulos_stanotas
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ARM_antonios_sofoulis={
+		name=ARM_antonios_sofoulis
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ARM_antonios_parakevopoulos={
+		name=ARM_antonios_parakevopoulos
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ARM_spyridion_makriiannis={
+		name=ARM_spyridion_makriiannis
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

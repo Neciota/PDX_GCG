@@ -2,11 +2,14 @@
 state={
 	id=563
 	name="STATE_563"
+	resources={
+		aluminium=11.000
+	}
 
 	history={
-		owner = X93
+		owner = X71
 		victory_points = {
-			2152 1 
+			12978 1 
 		}
 		buildings = {
 			infrastructure = 2
@@ -15,14 +18,13 @@ state={
 			air_base = 0
 
 		}
-		add_core_of = BRA
-		add_core_of = X93
+		add_core_of = X71
 	}
 
 	provinces={
-		2152 2173 2194 11023 12901 
+		2136 2158 2179 8195 8253 10964 12928 12978 
 	}
-	manpower=1726880
+	manpower=1291132
 	buildings_max_level_factor=1.000
 	state_category=rural
 

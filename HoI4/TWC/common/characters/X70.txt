@@ -1,9 +1,9 @@
 characters={
-	X70_sonny_bouma={
-		name=X70_sonny_bouma
+	X70_addeawando_wunnashowatookoog={
+		name=X70_addeawando_wunnashowatookoog
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Iskander_I_Perak.tga"
+				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
 			}
 		}
 		country_leader={

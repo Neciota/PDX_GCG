@@ -3,28 +3,34 @@ state={
 	id=755
 	name="STATE_755"
 	resources={
-		aluminium=3.000
+		aluminium=2.000
+		chromium=0.000
+		tungsten=14.000
 	}
 
 	history={
-		owner = W20
+		owner = X91
 		victory_points = {
-			9517 15 
+			10270 1 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-			arms_factory = 1
-			air_base = 6
+			arms_factory = 0
+			1273 = {
+				naval_base = 4
+			}
+			air_base = 1
 
 		}
-		add_core_of = W20
+		add_core_of = X56
+		add_core_of = X91
 	}
 
 	provinces={
-		519 3690 6555 9517 9545 9655 11486 11499 
+		1273 1405 4353 7119 10270 12142 12182 12295 
 	}
-	manpower=2442580
+	manpower=2405220
 	buildings_max_level_factor=1.000
 	state_category=large_town
 

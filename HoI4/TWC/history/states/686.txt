@@ -4,28 +4,26 @@ state={
 	name="STATE_686"
 
 	history={
-		owner = W02
+		owner = TEX
 		victory_points = {
-			9347 15 
+			10711 0 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 4
+			industrial_complex = 0
 			arms_factory = 0
-			9347 = {
-				naval_base = 8
-			}
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = W02
+		add_core_of = X23
+		add_core_of = X43
+		add_claim_by = TEX
 	}
 
 	provinces={
-		9347 
+		1815 4610 4723 4794 4820 7814 10640 10711 12561 
 	}
-	manpower=187724
+	manpower=1198780
 	buildings_max_level_factor=1.000
 	state_category=rural
 

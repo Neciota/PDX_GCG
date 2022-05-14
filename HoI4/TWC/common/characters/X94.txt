@@ -1,13 +1,49 @@
 characters={
-	X94_cayo_huachuri={
-		name=X94_cayo_huachuri
+	X94_walter_haus={
+		name=X94_walter_haus
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_michael_goering={
+		name=X94_michael_goering
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X94_edmund_hartmann={
+		name=X94_edmund_hartmann
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_eduard_schmitt={
+		name=X94_eduard_schmitt
 		portraits={
 			civilian={
-				large="gfx/leaders/Central_American_Native/portrait_nat_carib_absolutist.dds"
+				large="gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

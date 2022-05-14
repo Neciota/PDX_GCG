@@ -1,9 +1,9 @@
 characters={
-	X04_minkyaw_myo={
-		name=X04_minkyaw_myo
+	X04_jooluu_pausayuu={
+		name=X04_jooluu_pausayuu
 		portraits={
 			civilian={
-				large="gfx/leaders/BHU/portrait_bhu_jigme_wangchuk.dds"
+				large="gfx/leaders/central_american_native/portrait_nat_carib_absolutist.dds"
 			}
 		}
 		country_leader={

@@ -4,28 +4,26 @@ state={
 	name="STATE_463"
 
 	history={
-		owner = W44
+		owner = HOL
 		victory_points = {
-			7557 10 
+			5023 0 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			10342 = {
-				naval_base = 10
+			5023 = {
+				naval_base = 1
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = W44
-		add_core_of = X63
 	}
 
 	provinces={
-		1437 7369 7557 10342 
+		5023 
 	}
-	manpower=551524
+	manpower=34492
 	buildings_max_level_factor=1.000
 	state_category=rural
 

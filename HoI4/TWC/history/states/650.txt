@@ -3,35 +3,28 @@ state={
 	id=650
 	name="STATE_650"
 	resources={
-		rubber=35.000
-		steel=5.000
-		tungsten=5.000
+		aluminium=4.000
 	}
 
 	history={
-		owner = SIA
+		owner = SLV
 		victory_points = {
-			12360 1 
+			9627 15 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			7225 = {
-				naval_base = 4
-			}
-			air_base = 0
+			air_base = 6
 
 		}
-		add_core_of = SIA
-		add_core_of = X62
-		add_claim_by = CAM
+		add_core_of = SLV
 	}
 
 	provinces={
-		1244 1357 1535 1548 4433 4511 4582 7225 7292 7516 7601 10293 10384 10425 10438 12195 12224 12264 12360 12373 12388 12402 12417 12431 
+		3631 6650 9596 9627 
 	}
-	manpower=1234356
+	manpower=616216
 	buildings_max_level_factor=1.000
 	state_category=rural
 

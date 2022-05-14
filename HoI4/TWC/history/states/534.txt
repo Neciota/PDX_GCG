@@ -4,27 +4,30 @@ state={
 	name="STATE_534"
 
 	history={
-		owner = X91
+		owner = PRE
 		victory_points = {
-			9084 15 
+			6389 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 5
+			6389 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = X41
-		add_core_of = X91
+		add_core_of = PRE
+		add_core_of = SHL
 	}
 
 	provinces={
-		2002 9084 10066 10729 10772 10887 12005 12822 
+		3231 3368 6257 6389 9320 11331 
 	}
-	manpower=3920872
+	manpower=850272
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

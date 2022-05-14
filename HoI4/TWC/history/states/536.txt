@@ -4,28 +4,30 @@ state={
 	name="STATE_536"
 
 	history={
-		owner = POL
+		owner = PRE
 		victory_points = {
-			11558 2 
+			321 2 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 3
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 0
+			dockyard = 1
+			321 = {
+				naval_base = 10
+			}
 			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = POL
 		add_core_of = PRE
 	}
 
 	provinces={
-		17 243 279 388 3381 3460 3532 6558 9532 11232 11558 
+		268 293 321 349 3258 3340 9294 9388 11276 11305 
 	}
-	manpower=1565564
+	manpower=1318120
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 
 	local_supplies=10.0
 }

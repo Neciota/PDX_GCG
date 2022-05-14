@@ -3,31 +3,32 @@ state={
 	id=237
 	name="STATE_237"
 	resources={
-		aluminium=1.000
+		aluminium=6.000
+		oil=6.000
+		steel=2.000
 	}
 
 	history={
-		owner = W40
+		owner = ENG
 		victory_points = {
-			12600 10 
+			12512 0 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			490 = {
+			10245 = {
 				naval_base = 1
 			}
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = W40
 	}
 
 	provinces={
-		490 1657 3208 4666 6740 7364 10176 11682 12147 12600 13196 
+		10245 10636 12512 13058 13066 
 	}
-	manpower=312892
+	manpower=185044
 	buildings_max_level_factor=1.000
 	state_category=rural
 

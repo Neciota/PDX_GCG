@@ -226,25 +226,4 @@ instant_effect = {
 	}
 }
 units = {
-	division = {
-		name = "1. Assault Division"
-		location = 12376
-		division_template = "Assault Division"
-		start_experience_factor = 0.4
-		start_equipment_factor = 1.0
-	}
-	division = {
-		name = "1. Infantry Brigade"
-		location = 12376
-		division_template = "Infantry Brigade"
-		start_experience_factor = 0.4
-		start_equipment_factor = 1.0
-	}
-	division = {
-		name = "1. Cavalry Brigade"
-		location = 12376
-		division_template = "Cavalry Brigade"
-		start_experience_factor = 0.4
-		start_equipment_factor = 1.0
-	}
 }

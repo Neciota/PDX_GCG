@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Alia" "Aurangabad" "Devki" "Fatimah" "Godvari" "Gulbargah" "Jalsena" "Kala Jahazi" "Khan" "Lal Jahazi" "Nausena" "Nav ka Yudh" "Niknaz" "Nila Jahazi" "Niloufa" "Sagar" "Salima" "Suhalia" "Shameena" "Yasmine" 
+			"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
 		}
 	}
 

@@ -3,31 +3,32 @@ state={
 	id=143
 	name="STATE_143"
 	resources={
-		oil=28.000
+		oil=3.000
+		steel=0.000
 	}
 
 	history={
 		owner = BUL
 		victory_points = {
-			9635 15 
+			9612 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			657 = {
-				naval_base = 4
+			9783 = {
+				naval_base = 6
 			}
-			air_base = 6
+			air_base = 1
 
 		}
 		add_core_of = BUL
 	}
 
 	provinces={
-		657 687 3076 9614 9635 11597 
+		649 6842 9610 9612 9769 9783 
 	}
-	manpower=1027372
+	manpower=275480
 	buildings_max_level_factor=1.000
 	state_category=rural
 

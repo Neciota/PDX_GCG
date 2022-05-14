@@ -3,30 +3,39 @@ state={
 	id=758
 	name="STATE_758"
 	resources={
-		tungsten=2.000
+		aluminium=2.000
+		chromium=1.000
+		rubber=13.000
+		tungsten=6.000
 	}
 
 	history={
-		owner = W21
+		owner = X91
 		victory_points = {
-			8010 1 
+			4416 2 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 4
 			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			arms_factory = 1
+			dockyard = 1
+			4416 = {
+				naval_base = 4
+			}
+			air_base = 1
 
 		}
-		add_core_of = W21
+		add_core_of = X98
+		add_claim_by = X90
+		add_claim_by = X91
 	}
 
 	provinces={
-		8010 12860 
+		1409 4315 4327 4416 7265 7288 7363 8067 10130 10246 10274 10808 12247 
 	}
-	manpower=378344
+	manpower=3160568
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

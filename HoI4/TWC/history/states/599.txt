@@ -2,33 +2,31 @@
 state={
 	id=599
 	name="STATE_599"
+	resources={
+		steel=7.000
+	}
 
 	history={
 		owner = SOV
 		victory_points = {
-			3686 2 
+			9302 7 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
-			arms_factory = 0
-			dockyard = 1
-			3686 = {
-				naval_base = 10
-			}
-			air_base = 1
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
 
 		}
 		add_core_of = SOV
-		add_claim_by = X21
 	}
 
 	provinces={
-		705 3686 3722 6704 6724 9677 9680 9718 11649 
+		246 274 300 315 335 343 352 366 371 382 398 401 3226 3236 3263 3279 3308 3327 3335 3345 3358 3364 3377 3390 6243 6252 6305 6348 6365 9253 9261 9272 9301 9302 9318 9366 9382 11229 11235 11254 11284 11298 11300 11325 11369 11384 
 	}
-	manpower=1376116
+	manpower=7959772
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

@@ -2,32 +2,34 @@
 state={
 	id=440
 	name="STATE_440"
+	resources={
+		oil=4.000
+		rubber=47.000
+	}
 
 	history={
-		owner = MOR
+		owner = HOL
 		victory_points = {
-			1751 10 
+			12129 0 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			1751 = {
-				naval_base = 1
+			12129 = {
+				naval_base = 10
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = W06
-		add_core_of = MOR
 	}
 
 	provinces={
-		1751 
+		1230 1304 1316 2170 2222 4279 4335 4409 7227 8221 10282 10310 12129 12955 
 	}
-	manpower=285164
+	manpower=1153560
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

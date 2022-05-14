@@ -2,33 +2,33 @@
 state={
 	id=705
 	name="STATE_705"
-	resources={
-		steel=7.000
-		tungsten=3.000
-	}
 
 	history={
-		owner = W09
+		owner = USA
 		victory_points = {
-			13089 1 
+			11841 10 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
+			infrastructure = 5
+			industrial_complex = 5
 			arms_factory = 1
-			air_base = 1
+			dockyard = 1
+			788 = {
+				naval_base = 10
+			}
+			air_base = 7
 
 		}
-		add_core_of = MEX
-		add_core_of = W09
+		add_core_of = USA
+		add_core_of = X70
 	}
 
 	provinces={
-		5052 13089 
+		788 865 873 951 1506 3823 3917 3925 6846 7558 9779 9931 10343 10412 10439 11738 11841 11873 
 	}
-	manpower=1068056
+	manpower=12298624
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

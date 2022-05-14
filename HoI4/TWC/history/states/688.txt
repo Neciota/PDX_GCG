@@ -2,29 +2,26 @@
 state={
 	id=688
 	name="STATE_688"
-	resources={
-		aluminium=22.000
-	}
 
 	history={
-		owner = SWI
+		owner = TEX
 		victory_points = {
-			3660 15 
+			12667 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = SWI
+		add_core_of = TEX
 	}
 
 	provinces={
-		658 661 663 3641 3660 3662 9600 11623 
+		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667 
 	}
-	manpower=842516
+	manpower=1422928
 	buildings_max_level_factor=1.000
 	state_category=rural
 

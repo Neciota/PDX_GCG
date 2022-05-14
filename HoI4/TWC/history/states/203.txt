@@ -2,32 +2,35 @@
 state={
 	id=203
 	name="STATE_203"
+	resources={
+		chromium=8.000
+	}
 
 	history={
-		owner = CRO
+		owner = CYP
 		victory_points = {
-			3924 1 
+			11984 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			11901 = {
-				naval_base = 10
+			7193 = {
+				naval_base = 2
 			}
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = CRO
-		add_claim_by = ITA
+		add_core_of = CYP
+		add_core_of = GRE
 	}
 
 	provinces={
-		591 984 3924 3943 3974 6611 11816 11901 
+		7193 11984 
 	}
-	manpower=769976
+	manpower=488472
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

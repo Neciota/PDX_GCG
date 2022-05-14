@@ -27,7 +27,7 @@ characters={
 		name=NIC_davidh_croft
 		portraits={
 			civilian={
-				large="gfx/leaders/Western_European/Portrait_Germany_Wilhelm_III.tga"
+				large="gfx/leaders/Western_European/Portrait_Germany_Wilhelm_II.tga"
 			}
 		}
 		country_leader={

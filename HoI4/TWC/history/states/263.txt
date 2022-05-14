@@ -2,32 +2,26 @@
 state={
 	id=263
 	name="STATE_263"
-	resources={
-		steel=1.000
-	}
 
 	history={
-		owner = W37
+		owner = FRA
 		victory_points = {
-			8248 10 
+			620 1 
 		}
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			8219 = {
-				naval_base = 4
-			}
-			air_base = 5
+			air_base = 0
 
 		}
-		add_core_of = W37
+		add_core_of = FRA
 	}
 
 	provinces={
-		5158 8219 8248 12981 
+		620 625 651 3621 3626 3771 6618 6648 6651 9629 9734 9751 11720 
 	}
-	manpower=1695488
+	manpower=919764
 	buildings_max_level_factor=1.000
 	state_category=rural
 

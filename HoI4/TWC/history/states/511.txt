@@ -3,23 +3,35 @@ state={
 	id=511
 	name="STATE_511"
 	resources={
-		aluminium=1.000
-		rubber=0.000
-		steel=4.000
+		chromium=1.000
 	}
-	impassable = yes
 
 	history={
-		owner = HOL
-		add_core_of = MRT
+		owner = NIC
+		victory_points = {
+			13087 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			12878 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = COL
+		add_claim_by = NIC
 	}
 
 	provinces={
-		1897 1962 7943 8035 10771 10779 10838 
+		12878 13087 13092 
 	}
-	manpower=118952
+	manpower=3295304
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=city
 
 	local_supplies=10.0
 }

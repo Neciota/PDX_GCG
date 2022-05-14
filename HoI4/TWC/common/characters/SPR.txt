@@ -51,7 +51,7 @@ characters={
 		name=SPR_javier_aznar
 		portraits={
 			civilian={
-				large="gfx/leaders/Mediterranean/Portrait_SRI_Giacomo_Matteotti.tga"
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
 			}
 		}
 		country_leader={

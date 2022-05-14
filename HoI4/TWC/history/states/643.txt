@@ -3,33 +3,36 @@ state={
 	id=643
 	name="STATE_643"
 	resources={
-		aluminium=2.000
-		rubber=1.000
-		steel=0.000
+		rubber=35.000
+		steel=5.000
+		tungsten=5.000
 	}
 
 	history={
-		owner = SOV
+		owner = SIA
 		victory_points = {
-			2080 0 
+			12360 1 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 1
+			7225 = {
+				naval_base = 4
+			}
+			air_base = 0
 
 		}
-		add_core_of = GAB
-		add_claim_by = CAR
+		add_core_of = SIA
+		add_core_of = X48
 	}
 
 	provinces={
-		2080 5054 8078 11012 
+		1244 1357 1535 1548 4433 4511 4582 7225 7292 7516 7601 10293 10384 10425 10438 12195 12224 12264 12360 12373 12388 12402 12417 12431 
 	}
-	manpower=4037856
+	manpower=1234356
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

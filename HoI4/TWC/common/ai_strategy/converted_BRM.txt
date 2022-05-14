@@ -6,7 +6,7 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "X88"
+		id = "X66"
 		value = 985
 	}
 	ai_strategy = {
@@ -21,27 +21,27 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X56"
+		id = "CHI"
 		value = 116
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
 		type = conquer
 		id = "CAL"
-		value = 38
+		value = 41
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W21"
+		id = "X88"
 		value = 36
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X58"
+		id = "X44"
 		value = 30
 	}
 	ai_strategy = {
@@ -58,11 +58,6 @@
 		type = conquer
 		id = "BRA"
 		value = 8
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X35"
-		value = 3
 	}
 	ai_strategy = {
 		type = conquer
@@ -92,42 +87,42 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X88"
+		id = "X66"
 		value = 100
 	}
 	ai_strategy = {
 		type = contain
-		id = "X58"
+		id = "X44"
 		value = 88
 	}
 	ai_strategy = {
 		type = contain
-		id = "X56"
+		id = "CHI"
 		value = 76
 	}
 	ai_strategy = {
 		type = contain
-		id = "W21"
+		id = "X88"
 		value = 50
 	}
 	ai_strategy = {
 		type = contain
-		id = "X42"
+		id = "X34"
 		value = 22
 	}
 	ai_strategy = {
 		type = contain
-		id = "W10"
+		id = "X83"
 		value = 16
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X88"
+		id = "X66"
 		value = 400
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X58"
+		id = "X44"
 		value = 117
 	}
 	ai_strategy = {
@@ -137,12 +132,12 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X56"
+		id = "CHI"
 		value = 50
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W21"
+		id = "X88"
 		value = 28
 	}
 	ai_strategy = {
@@ -152,7 +147,7 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 10
 	}
 	ai_strategy = {
@@ -172,7 +167,7 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X66"
+		id = "X51"
 		value = 200
 	}
 	ai_strategy = {
@@ -182,27 +177,22 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X12"
+		id = "X11"
 		value = 90
 	}
 	ai_strategy = {
 		type = protect
-		id = "X58"
+		id = "X44"
 		value = 140
 	}
 	ai_strategy = {
 		type = protect
-		id = "X86"
+		id = "X64"
 		value = 27
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "CAR"
-		value = 125
-	}
-	ai_strategy = {
-		type = declare_war
-		id = "X88"
+		id = "X66"
 		value = 84
 	}
 	ai_strategy = {
@@ -212,7 +202,7 @@ converted_diplo_strategies_BRM = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X02"
+		id = "X01"
 		value = 54
 	}
 }

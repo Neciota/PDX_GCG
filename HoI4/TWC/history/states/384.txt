@@ -3,33 +3,32 @@ state={
 	id=384
 	name="STATE_384"
 	resources={
-		steel=17.000
-		tungsten=40.000
+		aluminium=2.000
+		chromium=7.000
+		steel=9.000
 	}
 
 	history={
-		owner = KOR
+		owner = X51
 		victory_points = {
-			4052 15 
+			10001 0 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 3
-			arms_factory = 2
-			dockyard = 1
-			4052 = {
-				naval_base = 8
+			industrial_complex = 0
+			arms_factory = 0
+			10001 = {
+				naval_base = 6
 			}
-			air_base = 7
+			air_base = 1
 
 		}
-		add_core_of = KOR
 	}
 
 	provinces={
-		852 898 906 912 959 978 3803 3852 3860 3904 3912 3981 4052 6822 6922 6928 6944 6963 7171 9790 9795 9899 9918 11770 11775 11828 11835 11878 11896 
+		4237 7090 7372 10001 10255 11978 12462 
 	}
-	manpower=4023624
+	manpower=4084948
 	buildings_max_level_factor=1.000
 	state_category=large_city
 

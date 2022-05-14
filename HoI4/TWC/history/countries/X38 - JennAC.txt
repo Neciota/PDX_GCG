@@ -1,0 +1,171 @@
+﻿capital = 356
+set_research_slots = 2
+
+oob = "X38_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_western_africa
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1916.5.27"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 100
+}
+
+add_opinion_modifier = { target = AFG modifier = negative_120 }
+add_opinion_modifier = { target = ARM modifier = positive_15 }
+add_opinion_modifier = { target = AUS modifier = negative_25 }
+add_opinion_modifier = { target = BAN modifier = negative_20 }
+add_opinion_modifier = { target = BAY modifier = negative_150 }
+add_opinion_modifier = { target = BOS modifier = negative_50 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = BUL modifier = negative_135 }
+add_opinion_modifier = { target = CAL modifier = negative_10 }
+add_opinion_modifier = { target = CAR modifier = negative_100 }
+add_opinion_modifier = { target = CAT modifier = negative_10 }
+add_opinion_modifier = { target = CHI modifier = negative_25 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = COR modifier = negative_200 }
+add_opinion_modifier = { target = CZE modifier = negative_50 }
+add_opinion_modifier = { target = DEN modifier = negative_200 }
+add_opinion_modifier = { target = DNZ modifier = negative_200 }
+add_opinion_modifier = { target = EGY modifier = negative_160 }
+add_opinion_modifier = { target = ENG modifier = negative_195 }
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GHA modifier = negative_200 }
+add_opinion_modifier = { target = HAN modifier = negative_200 }
+add_opinion_modifier = { target = HOL modifier = negative_200 }
+add_opinion_modifier = { target = HUN modifier = negative_25 }
+add_opinion_modifier = { target = ITA modifier = negative_200 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = KAZ modifier = negative_20 }
+add_opinion_modifier = { target = KOR modifier = negative_20 }
+add_opinion_modifier = { target = LBA modifier = negative_10 }
+add_opinion_modifier = { target = MEK modifier = negative_200 }
+add_opinion_modifier = { target = MEX modifier = negative_10 }
+add_opinion_modifier = { target = MON modifier = negative_20 }
+add_opinion_modifier = { target = MOR modifier = negative_73 }
+add_opinion_modifier = { target = NEP modifier = negative_100 }
+add_opinion_modifier = { target = NGR modifier = negative_100 }
+add_opinion_modifier = { target = PAK modifier = negative_5 }
+add_opinion_modifier = { target = PRC modifier = negative_20 }
+add_opinion_modifier = { target = PRE modifier = negative_200 }
+add_opinion_modifier = { target = SAX modifier = negative_200 }
+add_opinion_modifier = { target = SHL modifier = negative_200 }
+add_opinion_modifier = { target = SIA modifier = negative_45 }
+add_opinion_modifier = { target = SIK modifier = negative_75 }
+add_opinion_modifier = { target = SIL modifier = negative_10 }
+add_opinion_modifier = { target = SLV modifier = negative_185 }
+add_opinion_modifier = { target = SOV modifier = negative_200 }
+add_opinion_modifier = { target = SPR modifier = negative_200 }
+add_opinion_modifier = { target = SWE modifier = negative_200 }
+add_opinion_modifier = { target = TMS modifier = negative_20 }
+add_opinion_modifier = { target = TUR modifier = positive_15 }
+add_opinion_modifier = { target = UAE modifier = positive_30 }
+add_opinion_modifier = { target = VOL modifier = negative_195 }
+add_opinion_modifier = { target = WGR modifier = negative_25 }
+add_opinion_modifier = { target = WUR modifier = negative_25 }
+add_opinion_modifier = { target = X01 modifier = negative_10 }
+add_opinion_modifier = { target = X11 modifier = negative_95 }
+add_opinion_modifier = { target = X14 modifier = negative_200 }
+add_opinion_modifier = { target = X15 modifier = negative_200 }
+add_opinion_modifier = { target = X30 modifier = negative_115 }
+add_opinion_modifier = { target = X35 modifier = negative_125 }
+add_opinion_modifier = { target = X44 modifier = negative_20 }
+add_opinion_modifier = { target = X50 modifier = negative_15 }
+add_opinion_modifier = { target = X51 modifier = negative_20 }
+add_opinion_modifier = { target = X62 modifier = negative_20 }
+add_opinion_modifier = { target = X66 modifier = negative_45 }
+add_opinion_modifier = { target = X69 modifier = negative_75 }
+add_opinion_modifier = { target = X72 modifier = negative_130 }
+add_opinion_modifier = { target = X78 modifier = positive_15 }
+add_opinion_modifier = { target = X88 modifier = negative_20 }
+add_opinion_modifier = { target = X90 modifier = negative_45 }
+add_opinion_modifier = { target = X91 modifier = negative_20 }
+add_opinion_modifier = { target = X93 modifier = negative_25 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_bambara
+}
+
+recruit_character = X38_do_dyara
+recruit_character = X38_bodyan_bari
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Nia Coulibaly"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X38 }
+	}
+
+	create_operative_leader = {
+		name = "Cadence Makoto"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X38 }
+	}
+
+	create_operative_leader = {
+		name = "Zahra Makoto"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X38 }
+	}
+
+	create_operative_leader = {
+		name = "Nyenemba Coulibaly"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X38 }
+	}
+
+	create_operative_leader = {
+		name = "Ben Demba"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X38 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}

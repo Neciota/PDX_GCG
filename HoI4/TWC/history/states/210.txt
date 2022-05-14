@@ -4,30 +4,26 @@ state={
 	name="STATE_210"
 
 	history={
-		owner = DEN
+		owner = X29
 		victory_points = {
-			6287 1 
+			12633 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 2
+			industrial_complex = 1
 			arms_factory = 0
-			6287 = {
-				naval_base = 10
-			}
-			air_base = 1
+			air_base = 5
 
 		}
-		add_core_of = DEN
-		add_core_of = GER
+		add_core_of = X29
 	}
 
 	provinces={
-		3260 3305 3325 3374 6287 6393 
+		7688 7888 12633 12651 
 	}
-	manpower=619948
+	manpower=933316
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

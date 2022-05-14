@@ -3,29 +3,31 @@ state={
 	id=85
 	name="STATE_85"
 	resources={
-		aluminium=2.000
-		steel=11.000
+		steel=1.000
 	}
 
 	history={
-		owner = X01
+		owner = LUX
 		victory_points = {
-			11531 1 
+			1102 0 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 0
 			arms_factory = 0
+			1102 = {
+				naval_base = 10
+			}
 			air_base = 1
 
 		}
-		add_core_of = X01
+		add_core_of = MOR
 	}
 
 	provinces={
-		11531 
+		1102 11943 
 	}
-	manpower=978388
+	manpower=450020
 	buildings_max_level_factor=1.000
 	state_category=rural
 

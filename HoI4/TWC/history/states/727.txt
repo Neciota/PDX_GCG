@@ -2,36 +2,32 @@
 state={
 	id=727
 	name="STATE_727"
-	resources={
-		aluminium=8.000
-	}
 
 	history={
 		owner = USA
 		victory_points = {
-			11758 10 
+			7202 3 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 8
-			arms_factory = 2
-			dockyard = 2
-			6845 = {
-				naval_base = 1
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			7202 = {
+				naval_base = 10
 			}
-			air_base = 8
+			air_base = 2
 
 		}
 		add_core_of = USA
-		add_core_of = X59
 	}
 
 	provinces={
-		702 822 847 862 880 891 894 3687 3697 3802 3824 3847 3850 3880 3897 6705 6845 6869 6872 6885 6899 9662 9789 9804 9820 9836 11648 11758 11769 11785 11789 11799 11800 11817 12405 
+		1485 1547 3994 4491 4653 7012 7134 7202 7527 10029 10047 11927 
 	}
-	manpower=14141932
+	manpower=5552596
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=metropolis
 
 	local_supplies=10.0
 }

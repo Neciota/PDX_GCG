@@ -2,30 +2,33 @@
 state={
 	id=364
 	name="STATE_364"
+	resources={
+		steel=1.000
+		tungsten=3.000
+	}
 
 	history={
-		owner = X56
+		owner = KOR
 		victory_points = {
-			1742 1 
+			848 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			1742 = {
-				naval_base = 10
+			848 = {
+				naval_base = 8
 			}
 			air_base = 1
 
 		}
-		add_core_of = CHI
-		add_core_of = X56
+		add_core_of = KOR
 	}
 
 	provinces={
-		855 1742 1755 
+		848 10083 11958 
 	}
-	manpower=418232
+	manpower=504192
 	buildings_max_level_factor=1.000
 	state_category=rural
 

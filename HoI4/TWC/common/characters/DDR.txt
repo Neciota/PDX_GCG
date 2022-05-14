@@ -1,0 +1,52 @@
+characters={
+	DDR_michael_sachsen_coburg_gotha={
+		name=DDR_michael_sachsen_coburg_gotha
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DDR_ruprecht_und={
+		name=DDR_ruprecht_und
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DDR_albrecht_von={
+		name=DDR_albrecht_von
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	DDR_august_zur_lippe={
+		name=DDR_august_zur_lippe
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

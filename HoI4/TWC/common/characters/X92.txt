@@ -1,13 +1,49 @@
 characters={
-	X92_alimee_mashpee={
-		name=X92_alimee_mashpee
+	X92_gregorij_hladnik={
+		name=X92_gregorij_hladnik
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X92_joze_von={
+		name=X92_joze_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X92_odilo_avsenik={
+		name=X92_odilo_avsenik
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X92_stanko_lipuscek={
+		name=X92_stanko_lipuscek
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
+				large="gfx/leaders/ROM/Portrait_Romania_Armand_Calinescu.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

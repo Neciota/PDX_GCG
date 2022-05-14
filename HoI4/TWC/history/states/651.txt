@@ -2,34 +2,30 @@
 state={
 	id=651
 	name="STATE_651"
-	resources={
-		rubber=143.000
-		steel=2.000
-		tungsten=2.000
-	}
 
 	history={
-		owner = SIA
+		owner = SLV
 		victory_points = {
-			7236 1 
+			599 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			7236 = {
-				naval_base = 2
+			11735 = {
+				naval_base = 1
 			}
-			air_base = 0
+			air_base = 1
 
 		}
-		add_core_of = SIA
+		add_core_of = SLV
+		add_claim_by = ITA
 	}
 
 	provinces={
-		1281 1308 1337 1394 4312 4319 4348 4371 4388 4392 7236 7587 10193 12122 12201 12220 
+		599 11595 11735 
 	}
-	manpower=512832
+	manpower=700656
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 

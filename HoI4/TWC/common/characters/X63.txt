@@ -1,9 +1,9 @@
 characters={
-	X63_jos_lilipaly={
-		name=X63_jos_lilipaly
+	X63_jonnurteekee_teadeouita={
+		name=X63_jonnurteekee_teadeouita
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Indonesia_Hamengkubuwono_IX.tga"
+				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
 			}
 		}
 		country_leader={

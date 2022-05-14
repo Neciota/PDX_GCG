@@ -3,33 +3,34 @@ state={
 	id=512
 	name="STATE_512"
 	resources={
-		chromium=7.000
-		steel=27.000
+		oil=1.000
 	}
 
 	history={
-		owner = HOL
+		owner = NIC
 		victory_points = {
-			10697 0 
+			7630 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			4528 = {
+			1633 = {
 				naval_base = 10
 			}
 			air_base = 1
 
 		}
+		add_core_of = COL
+		add_claim_by = NIC
 	}
 
 	provinces={
-		1509 4528 5203 10442 10668 10697 12419 
+		1633 4611 4624 7617 7630 10482 
 	}
-	manpower=345648
+	manpower=3910024
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_city
 
 	local_supplies=10.0
 }

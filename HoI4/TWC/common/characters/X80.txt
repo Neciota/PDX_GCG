@@ -1,9 +1,9 @@
 characters={
-	X80_nequetaughaw_ouasouarini={
-		name=X80_nequetaughaw_ouasouarini
+	X80_abd_al_shawiyyati={
+		name=X80_abd_al_shawiyyati
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
+				large="gfx/leaders/EGY/Portrait_EGY_faud_i.dds"
 			}
 		}
 		country_leader={

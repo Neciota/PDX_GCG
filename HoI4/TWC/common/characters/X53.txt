@@ -1,37 +1,13 @@
 characters={
-	X53_raja_thampuran={
-		name=X53_raja_thampuran
-		corps_commander={
-			skill=3
-			attack_skill=2
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=5
-			legacy_id=0
-		}
-	}
-
-	X53_swathi_perumal={
-		name=X53_swathi_perumal
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X53_ayilyam_rama={
-		name=X53_ayilyam_rama
+	X53_suksaha_linge={
+		name=X53_suksaha_linge
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_MYS_Kaka_Kalekar.tga"
+				large="gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

@@ -1,61 +1,13 @@
 characters={
-	X36_al_mukammal_bendahara={
-		name=X36_al_mukammal_bendahara
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=4
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X36_al_mukammal_ahmad={
-		name=X36_al_mukammal_ahmad
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X36_shahabuddin_muadzam={
-		name=X36_shahabuddin_muadzam
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X36_yusuf_muadzam={
-		name=X36_yusuf_muadzam
-		navy_leader={
-			skill=2
-			attack_skill=2
-			defense_skill=2
-			maneuvering_skill=1
-			coordination_skill=1
-			legacy_id=0
-		}
-	}
-
-	X36_jaafar_bendahara={
-		name=X36_jaafar_bendahara
+	X36_chingis_chagdarjav={
+		name=X36_chingis_chagdarjav
 		portraits={
 			civilian={
-				large="gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+				large="gfx/leaders/Asian_Steppe/Portrait_FNG_Zhang_Zuolin.tga"
 			}
 		}
 		country_leader={
-			ideology=leninism
+			ideology=dictatorship
 			expire="1965.1.1.1"
 			id=-1
 		}

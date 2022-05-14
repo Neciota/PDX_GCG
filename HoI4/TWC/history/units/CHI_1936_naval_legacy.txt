@@ -1,11 +1,40 @@
 units = {
 	fleet = {
-		name = "3rd Fleet"
-		naval_base = 13036
+		name = "1st Fleet"
+		naval_base = 7191
 		task_force = {
-			name = "3rd Fleet"
-			location = 13036
-			ship = { name = "Hai Shen" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CHI } } }
+			name = "1st Fleet"
+			location = 7191
+			ship = { name = "Hai Shen" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Chao Ho" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Hai Chi" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Ning Hai" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Chung king" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Canton Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Quanzhou Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "2nd Canton Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "3rd Canton Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Hai Phong Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Jinzhou Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Canton Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "2nd Hai Phong Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "2nd Jinzhou Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Quanzhou Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "2nd Canton Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Hainan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "3rd Jinzhou Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Nan Shin" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Pao Nim" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Ying Ching" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Hai Yung" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Hai Shew" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Ying Swei" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Fei Hung" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "Ping Hai" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Nantong Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Maoming Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "2nd Maoming Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
+			ship = { name = "1st Quanzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = CHI } } }
 		}
 	}
 }
@@ -13,7 +42,7 @@ units = {
 instant_effect = {
 	add_equipment_production = {
 		equipment = {
-			type = destroyer_1
+			type = destroyer_2
 			creator = "CHI"
 		}
 		requested_factories = 3
@@ -22,7 +51,7 @@ instant_effect = {
 	}
 	add_equipment_production = {
 		equipment = {
-			type = battleship_1
+			type = battleship_2
 			creator = "CHI"
 		}
 		requested_factories = 8

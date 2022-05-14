@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Praha" "Brno" "Ostrava" "Plzen" "Liberec" 
+			"Praha" "Brno" "Ostrava" "Bratislava" "Košice" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel" 
+			"Jan Hus" "Karel IV" "Prokop Veliký" "Anton Bernolák" "Ludovít Štúr" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
+			"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Jizera" "Metuje" "Morava" "Svratka" "Olza" 
+			"Jizera" "Metuje" "Morava" "Hron" "Bodrog" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Milešovka" "Lovos" "Hazmburk" "Koštálov" "Ceské Stredohorí" 
+			"Milešovka" "Lovos" "Hazmburk" "Beskydok" "Gerlachovský štít" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Pražský hrad" "Vyšehrad" "Zbraslav" "Kolodeje" "Chvaly" 
+			"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek" 
+			"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Ján Šimbracký" "Zachariáš Zarewutius" 
 		}
 	}
 

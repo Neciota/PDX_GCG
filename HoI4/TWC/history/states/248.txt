@@ -2,27 +2,31 @@
 state={
 	id=248
 	name="STATE_248"
+	resources={
+		steel=0.000
+	}
 
 	history={
-		owner = W40
+		owner = ENG
 		victory_points = {
-			12633 0 
+			12958 0 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
+			12958 = {
+				naval_base = 1
+			}
 			air_base = 0
 
 		}
-		add_core_of = W40
-		add_claim_by = X35
 	}
 
 	provinces={
-		7688 7888 12633 12651 
+		8138 8202 12391 12958 12985 
 	}
-	manpower=933316
+	manpower=735744
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 

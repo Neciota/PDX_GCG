@@ -1,13 +1,61 @@
 characters={
-	X64_tucuycuyche_quizo={
-		name=X64_tucuycuyche_quizo
+	X64_isandar_muadzam={
+		name=X64_isandar_muadzam
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X64_al_mukammal_al_khairat={
+		name=X64_al_mukammal_al_khairat
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X64_jalil_al_khairat={
+		name=X64_jalil_al_khairat
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X64_jaafar_ahmad={
+		name=X64_jaafar_ahmad
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X64_ismail_raja_inu={
+		name=X64_ismail_raja_inu
 		portraits={
 			civilian={
-				large="gfx/leaders/Central_American_Native/portrait_nat_carib_absolutist.dds"
+				large="gfx/leaders/Generic/r56_portrait_generic_politician_asia_1_fascism.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=fascism_ideology
 			expire="1965.1.1.1"
 			id=-1
 		}

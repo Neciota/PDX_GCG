@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Davao" "Emilio Aguinaldo" "Filipinas" "Independencia" "José Rizal" "Lapu-Lapu" "Libertad" "Manila" "Mariano Álvarez" "Tagalo" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X70_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Agusan" "Akean" "Cagua" "Dagohoy" "Pampanga" "Pásig" "Pule" "Ragang" "Silang" "Sumuroy" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X70_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Indigena" "Liberación" "Nacional" "Rey Felipe" "Salvador" "San Lázaro" "San Miguel" "Santa Cruz" "Santa María" "Santísima Trinidad" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X70_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Apo" "Balayán" "Bilirán" "Bulusán" "Hibok-Hibok" "Mayón" "Pinatubo" "Purísima Concepción" "Taal" "Taaleño" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X70_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Apo" "Balayán" "Bilirán" "Bulusán" "Hibok-Hibok" "Mayón" "Pinatubo" "Purísima Concepción" "Taal" "Taaleño" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X70_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastián Elcano" "Miguel López de Legazpi" "Rajá de Butuán" "Rajá de Cebú" "Rajá de Manila" "Rajá de Tondo" "Sultán de Maguindanao" "Sultán de Sulu" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X70_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastián Elcano" "Miguel López de Legazpi" "Rajá de Butuán" "Rajá de Cebú" "Rajá de Manila" "Rajá de Tondo" "Sultán de Maguindanao" "Sultán de Sulu" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X70_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Cebú" "Iloílo" "Leyte" "Luzón" "Mindanao" "Mindoro" "Negros Occidental" "Palawan" "Pangasinan" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X70_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Cebú" "Iloílo" "Leyte" "Luzón" "Mindanao" "Mindoro" "Negros Occidental" "Palawan" "Pangasinan" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X70_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Apo" "Balayán" "Bilirán" "Bulusán" "Hibok-Hibok" "Mayón" "Pinatubo" "Purísima Concepción" "Taal" "Taaleño" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X70_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Rajá Humabon" "Sultán Kudarat" 
+		
 	}
 }
 

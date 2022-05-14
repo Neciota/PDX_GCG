@@ -2,15 +2,11 @@
 state={
 	id=403
 	name="STATE_403"
-	resources={
-		aluminium=1.000
-		tungsten=6.000
-	}
 
 	history={
-		owner = X66
+		owner = MON
 		victory_points = {
-			4072 0 
+			7743 1 
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,15 +15,15 @@ state={
 			air_base = 1
 
 		}
-		add_core_of = X72
+		add_core_of = MON
 	}
 
 	provinces={
-		4072 7177 10019 
+		1776 4745 4852 7697 7743 10612 12537 12690 13150 
 	}
-	manpower=598700
+	manpower=234776
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

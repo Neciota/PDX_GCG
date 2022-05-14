@@ -22,7 +22,7 @@ focus_tree = {
 		id = reclaim_coresX60
 		icon = GFX_goal_generic_more_territorial_claims
 		text = reclaim_cores
-		x = 28
+		x = 26
 		y = 0
 		cost = 10
 		available = {
@@ -65,7 +65,7 @@ focus_tree = {
 				NOT = { USA = { any_owned_state = { is_core_of = ROOT } } }
 			}
 		}
-		x = 28
+		x = 26
 		y = 1
 		cost = 10
 		available = {
@@ -368,7 +368,7 @@ focus_tree = {
 			declare_war_on = {
 				target = USA
 				type = take_core_state
-				generator = { 736 }
+				generator = { 710 }
 			}
 			add_named_threat = { threat = 1 name = declare_war_NF_threat }
 		}
@@ -434,211 +434,6 @@ focus_tree = {
 		}
 		ai_will_do = {
 			factor = 100
-		}
-	}
-
-	focus = {
-		id = border_disputesX60MEX
-		icon = GFX_goal_generic_more_territorial_claims
-		text = border_disputesMEX
-		x = 30
-		y = 0
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			MEX = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 406
-			}
-		}
-		completion_reward = {
-			add_war_support = 0.05
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				OR = {
-					has_government = democratic
-					has_government = neutrality
-				}
-			}
-			modifier = {
-				factor = 0
-				has_opinion = { target = MEX value > 0 }
-			}
-			modifier = {
-				factor = 0
-				MEX = { in_weak_faction = no }
-			}
-			modifier = {
-				factor = 0
-				any_country = {
-					has_subject = MEX
-					in_weak_faction = no
-				}
-			}
-			modifier = {
-				factor = 0
-				date < 1938.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.25
-				date < 1939.4.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.4
-				date < 1939.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.5
-			}
-			modifier = {
-				factor = 2
-				MEX = { surrender_progress > 0.2 }
-			}
-		}
-	}
-
-	focus = {
-		id = assert_claimsX60MEX
-		icon = GFX_goal_generic_territory_or_war
-		text = assert_claimsMEX
-		prerequisite = { focus = border_disputesX60MEX }
-		x = 0
-		y = 1
-		relative_position_id = border_disputesX60MEX
-		cost = 10
-		available = {
-			date > 1936.6.1
-			is_subject = no
-			has_war = no
-			MEX = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 406
-			}
-		}
-		completion_reward = {
-			add_state_claim = 406
-			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
-			hidden_effect = {
-				MEX = { country_event = { id = reconquest_news.1 } }
-			}
-		}
-		ai_will_do = {
-			factor = 10
-			modifier = {
-				factor = 0
-				OR = {
-					has_government = democratic
-					has_government = neutrality
-				}
-			}
-			modifier = {
-				factor = 0
-				has_opinion = { target = MEX value > 0 }
-			}
-			modifier = {
-				factor = 0
-				MEX = { in_weak_faction = no }
-			}
-			modifier = {
-				factor = 0
-				any_country = {
-					has_subject = MEX
-					in_weak_faction = no
-				}
-			}
-			modifier = {
-				factor = 0
-				date < 1938.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.25
-				date < 1939.4.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.4
-				date < 1939.8.1
-			}
-			modifier = {
-				factor = 0
-				threat > 0.5
-			}
-			modifier = {
-				factor = 2
-				MEX = { surrender_progress > 0.2 }
-			}
-		}
-	}
-
-	focus = {
-		id = prepare_for_warX60MEX
-		icon = GFX_goal_generic_position_armies
-		text = prepare_for_warMEX
-		prerequisite = { focus = assert_claimsX60MEX }
-		bypass = {
-			has_war_with = MEX
-		}
-		x = 0
-		y = 1
-		relative_position_id = assert_claimsX60MEX
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			MEX = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 406
-			}
-		}
-		completion_reward = {
-			add_manpower = 10000
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-
-	focus = {
-		id = neighbor_warX60MEX
-		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = neighbor_warMEX
-		prerequisite = { focus = prepare_for_warX60MEX }
-		bypass = {
-			has_war_with = MEX
-		}
-		x = 0
-		y = 1
-		relative_position_id = prepare_for_warX60MEX
-		cost = 10
-		available = {
-			is_subject = no
-			has_war = no
-			MEX = {
-				exists = yes
-				not_allies_or_subjects = yes
-				owns_state = 406
-			}
-		}
-		completion_reward = {
-			declare_war_on = {
-				target = MEX
-				type = take_state_focus
-				generator = { 406 }
-			}
-		}
-		ai_will_do = {
-			factor = 0
 		}
 	}
 

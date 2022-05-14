@@ -11,7 +11,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W01"
+		id = "X77"
 		value = 836
 	}
 	ai_strategy = {
@@ -21,7 +21,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X40"
+		id = "COR"
 		value = 439
 	}
 	ai_strategy = {
@@ -31,17 +31,17 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X76"
+		id = "X57"
 		value = 262
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X18"
+		id = "X14"
 		value = 178
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X37"
+		id = "X31"
 		value = 178
 	}
 	ai_strategy = {
@@ -52,7 +52,7 @@
 	ai_strategy = {
 		type = conquer
 		id = "CAL"
-		value = 72
+		value = 96
 	}
 	ai_strategy = {
 		type = conquer
@@ -63,11 +63,6 @@
 		type = conquer
 		id = "MEX"
 		value = 40
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X35"
-		value = 24
 	}
 	ai_strategy = {
 		type = conquer
@@ -122,12 +117,12 @@ converted_diplo_strategies_ITA = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X34"
+		id = "CZE"
 		value = 36
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X76"
+		id = "X57"
 		value = 400
 	}
 	ai_strategy = {
@@ -137,12 +132,12 @@ converted_diplo_strategies_ITA = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W01"
+		id = "X77"
 		value = 398
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X37"
+		id = "X31"
 		value = 380
 	}
 	ai_strategy = {
@@ -162,7 +157,7 @@ converted_diplo_strategies_ITA = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X18"
+		id = "X14"
 		value = 116
 	}
 	ai_strategy = {
@@ -197,22 +192,22 @@ converted_diplo_strategies_ITA = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "X40"
+		id = "COR"
 		value = 265
 	}
 	ai_strategy = {
 		type = protect
-		id = "W01"
+		id = "X77"
 		value = 265
 	}
 	ai_strategy = {
 		type = protect
-		id = "X37"
+		id = "X31"
 		value = 120
 	}
 	ai_strategy = {
 		type = protect
-		id = "X76"
+		id = "X57"
 		value = 65
 	}
 	ai_strategy = {
@@ -232,7 +227,7 @@ converted_diplo_strategies_ITA = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X66"
+		id = "X51"
 		value = 48
 	}
 }

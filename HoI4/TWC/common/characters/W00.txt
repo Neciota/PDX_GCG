@@ -1,13 +1,37 @@
 characters={
-	W00_valentine_mabini={
-		name=W00_valentine_mabini
+	W00_cocijoeza_na={
+		name=W00_cocijoeza_na
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W00_nguiiu_beljjw={
+		name=W00_nguiiu_beljjw
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	W00_carlos_tamayo={
+		name=W00_carlos_tamayo
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Abdul_Rahman_Negeri_Sembilan.tga"
+				large="gfx/leaders/Generic/r56_portrait_generic_politician_south_america_1.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

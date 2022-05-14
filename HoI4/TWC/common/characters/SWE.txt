@@ -47,11 +47,11 @@ characters={
 		}
 	}
 
-	SWE_julius_leijonhufvud={
-		name=SWE_julius_leijonhufvud
+	SWE_gustav_ingelman={
+		name=SWE_gustav_ingelman
 		portraits={
 			civilian={
-				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
+				large="gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
 			}
 		}
 		country_leader={

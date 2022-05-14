@@ -1,7 +1,7 @@
 JAP_OPERATIVE_CODENAME_HISTORICAL = {
 	name = JAP_OPERATIVE_CODENAME_HISTORICAL
 
-	for_countries = { JAP X83 X96 }
+	for_countries = { JAP X72 }
 
 	type = codename
 

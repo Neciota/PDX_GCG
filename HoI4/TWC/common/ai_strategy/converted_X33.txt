@@ -4,6 +4,61 @@
 		always = no
 	}
 	
+	ai_strategy = {
+		type = conquer
+		id = "X69"
+		value = 164
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 139
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X88"
+		value = 85
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X11"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X08"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "NEP"
+		value = 64
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X40"
+		value = 47
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CHI"
+		value = 29
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MON"
+		value = 6
+	}
+	ai_strategy = {
+		type = conquer
+		id = "GRE"
+		value = 3
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PRC"
+		value = 3
+	}
 }
 
 converted_diplo_strategies_X33 = {
@@ -15,4 +70,109 @@ converted_diplo_strategies_X33 = {
 		always = no
 	}
 	
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "X69"
+		value = 207
+	}
+	ai_strategy = {
+		type = contain
+		id = "KAZ"
+		value = 191
+	}
+	ai_strategy = {
+		type = contain
+		id = "NEP"
+		value = 172
+	}
+	ai_strategy = {
+		type = contain
+		id = "X88"
+		value = 168
+	}
+	ai_strategy = {
+		type = contain
+		id = "AFG"
+		value = 68
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X69"
+		value = 395
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "NEP"
+		value = 169
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X88"
+		value = 169
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KAZ"
+		value = 66
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 45
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 23
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X11"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MON"
+		value = 2
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X51"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "TMS"
+		value = 163
+	}
+	ai_strategy = {
+		type = alliance
+		id = "AFG"
+		value = 51
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 50
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X56"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "NEP"
+		value = 63
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X89"
+		value = 50
+	}
 }

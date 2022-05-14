@@ -3,31 +3,35 @@ state={
 	id=390
 	name="STATE_390"
 	resources={
-		oil=42.000
+		oil=43.000
+		steel=2.000
 	}
 
 	history={
-		owner = X60
+		owner = MEX
 		victory_points = {
-			1352 15 
+			12835 7 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 6
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			5015 = {
+				naval_base = 10
+			}
+			air_base = 4
 
 		}
 		add_core_of = MEX
-		add_core_of = X60
 	}
 
 	provinces={
-		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
+		2060 2083 2104 5015 5021 7973 10746 10769 10800 12721 12811 12835 13088 
 	}
-	manpower=5458852
+	manpower=9932632
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

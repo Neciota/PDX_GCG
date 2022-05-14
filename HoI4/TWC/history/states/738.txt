@@ -2,30 +2,37 @@
 state={
 	id=738
 	name="STATE_738"
+	resources={
+		aluminium=6.000
+		rubber=9.000
+		steel=2.000
+	}
 
 	history={
-		owner = HOL
+		owner = VEN
 		victory_points = {
-			13049 0 
+			5008 10 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
+			infrastructure = 3
+			industrial_complex = 2
 			arms_factory = 0
-			13049 = {
+			12853 = {
 				naval_base = 8
 			}
-			air_base = 1
+			air_base = 6
 
 		}
+		add_core_of = VEN
+		add_core_of = X81
 	}
 
 	provinces={
-		13048 13049 13053 
+		1979 2035 2214 4980 5008 8172 10874 10956 12853 12999 
 	}
-	manpower=1328048
+	manpower=927244
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

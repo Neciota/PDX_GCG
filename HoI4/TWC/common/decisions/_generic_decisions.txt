@@ -574,16 +574,16 @@ operations = {
 		icon = GFX_decision_generic_special_project
 
 		available = {
-			has_full_control_of_state = 541
-			has_full_control_of_state = 687
+			has_full_control_of_state = 534
+			has_full_control_of_state = 680
 			num_of_civilian_factories > 10
 		}
 
 		visible = {
 			has_global_flag = KIEL_CANAL_UNBUILT
 			OR = {
-				controls_state = 541
-				controls_state = 687
+				controls_state = 534
+				controls_state = 680
 			}
 		}
 
@@ -660,13 +660,13 @@ operations = {
 		icon = GFX_decision_generic_special_project
 
 		available = {
-			has_full_control_of_state = 517
+			has_full_control_of_state = 512
 			num_of_civilian_factories > 20
 		}
 
 		visible = {
 			has_global_flag = PANAMA_CANAL_UNBUILT
-			controls_state = 517
+			controls_state = 512
 		}
 
 		fire_only_once = yes
@@ -714,10 +714,10 @@ operations = {
 					OR = {
 						controls_state = 6
 						controls_state = 8
+						controls_state = 219
 						controls_state = 220
-						controls_state = 221
+						controls_state = 222
 						controls_state = 223
-						controls_state = 224
 					}
 				}
 			}
@@ -785,17 +785,17 @@ operations = {
 						OR = {
 							controls_state = 6
 							controls_state = 8
+							controls_state = 219
 							controls_state = 220
-							controls_state = 221
+							controls_state = 222
 							controls_state = 223
-							controls_state = 224
 							OR = {
 								divisions_in_state = { state = 6 size > 2 }
 								divisions_in_state = { state = 8 size > 2 }
+								divisions_in_state = { state = 219 size > 2 }
 								divisions_in_state = { state = 220 size > 2 }
-								divisions_in_state = { state = 221 size > 2 }
+								divisions_in_state = { state = 222 size > 2 }
 								divisions_in_state = { state = 223 size > 2 }
-								divisions_in_state = { state = 224 size > 2 }
 							}
 						}
 					}
@@ -806,24 +806,24 @@ operations = {
 				any_allied_country = {
 					NOT = {
 						OR = {
+							has_full_control_of_state = 222
 							has_full_control_of_state = 223
-							has_full_control_of_state = 224
 						}
 					}
-					NOT = { has_full_control_of_state = 225 }
+					NOT = { has_full_control_of_state = 224 }
 					OR = {
 						divisions_in_state = { state = 49 size > 0 }
 						divisions_in_state = { state = 50 size > 0 }
-						divisions_in_state = { state = 230 size > 0 }
+						divisions_in_state = { state = 229 size > 0 }
 					}
 				}
 			}
 			modifier = {
 				factor = 200 # Try to cut the enemy off from the mediterranean if you also occupy Gibraltar
 				OR = {
-					has_full_control_of_state = 669
+					has_full_control_of_state = 662
 					any_allied_country = {
-						has_full_control_of_state = 669
+						has_full_control_of_state = 662
 					}
 				}
 				has_war = yes
@@ -841,7 +841,7 @@ operations = {
 		}
 
 		available = {
-			has_full_control_of_state = 517
+			has_full_control_of_state = 512
 		}
 
 		visible = {
@@ -871,12 +871,12 @@ operations = {
 				if = {
 					limit = {
 						NOT = {
-							owns_state = 517
+							owns_state = 512
 						}
 					}
 					random_country = {
 						limit = {
-							owns_state = 517
+							owns_state = 512
 						}
 						country_event = { id = generic.13 days = 1 }
 					}
@@ -888,7 +888,7 @@ operations = {
 			if = {
 				limit = {
 					OR = {
-						has_full_control_of_state = 517
+						has_full_control_of_state = 512
 					}
 				}
 				set_country_flag = blew_up_panama
@@ -970,7 +970,7 @@ special_projects = {
 		icon = GFX_decision_generic_special_project
 
 		available = {
-			has_full_control_of_state = 517
+			has_full_control_of_state = 512
 			NOT = {
 				any_enemy_country = {
 					
@@ -996,7 +996,7 @@ special_projects = {
 		remove_effect = {
 			if = {
 				limit = {
-					has_full_control_of_state = 517
+					has_full_control_of_state = 512
 					NOT = {
 						any_enemy_country = {
 							
@@ -1149,10 +1149,6 @@ war_measures = {
 					surrender_progress > 0
 				}
 				AND = {
-					has_government = radical
-					has_war_support > 0.79
-				}
-				AND = {
 					has_government = neutrality
 					has_war_support > 0.84
 					has_stability > 0.7
@@ -1220,10 +1216,6 @@ war_measures = {
 					has_government = fascism
 					has_war_support > 0.79
 					surrender_progress > 0
-				}
-				AND = {
-					has_government = radical
-					has_war_support > 0.79
 				}
 				AND = {
 					has_government = neutrality

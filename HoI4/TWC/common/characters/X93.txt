@@ -1,61 +1,49 @@
 characters={
-	X93_auguste_langelier={
-		name=X93_auguste_langelier
-		corps_commander={
-			skill=4
-			attack_skill=4
-			defense_skill=4
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X93_pierre_langelier={
-		name=X93_pierre_langelier
+	X93_adolf_dankl={
+		name=X93_adolf_dankl
 		corps_commander={
 			skill=3
-			attack_skill=2
-			defense_skill=3
-			planning_skill=5
-			logistics_skill=1
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
 			legacy_id=0
 		}
 	}
 
-	X93_luis_phillippe_robitaille={
-		name=X93_luis_phillippe_robitaille
+	X93_adolf_seitz={
+		name=X93_adolf_seitz
 		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=3
+			skill=1
+			attack_skill=2
+			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X93_pierre_damasne={
-		name=X93_pierre_damasne
-		navy_leader={
+	X93_karl_zahringen={
+		name=X93_karl_zahringen
+		corps_commander={
 			skill=2
-			attack_skill=2
+			attack_skill=1
 			defense_skill=1
-			maneuvering_skill=3
-			coordination_skill=1
+			planning_skill=1
+			logistics_skill=4
 			legacy_id=0
 		}
 	}
 
-	X93_francois_de={
-		name=X93_francois_de
+	X93_franz_gablenz={
+		name=X93_franz_gablenz
 		portraits={
 			civilian={
-				large="gfx/leaders/USA/Portrait_USA_Franklin_Roosevelt.dds"
+				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

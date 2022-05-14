@@ -6,19 +6,18 @@ state={
 	history={
 		owner = UAE
 		victory_points = {
-			4985 10 
+			12759 0 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
 			12759 = {
 				naval_base = 6
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = DJI
 	}
 
 	provinces={
@@ -26,7 +25,7 @@ state={
 	}
 	manpower=509828
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 
 	local_supplies=10.0
 }

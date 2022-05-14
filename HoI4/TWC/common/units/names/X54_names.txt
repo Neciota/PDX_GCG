@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Baile Átha Cliath" "Cúige Laighean" "Ulaidh" "An Mhumhain" "Connachta" 
+			"Agusan" "Akean" "Cagua" "Dagohoy" "Pampanga" "Pásig" "Pule" "Ragang" "Silang" "Sumuroy" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"O’Faolain" "Caomhánach" "Mannion" "Corcaigh" "Gaillimh" 
+			"Davao" "Emilio Aguinaldo" "Filipinas" "Independencia" "José Rizal" "Lapu-Lapu" "Libertad" "Manila" "Mariano Álvarez" "Tagalo" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Muirchú" "Réabhlóid" "Dónal Ó Conaill" "Emmet" 
+			"Fernando de Magallanes" "Indias Orientales" "Juan Sebastián Elcano" "Miguel López de Legazpi" "Rajá de Butuán" "Rajá de Cebú" "Rajá de Manila" "Rajá de Tondo" "Sultán de Maguindanao" "Sultán de Sulu" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Michelle" "Peigi" "Máire" "Róisín" "Esther" 
+			"Cebú" "Iloílo" "Leyte" "Luzón" "Mindanao" "Mindoro" "Negros Occidental" "Palawan" "Pangasinan" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Port Láirge" "Dún na nGall" "Loingsech" "Ó’Conghaile" "An Cóbh" 
+			"Indigena" "Liberación" "Nacional" "Rey Felipe" "Salvador" "San Lázaro" "San Miguel" "Santa Cruz" "Santa María" "Santísima Trinidad" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Dún Droma" "Marino" "Baile Bocht" "Béal Feirste" "Frongoch" 
+			"Apo" "Balayán" "Bilirán" "Bulusán" "Hibok-Hibok" "Mayón" "Pinatubo" "Purísima Concepción" "Taal" "Taaleño" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cóbh" 
+			"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Rajá Humabon" "Sultán Kudarat" 
 		}
 	}
 

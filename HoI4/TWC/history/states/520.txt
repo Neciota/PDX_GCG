@@ -3,34 +3,30 @@ state={
 	id=520
 	name="STATE_520"
 	resources={
-		steel=4.000
+		aluminium=4.000
 	}
 
 	history={
-		owner = NZL
+		owner = PAL
 		victory_points = {
-			4543 0 
+			6542 1 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 0
 			arms_factory = 0
-			4543 = {
-				naval_base = 10
-			}
 			air_base = 1
 
 		}
-		add_core_of = X03
-		add_claim_by = NZL
+		add_core_of = PAL
 	}
 
 	provinces={
-		4543 4615 10334 10373 
+		3530 6542 6568 6581 
 	}
-	manpower=226520
+	manpower=2332104
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

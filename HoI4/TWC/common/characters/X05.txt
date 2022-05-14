@@ -1,9 +1,9 @@
 characters={
-	X05_amuluinjaa_iguana={
-		name=X05_amuluinjaa_iguana
+	X05_kofi_karikari={
+		name=X05_kofi_karikari
 		portraits={
 			civilian={
-				large="gfx/leaders/South_American_Native/portrait_nat_south_absolutist.dds"
+				large="gfx/leaders/African/Portrait_Burundi_Mwambutsa_Fourth.tga"
 			}
 		}
 		country_leader={

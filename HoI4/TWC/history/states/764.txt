@@ -3,36 +3,28 @@ state={
 	id=764
 	name="STATE_764"
 	resources={
-		aluminium=1.000
-		chromium=1.000
-		tungsten=6.000
+		steel=2.000
 	}
 
 	history={
-		owner = W24
+		owner = CAR
 		victory_points = {
-			12180 15 
+			2081 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 2
+			industrial_complex = 1
 			arms_factory = 0
-			12180 = {
-				naval_base = 4
-			}
-			air_base = 6
+			air_base = 5
 
 		}
-		add_core_of = W24
-		add_core_of = W32
-		add_core_of = X75
-		add_claim_by = W23
+		add_core_of = CAR
 	}
 
 	provinces={
-		1430 4414 5032 7310 10152 10296 10756 10897 12180 12779 
+		1993 2081 3181 7963 9152 13211 
 	}
-	manpower=1719744
+	manpower=1892432
 	buildings_max_level_factor=1.000
 	state_category=rural
 

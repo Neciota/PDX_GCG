@@ -1,9 +1,9 @@
 characters={
-	X27_wabasha_asakiwakie={
-		name=X27_wabasha_asakiwakie
+	X27_zopahua_quintiraura={
+		name=X27_zopahua_quintiraura
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_Native_American.dds"
+				large="gfx/leaders/central_american_native/portrait_nat_carib_absolutist.dds"
 			}
 		}
 		country_leader={

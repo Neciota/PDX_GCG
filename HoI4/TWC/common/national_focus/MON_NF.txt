@@ -19,19 +19,19 @@ focus_tree = {
 	shared_focus = political_effort
 
 	focus = {
-		id = border_disputesMONX56
+		id = border_disputesMONCHI
 		icon = GFX_goal_generic_more_territorial_claims
-		text = border_disputesX56
-		x = 28
+		text = border_disputesCHI
+		x = 26
 		y = 0
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X56 = {
+			CHI = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 362
+				owns_state = 341
 			}
 		}
 		completion_reward = {
@@ -48,16 +48,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X56 value > 0 }
+				has_opinion = { target = CHI value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X56 = { in_weak_faction = no }
+				CHI = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X56
+					has_subject = CHI
 					in_weak_faction = no
 				}
 			}
@@ -81,35 +81,35 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X56 = { surrender_progress > 0.2 }
+				CHI = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = assert_claimsMONX56
+		id = assert_claimsMONCHI
 		icon = GFX_goal_generic_territory_or_war
-		text = assert_claimsX56
-		prerequisite = { focus = border_disputesMONX56 }
+		text = assert_claimsCHI
+		prerequisite = { focus = border_disputesMONCHI }
 		x = 0
 		y = 1
-		relative_position_id = border_disputesMONX56
+		relative_position_id = border_disputesMONCHI
 		cost = 10
 		available = {
 			date > 1936.3.1
 			is_subject = no
 			has_war = no
-			X56 = {
+			CHI = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 362
+				owns_state = 341
 			}
 		}
 		completion_reward = {
-			add_state_claim = 362
+			add_state_claim = 341
 			add_named_threat = { threat = 3 name = neighbor_war_NF_threat }
 			hidden_effect = {
-				X56 = { country_event = { id = reconquest_news.1 } }
+				CHI = { country_event = { id = reconquest_news.1 } }
 			}
 		}
 		ai_will_do = {
@@ -123,16 +123,16 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 0
-				has_opinion = { target = X56 value > 0 }
+				has_opinion = { target = CHI value > 0 }
 			}
 			modifier = {
 				factor = 0
-				X56 = { in_weak_faction = no }
+				CHI = { in_weak_faction = no }
 			}
 			modifier = {
 				factor = 0
 				any_country = {
-					has_subject = X56
+					has_subject = CHI
 					in_weak_faction = no
 				}
 			}
@@ -156,30 +156,30 @@ focus_tree = {
 			}
 			modifier = {
 				factor = 2
-				X56 = { surrender_progress > 0.2 }
+				CHI = { surrender_progress > 0.2 }
 			}
 		}
 	}
 
 	focus = {
-		id = prepare_for_warMONX56
+		id = prepare_for_warMONCHI
 		icon = GFX_goal_generic_position_armies
-		text = prepare_for_warX56
-		prerequisite = { focus = assert_claimsMONX56 }
+		text = prepare_for_warCHI
+		prerequisite = { focus = assert_claimsMONCHI }
 		bypass = {
-			has_war_with = X56
+			has_war_with = CHI
 		}
 		x = 0
 		y = 1
-		relative_position_id = assert_claimsMONX56
+		relative_position_id = assert_claimsMONCHI
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X56 = {
+			CHI = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 362
+				owns_state = 341
 			}
 		}
 		completion_reward = {
@@ -191,31 +191,31 @@ focus_tree = {
 	}
 
 	focus = {
-		id = neighbor_warMONX56
+		id = neighbor_warMONCHI
 		icon = GFX_goal_generic_occupy_states_ongoing_war
-		text = neighbor_warX56
-		prerequisite = { focus = prepare_for_warMONX56 }
+		text = neighbor_warCHI
+		prerequisite = { focus = prepare_for_warMONCHI }
 		bypass = {
-			has_war_with = X56
+			has_war_with = CHI
 		}
 		x = 0
 		y = 1
-		relative_position_id = prepare_for_warMONX56
+		relative_position_id = prepare_for_warMONCHI
 		cost = 10
 		available = {
 			is_subject = no
 			has_war = no
-			X56 = {
+			CHI = {
 				exists = yes
 				not_allies_or_subjects = yes
-				owns_state = 362
+				owns_state = 341
 			}
 		}
 		completion_reward = {
 			declare_war_on = {
-				target = X56
+				target = CHI
 				type = take_state_focus
-				generator = { 362 }
+				generator = { 341 }
 			}
 		}
 		ai_will_do = {

@@ -1,0 +1,43 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 8032
+		task_force = {
+			name = "1st Fleet"
+			location = 8032
+			ship = { name = "Ah-ni-gi-lo-hi" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "1st Cololo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Ani-kutani" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Ah-ni-sa-ho-ni" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Ah-ni-wo-di" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Ah-ni-wa-ya" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Kana'ti" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Selu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Oonawieh Unggi" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "I'nage-utasvhi" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Anisga'ya Tsunsdi" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+			ship = { name = "Nv-da u-no-le" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W00 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "W00"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "W00"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

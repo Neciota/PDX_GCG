@@ -1,13 +1,25 @@
 characters={
-	X38_vincenzo_emo={
-		name=X38_vincenzo_emo
+	X38_do_dyara={
+		name=X38_do_dyara
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X38_bodyan_bari={
+		name=X38_bodyan_bari
 		portraits={
 			civilian={
-				large="gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+				large="gfx/leaders/African/Portrait_Dahomey_Soglo.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

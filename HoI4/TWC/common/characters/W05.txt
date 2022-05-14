@@ -1,49 +1,13 @@
 characters={
-	W05_iltazar_bahadur={
-		name=W05_iltazar_bahadur
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W05_quli_bahadur={
-		name=W05_quli_bahadur
-		corps_commander={
-			skill=2
-			attack_skill=4
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W05_allah_khan={
-		name=W05_allah_khan
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W05_al_ahad_khan={
-		name=W05_al_ahad_khan
+	W05_charles_annez_de_zillebroeck={
+		name=W05_charles_annez_de_zillebroeck
 		portraits={
 			civilian={
-				large="gfx/leaders/Turkic_Steppe/Portrait_TUR_Ismet_Inonu.tga"
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

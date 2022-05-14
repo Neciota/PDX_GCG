@@ -3,34 +3,34 @@ state={
 	id=133
 	name="STATE_133"
 	resources={
-		steel=30.000
+		aluminium=33.000
 	}
 
 	history={
-		owner = X19
+		owner = BRA
 		victory_points = {
-			6449 0 
+			10513 4 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			9434 = {
-				naval_base = 6
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			5167 = {
+				naval_base = 10
 			}
-			air_base = 1
+			air_base = 2
 
 		}
-		add_core_of = FRA
-		add_core_of = W16
+		add_core_of = BRA
 	}
 
 	provinces={
-		539 553 3549 3579 6449 6569 6599 9434 9550 9578 11521 11535 11563 
+		1583 5112 5167 5186 7553 7636 10360 10432 10513 10947 10994 11003 11008 12438 12937 12972 
 	}
-	manpower=809668
+	manpower=19403248
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

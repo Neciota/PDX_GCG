@@ -2,26 +2,30 @@
 state={
 	id=424
 	name="STATE_424"
+	resources={
+		steel=6.000
+	}
 
 	history={
-		owner = MON
+		owner = SIL
 		victory_points = {
-			7743 1 
+			11346 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = MON
+		add_core_of = MEK
+		add_core_of = SIL
 	}
 
 	provinces={
-		1776 4745 4852 7697 7743 10612 12537 12690 13150 
+		3512 6535 6622 11346 
 	}
-	manpower=234776
+	manpower=735748
 	buildings_max_level_factor=1.000
 	state_category=rural
 

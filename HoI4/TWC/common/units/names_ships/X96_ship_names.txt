@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X96_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X96_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X96_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X96_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X96_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X96_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X96_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X96_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X96_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X96_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Shunten" "Shunbajunki" "Sai On" "Sho Nei" "Gihon" "Eiso" "Sho Boku" "Eiji" "Tamagusuku" "Taisei" "Seii" "Sho Shoken" "Satto" "Sho Tei" "Sho Shin" "Sho Kei" "Sho Gen" "Sho En" "Bunei" "Sho Kinpuku" "Sho Shitatsu" "Sho Chu" "Sho Hashi" "Sho Shisho" "Sho Taikyu" "Naha" "Shuri" "Amari" "Okinawa" 
+		
 	}
 }
 

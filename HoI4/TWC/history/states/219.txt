@@ -3,20 +3,34 @@ state={
 	id=219
 	name="STATE_219"
 	resources={
-		steel=2.000
+		steel=4.000
 	}
-	impassable = yes
 
 	history={
 		owner = EGY
+		victory_points = {
+			7011 25 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			11964 = {
+				naval_base = 10
+			}
+			air_base = 7
+
+		}
+		add_core_of = EGY
 	}
 
 	provinces={
-		1057 1060 1140 4191 10104 10785 11951 
+		992 1068 3996 4055 4076 4145 7011 7091 7117 7164 10005 10073 11964 
 	}
-	manpower=2482
+	manpower=8260916
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

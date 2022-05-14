@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Akshat" "Avanindra" "Dipendra" "Debashish" "Durjaya" "Ilesh" "Jagannath" "Meghnad" "Paramjit" "Samarjit" "Sudhir" "Vijay" "Vikrant" 
+			"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Rama Varma" "Aditya Varma" "Ravi Varma" "Balarama Varma" "Swathi Thirunal" "Uthram Thirunal" "Visakham Thirunal" 
+			"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Atul" "Chapal" "Kartikeya" "Mahavir" "Nachiketa" "Prajit" "Rutujit" "Shreyas" "Veer" "Yuyutsu" 
+			"Buffel" "Guinea" "Schorpioen" "Stier" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Amar" "Anil" "Asim" "Bhavesh" "Chandrahas" "Dhirendra" "Gopan" "Jagajit" "Jishnu" "Mahabala" "Pinak" "Ranjit" "Satyajit" "Urjit" "Varun" "Vishvajit" 
+			"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" "Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen" "Pieter Florisz" "Philips van Almonde" "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Padmanabhapuram" "Thiruvananthapuram" "Kilimanoor" "Kollam" "Kochi" "Mavelikkara" "Thrissur" 
+			"Admiraal Generaal" "Beschermer" "Brederode" "Campen" "Eendracht" "Eenhoorn" "Frederik Hendrik" "Gouden Leeuw" "Graaf Willem" "Groote Liefde" "Jozua" "Kameel" "Kapitein Generaal" "Landman" "Louisa Hendrika" "Overwinnaer" "Prinses Amalia" "Prinses Roijaal" "Prins Friso" "Prins Willem" "Rosenkrans" "Salamander" "Vergulde Maen" "Verwachting" "Unie" "Vrede" "Vrijheid" "Witte Lam" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Anupam" "Arihant" "Bhanu" "Dhananjay" "Hemendra" "Jawahar" "Kaushal" "Makarand" "Manindra" "Narhari" "Nidhish" "Ratnakar" "Shashwat" "Srikant" 
+			"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Abhay" "Akhilesh" "Baldev" "Chandresh" "Duranjaya" "Gaurav" "Jayant" "Parindra" "Prabir" "Shatrunjay" "Vipan" "Viraj" "Yudhisthir" 
+			"Wolf" "Fret" "Hermelijn" "Vos" "Panter" "Jaguar" "Lynx" "Leeuw" "Jakhals" 
 		}
 	}
 

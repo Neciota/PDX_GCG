@@ -1,13 +1,13 @@
 characters={
-	X45_kong_zhao={
-		name=X45_kong_zhao
+	X45_massasoit_sauquonckackock={
+		name=X45_massasoit_sauquonckackock
 		portraits={
 			civilian={
-				large="gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
+				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
 			}
 		}
 		country_leader={
-			ideology=dictatorship_neutral
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

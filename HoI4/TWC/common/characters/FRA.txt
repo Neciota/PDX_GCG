@@ -51,7 +51,7 @@ characters={
 		name=FRA_achille_gallieni
 		portraits={
 			civilian={
-				large="gfx/leaders/FRA/portrait_fra_leon_blum.dds"
+				large="gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
 			}
 		}
 		country_leader={

@@ -1,13 +1,13 @@
 characters={
-	W14_al_buri_koddu={
-		name=W14_al_buri_koddu
+	W14_zhu_lu={
+		name=W14_zhu_lu
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_KBR_Shehu_Masta_II.tga"
+				large="gfx/leaders/Sino/Portrait_CHI_Hu_shi.tga"
 			}
 		}
 		country_leader={
-			ideology=theocracy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

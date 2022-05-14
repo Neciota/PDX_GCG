@@ -2,27 +2,34 @@
 state={
 	id=759
 	name="STATE_759"
+	resources={
+		aluminium=2.000
+		chromium=1.000
+		rubber=7.000
+		tungsten=6.000
+	}
 
 	history={
-		owner = W21
+		owner = X91
 		victory_points = {
-			11955 15 
+			7391 0 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 5
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			1321 = {
+				naval_base = 4
+			}
+			air_base = 1
 
 		}
-		add_core_of = W10
-		add_core_of = W21
 	}
 
 	provinces={
-		5002 5040 5055 7938 9951 10794 11955 
+		1238 1321 7391 7402 7447 12275 
 	}
-	manpower=5441344
+	manpower=4930704
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 

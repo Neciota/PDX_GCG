@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "SaparuaSula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			
+			"Ambon" "Maluku" "Ari" "Ceram" "Banda" "Sunda" "Buru" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Saparua" "Sula" "Peruhumpenai" "Morotai" "Tukangbesi" "Tidore" 
 		}
 	}
 

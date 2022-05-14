@@ -1,25 +1,13 @@
 characters={
-	X49_do_dyara={
-		name=X49_do_dyara
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=1
-			planning_skill=2
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X49_masaloma_tonkomo={
-		name=X49_masaloma_tonkomo
+	X49_mohammad_mainaky={
+		name=X49_mohammad_mainaky
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_Barot_YetaIII.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Hisamuddin_of_Selangor.tga"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

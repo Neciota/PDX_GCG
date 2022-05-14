@@ -2,32 +2,36 @@
 state={
 	id=652
 	name="STATE_652"
+	resources={
+		aluminium=2.000
+		steel=4.000
+	}
 
 	history={
-		owner = SIA
+		owner = SLV
 		victory_points = {
-			4251 1 
+			6626 1 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			7404 = {
-				naval_base = 4
+			6626 = {
+				naval_base = 10
 			}
-			air_base = 0
+			air_base = 1
 
 		}
-		add_core_of = CAM
-		add_core_of = SIA
+		add_core_of = ITA
+		add_core_of = SLV
 	}
 
 	provinces={
-		1324 1353 1620 4251 4302 4330 4359 4596 4639 7319 7376 7404 7432 7645 10134 10177 10204 10289 10317 10453 10467 12150 12167 12191 12260 12447 12460 12475 
+		6626 9613 
 	}
-	manpower=557312
+	manpower=430144
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

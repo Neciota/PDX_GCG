@@ -3,34 +3,34 @@ state={
 	id=271
 	name="STATE_271"
 	resources={
-		steel=74.000
+		aluminium=1.000
+		rubber=0.000
 	}
 
 	history={
-		owner = ENG
+		owner = GAB
 		victory_points = {
-			9297 2 
+			5036 15 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			industrial_complex = 1
-			arms_factory = 1
-			dockyard = 1
-			9250 = {
-				naval_base = 8
+			arms_factory = 0
+			5036 = {
+				naval_base = 6
 			}
-			air_base = 1
+			air_base = 5
 
 		}
-		add_core_of = ENG
+		add_core_of = GAB
 	}
 
 	provinces={
-		364 3241 3301 3353 6237 6301 7239 9250 9268 9297 9322 11279 11345 11382 
+		5036 
 	}
-	manpower=4717976
+	manpower=231536
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

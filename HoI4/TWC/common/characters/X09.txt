@@ -1,6 +1,6 @@
 characters={
-	X09_paul_langle={
-		name=X09_paul_langle
+	X09_konstantinos_dousmanis={
+		name=X09_konstantinos_dousmanis
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -11,51 +11,51 @@ characters={
 		}
 	}
 
-	X09_thibaut_dubois={
-		name=X09_thibaut_dubois
+	X09_odysseas_zaimis={
+		name=X09_odysseas_zaimis
 		corps_commander={
-			skill=2
+			skill=1
 			attack_skill=1
 			defense_skill=1
-			planning_skill=5
-			logistics_skill=1
+			planning_skill=1
+			logistics_skill=2
 			legacy_id=0
 		}
 	}
 
-	X09_ettiene_gallieni={
-		name=X09_ettiene_gallieni
+	X09_stylianos_sarafis={
+		name=X09_stylianos_sarafis
 		corps_commander={
-			skill=4
-			attack_skill=5
+			skill=2
+			attack_skill=3
 			defense_skill=1
 			planning_skill=1
-			logistics_skill=5
+			logistics_skill=2
 			legacy_id=0
 		}
 	}
 
-	X09_amedee_bouet_willaumez={
-		name=X09_amedee_bouet_willaumez
+	X09_tzannis_vassos={
+		name=X09_tzannis_vassos
 		navy_leader={
-			skill=2
+			skill=1
 			attack_skill=2
-			defense_skill=2
+			defense_skill=1
 			maneuvering_skill=1
 			coordination_skill=1
 			legacy_id=0
 		}
 	}
 
-	X09_augustin_saint={
-		name=X09_augustin_saint
+	X09_stefanos_spyromilios={
+		name=X09_stefanos_spyromilios
 		portraits={
 			civilian={
-				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+				large="gfx/leaders/Mediterranean/Portrait_Alfonso_XIII.tga"
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

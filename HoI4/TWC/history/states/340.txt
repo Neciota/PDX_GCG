@@ -4,13 +4,12 @@ state={
 	name="STATE_340"
 	resources={
 		aluminium=2.000
-		steel=7.000
 	}
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			1146 7 
+			1603 7 
 		}
 		buildings = {
 			infrastructure = 5
@@ -20,14 +19,13 @@ state={
 
 		}
 		add_core_of = CHI
-		add_core_of = X45
-		add_core_of = X56
+		add_core_of = PRC
 	}
 
 	provinces={
-		1001 1146 1161 4079 4203 7094 7222 9937 10008 10017 10040 10064 10079 11916 11973 11994 12036 
+		1004 1139 1603 4114 4144 4519 4547 4606 6932 7074 7459 7508 11931 11933 12012 
 	}
-	manpower=22887852
+	manpower=12155120
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

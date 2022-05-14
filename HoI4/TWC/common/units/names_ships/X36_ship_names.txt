@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -26,7 +26,7 @@ X36_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -42,7 +42,7 @@ X36_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -58,7 +58,7 @@ X36_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -74,7 +74,7 @@ X36_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -90,7 +90,7 @@ X36_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -106,7 +106,7 @@ X36_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -122,7 +122,7 @@ X36_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -138,7 +138,7 @@ X36_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -154,7 +154,7 @@ X36_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 
@@ -170,7 +170,7 @@ X36_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+		"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 	}
 }
 

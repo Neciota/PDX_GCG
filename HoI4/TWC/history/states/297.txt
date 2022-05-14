@@ -3,32 +3,36 @@ state={
 	id=297
 	name="STATE_297"
 	resources={
-		aluminium=1.000
-		chromium=7.000
-		steel=9.000
+		aluminium=17.000
+		chromium=0.000
+		steel=2.000
+		tungsten=0.000
 	}
 
 	history={
-		owner = X42
+		owner = ITA
 		victory_points = {
-			7465 1 
+			6606 1 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 0
+			6973 = {
+				naval_base = 10
+			}
+			air_base = 1
 
 		}
-		add_core_of = X42
+		add_core_of = ITA
 	}
 
 	provinces={
-		1622 7428 7465 10469 12241 12490 
+		782 3773 3976 6606 6790 6793 6973 6985 9752 9924 11726 11734 
 	}
-	manpower=496420
+	manpower=3055716
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 
 	local_supplies=10.0
 }

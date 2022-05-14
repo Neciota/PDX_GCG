@@ -3,29 +3,34 @@ state={
 	id=577
 	name="STATE_577"
 	resources={
-		aluminium=1.000
+		steel=3.000
 	}
 
 	history={
-		owner = X93
+		owner = SOV
 		victory_points = {
-			5216 0 
+			3152 10 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 1
+			3152 = {
+				naval_base = 10
+			}
+			air_base = 7
 
 		}
+		add_core_of = EST
 	}
 
 	provinces={
-		5216 10960 
+		83 185 308 496 567 592 3074 3152 3174 4640 6099 6178 6201 6381 6408 9079 9221 9485 11057 11127 11291 11426 11443 
 	}
-	manpower=526000
+	manpower=2070124
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

@@ -3,34 +3,33 @@ state={
 	id=282
 	name="STATE_282"
 	resources={
-		aluminium=2.000
-		steel=30.000
+		rubber=1.000
+		steel=1.000
+		tungsten=6.000
 	}
 
 	history={
-		owner = FRA
+		owner = X35
 		victory_points = {
-			6657 1 
+			7097 20 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 0
-			arms_factory = 0
-			6657 = {
-				naval_base = 4
-			}
-			air_base = 0
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 7
 
 		}
-		add_core_of = FRA
+		add_core_of = PRC
+		add_core_of = X35
 	}
 
 	provinces={
-		595 629 3598 6657 6792 9597 11565 11582 11869 
+		1640 4896 7097 7101 7201 7279 7434 7665 9999 10006 10335 10517 12483 13143 
 	}
-	manpower=698640
+	manpower=12604404
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

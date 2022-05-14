@@ -3,34 +3,32 @@ state={
 	id=472
 	name="STATE_472"
 	resources={
-		aluminium=4.000
-		rubber=0.000
+		steel=1.000
 	}
 
 	history={
 		owner = HOL
 		victory_points = {
-			12787 10 
+			2229 0 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 2
+			industrial_complex = 0
 			arms_factory = 0
-			12742 = {
-				naval_base = 10
+			2229 = {
+				naval_base = 6
 			}
-			air_base = 6
+			air_base = 0
 
 		}
-		add_core_of = X06
 	}
 
 	provinces={
-		10862 12742 12785 12787 
+		2229 5154 5189 7605 10963 
 	}
-	manpower=3829228
+	manpower=172308
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 
 	local_supplies=10.0
 }

@@ -3,37 +3,34 @@ state={
 	id=489
 	name="STATE_489"
 	resources={
-		aluminium=0.000
-		rubber=1.000
-		steel=0.000
+		steel=3.000
 	}
 
 	history={
 		owner = HOL
 		victory_points = {
-			4952 10 
+			7992 10 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 0
-			4952 = {
-				naval_base = 8
+			5034 = {
+				naval_base = 6
 			}
-			air_base = 6
+			air_base = 5
 
 		}
-		add_core_of = BEN
-		add_claim_by = X78
-		add_claim_by = X84
+		add_core_of = MRT
+		add_core_of = X32
 	}
 
 	provinces={
-		4952 8034 12900 
+		5034 5077 7992 8058 10814 
 	}
-	manpower=18280512
+	manpower=733036
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=rural
 
 	local_supplies=10.0
 }

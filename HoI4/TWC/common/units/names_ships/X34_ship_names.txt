@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Anton Bernolák" "Ludovít Štúr" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -26,7 +26,7 @@ X34_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Praha" "Brno" "Ostrava" "Bratislava" "Košice" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -42,7 +42,7 @@ X34_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Milešovka" "Lovos" "Hazmburk" "Beskydok" "Gerlachovský štít" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -58,7 +58,7 @@ X34_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -74,7 +74,7 @@ X34_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -90,7 +90,7 @@ X34_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -106,7 +106,7 @@ X34_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -122,7 +122,7 @@ X34_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Jizera" "Metuje" "Morava" "Hron" "Bodrog" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -138,7 +138,7 @@ X34_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Jizera" "Metuje" "Morava" "Hron" "Bodrog" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -154,7 +154,7 @@ X34_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Pražský hrad" "Vyšehrad" "Zbraslav" "Bojnický zámok" "Bratislavsky hrad" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 
@@ -170,7 +170,7 @@ X34_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Ján Šimbracký" "Zachariáš Zarewutius" 
+		"Baitarani" "Balasore" "Balugaon" "Behrampur" "Bhubeneswar" "Brahmani" "Chandipur" "Chilka" "Cuttack" "Durga" "Gopalpur" "Jagannath" "Juggernaut" "Kalijai" "Konark" "Lakshmi" "Mahanadi" "Nalabana" "Paradeep" "Parvati" "Puri" "Radha" "Sarasvati" "Satapada" 
 	}
 }
 

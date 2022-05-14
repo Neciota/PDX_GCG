@@ -4,25 +4,24 @@ state={
 	name="STATE_767"
 
 	history={
-		owner = W26
+		owner = KAZ
 		victory_points = {
-			9595 15 
+			4303 1 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 4
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 5
+			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = W26
+		add_core_of = KAZ
 	}
 
 	provinces={
-		9595 
+		1220 1314 1371 4227 4300 4303 4374 4376 7337 10131 10164 10295 12108 12139 12163 
 	}
-	manpower=51828
+	manpower=30848
 	buildings_max_level_factor=1.000
 	state_category=rural
 

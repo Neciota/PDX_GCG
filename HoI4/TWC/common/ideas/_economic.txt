@@ -140,7 +140,6 @@ ideas = {
 					has_government = absolutist
 					has_government = communism
 					has_government = fascism
-					has_government = radical
 					custom_trigger_tooltip = { tooltip = or_clarification_tooltip always = no }
 					AND = {
 						has_war = yes
@@ -390,7 +389,6 @@ ideas = {
 					has_government = absolutist
 					has_government = communism
 					has_government = fascism
-					has_government = radical
 				}
 				OR = {
 					has_idea = war_economy

@@ -3,30 +3,33 @@ state={
 	id=700
 	name="STATE_700"
 	resources={
-		chromium=14.000
+		aluminium=1.000
+		chromium=0.000
+		steel=0.000
 	}
 
 	history={
-		owner = W05
+		owner = X83
 		victory_points = {
-			7775 15 
+			7497 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 1
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 6
+			air_base = 5
 
 		}
-		add_core_of = W05
+		add_core_of = X83
+		add_core_of = X88
 	}
 
 	provinces={
-		1216 1573 1623 4629 7639 7682 7775 10671 12161 12239 12722 
+		7497 12375 12480 
 	}
-	manpower=1996408
+	manpower=464708
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 
 	local_supplies=10.0
 }

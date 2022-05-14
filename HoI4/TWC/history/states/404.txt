@@ -2,35 +2,32 @@
 state={
 	id=404
 	name="STATE_404"
-	resources={
-		aluminium=4.000
-		chromium=4.000
-		steel=3.000
-	}
 
 	history={
-		owner = X66
+		owner = MOR
 		victory_points = {
-			12420 0 
+			12003 0 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 0
 			arms_factory = 0
+			12003 = {
+				naval_base = 4
+			}
 			air_base = 1
 
 		}
-		add_core_of = X72
-		add_claim_by = X12
-		add_claim_by = X20
+		add_core_of = X80
+		add_claim_by = MOR
 	}
 
 	provinces={
-		1510 1579 7430 7574 8120 10030 10401 10872 12420 12781 
+		12003 
 	}
-	manpower=2719196
+	manpower=137032
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 
 	local_supplies=10.0
 }

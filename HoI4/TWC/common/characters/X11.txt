@@ -1,13 +1,49 @@
 characters={
-	X11_muhammad_sepuh={
-		name=X11_muhammad_sepuh
+	X11_raghuraj_singh={
+		name=X11_raghuraj_singh
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X11_parbhu_singh={
+		name=X11_parbhu_singh
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X11_parbhu_singh_1={
+		name=X11_parbhu_singh_1
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X11_raghuraj_singh_1={
+		name=X11_raghuraj_singh_1
 		portraits={
 			civilian={
-				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Sarawak_Ahmad_Tajuddin.tga"
+				large="gfx/leaders/Indian/Portrait_BHC_Mohandas_Karamchand_Gandhi.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

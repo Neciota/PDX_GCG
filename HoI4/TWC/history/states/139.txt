@@ -3,37 +3,30 @@ state={
 	id=139
 	name="STATE_139"
 	resources={
-		aluminium=17.000
-		chromium=5.000
-		steel=4.000
-		tungsten=3.000
+		tungsten=1.000
 	}
 
 	history={
 		owner = BRA
 		victory_points = {
-			10999 15 
+			5115 1 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 5
-			arms_factory = 1
-			10980 = {
-				naval_base = 8
-			}
-			air_base = 10
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
 
 		}
 		add_core_of = BRA
-		add_core_of = W12
 	}
 
 	provinces={
-		2153 5172 8190 8196 10980 10999 12996 
+		5115 5208 8140 12959 12987 
 	}
-	manpower=10561560
+	manpower=2615524
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=large_town
 
 	local_supplies=10.0
 }

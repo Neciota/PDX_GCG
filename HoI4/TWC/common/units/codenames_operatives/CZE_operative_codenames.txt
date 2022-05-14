@@ -1,7 +1,7 @@
 CZE_OPERATIVE_CODENAME_HISTORICAL = {
 	name = CZE_OPERATIVE_CODENAME_HISTORICAL
 
-	for_countries = { CZE X34 X73 }
+	for_countries = { CZE }
 
 	type = codename
 

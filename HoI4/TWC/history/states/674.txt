@@ -2,35 +2,31 @@
 state={
 	id=674
 	name="STATE_674"
-	resources={
-		aluminium=22.000
-		chromium=4.000
-		steel=31.000
-		tungsten=2.000
-	}
 
 	history={
-		owner = W01
+		owner = SWE
 		victory_points = {
-			6780 15 
+			9228 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 1
-			air_base = 6
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			9228 = {
+				naval_base = 8
+			}
+			air_base = 1
 
 		}
-		add_core_of = ITA
-		add_core_of = W01
+		add_core_of = SWE
 	}
 
 	provinces={
-		611 770 771 776 3782 6635 6780 9738 9741 11570 11721 11723 11730 
+		9228 
 	}
-	manpower=2611084
+	manpower=33136
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 
 	local_supplies=10.0
 }

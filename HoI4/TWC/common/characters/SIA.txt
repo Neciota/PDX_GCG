@@ -47,8 +47,8 @@ characters={
 		}
 	}
 
-	SIA_plaek_phonphayuhasena={
-		name=SIA_plaek_phonphayuhasena
+	SIA_mongkut_praya_siri={
+		name=SIA_mongkut_praya_siri
 		portraits={
 			civilian={
 				large="gfx/leaders/PHI/Portrait_Philippines_Manuel_Luis_Quezon.dds"

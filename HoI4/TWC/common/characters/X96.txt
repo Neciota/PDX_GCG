@@ -1,30 +1,6 @@
 characters={
-	X96_honda_takamori={
-		name=X96_honda_takamori
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=4
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X96_osumi_tetsutaro={
-		name=X96_osumi_tetsutaro
-		corps_commander={
-			skill=1
-			attack_skill=2
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X96_askikaga_yusaku={
-		name=X96_askikaga_yusaku
+	X96_arthur_goering={
+		name=X96_arthur_goering
 		corps_commander={
 			skill=2
 			attack_skill=3
@@ -35,27 +11,39 @@ characters={
 		}
 	}
 
-	X96_suzuki_tsugumichi={
-		name=X96_suzuki_tsugumichi
-		navy_leader={
+	X96_alexander_bohm_ermolli={
+		name=X96_alexander_bohm_ermolli
+		corps_commander={
 			skill=1
 			attack_skill=1
 			defense_skill=1
-			maneuvering_skill=1
-			coordination_skill=1
+			planning_skill=1
+			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X96_takigawa_kato={
-		name=X96_takigawa_kato
+	X96_julius_grunne={
+		name=X96_julius_grunne
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X96_ludwig_von_grunne={
+		name=X96_ludwig_von_grunne
 		portraits={
 			civilian={
-				large="gfx/leaders/JAP/portrait_jap_tetsu_katayama.dds"
+				large="gfx/leaders/GER/Portrait_Germany_Generic_3.dds"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=fascism_ideology
 			expire="1965.1.1.1"
 			id=-1
 		}

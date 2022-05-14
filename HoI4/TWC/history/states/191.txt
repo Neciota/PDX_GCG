@@ -3,21 +3,20 @@ state={
 	id=191
 	name="STATE_191"
 	resources={
-		aluminium=7.000
-		oil=36.000
-		steel=8.000
+		oil=2.000
+		rubber=12.000
 	}
 
 	history={
 		owner = COL
 		victory_points = {
-			12772 1 
+			12798 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 0
-			12772 = {
+			8252 = {
 				naval_base = 10
 			}
 			air_base = 1
@@ -27,11 +26,11 @@ state={
 	}
 
 	provinces={
-		1944 12772 
+		5051 5120 8047 8075 8252 10888 11020 12798 
 	}
-	manpower=1970232
+	manpower=5177912
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=metropolis
 
 	local_supplies=10.0
 }

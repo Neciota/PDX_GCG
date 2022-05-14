@@ -1,13 +1,25 @@
 characters={
-	X46_chingis_genden={
-		name=X46_chingis_genden
+	X46_gideon_williams={
+		name=X46_gideon_williams
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X46_daniel_longstreet={
+		name=X46_daniel_longstreet
 		portraits={
 			civilian={
-				large="gfx/leaders/Asian_Steppe/portrait_MON_Gengis_Khan.dds"
+				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
 			}
 		}
 		country_leader={
-			ideology=dictatorship
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

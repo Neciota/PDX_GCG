@@ -1,0 +1,163 @@
+﻿capital = 77
+set_research_slots = 2
+
+oob = "X42_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_south_asia
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1925.7.24"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 100
+}
+
+add_opinion_modifier = { target = AFG modifier = negative_120 }
+add_opinion_modifier = { target = ARM modifier = negative_100 }
+add_opinion_modifier = { target = AST modifier = negative_100 }
+add_opinion_modifier = { target = AUS modifier = negative_25 }
+add_opinion_modifier = { target = BAN modifier = negative_120 }
+add_opinion_modifier = { target = BAY modifier = negative_150 }
+add_opinion_modifier = { target = BOS modifier = negative_50 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = BUL modifier = negative_150 }
+add_opinion_modifier = { target = CAL modifier = negative_10 }
+add_opinion_modifier = { target = CAR modifier = negative_100 }
+add_opinion_modifier = { target = CAT modifier = negative_10 }
+add_opinion_modifier = { target = CHI modifier = negative_25 }
+add_opinion_modifier = { target = COL modifier = negative_110 }
+add_opinion_modifier = { target = CZE modifier = negative_50 }
+add_opinion_modifier = { target = DNZ modifier = negative_25 }
+add_opinion_modifier = { target = EGY modifier = negative_100 }
+add_opinion_modifier = { target = ENG modifier = negative_120 }
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GHA modifier = negative_160 }
+add_opinion_modifier = { target = HOL modifier = negative_110 }
+add_opinion_modifier = { target = HUN modifier = negative_25 }
+add_opinion_modifier = { target = ITA modifier = negative_135 }
+add_opinion_modifier = { target = JAP modifier = positive_20 }
+add_opinion_modifier = { target = KAZ modifier = negative_20 }
+add_opinion_modifier = { target = KOR modifier = negative_20 }
+add_opinion_modifier = { target = LBA modifier = negative_10 }
+add_opinion_modifier = { target = MEX modifier = positive_50 }
+add_opinion_modifier = { target = MON modifier = negative_20 }
+add_opinion_modifier = { target = MOR modifier = negative_75 }
+add_opinion_modifier = { target = NEP modifier = negative_96 }
+add_opinion_modifier = { target = NGR modifier = negative_100 }
+add_opinion_modifier = { target = PAK modifier = positive_5 }
+add_opinion_modifier = { target = PRC modifier = negative_20 }
+add_opinion_modifier = { target = PRE modifier = negative_25 }
+add_opinion_modifier = { target = SIA modifier = negative_45 }
+add_opinion_modifier = { target = SIK modifier = negative_75 }
+add_opinion_modifier = { target = SIL modifier = negative_10 }
+add_opinion_modifier = { target = SLV modifier = negative_185 }
+add_opinion_modifier = { target = SOV modifier = negative_35 }
+add_opinion_modifier = { target = TMS modifier = negative_120 }
+add_opinion_modifier = { target = TUR modifier = negative_100 }
+add_opinion_modifier = { target = USA modifier = positive_60 }
+add_opinion_modifier = { target = WGR modifier = negative_25 }
+add_opinion_modifier = { target = WUR modifier = negative_25 }
+add_opinion_modifier = { target = X01 modifier = negative_50 }
+add_opinion_modifier = { target = X11 modifier = negative_67 }
+add_opinion_modifier = { target = X30 modifier = negative_145 }
+add_opinion_modifier = { target = X35 modifier = negative_125 }
+add_opinion_modifier = { target = X44 modifier = negative_5 }
+add_opinion_modifier = { target = X50 modifier = negative_30 }
+add_opinion_modifier = { target = X51 modifier = negative_15 }
+add_opinion_modifier = { target = X62 modifier = positive_60 }
+add_opinion_modifier = { target = X66 modifier = negative_45 }
+add_opinion_modifier = { target = X69 modifier = negative_150 }
+add_opinion_modifier = { target = X72 modifier = negative_170 }
+add_opinion_modifier = { target = X83 modifier = negative_15 }
+add_opinion_modifier = { target = X88 modifier = negative_62 }
+add_opinion_modifier = { target = X90 modifier = positive_10 }
+add_opinion_modifier = { target = X91 modifier = positive_60 }
+add_opinion_modifier = { target = X93 modifier = negative_25 }
+
+
+add_ideas = {
+	uncivilized
+	X42_monarch
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_malayalam
+}
+
+recruit_character = X42_raja_thampuran
+recruit_character = X42_swathi_perumal
+recruit_character = X42_saamoothiri_varma
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Indira Perumal"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X42 }
+	}
+
+	create_operative_leader = {
+		name = "Indira Varma"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X42 }
+	}
+
+	create_operative_leader = {
+		name = "Indira Rama"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X42 }
+	}
+
+	create_operative_leader = {
+		name = "Thirunal Thampuran"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X42 }
+	}
+
+	create_operative_leader = {
+		name = "Dharma Rama"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X42 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}

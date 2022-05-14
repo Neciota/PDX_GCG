@@ -1,13 +1,13 @@
 characters={
-	X29_cari_calisaya={
-		name=X29_cari_calisaya
+	X29_domnall_niven={
+		name=X29_domnall_niven
 		portraits={
 			civilian={
-				large="gfx/leaders/central_american_native/portrait_nat_carib_absolutist.dds"
+				large="gfx/leaders/Europe/portrait_europe_generic_5.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=conservatism
 			expire="1965.1.1.1"
 			id=-1
 		}

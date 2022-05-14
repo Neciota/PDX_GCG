@@ -1,9 +1,9 @@
 characters={
-	X06_kwame_bonsu={
-		name=X06_kwame_bonsu
+	X06_kokomako_cephubi={
+		name=X06_kokomako_cephubi
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_Kongo_Pedro_VII_Afonso.tga"
+				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
 			}
 		}
 		country_leader={

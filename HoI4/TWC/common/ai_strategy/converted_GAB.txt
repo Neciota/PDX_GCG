@@ -47,7 +47,7 @@ converted_diplo_strategies_GAB = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "W33"
+		id = "CAR"
 		value = 23
 	}
 	ai_strategy = {
@@ -71,18 +71,13 @@ converted_diplo_strategies_GAB = {
 		value = 25
 	}
 	ai_strategy = {
-		type = protect
-		id = "X84"
-		value = 6
-	}
-	ai_strategy = {
 		type = declare_war
-		id = "X42"
+		id = "X34"
 		value = 94
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X96"
+		id = "X72"
 		value = 56
 	}
 	ai_strategy = {
@@ -92,7 +87,7 @@ converted_diplo_strategies_GAB = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "W33"
+		id = "CAR"
 		value = 37
 	}
 }

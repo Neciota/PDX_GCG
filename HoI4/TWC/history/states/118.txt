@@ -2,29 +2,32 @@
 state={
 	id=118
 	name="STATE_118"
+	resources={
+		aluminium=3.000
+	}
 
 	history={
-		owner = X13
+		owner = WGR
 		victory_points = {
-			2008 2 
+			11640 15 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			arms_factory = 1
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = MEX
-		add_core_of = X13
+		add_core_of = WGR
+		add_core_of = WUR
 	}
 
 	provinces={
-		2008 
+		694 3679 3692 6712 6934 11640 
 	}
-	manpower=2141660
+	manpower=571348
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 
 	local_supplies=10.0
 }

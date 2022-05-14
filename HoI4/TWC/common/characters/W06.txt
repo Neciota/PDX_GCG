@@ -1,13 +1,13 @@
 characters={
-	W06_muhammad_belkadi={
-		name=W06_muhammad_belkadi
+	W06_charles_annez_de_zillebroeck={
+		name=W06_charles_annez_de_zillebroeck
 		portraits={
 			civilian={
-				large="gfx/leaders/EGY/Portrait_EGY_faud_i.dds"
+				large="gfx/leaders/HOL/Portrait_Netherlands_Dirk_Jan_de_Geer.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

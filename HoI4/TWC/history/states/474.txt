@@ -3,35 +3,32 @@ state={
 	id=474
 	name="STATE_474"
 	resources={
-		aluminium=1.000
-		rubber=0.000
 		steel=0.000
 	}
 
 	history={
 		owner = HOL
 		victory_points = {
-			10919 10 
+			4879 0 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 3
+			industrial_complex = 0
 			arms_factory = 0
-			10919 = {
-				naval_base = 10
+			12921 = {
+				naval_base = 8
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = DAH
 	}
 
 	provinces={
-		10919 
+		4879 7770 8136 10957 10978 12519 12921 13217 
 	}
-	manpower=2910284
+	manpower=567844
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 
 	local_supplies=10.0
 }

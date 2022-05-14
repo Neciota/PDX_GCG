@@ -1,33 +1,9 @@
 characters={
-	X76_leonidas_pan'galos={
-		name=X76_leonidas_pan'galos
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X76_kyriakos_chatzianestis={
-		name=X76_kyriakos_chatzianestis
-		navy_leader={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			maneuvering_skill=1
-			coordination_skill=2
-			legacy_id=0
-		}
-	}
-
-	X76_gennaios_zymvrakakis={
-		name=X76_gennaios_zymvrakakis
+	X76_manuel_plata={
+		name=X76_manuel_plata
 		portraits={
 			civilian={
-				large="gfx/leaders/ITA/Portrait_Italy_Victor_Emmanuel_III.dds"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Abdul_Rahman_Negeri_Sembilan.tga"
 			}
 		}
 		country_leader={

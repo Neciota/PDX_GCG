@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = W55
+		owner = UAE
 		victory_points = {
 			4320 10 
 		}
@@ -24,8 +24,7 @@ state={
 			air_base = 6
 
 		}
-		add_core_of = W55
-		add_core_of = X90
+		add_core_of = X68
 	}
 
 	provinces={

@@ -3,34 +3,35 @@ state={
 	id=510
 	name="STATE_510"
 	resources={
-		steel=3.000
+		chromium=1.000
 	}
 
 	history={
-		owner = HOL
+		owner = NIC
 		victory_points = {
-			7992 10 
+			10728 15 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 0
-			5034 = {
-				naval_base = 6
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			12738 = {
+				naval_base = 10
 			}
-			air_base = 5
+			air_base = 7
 
 		}
-		add_core_of = MRT
-		add_core_of = X39
+		add_core_of = COL
+		add_core_of = NIC
 	}
 
 	provinces={
-		5034 5077 7992 8058 10814 
+		1988 2075 10728 12738 
 	}
-	manpower=733036
+	manpower=3066312
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

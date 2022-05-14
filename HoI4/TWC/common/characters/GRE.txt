@@ -1,0 +1,64 @@
+characters={
+	GRE_eleftherios_mouskos={
+		name=GRE_eleftherios_mouskos
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_venizelos_sofoulis={
+		name=GRE_venizelos_sofoulis
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_dimitrios_charalampis={
+		name=GRE_dimitrios_charalampis
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_tzannis_tsakalotos={
+		name=GRE_tzannis_tsakalotos
+		navy_leader={
+			skill=3
+			attack_skill=3
+			defense_skill=6
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_dimitrios_papadopoulos={
+		name=GRE_dimitrios_papadopoulos
+		portraits={
+			civilian={
+				large="gfx/leaders/Mediterranean/Portrait_Papal_State_Angelo_Cerica.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

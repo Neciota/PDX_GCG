@@ -2,29 +2,31 @@
 state={
 	id=749
 	name="STATE_749"
+	resources={
+		aluminium=9.000
+	}
 
 	history={
-		owner = W15
+		owner = WUR
 		victory_points = {
-			12376 15 
+			9666 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 2
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 6
+			air_base = 0
 
 		}
-		add_core_of = W15
-		add_core_of = X21
+		add_core_of = WUR
 	}
 
 	provinces={
-		4583 10472 12376 
+		708 6693 9666 11638 
 	}
-	manpower=1126916
+	manpower=562804
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

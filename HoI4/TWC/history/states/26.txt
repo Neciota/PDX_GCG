@@ -25,7 +25,7 @@ state={
 
 		}
 		add_core_of = BAN
-		add_core_of = X53
+		add_core_of = X42
 	}
 
 	provinces={

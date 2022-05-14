@@ -1,49 +1,37 @@
 characters={
-	X57_maghari_saghanughu={
-		name=X57_maghari_saghanughu
+	X57_leonidas_pan'galos={
+		name=X57_leonidas_pan'galos
 		corps_commander={
-			skill=1
+			skill=2
 			attack_skill=2
-			defense_skill=1
+			defense_skill=2
 			planning_skill=1
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X57_samory_toure={
-		name=X57_samory_toure
-		corps_commander={
+	X57_kyriakos_chatzianestis={
+		name=X57_kyriakos_chatzianestis
+		navy_leader={
 			skill=1
 			attack_skill=1
 			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
+			maneuvering_skill=1
+			coordination_skill=2
 			legacy_id=0
 		}
 	}
 
-	X57_koumbi_salim_suwari={
-		name=X57_koumbi_salim_suwari
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X57_maghari_wattara={
-		name=X57_maghari_wattara
+	X57_sotiris_kolokotronis={
+		name=X57_sotiris_kolokotronis
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_Dahomey_Soglo.tga"
+				large="gfx/leaders/Mediterranean/Portrait_Javier_I.tga"
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

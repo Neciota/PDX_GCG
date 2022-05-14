@@ -1,10 +1,10 @@
 units = {
 	fleet = {
 		name = "1st Fleet"
-		naval_base = 1988
+		naval_base = 12738
 		task_force = {
 			name = "1st Fleet"
-			location = 1988
+			location = 12738
 			ship = { name = "Cristóbal Colón" definition = battleship equipment = { battleship_1 = { amount = 1 owner = NIC } } }
 			ship = { name = "Diriangén" definition = battleship equipment = { battleship_1 = { amount = 1 owner = NIC } } }
 			ship = { name = "Emiliano Chamorro" definition = battleship equipment = { battleship_1 = { amount = 1 owner = NIC } } }
@@ -19,7 +19,7 @@ units = {
 	}
 	fleet = {
 		name = "2nd Fleet"
-		naval_base = 7991
+		naval_base = 4969
 		task_force = {
 			name = "2nd Fleet"
 			location = 5650

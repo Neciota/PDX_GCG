@@ -2,30 +2,33 @@
 state={
 	id=300
 	name="STATE_300"
+	resources={
+		aluminium=17.000
+		steel=24.000
+	}
 
 	history={
-		owner = HAN
+		owner = ITA
 		victory_points = {
-			241 1 
+			11584 1 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 0
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 0
-			241 = {
-				naval_base = 2
+			11584 = {
+				naval_base = 10
 			}
-			air_base = 0
+			air_base = 1
 
 		}
-		add_core_of = GER
-		add_core_of = HAN
+		add_core_of = ITA
 	}
 
 	provinces={
-		241 247 336 
+		603 656 3604 3657 3776 6656 9582 11584 
 	}
-	manpower=1095340
+	manpower=1585692
 	buildings_max_level_factor=1.000
 	state_category=rural
 

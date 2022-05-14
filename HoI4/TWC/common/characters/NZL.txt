@@ -23,8 +23,8 @@ characters={
 		}
 	}
 
-	NZL_louis_jansen={
-		name=NZL_louis_jansen
+	NZL_siener_brown={
+		name=NZL_siener_brown
 		portraits={
 			civilian={
 				large="gfx/leaders/USA/Portrait_USA_Harry_Truman.dds"

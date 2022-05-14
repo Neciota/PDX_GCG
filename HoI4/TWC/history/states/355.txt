@@ -3,33 +3,31 @@ state={
 	id=355
 	name="STATE_355"
 	resources={
-		rubber=1.000
-		steel=3.000
+		steel=2.000
 	}
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			7625 2 
+			12763 0 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
-			arms_factory = 1
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
 			air_base = 1
 
 		}
-		add_core_of = CHI
-		add_core_of = X44
-		add_core_of = X56
+		add_core_of = PRC
+		add_core_of = SIK
 	}
 
 	provinces={
-		1612 4009 4130 5030 7019 7596 7609 7625 8072 9934 10474 10757 12086 12408 12414 
+		2041 2084 4558 7316 8005 12763 12884 
 	}
-	manpower=7929040
+	manpower=2132220
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=town
 
 	local_supplies=10.0
 }

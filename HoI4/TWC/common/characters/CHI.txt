@@ -1,18 +1,42 @@
 characters={
-	CHI_baterdene_amar={
-		name=CHI_baterdene_amar
+	CHI_chen_fang={
+		name=CHI_chen_fang
 		corps_commander={
 			skill=2
-			attack_skill=3
+			attack_skill=2
 			defense_skill=1
-			planning_skill=1
+			planning_skill=3
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	CHI_chingis_bodoo={
-		name=CHI_chingis_bodoo
+	CHI_wang_qiu={
+		name=CHI_wang_qiu
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CHI_hsia_qiu={
+		name=CHI_hsia_qiu
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	CHI_yu_wei={
+		name=CHI_yu_wei
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -23,23 +47,11 @@ characters={
 		}
 	}
 
-	CHI_dambyan_amar={
-		name=CHI_dambyan_amar
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	CHI_balingiin_tserendorj={
-		name=CHI_balingiin_tserendorj
+	CHI_tan_jin={
+		name=CHI_tan_jin
 		navy_leader={
 			skill=1
-			attack_skill=1
+			attack_skill=2
 			defense_skill=1
 			maneuvering_skill=1
 			coordination_skill=1
@@ -47,15 +59,15 @@ characters={
 		}
 	}
 
-	CHI_chingis_chagdarjav={
-		name=CHI_chingis_chagdarjav
+	CHI_mao_ma={
+		name=CHI_mao_ma
 		portraits={
 			civilian={
-				large="gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+				large="gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

@@ -3,30 +3,33 @@ state={
 	id=720
 	name="STATE_720"
 	resources={
-		oil=10.000
-		steel=96.000
+		aluminium=8.000
 	}
 
 	history={
 		owner = USA
 		victory_points = {
-			751 10 
+			11758 10 
 		}
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 8
-			arms_factory = 3
-			air_base = 8
+			industrial_complex = 7
+			arms_factory = 2
+			dockyard = 3
+			6845 = {
+				naval_base = 1
+			}
+			air_base = 9
 
 		}
 		add_core_of = USA
-		add_core_of = X80
+		add_core_of = X45
 	}
 
 	provinces={
-		691 695 709 751 3766 4854 5205 6710 6769 6782 7420 9684 9724 9746 9747 10233 10303 10599 11641 11656 11669 11685 11714 11731 
+		702 822 847 862 880 891 894 3687 3697 3802 3824 3847 3850 3880 3897 6705 6845 6869 6872 6885 6899 9662 9789 9804 9820 9836 11648 11758 11769 11785 11789 11799 11800 11817 12405 
 	}
-	manpower=6264978
+	manpower=14141932
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

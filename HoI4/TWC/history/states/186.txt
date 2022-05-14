@@ -3,33 +3,32 @@ state={
 	id=186
 	name="STATE_186"
 	resources={
-		oil=4.000
+		oil=1.000
+		steel=1.000
 	}
 
 	history={
-		owner = CHI
+		owner = COL
 		victory_points = {
-			12446 1 
+			10747 1 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			12446 = {
-				naval_base = 10
-			}
-			air_base = 0
+			air_base = 1
 
 		}
-		add_core_of = CHI
+		add_core_of = COL
+		add_claim_by = NIC
 	}
 
 	provinces={
-		1322 1399 1515 1820 12446 13037 
+		1887 7993 10747 10790 12872 
 	}
-	manpower=325316
+	manpower=4431444
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 
 	local_supplies=10.0
 }

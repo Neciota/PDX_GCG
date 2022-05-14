@@ -1,49 +1,13 @@
 characters={
-	W15_tharyvoulos_stanotas={
-		name=W15_tharyvoulos_stanotas
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W15_antonios_sofoulis={
-		name=W15_antonios_sofoulis
-		corps_commander={
-			skill=1
-			attack_skill=2
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W15_antonios_parakevopoulos={
-		name=W15_antonios_parakevopoulos
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W15_eleftherios_tzavelas={
-		name=W15_eleftherios_tzavelas
+	W15_zhu_lu={
+		name=W15_zhu_lu
 		portraits={
 			civilian={
-				large="gfx/leaders/Mediterranean/Portrait_Alfonso_XIII.tga"
+				large="gfx/leaders/Sino/Portrait_XSM_Ma_Lin.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

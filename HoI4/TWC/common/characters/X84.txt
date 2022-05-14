@@ -1,25 +1,13 @@
 characters={
-	X84_amodo_bezon={
-		name=X84_amodo_bezon
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X84_bello_tonyon={
-		name=X84_bello_tonyon
+	X84_jos_pattinama={
+		name=X84_jos_pattinama
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_LIB_Momolu_Massaquoi.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Malaya_Hisamuddin_of_Selangor.tga"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

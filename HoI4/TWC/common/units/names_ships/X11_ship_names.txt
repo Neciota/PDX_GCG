@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X11_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X11_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X11_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X11_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X11_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X11_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X11_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X11_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X11_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X11_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Aceh" "Samandara" "Malik ul Salih" "Malik Al-Salih" "Teunom" "Peusangen" "Jamboaye" "Alas" "Tripa" "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh" 
+		
 	}
 }
 

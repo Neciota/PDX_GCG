@@ -3,29 +3,28 @@ state={
 	id=165
 	name="STATE_165"
 	resources={
-		steel=5.000
+		steel=4.000
 	}
 
 	history={
-		owner = X21
+		owner = GRE
 		victory_points = {
-			6950 1 
+			9860 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			arms_factory = 1
+			air_base = 1
 
 		}
-		add_core_of = W03
-		add_core_of = X21
+		add_core_of = GRE
 	}
 
 	provinces={
-		933 3903 3935 3950 6950 9761 9777 9915 
+		876 3890 6965 9860 
 	}
-	manpower=180936
+	manpower=775904
 	buildings_max_level_factor=1.000
 	state_category=rural
 

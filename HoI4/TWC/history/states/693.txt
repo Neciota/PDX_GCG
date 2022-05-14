@@ -2,30 +2,31 @@
 state={
 	id=693
 	name="STATE_693"
+	resources={
+		chromium=14.000
+	}
 
 	history={
-		owner = TEX
+		owner = TMS
 		victory_points = {
-			10711 0 
+			7775 15 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
 
 		}
-		add_core_of = X28
-		add_core_of = X55
-		add_claim_by = TEX
+		add_core_of = TMS
 	}
 
 	provinces={
-		1815 4610 4723 4794 4820 7814 10640 10711 12561 
+		1216 1573 1623 4629 7639 7682 7775 10671 12161 12239 12722 
 	}
-	manpower=1198780
+	manpower=1996408
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

@@ -3,34 +3,32 @@ state={
 	id=274
 	name="STATE_274"
 	resources={
-		steel=11.000
+		aluminium=2.000
+		rubber=1.000
+		steel=1.000
 	}
 
 	history={
-		owner = ENG
+		owner = GHA
 		victory_points = {
-			540 10 
+			4927 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 3
+			industrial_complex = 1
 			arms_factory = 1
-			3422 = {
-				naval_base = 6
-			}
 			air_base = 6
 
 		}
-		add_core_of = ENG
-		add_core_of = X54
+		add_core_of = GHA
 	}
 
 	provinces={
-		540 3369 3422 3463 6351 6378 6526 9484 9562 11406 
+		4927 12838 
 	}
-	manpower=3498964
+	manpower=799560
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 
 	local_supplies=10.0
 }

@@ -3,11 +3,11 @@ characters={
 		name=SUD_muhammad_digna
 		portraits={
 			civilian={
-				large="gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+				large="gfx/leaders/Generic/Portrait_Africa_Generic_new_2.tga"
 			}
 		}
 		country_leader={
-			ideology=minarchism
+			ideology=minarchism_neutral
 			expire="1965.1.1.1"
 			id=-1
 		}

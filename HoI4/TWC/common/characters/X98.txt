@@ -1,21 +1,9 @@
 characters={
-	X98_hanga_baki={
-		name=X98_hanga_baki
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=2
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X98_hanga_komi={
-		name=X98_hanga_komi
+	X98_ramayyan_mudaliar={
+		name=X98_ramayyan_mudaliar
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_Mittelafrika_Achirimbi.tga"
+				large="gfx/leaders/Indian/Portrait_PRF_Balarama_Varma_of_Travancore.tga"
 			}
 		}
 		country_leader={

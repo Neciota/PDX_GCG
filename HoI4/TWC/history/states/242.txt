@@ -3,30 +3,33 @@ state={
 	id=242
 	name="STATE_242"
 	resources={
-		aluminium=21.000
-		steel=13.000
+		aluminium=6.000
+		steel=3.000
 	}
 
 	history={
-		owner = W40
+		owner = ENG
 		victory_points = {
-			3775 0 
+			11293 30 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 1
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			7377 = {
+				naval_base = 10
+			}
+			air_base = 7
 
 		}
-		add_core_of = W40
-		add_core_of = X82
+		add_core_of = ENG
 	}
 
 	provinces={
-		602 605 722 749 774 777 779 1299 3605 3608 3635 3640 3661 3763 3775 3778 4270 4775 4869 6510 6607 6610 6625 6630 6662 6676 6797 7366 7899 9467 9480 9580 9583 9585 9634 9667 9711 9743 10718 11567 11569 11585 11602 11695 11725 11728 12278 12582 
+		285 303 369 3342 3359 7377 11293 11303 
 	}
-	manpower=3126032
+	manpower=3508148
 	buildings_max_level_factor=1.000
 	state_category=city
 

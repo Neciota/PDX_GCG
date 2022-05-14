@@ -1,0 +1,233 @@
+﻿converted_war_strategies_PAL = {
+	enable = {
+		tag = PAL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "PRE"
+		value = 641
+	}
+	ai_strategy = {
+		type = conquer
+		id = "HAN"
+		value = 624
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MEK"
+		value = 471
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SAX"
+		value = 427
+	}
+	ai_strategy = {
+		type = conquer
+		id = "DDR"
+		value = 414
+	}
+	ai_strategy = {
+		type = conquer
+		id = "DEN"
+		value = 312
+	}
+	ai_strategy = {
+		type = conquer
+		id = "LUX"
+		value = 289
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SHL"
+		value = 234
+	}
+	ai_strategy = {
+		type = conquer
+		id = "WUR"
+		value = 226
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SIL"
+		value = 145
+	}
+	ai_strategy = {
+		type = conquer
+		id = "WGR"
+		value = 105
+	}
+	ai_strategy = {
+		type = conquer
+		id = "DNZ"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 78
+	}
+}
+
+converted_diplo_strategies_PAL = {
+	enable = {
+		tag = PAL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 326
+	}
+	ai_strategy = {
+		type = contain
+		id = "DDR"
+		value = 122
+	}
+	ai_strategy = {
+		type = contain
+		id = "SIL"
+		value = 121
+	}
+	ai_strategy = {
+		type = contain
+		id = "LUX"
+		value = 104
+	}
+	ai_strategy = {
+		type = contain
+		id = "WUR"
+		value = 103
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 97
+	}
+	ai_strategy = {
+		type = contain
+		id = "PRE"
+		value = 93
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DDR"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PRE"
+		value = 306
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HAN"
+		value = 289
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEK"
+		value = 248
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SAX"
+		value = 240
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DNZ"
+		value = 237
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SIL"
+		value = 237
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SHL"
+		value = 232
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "LUX"
+		value = 161
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DEN"
+		value = 156
+	}
+	ai_strategy = {
+		type = alliance
+		id = "HOL"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "CZE"
+		value = 53
+	}
+	ai_strategy = {
+		type = alliance
+		id = "MOR"
+		value = 53
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ENG"
+		value = 51
+	}
+	ai_strategy = {
+		type = protect
+		id = "SIL"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "DDR"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "MEK"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "DNZ"
+		value = 220
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PRE"
+		value = 112
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "LUX"
+		value = 95
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X15"
+		value = 58
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SAX"
+		value = 57
+	}
+}

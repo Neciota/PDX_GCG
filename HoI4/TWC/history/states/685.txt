@@ -2,30 +2,30 @@
 state={
 	id=685
 	name="STATE_685"
+	resources={
+		oil=68.000
+		steel=3.000
+	}
 
 	history={
-		owner = SWE
+		owner = X78
 		victory_points = {
-			6361 0 
+			1539 1 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			6361 = {
-				naval_base = 6
-			}
 			air_base = 1
 
 		}
-		add_core_of = SCA
-		add_claim_by = DEN
+		add_core_of = X78
 	}
 
 	provinces={
-		6361 
+		1467 1539 1610 4477 6763 9715 11645 11674 11704 
 	}
-	manpower=36752
+	manpower=238864
 	buildings_max_level_factor=1.000
 	state_category=rural
 

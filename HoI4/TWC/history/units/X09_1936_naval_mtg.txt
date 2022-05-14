@@ -1,14 +1,4 @@
 units = {
-	fleet = {
-		name = "2nd Fleet"
-		naval_base = 11106
-		task_force = {
-			name = "2nd Fleet"
-			location = 11106
-			ship = { name = "1st Marigot Battleship" definition = heavy_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X09 version_name = "Early Heavy Cruiser" } } }
-			ship = { name = "Barahona" definition = light_cruiser start_experience_factor = 0.1 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X09 version_name = "Early Light Cruiser" } } }
-		}
-	}
 }
 
 instant_effect = {

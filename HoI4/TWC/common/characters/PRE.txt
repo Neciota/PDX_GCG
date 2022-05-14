@@ -51,7 +51,7 @@ characters={
 		name=PRE_nikolaus_von_mecklenburg_strelitz
 		portraits={
 			civilian={
-				large="gfx/leaders/Western_European/Portrait_USA_Happy_Chandler.tga"
+				large="gfx/leaders/Western_European/Portrait_USA_John_Nance_Garner.tga"
 			}
 		}
 		country_leader={

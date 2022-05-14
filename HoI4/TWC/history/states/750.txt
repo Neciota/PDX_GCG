@@ -2,27 +2,31 @@
 state={
 	id=750
 	name="STATE_750"
+	resources={
+		oil=5.000
+		tungsten=54.000
+	}
 
 	history={
-		owner = W15
+		owner = X88
 		victory_points = {
-			12318 1 
+			1525 10 
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 0
+			infrastructure = 1
+			industrial_complex = 1
 			arms_factory = 0
-			air_base = 0
+			air_base = 5
 
 		}
-		add_core_of = W15
-		add_core_of = X21
+		add_core_of = X07
+		add_core_of = X88
 	}
 
 	provinces={
-		652 789 6976 6991 9858 9886 10399 11853 11880 12318 
+		1116 1497 1525 1553 1581 1996 7455 10349 10514 10810 12322 12366 12395 12730 
 	}
-	manpower=456656
+	manpower=1326252
 	buildings_max_level_factor=1.000
 	state_category=rural
 

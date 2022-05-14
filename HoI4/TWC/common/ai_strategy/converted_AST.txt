@@ -11,7 +11,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
@@ -21,7 +21,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "W05"
+		id = "TMS"
 		value = 3
 	}
 }
@@ -47,7 +47,7 @@ converted_diplo_strategies_AST = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 117
 	}
 	ai_strategy = {
@@ -67,7 +67,7 @@ converted_diplo_strategies_AST = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X66"
+		id = "X51"
 		value = 47
 	}
 	ai_strategy = {

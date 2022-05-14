@@ -3,35 +3,21 @@ state={
 	id=94
 	name="STATE_94"
 	resources={
-		chromium=1.000
-		oil=1.000
-		steel=1.000
+		oil=0.000
 	}
+	impassable = yes
 
 	history={
 		owner = AST
-		victory_points = {
-			12910 0 
-		}
-		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			8220 = {
-				naval_base = 10
-			}
-			air_base = 1
-
-		}
 		add_core_of = AST
 	}
 
 	provinces={
-		1773 2219 5183 5197 5211 5225 7567 8165 8186 8220 10925 10927 12910 12918 12924 
+		2205 5138 7623 8206 12906 
 	}
-	manpower=1048144
+	manpower=58480
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 
 	local_supplies=10.0
 }

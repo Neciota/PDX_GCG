@@ -51,7 +51,7 @@ characters={
 		name=DEN_tage_guntelberg
 		portraits={
 			civilian={
-				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
+				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"
 			}
 		}
 		country_leader={

@@ -2,36 +2,31 @@
 state={
 	id=446
 	name="STATE_446"
-	resources={
-		aluminium=4.000
-		steel=4.000
-	}
 
 	history={
-		owner = X76
+		owner = HOL
 		victory_points = {
-			955 15 
+			13014 6 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			955 = {
-				naval_base = 6
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			13014 = {
+				naval_base = 10
 			}
-			air_base = 6
+			air_base = 2
 
 		}
-		add_core_of = ITA
-		add_core_of = X76
 	}
 
 	provinces={
-		851 955 
+		13014 
 	}
-	manpower=711716
+	manpower=374908
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

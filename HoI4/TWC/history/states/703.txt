@@ -4,26 +4,25 @@ state={
 	name="STATE_703"
 
 	history={
-		owner = LBA
+		owner = TUR
 		victory_points = {
-			4117 15 
+			4609 0 
 		}
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
+			industrial_complex = 0
 			arms_factory = 0
-			air_base = 5
+			air_base = 0
 
 		}
-		add_core_of = LBA
 	}
 
 	provinces={
-		4117 7154 10037 11940 
+		4580 4609 4637 10385 10768 
 	}
-	manpower=19602
+	manpower=562720
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 
 	local_supplies=10.0
 }

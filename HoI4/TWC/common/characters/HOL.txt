@@ -63,7 +63,7 @@ characters={
 		name=HOL_herman_claus
 		portraits={
 			civilian={
-				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+				large="gfx/leaders/FRA/portrait_fra_leon_blum.dds"
 			}
 		}
 		country_leader={

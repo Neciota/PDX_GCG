@@ -1,21 +1,33 @@
 characters={
-	X51_kifayat_alokzai={
-		name=X51_kifayat_alokzai
+	X51_hussain_singh={
+		name=X51_hussain_singh
 		corps_commander={
 			skill=2
-			attack_skill=2
+			attack_skill=3
 			defense_skill=1
-			planning_skill=3
+			planning_skill=1
 			logistics_skill=2
 			legacy_id=0
 		}
 	}
 
-	X51_kifayat_khan={
-		name=X51_kifayat_khan
+	X51_rai_bachittar={
+		name=X51_rai_bachittar
 		corps_commander={
-			skill=2
-			attack_skill=5
+			skill=3
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	X51_malik_ur={
+		name=X51_malik_ur
+		corps_commander={
+			skill=1
+			attack_skill=1
 			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
@@ -23,27 +35,27 @@ characters={
 		}
 	}
 
-	X51_juma_khan={
-		name=X51_juma_khan
-		corps_commander={
+	X51_sawai_tiwana={
+		name=X51_sawai_tiwana
+		navy_leader={
 			skill=2
 			attack_skill=1
-			defense_skill=4
-			planning_skill=1
-			logistics_skill=2
+			defense_skill=3
+			maneuvering_skill=1
+			coordination_skill=1
 			legacy_id=0
 		}
 	}
 
-	X51_atta_khan={
-		name=X51_atta_khan
+	X51_hayat_tiwana={
+		name=X51_hayat_tiwana
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_Madras_C_Rajagopalachari.tga"
+				large="gfx/leaders/Indian/Portrait_PRF_Taley_Muhammed_Khan_of_Palanpur.tga"
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

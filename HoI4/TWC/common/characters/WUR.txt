@@ -1,0 +1,52 @@
+characters={
+	WUR_edmund_beck_rzikowsky={
+		name=WUR_edmund_beck_rzikowsky
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WUR_friedrich_von={
+		name=WUR_friedrich_von
+		corps_commander={
+			skill=4
+			attack_skill=6
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	WUR_alexander_remmele={
+		name=WUR_alexander_remmele
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	WUR_rudolf_uchatius={
+		name=WUR_rudolf_uchatius
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Hermann_Goring.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -3,35 +3,30 @@ state={
 	id=517
 	name="STATE_517"
 	resources={
-		oil=1.000
+		chromium=3.000
 	}
 
 	history={
-		owner = NIC
+		owner = X62
 		victory_points = {
-			7630 1 
+			1275 15 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
+			infrastructure = 1
+			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			1633 = {
-				naval_base = 10
-			}
-			air_base = 1
+			air_base = 5
 
 		}
-		add_core_of = COL
-		add_claim_by = NIC
+		add_core_of = X62
 	}
 
 	provinces={
-		1633 4611 4624 7617 7630 10482 
+		1275 4280 4472 
 	}
-	manpower=3910024
+	manpower=400476
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

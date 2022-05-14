@@ -1,57 +1,45 @@
 characters={
-	X34_radola_neruda={
-		name=X34_radola_neruda
+	X34_pingali_sitaramaraju={
+		name=X34_pingali_sitaramaraju
 		corps_commander={
 			skill=2
-			attack_skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X34_alluri_naidu={
+		name=X34_alluri_naidu
+		corps_commander={
+			skill=1
+			attack_skill=1
 			defense_skill=1
-			planning_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X34_venkatadri_sriramulu={
+		name=X34_venkatadri_sriramulu
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
 			logistics_skill=2
 			legacy_id=0
 		}
 	}
 
-	X34_karel_tomasek={
-		name=X34_karel_tomasek
-		corps_commander={
-			skill=3
-			attack_skill=3
-			defense_skill=4
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X34_petr_makosky={
-		name=X34_petr_makosky
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=3
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X34_hermenegild_suk={
-		name=X34_hermenegild_suk
-		corps_commander={
-			skill=2
-			attack_skill=3
-			defense_skill=3
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X34_jindrich_kafka={
-		name=X34_jindrich_kafka
+	X34_sarojini_kattabomman={
+		name=X34_sarojini_kattabomman
 		portraits={
 			civilian={
-				large="gfx/leaders/LAT/portrait_lat_fricis_menders.dds"
+				large="gfx/leaders/Indian/Portrait_BHC_Jawaharlal_Nehru.tga"
 			}
 		}
 		country_leader={

@@ -1,10 +1,10 @@
 units = {
 	fleet = {
 		name = "Baltic Fleet"
-		naval_base = 4669
+		naval_base = 9417
 		task_force = {
 			name = "Baltic Fleet"
-			location = 4669
+			location = 9417
 			ship = { name = "Mariya" definition = battleship equipment = { battleship_2 = { amount = 1 owner = SOV } } }
 			ship = { name = "Aleksander" definition = battleship equipment = { battleship_2 = { amount = 1 owner = SOV } } }
 			ship = { name = "Svobodnaya Rossiya" definition = battleship equipment = { battleship_2 = { amount = 1 owner = SOV } } }

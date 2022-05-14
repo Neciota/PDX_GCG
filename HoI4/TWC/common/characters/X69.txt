@@ -1,13 +1,49 @@
 characters={
-	X69_xolo_na={
-		name=X69_xolo_na
+	X69_chand_dhillon={
+		name=X69_chand_dhillon
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X69_dhalip_mulraj={
+		name=X69_dhalip_mulraj
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X69_chand_singh={
+		name=X69_chand_singh
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X69_chand_dhillon_1={
+		name=X69_chand_dhillon_1
 		portraits={
 			civilian={
-				large="gfx/leaders/Central_American_Native/portrait_Apocalypto_absolutist.dds"
+				large="gfx/leaders/Indian/Portrait_BHC_Chandra_Bose.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=fascism_ideology
 			expire="1965.1.1.1"
 			id=-1
 		}

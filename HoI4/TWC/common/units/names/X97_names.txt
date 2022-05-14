@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+			
 		}
 	}
 

@@ -4,16 +4,16 @@ state={
 	name="STATE_184"
 
 	history={
-		owner = CHI
+		owner = PRC
 		victory_points = {
-			13051 0 
+			13052 0 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			13051 = {
-				naval_base = 1
+			13052 = {
+				naval_base = 10
 			}
 			air_base = 1
 
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		13051 
+		13052 
 	}
 	manpower=95916
 	buildings_max_level_factor=1.000

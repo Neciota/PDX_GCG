@@ -6,7 +6,7 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "ENG"
+		id = "X58"
 		value = 482
 	}
 	ai_strategy = {
@@ -16,7 +16,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X60"
+		id = "X46"
 		value = 267
 	}
 	ai_strategy = {
@@ -31,7 +31,7 @@
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
+		id = "X08"
 		value = 70
 	}
 	ai_strategy = {
@@ -102,7 +102,7 @@ converted_diplo_strategies_USA = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
+		id = "X08"
 		value = 92
 	}
 	ai_strategy = {
@@ -132,7 +132,7 @@ converted_diplo_strategies_USA = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X56"
+		id = "CHI"
 		value = 55
 	}
 	ai_strategy = {
@@ -152,7 +152,7 @@ converted_diplo_strategies_USA = {
 	}
 	ai_strategy = {
 		type = protect
-		id = "X60"
+		id = "X46"
 		value = 65
 	}
 	ai_strategy = {

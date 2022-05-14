@@ -1,0 +1,156 @@
+﻿capital = 714
+set_research_slots = 2
+
+oob = "X18_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_us_north_east
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1821.1.3"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = AFG modifier = negative_120 }
+add_opinion_modifier = { target = AUS modifier = negative_25 }
+add_opinion_modifier = { target = BAN modifier = negative_20 }
+add_opinion_modifier = { target = BAY modifier = negative_75 }
+add_opinion_modifier = { target = BOS modifier = negative_50 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = BUL modifier = negative_150 }
+add_opinion_modifier = { target = CAL modifier = negative_10 }
+add_opinion_modifier = { target = CAR modifier = negative_100 }
+add_opinion_modifier = { target = CAT modifier = negative_10 }
+add_opinion_modifier = { target = CHI modifier = negative_25 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = CZE modifier = negative_50 }
+add_opinion_modifier = { target = DNZ modifier = negative_25 }
+add_opinion_modifier = { target = EGY modifier = negative_100 }
+add_opinion_modifier = { target = ENG modifier = negative_20 }
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GHA modifier = negative_85 }
+add_opinion_modifier = { target = HOL modifier = negative_10 }
+add_opinion_modifier = { target = HUN modifier = negative_25 }
+add_opinion_modifier = { target = ITA modifier = negative_60 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = KAZ modifier = negative_20 }
+add_opinion_modifier = { target = KOR modifier = negative_20 }
+add_opinion_modifier = { target = LBA modifier = negative_10 }
+add_opinion_modifier = { target = MEX modifier = negative_10 }
+add_opinion_modifier = { target = MON modifier = negative_20 }
+add_opinion_modifier = { target = MOR modifier = negative_75 }
+add_opinion_modifier = { target = NEP modifier = negative_25 }
+add_opinion_modifier = { target = NGR modifier = negative_25 }
+add_opinion_modifier = { target = PAK modifier = negative_20 }
+add_opinion_modifier = { target = PRC modifier = negative_20 }
+add_opinion_modifier = { target = PRE modifier = negative_25 }
+add_opinion_modifier = { target = SIA modifier = negative_45 }
+add_opinion_modifier = { target = SIL modifier = negative_10 }
+add_opinion_modifier = { target = SLV modifier = negative_110 }
+add_opinion_modifier = { target = SOV modifier = negative_35 }
+add_opinion_modifier = { target = TMS modifier = negative_20 }
+add_opinion_modifier = { target = WGR modifier = negative_25 }
+add_opinion_modifier = { target = WUR modifier = negative_25 }
+add_opinion_modifier = { target = X01 modifier = negative_50 }
+add_opinion_modifier = { target = X11 modifier = negative_170 }
+add_opinion_modifier = { target = X30 modifier = negative_100 }
+add_opinion_modifier = { target = X35 modifier = negative_50 }
+add_opinion_modifier = { target = X44 modifier = negative_20 }
+add_opinion_modifier = { target = X50 modifier = negative_30 }
+add_opinion_modifier = { target = X51 modifier = negative_20 }
+add_opinion_modifier = { target = X62 modifier = negative_20 }
+add_opinion_modifier = { target = X66 modifier = negative_45 }
+add_opinion_modifier = { target = X69 modifier = negative_75 }
+add_opinion_modifier = { target = X72 modifier = negative_170 }
+add_opinion_modifier = { target = X88 modifier = negative_170 }
+add_opinion_modifier = { target = X90 modifier = negative_45 }
+add_opinion_modifier = { target = X91 modifier = negative_20 }
+add_opinion_modifier = { target = X93 modifier = negative_25 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_central_algonquian
+}
+
+recruit_character = X18_okemans_hathawekela
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Astina Pimicikamak"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_8.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X18 }
+	}
+
+	create_operative_leader = {
+		name = "Nichena Nehinawak"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_10.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X18 }
+	}
+
+	create_operative_leader = {
+		name = "Ashenee Waskaganish"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_21.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X18 }
+	}
+
+	create_operative_leader = {
+		name = "Pemmikawatta Missanabie"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_14.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X18 }
+	}
+
+	create_operative_leader = {
+		name = "Wethawakasika Ouje-Bougoumou"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_18.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X18 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}

@@ -1,61 +1,25 @@
 characters={
-	X74_leonhard_von={
-		name=X74_leonhard_von
+	X74_hanga_baki={
+		name=X74_hanga_baki
 		corps_commander={
 			skill=2
 			attack_skill=2
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X74_leopold_schlieffen={
-		name=X74_leopold_schlieffen
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X74_adolf_von={
-		name=X74_adolf_von
-		corps_commander={
-			skill=1
-			attack_skill=1
 			defense_skill=1
-			planning_skill=1
+			planning_skill=2
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X74_adelbert_sachsen_altenburg={
-		name=X74_adelbert_sachsen_altenburg
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X74_konrad_von_reuter={
-		name=X74_konrad_von_reuter
+	X74_wankoy_kodama={
+		name=X74_wankoy_kodama
 		portraits={
 			civilian={
-				large="gfx/leaders/HOL/Portrait_Netherlands_Dirk_Jan_de_Geer.dds"
+				large="gfx/leaders/African/Portrait_KTG_Mabumba_Kitanika.tga"
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

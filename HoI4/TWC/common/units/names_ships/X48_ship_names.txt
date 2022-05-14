@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -26,7 +26,7 @@ X48_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -42,7 +42,7 @@ X48_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -58,7 +58,7 @@ X48_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -74,7 +74,7 @@ X48_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -90,7 +90,7 @@ X48_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -106,7 +106,7 @@ X48_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -122,7 +122,7 @@ X48_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -138,7 +138,7 @@ X48_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -154,7 +154,7 @@ X48_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 
@@ -170,7 +170,7 @@ X48_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		
+		"Ayutthaya" "Mengrai" "Muang Sua" "Muang Then" "Hamsavati" "Khun Lo" "Khun Borom" "Khun Sung" "Shan" "Siang Khwang" "Sipsong Pan Na" 
 	}
 }
 

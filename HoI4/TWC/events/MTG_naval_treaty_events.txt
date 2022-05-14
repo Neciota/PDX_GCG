@@ -21,7 +21,6 @@ country_event = {
 				has_government = absolutist
 				has_government = communism
 				has_government = fascism
-				has_government = radical
 				factor = 0.25
 			}
 		}

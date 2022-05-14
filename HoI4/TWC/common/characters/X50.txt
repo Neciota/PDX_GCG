@@ -1,13 +1,61 @@
 characters={
-	X50_galli_gomol={
-		name=X50_galli_gomol
+	X50_leon_diwa={
+		name=X50_leon_diwa
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X50_emilio_aguainaldo={
+		name=X50_emilio_aguainaldo
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X50_arcadio_aguainaldo={
+		name=X50_arcadio_aguainaldo
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X50_arcadio_plata={
+		name=X50_arcadio_plata
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X50_mariano_aguainaldo={
+		name=X50_mariano_aguainaldo
 		portraits={
 			civilian={
-				large="gfx/leaders/African/Portrait_SOM_Ali_Shire.tga"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_DEI_Palar.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=socialism
 			expire="1965.1.1.1"
 			id=-1
 		}

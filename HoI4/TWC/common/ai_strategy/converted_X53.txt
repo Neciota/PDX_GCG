@@ -6,58 +6,53 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "W24"
-		value = 936
+		id = "CHI"
+		value = 314
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KOR"
+		value = 309
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 271
 	}
 	ai_strategy = {
 		type = conquer
 		id = "UAE"
-		value = 801
-	}
-	ai_strategy = {
-		type = conquer
-		id = "BAN"
-		value = 443
-	}
-	ai_strategy = {
-		type = conquer
-		id = "W21"
-		value = 424
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X51"
-		value = 219
-	}
-	ai_strategy = {
-		type = conquer
-		id = "PAK"
-		value = 219
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X91"
-		value = 219
-	}
-	ai_strategy = {
-		type = conquer
-		id = "NEP"
-		value = 209
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X12"
 		value = 146
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X81"
-		value = 78
+		id = "X08"
+		value = 70
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X66"
-		value = 73
+		id = "CAL"
+		value = 32
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PRC"
+		value = 16
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ENG"
+		value = 16
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MON"
+		value = 8
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X58"
+		value = 8
 	}
 }
 
@@ -72,152 +67,87 @@ converted_diplo_strategies_X53 = {
 	
 	ai_strategy = {
 		type = contain
-		id = "UAE"
+		id = "CHI"
 		value = 400
 	}
 	ai_strategy = {
 		type = contain
+		id = "KOR"
+		value = 233
+	}
+	ai_strategy = {
+		type = contain
+		id = "MON"
+		value = 220
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KOR"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CHI"
+		value = 196
+	}
+	ai_strategy = {
+		type = antagonize
 		id = "SOV"
-		value = 76
-	}
-	ai_strategy = {
-		type = contain
-		id = "BAN"
-		value = 61
-	}
-	ai_strategy = {
-		type = contain
-		id = "W21"
-		value = 47
-	}
-	ai_strategy = {
-		type = contain
-		id = "NEP"
-		value = 44
-	}
-	ai_strategy = {
-		type = contain
-		id = "X42"
-		value = 22
-	}
-	ai_strategy = {
-		type = contain
-		id = "W10"
-		value = 22
-	}
-	ai_strategy = {
-		type = contain
-		id = "BRM"
-		value = 17
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "UAE"
-		value = 400
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "W21"
-		value = 154
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "NEP"
-		value = 139
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "X51"
-		value = 130
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "PAK"
-		value = 130
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "X91"
-		value = 98
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "W24"
-		value = 79
-	}
-	ai_strategy = {
-		type = antagonize
-		id = "X81"
 		value = 77
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X12"
-		value = 43
+		id = "UAE"
+		value = 42
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X66"
+		id = "FRA"
+		value = 20
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
 		value = 7
 	}
 	ai_strategy = {
+		type = antagonize
+		id = "PRC"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 3
+	}
+	ai_strategy = {
 		type = alliance
-		id = "X66"
+		id = "JAP"
 		value = 200
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X12"
-		value = 184
+		id = "SOV"
+		value = 182
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X51"
-		value = 55
-	}
-	ai_strategy = {
-		type = alliance
-		id = "X56"
-		value = 51
-	}
-	ai_strategy = {
-		type = protect
-		id = "W10"
-		value = 120
-	}
-	ai_strategy = {
-		type = protect
-		id = "NEP"
-		value = 40
-	}
-	ai_strategy = {
-		type = protect
-		id = "X58"
-		value = 20
-	}
-	ai_strategy = {
-		type = protect
-		id = "W23"
-		value = 3
+		id = "PRC"
+		value = 54
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "W21"
-		value = 123
+		id = "X48"
+		value = 80
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "NEP"
-		value = 87
+		id = "KOR"
+		value = 70
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "COG"
-		value = 71
-	}
-	ai_strategy = {
-		type = declare_war
-		id = "X02"
-		value = 45
+		id = "X34"
+		value = 65
 	}
 }

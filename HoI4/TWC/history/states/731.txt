@@ -2,36 +2,30 @@
 state={
 	id=731
 	name="STATE_731"
-	resources={
-		aluminium=1.000
-		steel=9.000
-	}
 
 	history={
-		owner = USA
+		owner = HOL
 		victory_points = {
-			3715 5 
+			13049 0 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 6
-			arms_factory = 1
-			dockyard = 1
-			3732 = {
-				naval_base = 10
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			13049 = {
+				naval_base = 8
 			}
-			air_base = 2
+			air_base = 1
 
 		}
-		add_core_of = USA
 	}
 
 	provinces={
-		733 1282 1338 1619 3712 3715 3732 6719 7462 10318 10481 12202 12221 12459 
+		13048 13049 13053 
 	}
-	manpower=5201524
+	manpower=1328048
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=rural
 
 	local_supplies=10.0
 }

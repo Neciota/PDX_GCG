@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Rama Varma" "Aditya Varma" "Ravi Varma" "Balarama Varma" "Swathi Thirunal" "Uthram Thirunal" "Visakham Thirunal" 
 	}
 }
 
@@ -26,7 +26,7 @@ X98_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Akshat" "Avanindra" "Dipendra" "Debashish" "Durjaya" "Ilesh" "Jagannath" "Meghnad" "Paramjit" "Samarjit" "Sudhir" "Vijay" "Vikrant" 
 	}
 }
 
@@ -42,7 +42,7 @@ X98_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Padmanabhapuram" "Thiruvananthapuram" "Kilimanoor" "Kollam" "Kochi" "Mavelikkara" "Thrissur" 
 	}
 }
 
@@ -58,7 +58,7 @@ X98_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Anupam" "Arihant" "Bhanu" "Dhananjay" "Hemendra" "Jawahar" "Kaushal" "Makarand" "Manindra" "Narhari" "Nidhish" "Ratnakar" "Shashwat" "Srikant" 
 	}
 }
 
@@ -74,7 +74,7 @@ X98_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Anupam" "Arihant" "Bhanu" "Dhananjay" "Hemendra" "Jawahar" "Kaushal" "Makarand" "Manindra" "Narhari" "Nidhish" "Ratnakar" "Shashwat" "Srikant" 
 	}
 }
 
@@ -90,7 +90,7 @@ X98_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Atul" "Chapal" "Kartikeya" "Mahavir" "Nachiketa" "Prajit" "Rutujit" "Shreyas" "Veer" "Yuyutsu" 
 	}
 }
 
@@ -106,7 +106,7 @@ X98_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Atul" "Chapal" "Kartikeya" "Mahavir" "Nachiketa" "Prajit" "Rutujit" "Shreyas" "Veer" "Yuyutsu" 
 	}
 }
 
@@ -122,7 +122,7 @@ X98_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Amar" "Anil" "Asim" "Bhavesh" "Chandrahas" "Dhirendra" "Gopan" "Jagajit" "Jishnu" "Mahabala" "Pinak" "Ranjit" "Satyajit" "Urjit" "Varun" "Vishvajit" 
 	}
 }
 
@@ -138,7 +138,7 @@ X98_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Amar" "Anil" "Asim" "Bhavesh" "Chandrahas" "Dhirendra" "Gopan" "Jagajit" "Jishnu" "Mahabala" "Pinak" "Ranjit" "Satyajit" "Urjit" "Varun" "Vishvajit" 
 	}
 }
 
@@ -154,7 +154,7 @@ X98_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Anupam" "Arihant" "Bhanu" "Dhananjay" "Hemendra" "Jawahar" "Kaushal" "Makarand" "Manindra" "Narhari" "Nidhish" "Ratnakar" "Shashwat" "Srikant" 
 	}
 }
 
@@ -170,7 +170,7 @@ X98_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+		"Abhay" "Akhilesh" "Baldev" "Chandresh" "Duranjaya" "Gaurav" "Jayant" "Parindra" "Prabir" "Shatrunjay" "Vipan" "Viraj" "Yudhisthir" 
 	}
 }
 

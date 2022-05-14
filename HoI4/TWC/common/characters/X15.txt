@@ -1,6 +1,18 @@
 characters={
-	X15_otto_von={
-		name=X15_otto_von
+	X15_theodore_cornouaille={
+		name=X15_theodore_cornouaille
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X15_jaoua_goff={
+		name=X15_jaoua_goff
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -11,47 +23,35 @@ characters={
 		}
 	}
 
-	X15_franz_hoobreuk={
-		name=X15_franz_hoobreuk
-		corps_commander={
-			skill=2
-			attack_skill=4
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X15_eduard_eisner={
-		name=X15_eduard_eisner
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=4
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X15_alois_von={
-		name=X15_alois_von
+	X15_theodore_bernard={
+		name=X15_theodore_bernard
 		corps_commander={
 			skill=2
 			attack_skill=1
 			defense_skill=1
-			planning_skill=5
+			planning_skill=3
 			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X15_ernst_remmele={
-		name=X15_ernst_remmele
+	X15_alain_cornouaille={
+		name=X15_alain_cornouaille
+		navy_leader={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_yannic_dupont={
+		name=X15_yannic_dupont
 		portraits={
 			civilian={
-				large="gfx/leaders/AUS/Portrait_Austria_Kurt_Schuschnigg.dds"
+				large="gfx/leaders/DEN/Portrait_Denmark_Thorvald_Stauning.dds"
 			}
 		}
 		country_leader={

@@ -2,32 +2,36 @@
 state={
 	id=647
 	name="STATE_647"
+	resources={
+		rubber=43.000
+		steel=5.000
+		tungsten=5.000
+	}
 
 	history={
-		owner = X96
+		owner = SIA
 		victory_points = {
-			11932 15 
+			7408 15 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 0
-			11932 = {
-				naval_base = 2
+			7408 = {
+				naval_base = 4
 			}
-			air_base = 6
+			air_base = 5
 
 		}
-		add_core_of = JAP
-		add_core_of = X96
+		add_core_of = SIA
 	}
 
 	provinces={
-		1123 7115 10124 11932 
+		1253 1427 1488 1990 4496 4566 7312 7338 7353 7367 7408 7492 7531 7544 7559 7572 7675 8045 10221 10250 10371 10398 10411 12173 12345 
 	}
-	manpower=913808
+	manpower=4366628
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_city
 
 	local_supplies=10.0
 }

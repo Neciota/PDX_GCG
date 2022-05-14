@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Baden" "Zähringen" "Markgraf" "Großherzog Leopold" "Großherzog Karl Friedrich" "Türkenlouis" "Reichsgraf" "Durlach" "Sausenberg" "Hachberg" 
+			
 		}
 	}
 

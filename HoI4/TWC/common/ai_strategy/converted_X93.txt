@@ -6,78 +6,68 @@
 	
 	ai_strategy = {
 		type = conquer
-		id = "BRA"
-		value = 806
+		id = "LUX"
+		value = 546
 	}
 	ai_strategy = {
 		type = conquer
-		id = "COL"
-		value = 238
+		id = "SAX"
+		value = 468
 	}
 	ai_strategy = {
 		type = conquer
-		id = "SOV"
-		value = 140
+		id = "WUR"
+		value = 468
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X09"
-		value = 86
+		id = "PAL"
+		value = 390
 	}
 	ai_strategy = {
 		type = conquer
-		id = "BAS"
-		value = 72
+		id = "BAY"
+		value = 312
 	}
 	ai_strategy = {
 		type = conquer
-		id = "VEN"
-		value = 36
+		id = "X14"
+		value = 312
+	}
+	ai_strategy = {
+		type = conquer
+		id = "AUS"
+		value = 217
+	}
+	ai_strategy = {
+		type = conquer
+		id = "WGR"
+		value = 156
 	}
 	ai_strategy = {
 		type = conquer
 		id = "FRA"
-		value = 32
+		value = 78
 	}
 	ai_strategy = {
 		type = conquer
-		id = "HOL"
-		value = 16
+		id = "HAN"
+		value = 78
 	}
 	ai_strategy = {
 		type = conquer
-		id = "SPR"
-		value = 16
+		id = "SHL"
+		value = 78
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X18"
-		value = 8
+		id = "SWI"
+		value = 78
 	}
 	ai_strategy = {
 		type = conquer
-		id = "X19"
-		value = 8
-	}
-	ai_strategy = {
-		type = conquer
-		id = "CAL"
-		value = 8
-	}
-	ai_strategy = {
-		type = conquer
-		id = "ITA"
-		value = 8
-	}
-	ai_strategy = {
-		type = conquer
-		id = "X85"
-		value = 8
-	}
-	ai_strategy = {
-		type = conquer
-		id = "W13"
-		value = 8
+		id = "MEK"
+		value = 78
 	}
 }
 
@@ -92,127 +82,122 @@ converted_diplo_strategies_X93 = {
 	
 	ai_strategy = {
 		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
 		id = "UAE"
-		value = 400
+		value = 294
 	}
 	ai_strategy = {
 		type = contain
-		id = "SOV"
-		value = 393
+		id = "AUS"
+		value = 183
 	}
 	ai_strategy = {
 		type = contain
-		id = "BRA"
-		value = 134
+		id = "BOS"
+		value = 160
 	}
 	ai_strategy = {
 		type = contain
-		id = "COL"
-		value = 126
+		id = "CRO"
+		value = 104
 	}
 	ai_strategy = {
 		type = contain
-		id = "VEN"
-		value = 68
+		id = "SWI"
+		value = 55
+	}
+	ai_strategy = {
+		type = contain
+		id = "SLV"
+		value = 44
+	}
+	ai_strategy = {
+		type = contain
+		id = "X14"
+		value = 37
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "BRA"
-		value = 400
+		id = "AUS"
+		value = 191
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "COL"
-		value = 145
+		id = "LUX"
+		value = 182
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X09"
-		value = 62
+		id = "BAY"
+		value = 156
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "SOV"
-		value = 58
+		id = "SAX"
+		value = 156
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "FRA"
-		value = 33
+		id = "WUR"
+		value = 156
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "W13"
-		value = 33
+		id = "BOS"
+		value = 143
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X19"
-		value = 32
+		id = "PAL"
+		value = 130
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X18"
-		value = 31
+		id = "X14"
+		value = 104
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X85"
-		value = 30
+		id = "CRO"
+		value = 65
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "CAL"
-		value = 28
+		id = "WGR"
+		value = 52
 	}
 	ai_strategy = {
 		type = alliance
-		id = "ENG"
+		id = "HUN"
 		value = 200
 	}
 	ai_strategy = {
 		type = alliance
-		id = "SOV"
-		value = 106
+		id = "ITA"
+		value = 139
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GRE"
+		value = 122
 	}
 	ai_strategy = {
 		type = alliance
 		id = "HOL"
-		value = 93
-	}
-	ai_strategy = {
-		type = alliance
-		id = "X56"
-		value = 21
-	}
-	ai_strategy = {
-		type = protect
-		id = "COL"
-		value = 140
-	}
-	ai_strategy = {
-		type = protect
-		id = "VEN"
-		value = 37
+		value = 52
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "BRA"
-		value = 122
+		id = "DNZ"
+		value = 100
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "COL"
-		value = 71
-	}
-	ai_strategy = {
-		type = declare_war
-		id = "HUN"
-		value = 53
-	}
-	ai_strategy = {
-		type = declare_war
-		id = "CAL"
-		value = 38
+		id = "LBA"
+		value = 50
 	}
 }

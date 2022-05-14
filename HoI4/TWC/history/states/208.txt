@@ -3,32 +3,32 @@ state={
 	id=208
 	name="STATE_208"
 	resources={
-		aluminium=4.000
-		steel=20.000
-		tungsten=2.000
+		aluminium=8.000
 	}
 
 	history={
-		owner = X34
+		owner = DEN
 		victory_points = {
-			11679 10 
+			399 10 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 2
 			arms_factory = 0
-			air_base = 6
+			6364 = {
+				naval_base = 10
+			}
+			air_base = 10
 
 		}
-		add_core_of = SLO
-		add_claim_by = HUN
-		add_claim_by = X34
+		add_core_of = DEN
+		add_core_of = X94
 	}
 
 	provinces={
-		541 555 581 3484 3537 3550 3565 3581 3716 6561 6573 6586 6604 9537 9539 9692 11522 11539 11554 11679 
+		316 394 399 3206 3277 3341 6235 6364 
 	}
-	manpower=1750656
+	manpower=814296
 	buildings_max_level_factor=1.000
 	state_category=rural
 

@@ -1,61 +1,13 @@
 characters={
-	X19_theodore_cornouaille={
-		name=X19_theodore_cornouaille
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=2
-			legacy_id=0
-		}
-	}
-
-	X19_jaoua_goff={
-		name=X19_jaoua_goff
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X19_theodore_bernard={
-		name=X19_theodore_bernard
-		corps_commander={
-			skill=2
-			attack_skill=1
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X19_alain_cornouaille={
-		name=X19_alain_cornouaille
-		navy_leader={
-			skill=1
-			attack_skill=2
-			defense_skill=1
-			maneuvering_skill=1
-			coordination_skill=1
-			legacy_id=0
-		}
-	}
-
-	X19_segal_beaumont={
-		name=X19_segal_beaumont
+	X19_malatchi_kunshabolukta={
+		name=X19_malatchi_kunshabolukta
 		portraits={
 			civilian={
-				large="gfx/leaders/DEN/Portrait_Denmark_Thorvald_Stauning.dds"
+				large="gfx/leaders/South_American_Native/portrait_nat_south_absolutist.dds"
 			}
 		}
 		country_leader={
-			ideology=dictatorship_neutral
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

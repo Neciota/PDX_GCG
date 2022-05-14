@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Brigham Young" "Joseph Smith" "Deseret" "Zion" "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" "Moroni" "New Jerusalem" "Nimrod" "Zedekiah" "Gideon" "The Holy Spirit" "The Apostle" 
+			"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
 		}
 	}
 

@@ -1,0 +1,52 @@
+characters={
+	MEK_burkhard_mecklenburg_schwerin={
+		name=MEK_burkhard_mecklenburg_schwerin
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MEK_konrad_hessen_kassel={
+		name=MEK_konrad_hessen_kassel
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	MEK_eduard_von={
+		name=MEK_eduard_von
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MEK_lukas_von_schwarzburg={
+		name=MEK_lukas_von_schwarzburg
+		portraits={
+			civilian={
+				large="gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

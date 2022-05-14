@@ -1,0 +1,52 @@
+characters={
+	VOL_maghari_saghanughu={
+		name=VOL_maghari_saghanughu
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	VOL_samory_toure={
+		name=VOL_samory_toure
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	VOL_koumbi_salim_suwari={
+		name=VOL_koumbi_salim_suwari
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	VOL_samory_drame={
+		name=VOL_samory_drame
+		portraits={
+			civilian={
+				large="gfx/leaders/African/Portrait_Barot_YetaIII.tga"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

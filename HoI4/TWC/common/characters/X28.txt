@@ -1,9 +1,9 @@
 characters={
-	X28_napesa_acoma={
-		name=X28_napesa_acoma
+	X28_usca_chachapoya={
+		name=X28_usca_chachapoya
 		portraits={
 			civilian={
-				large="gfx/leaders/Central_American_Native/portrait_nat_carib_absolutist.dds"
+				large="gfx/leaders/central_american_native/portrait_nat_carib_democratic.dds"
 			}
 		}
 		country_leader={

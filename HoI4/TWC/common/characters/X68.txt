@@ -1,13 +1,13 @@
 characters={
-	X68_hesehn_kang'an={
-		name=X68_hesehn_kang'an
+	X68_idris_riayat_shah={
+		name=X68_idris_riayat_shah
 		portraits={
 			civilian={
-				large="gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
+				large="gfx/leaders/Indo_Chinese_Nesia/Portrait_Indonesia_Mohammad_Hatta.tga"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

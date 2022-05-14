@@ -2,33 +2,31 @@
 state={
 	id=380
 	name="STATE_380"
-	resources={
-		aluminium=1.000
-		rubber=0.000
-		steel=0.000
-	}
 
 	history={
-		owner = X57
+		owner = X51
 		victory_points = {
-			5070 1 
+			10735 1 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			air_base = 0
+			4003 = {
+				naval_base = 1
+			}
+			air_base = 1
 
 		}
-		add_core_of = X57
+		add_core_of = X51
 	}
 
 	provinces={
-		5070 
+		1147 1971 1980 4003 4110 4382 7049 7084 10735 
 	}
-	manpower=504520
+	manpower=1684692
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 
 	local_supplies=10.0
 }

@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Sardegna" "Piemonte" "Liguria" "Nizza" "Valle d'Aosta" "Monferrato" "Saluzzo" "Sicilia" "Torino" "Genova" "Cagliari" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Vittorio Amadeo" "Eugenio di Savoia" "Vittorio Emanuele" "Carlo Emanuele" "Carlo Felice" "Andrea Doria" "Conti di Cavour" "Solferino" "Magenta" "Re di Sardegna" "Duca di Savoia" "Re di Sicilia" "Maria Luisa" "Maria Teresa" "San Carlo" "San Vittorio" "San Michele" "Santa Teresa" "Santa Barbara" "San Effioso" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Sardegna" "Piemonte" "Liguria" "Nizza" "Valle d'Aosta" "Monferrato" "Saluzzo" "Sicilia" "Torino" "Genova" "Cagliari" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Aquila" "Aurora" "Azzardoso" "Beroldo" "Capitana" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Regina" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Vittorio Amadeo" "Eugenio di Savoia" "Vittorio Emanuele" "Carlo Emanuele" "Carlo Felice" "Andrea Doria" "Conti di Cavour" "Solferino" "Magenta" "Re di Sardegna" "Duca di Savoia" "Re di Sicilia" "Maria Luisa" "Maria Teresa" "San Carlo" "San Vittorio" "San Michele" "Santa Teresa" "Santa Barbara" "San Effioso" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Aquila" "Aurora" "Azzardoso" "Beroldo" "Capitana" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Regina" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Newfoundland" "Labrador" "John Cabot" "Hudson" "Kirke" "Bristol" "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" "Placentia" "Dominion" "Discovery" "Atlantis" "Leif Ericson" 
+			"Aquila" "Aurora" "Azzardoso" "Beroldo" "Capitana" "Carloforte" "Colombo" "Daino" "Eridano" "Euridice" "Falco" "Favorita" "Nereide" "Patrona" "Serpente" "Regina" "Tritone" "Veloce" "Vigilante" "Zeffiro" 
 		}
 	}
 

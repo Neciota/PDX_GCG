@@ -3,32 +3,32 @@ state={
 	id=559
 	name="STATE_559"
 	resources={
-		aluminium=4.000
-		steel=9.000
+		oil=11.000
 	}
 
 	history={
-		owner = X93
+		owner = X71
 		victory_points = {
-			650 1 
+			10515 1 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 0
-			8194 = {
-				naval_base = 8
+			10515 = {
+				naval_base = 2
 			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = X93
+		add_core_of = X71
+		add_claim_by = BRA
 	}
 
 	provinces={
-		650 5191 5192 5228 8194 8222 11000 12914 
+		1449 8187 8238 10515 10943 11007 12453 12964 
 	}
-	manpower=2246312
+	manpower=2222148
 	buildings_max_level_factor=1.000
 	state_category=town
 

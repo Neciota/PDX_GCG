@@ -1,9 +1,9 @@
 characters={
-	X20_narayan_singh={
-		name=X20_narayan_singh
+	X20_nesaque_bear={
+		name=X20_nesaque_bear
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_PRF_Kshatriya_of_Dewas.tga"
+				large="gfx/leaders/North_American_Native/portrait_native_north_american_absolutist.dds"
 			}
 		}
 		country_leader={

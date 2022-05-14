@@ -47,11 +47,11 @@ characters={
 		}
 	}
 
-	BAS_danie_markle={
-		name=BAS_danie_markle
+	BAS_dirkie_de={
+		name=BAS_dirkie_de
 		portraits={
 			civilian={
-				large="gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
+				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
 			}
 		}
 		country_leader={

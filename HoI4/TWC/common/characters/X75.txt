@@ -1,9 +1,9 @@
 characters={
-	X75_harihara_rama={
-		name=X75_harihara_rama
+	X75_mahpiya_iyotake={
+		name=X75_mahpiya_iyotake
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_PRF_Balarama_Varma_of_Travancore.tga"
+				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
 			}
 		}
 		country_leader={

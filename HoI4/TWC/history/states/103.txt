@@ -3,36 +3,36 @@ state={
 	id=103
 	name="STATE_103"
 	resources={
-		oil=1.000
-		steel=2.000
+		chromium=31.000
+		steel=7.000
 	}
 
 	history={
-		owner = X10
+		owner = X09
 		victory_points = {
-			6923 1 
+			9833 2 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 0
-			arms_factory = 0
+			arms_factory = 1
 			dockyard = 1
-			9919 = {
+			922 = {
 				naval_base = 6
 			}
 			air_base = 1
 
 		}
-		add_core_of = X10
-		add_core_of = X21
+		add_core_of = GRE
+		add_core_of = X09
 	}
 
 	provinces={
-		878 893 3937 6814 6923 6952 6967 6982 9862 9888 9902 9919 11813 
+		922 6895 9833 
 	}
-	manpower=816384
+	manpower=3754892
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

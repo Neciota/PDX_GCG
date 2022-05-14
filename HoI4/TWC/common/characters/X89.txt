@@ -1,9 +1,21 @@
 characters={
-	X89_hockingpomskenn_sipeknekatik={
-		name=X89_hockingpomskenn_sipeknekatik
+	X89_saifuddaula_mirza={
+		name=X89_saifuddaula_mirza
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X89_hasan_najabut={
+		name=X89_hasan_najabut
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_Native_American.dds"
+				large="gfx/leaders/Indian/Portrait_PRF_Kshatriya_of_Dewas.tga"
 			}
 		}
 		country_leader={

@@ -2,33 +2,31 @@
 state={
 	id=301
 	name="STATE_301"
-	resources={
-		aluminium=1.000
-		rubber=1.000
-		steel=1.000
-	}
 
 	history={
-		owner = X43
+		owner = ITA
 		victory_points = {
-			1975 15 
+			4159 1 
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 5
+			10074 = {
+				naval_base = 10
+			}
+			air_base = 0
 
 		}
-		add_core_of = X43
+		add_core_of = ITA
 	}
 
 	provinces={
-		1975 
+		1009 1156 3857 4014 4159 7059 7147 10074 12047 
 	}
-	manpower=566044
+	manpower=2491140
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 
 	local_supplies=10.0
 }

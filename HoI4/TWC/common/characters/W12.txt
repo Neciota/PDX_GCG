@@ -1,13 +1,13 @@
 characters={
-	W12_raoni_itueto={
-		name=W12_raoni_itueto
+	W12_fedor_budonnyy={
+		name=W12_fedor_budonnyy
 		portraits={
 			civilian={
-				large="gfx/leaders/central_american_native/portrait_nat_carib_democratic.dds"
+				large="gfx/leaders/SOV/Portrait_Soviet_Victor_Baydalakov.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

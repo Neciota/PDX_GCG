@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Jambi" "Padang" "Sumatra" "Inderagiri" "Pasir" "Sultan" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Malacca" 
+			"Genghis Khan" "Alghu Khan" "Baraq Khan" "YesÃ¼nto'a" "Qipchaq" "Ã–gedai Khan" "GÃ¼yÃ¼k" "MÃ¶ngke Khan" "Qubilai Khan" "Duwa" "Qazan Khan" "Tughlugh Timur" "Irtysh" "Amir Husayn" "Timur i Leng" 
 		}
 	}
 

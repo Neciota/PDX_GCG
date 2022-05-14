@@ -1,0 +1,153 @@
+﻿capital = 214
+set_research_slots = 3
+
+oob = "X25_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_greece
+set_convoys = 0
+
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1821.1.3"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = AFG modifier = negative_100 }
+add_opinion_modifier = { target = ARM modifier = positive_50 }
+add_opinion_modifier = { target = AUS modifier = negative_10 }
+add_opinion_modifier = { target = BAY modifier = negative_60 }
+add_opinion_modifier = { target = BOS modifier = negative_35 }
+add_opinion_modifier = { target = BRA modifier = negative_15 }
+add_opinion_modifier = { target = BUL modifier = negative_150 }
+add_opinion_modifier = { target = CAL modifier = positive_5 }
+add_opinion_modifier = { target = CAR modifier = negative_200 }
+add_opinion_modifier = { target = CAT modifier = positive_5 }
+add_opinion_modifier = { target = CHI modifier = negative_25 }
+add_opinion_modifier = { target = COG modifier = negative_200 }
+add_opinion_modifier = { target = COL modifier = positive_5 }
+add_opinion_modifier = { target = CYP modifier = positive_65 }
+add_opinion_modifier = { target = CZE modifier = negative_35 }
+add_opinion_modifier = { target = DNZ modifier = negative_25 }
+add_opinion_modifier = { target = EGY modifier = negative_85 }
+add_opinion_modifier = { target = ENG modifier = negative_5 }
+add_opinion_modifier = { target = FRA modifier = negative_200 }
+add_opinion_modifier = { target = GAB modifier = negative_150 }
+add_opinion_modifier = { target = GHA modifier = negative_70 }
+add_opinion_modifier = { target = HOL modifier = positive_5 }
+add_opinion_modifier = { target = HUN modifier = negative_25 }
+add_opinion_modifier = { target = ITA modifier = negative_45 }
+add_opinion_modifier = { target = LBA modifier = positive_5 }
+add_opinion_modifier = { target = LUX modifier = positive_15 }
+add_opinion_modifier = { target = MEX modifier = negative_15 }
+add_opinion_modifier = { target = MOR modifier = negative_80 }
+add_opinion_modifier = { target = NEP modifier = negative_25 }
+add_opinion_modifier = { target = NGA modifier = negative_200 }
+add_opinion_modifier = { target = NGR modifier = negative_25 }
+add_opinion_modifier = { target = PRE modifier = negative_10 }
+add_opinion_modifier = { target = SIA modifier = negative_25 }
+add_opinion_modifier = { target = SIL modifier = positive_5 }
+add_opinion_modifier = { target = SLV modifier = negative_95 }
+add_opinion_modifier = { target = SOV modifier = negative_5 }
+add_opinion_modifier = { target = SWE modifier = positive_15 }
+add_opinion_modifier = { target = SWI modifier = positive_15 }
+add_opinion_modifier = { target = WGR modifier = negative_10 }
+add_opinion_modifier = { target = WUR modifier = negative_25 }
+add_opinion_modifier = { target = X09 modifier = positive_65 }
+add_opinion_modifier = { target = X11 modifier = negative_150 }
+add_opinion_modifier = { target = X30 modifier = negative_100 }
+add_opinion_modifier = { target = X35 modifier = negative_50 }
+add_opinion_modifier = { target = X47 modifier = positive_15 }
+add_opinion_modifier = { target = X50 modifier = negative_10 }
+add_opinion_modifier = { target = X66 modifier = negative_25 }
+add_opinion_modifier = { target = X69 modifier = negative_75 }
+add_opinion_modifier = { target = X72 modifier = negative_150 }
+add_opinion_modifier = { target = X78 modifier = positive_25 }
+add_opinion_modifier = { target = X88 modifier = negative_150 }
+add_opinion_modifier = { target = X90 modifier = negative_25 }
+add_opinion_modifier = { target = X93 modifier = negative_25 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_greek
+}
+
+recruit_character = X25_vasos_tsolakoglou
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Maria Typáldos-Alfonsáto"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X25 }
+	}
+
+	create_operative_leader = {
+		name = "Panagiota Paláska"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X25 }
+	}
+
+	create_operative_leader = {
+		name = "Alexandra ti Elládas"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X25 }
+	}
+
+	create_operative_leader = {
+		name = "Ilias Trikoupis"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X25 }
+	}
+
+	create_operative_leader = {
+		name = "Diomídis Voúlgaris"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X25 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}

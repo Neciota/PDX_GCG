@@ -1,7 +1,7 @@
 SOV_OPERATIVE_CODENAME_HISTORICAL = {
 	name = SOV_OPERATIVE_CODENAME_HISTORICAL
 
-	for_countries = { GAB RCG SOV W52 }
+	for_countries = { GAB SOV W12 }
 
 	type = codename
 

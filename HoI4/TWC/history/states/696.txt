@@ -4,26 +4,24 @@ state={
 	name="STATE_696"
 
 	history={
-		owner = TEX
+		owner = LBA
 		victory_points = {
-			4830 10 
+			4117 15 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 1
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 6
+			air_base = 5
 
 		}
-		add_core_of = X87
-		add_claim_by = TEX
-		add_claim_by = X28
+		add_core_of = LBA
 	}
 
 	provinces={
-		1683 3613 3708 3855 4749 4760 4830 7840 7852 10606 10676 12516 12586 
+		4117 7154 10037 11940 
 	}
-	manpower=1823408
+	manpower=19602
 	buildings_max_level_factor=1.000
 	state_category=rural
 

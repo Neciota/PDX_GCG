@@ -2,31 +2,31 @@
 state={
 	id=230
 	name="STATE_230"
+	resources={
+		rubber=1.000
+	}
 
 	history={
 		owner = EGY
 		victory_points = {
-			12766 10 
+			1984 1 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 0
-			5091 = {
-				naval_base = 10
-			}
-			air_base = 6
+			air_base = 1
 
 		}
 		add_core_of = ERI
 	}
 
 	provinces={
-		5017 5047 5091 8043 12723 12766 
+		1984 2040 4954 
 	}
-	manpower=629072
+	manpower=6070476
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

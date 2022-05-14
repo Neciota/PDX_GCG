@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Orelie-Antoine" "Neuquen" "Bariloche" "Iquique" "Latorre" "Rio Gallegos" "Punta Arenas" "Temuco" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X93_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Puerto Deseado" "Austral" "Blanco" "Blanco Encalada" "Capitán Prat" "Cochrane" "Rio Grande" "Norte Chico" "Norte Grande" "Ojos del Salado" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X93_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Abtao" "Águila" "Araucano" "Chacabuco" "Fortunata" "Galvarino" "Lautaro" "Valdiva" "Potrillo" "Puerto Aisen" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X93_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X93_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X93_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Liquiñe" "Butapichón" "Colo-Colo" "Curiñancu" "Guaiquimilla" "Huáscar" "Lientur" "Pedro de Valdivia" "Pelantaru" "Vilumilla" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X93_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Liquiñe" "Butapichón" "Colo-Colo" "Curiñancu" "Guaiquimilla" "Huáscar" "Lientur" "Pedro de Valdivia" "Pelantaru" "Vilumilla" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X93_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Aguamarina" "Diamante" "Aquiles" "Esmeralda" "Llullaillaco" "Felipe" "Aconcagua" "Butacura" "Caburgua" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X93_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Aguamarina" "Diamante" "Aquiles" "Esmeralda" "Llullaillaco" "Felipe" "Aconcagua" "Butacura" "Caburgua" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X93_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Almirante Condell" "Almirante Lynch" "Angamos" "Aquiles" "Casma" "Chacabuco" "Chipana" "Covadonga" "Magallanes" "Orompello" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X93_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Aisén" "Araucania" "Arica" "Biobío" "Coquimbo" "Los Lagos" "Coñaripe" "Dollinco" "Tarapacá" "Valdivia" 
+		
 	}
 }
 

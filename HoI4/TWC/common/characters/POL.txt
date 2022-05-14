@@ -59,11 +59,11 @@ characters={
 		}
 	}
 
-	POL_dezydery_brzoska={
-		name=POL_dezydery_brzoska
+	POL_wojciech_bor_komorowski={
+		name=POL_wojciech_bor_komorowski
 		portraits={
 			civilian={
-				large="gfx/leaders/LAT/portrait_lat_karlis_ulmanis.dds"
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 			}
 		}
 		country_leader={

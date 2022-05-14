@@ -1,9 +1,21 @@
 characters={
-	X32_troynuremo_marcavilca={
-		name=X32_troynuremo_marcavilca
+	X32_ahmadu_sa'id={
+		name=X32_ahmadu_sa'id
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	X32_seku_bello={
+		name=X32_seku_bello
 		portraits={
 			civilian={
-				large="gfx/leaders/South_American_Native/portrait_nat_south_absolutist.dds"
+				large="gfx/leaders/African/Portrait_KBR_Shehu_Masta_II.tga"
 			}
 		}
 		country_leader={

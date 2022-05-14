@@ -3,31 +3,32 @@ state={
 	id=539
 	name="STATE_539"
 	resources={
-		steel=12.000
+		chromium=3.000
+		steel=13.000
+		tungsten=3.000
 	}
 
 	history={
-		owner = POL
+		owner = PRE
 		victory_points = {
-			3544 30 
+			6524 1 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 4
+			infrastructure = 3
+			industrial_complex = 0
 			arms_factory = 1
-			air_base = 7
+			air_base = 1
 
 		}
-		add_core_of = POL
-		add_claim_by = GER
+		add_core_of = PRE
 	}
 
 	provinces={
-		467 493 524 548 584 3230 3482 3544 3586 6259 6321 6401 6511 6567 9290 9316 9400 9439 9508 9546 11274 11329 11385 11428 11492 11515 11532 12562 
+		482 538 3500 6501 6524 9497 
 	}
-	manpower=2578836
+	manpower=1011648
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 
 	local_supplies=10.0
 }

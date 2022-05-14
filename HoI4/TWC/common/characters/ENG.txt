@@ -51,7 +51,7 @@ characters={
 		name=ENG_liam_cosgrave
 		portraits={
 			civilian={
-				large="gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
+				large="gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds"
 			}
 		}
 		country_leader={

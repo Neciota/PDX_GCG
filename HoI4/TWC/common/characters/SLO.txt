@@ -15,7 +15,7 @@ characters={
 		name=SLO_michal_rohacek
 		portraits={
 			civilian={
-				large="gfx/leaders/Eastern_European/Portrait_Lithuania_Mindaugas_III.tga"
+				large="gfx/leaders/Eastern_European/portrait_EST_Adolf_Friedrich_von_Mecklenburg.dds"
 			}
 		}
 		country_leader={

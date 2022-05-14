@@ -1,9 +1,9 @@
 characters={
-	X26_lugsken_wishram={
-		name=X26_lugsken_wishram
+	X26_tomchickah_hummalala={
+		name=X26_tomchickah_hummalala
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_nat_north_absolutist.dds"
+				large="gfx/leaders/South_American_Native/portrait_quechua_saturnino.dds"
 			}
 		}
 		country_leader={

@@ -1,9 +1,9 @@
 characters={
-	X79_naguemani_canknuhabi={
-		name=X79_naguemani_canknuhabi
+	X79_haydar_khan={
+		name=X79_haydar_khan
 		portraits={
 			civilian={
-				large="gfx/leaders/North_American_Native/portrait_Native_American.dds"
+				large="gfx/leaders/Turkic_Steppe/Portrait_Ottoman_Abdulmecid.tga"
 			}
 		}
 		country_leader={

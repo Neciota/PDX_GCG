@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Abuja" "Ede" "Enugu" "Kaduna" "Kano" "Katsina" "Jos" "Owo" "Sokoto" "Zaria" 
+			
 		}
 	}
 

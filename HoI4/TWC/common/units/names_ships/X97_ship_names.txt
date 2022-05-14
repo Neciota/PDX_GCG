@@ -10,7 +10,7 @@
 	fallback_name = "Battleship BB-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -26,7 +26,7 @@ X97_BC_HISTORICAL = {
 	fallback_name = "Battlecruiser BC-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -42,7 +42,7 @@ X97_CA_HISTORICAL = {
 	fallback_name = "Heavy Cruiser CA-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -58,7 +58,7 @@ X97_CLAA_HISTORICAL = {
 	fallback_name = "Light Cruiser CLAA-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -74,7 +74,7 @@ X97_CL_HISTORICAL = {
 	fallback_name = "Light Cruiser CL-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -90,7 +90,7 @@ X97_CVL_HISTORICAL = {
 	fallback_name = "Carrier CVL-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -106,7 +106,7 @@ X97_CV_HISTORICAL = {
 	fallback_name = "Carrier CV-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -122,7 +122,7 @@ X97_DD_HISTORICAL = {
 	fallback_name = "Destroyer DD-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -138,7 +138,7 @@ X97_DE_HISTORICAL = {
 	fallback_name = "Destroyer Escort DE-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -154,7 +154,7 @@ X97_MINELAYERS_HISTORICAL = {
 	fallback_name = "Minelayer CM-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 
@@ -170,7 +170,7 @@ X97_SS_HISTORICAL = {
 	fallback_name = "Submarine SS-%d"
 
 	unique = {
-		"Palembang" "Siak" "Sumatra" "Lampung" "Pasir" "Sunda" "Sintang" "Samarinda" "Parepare" "Krakatau" "Morowali" "Teku" "Randangan Panua" "Peruhumpenai" "Mamuju" "Tukangbesi" "Palak Pinang" 
+		
 	}
 }
 

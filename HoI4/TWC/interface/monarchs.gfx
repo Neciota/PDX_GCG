@@ -8,6 +8,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_ARM_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_AST_monarch"
 		texturefile = "gfx/interface/ideas/crowns/persia.dds"
 	}
@@ -20,23 +24,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_BAH_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
 		name = "GFX_idea_BAN_monarch"
 		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_BAS_monarch"
-		texturefile = "gfx/interface/ideas/crowns/commonwealth.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_BAY_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_BEN_monarch"
+		name = "GFX_idea_BAY_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -60,16 +56,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_CAM_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
 		name = "GFX_idea_CAR_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_CAT_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_CHI_monarch"
-		texturefile = "gfx/interface/ideas/crowns/bhutan.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_COG_monarch"
@@ -80,11 +76,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_CRO_monarch"
+		name = "GFX_idea_COR_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_CUB_monarch"
+		name = "GFX_idea_CRI_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_CRO_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -100,11 +100,15 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_DDR_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_DEN_monarch"
 		texturefile = "gfx/interface/ideas/crowns/sweden.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_DJI_monarch"
+		name = "GFX_idea_DNZ_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -137,14 +141,6 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_GAB_monarch"
-		texturefile = "gfx/interface/ideas/crowns/russia_shield.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_GEO_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_GER_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -152,8 +148,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_HAI_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		name = "GFX_idea_GRE_monarch"
+		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_HAN_monarch"
@@ -192,15 +188,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_KEN_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		name = "GFX_idea_KAZ_monarch"
+		texturefile = "gfx/interface/ideas/crowns/bhutan.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_KOR_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_KSH_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -216,12 +208,12 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_MAD_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		name = "GFX_idea_LUX_monarch"
+		texturefile = "gfx/interface/ideas/crowns/commonwealth.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_MEN_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		name = "GFX_idea_MEK_monarch"
+		texturefile = "gfx/interface/ideas/crowns/commonwealth.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_MEX_monarch"
@@ -248,12 +240,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_NGR_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_NIC_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_NZL_monarch"
-		texturefile = "gfx/interface/ideas/crowns/commonwealth.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_OCC_monarch"
@@ -265,6 +261,10 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_PAK_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_PAL_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -280,15 +280,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_PRC_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
 		name = "GFX_idea_PRE_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_PUE_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_RCG_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -300,15 +296,11 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_SCA_monarch"
-		texturefile = "gfx/interface/ideas/crowns/netherlands.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_SCO_monarch"
+		name = "GFX_idea_SER_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_SER_monarch"
+		name = "GFX_idea_SHL_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -353,11 +345,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_SWI_monarch"
-		texturefile = "gfx/interface/ideas/crowns/germany.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_TAJ_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/netherlands.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_TAT_monarch"
@@ -369,7 +357,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_TMS_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/goals/focus_TUR_turanist_ambition.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_TOG_monarch"
@@ -380,20 +368,24 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/focus_TUR_turanist_ambition.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_TZN_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
 		name = "GFX_idea_UAE_monarch"
 		texturefile = "gfx/interface/goals/focus_man_claim_the_mandate_of_heaven.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_USA_monarch"
-		texturefile = "gfx/interface/ideas/crowns/commonwealth.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_VEN_monarch"
-		texturefile = "gfx/interface/ideas/crowns/germany.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_VGE_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_VOL_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W00_monarch"
@@ -409,15 +401,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_W03_monarch"
-		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W04_monarch"
-		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W05_monarch"
-		texturefile = "gfx/interface/goals/focus_TUR_turanist_ambition.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W06_monarch"
@@ -429,7 +421,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_W08_monarch"
-		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W09_monarch"
@@ -449,7 +441,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_W13_monarch"
-		texturefile = "gfx/interface/ideas/crowns/sweden.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W14_monarch"
@@ -457,6 +449,10 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_W15_monarch"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_W16_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -469,175 +465,23 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_W19_monarch"
-		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W20_monarch"
-		texturefile = "gfx/interface/ideas/crowns/france.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_W21_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_W22_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W23_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W24_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W25_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W26_monarch"
+		name = "GFX_idea_WGR_monarch"
 		texturefile = "gfx/interface/ideas/crowns/france.dds"
 	}
 	spriteType = {
-		name = "GFX_idea_W27_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W28_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W29_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W30_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W31_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W32_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W33_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W34_monarch"
-		texturefile = "gfx/interface/ideas/crowns/bhutan.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W35_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W36_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W37_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W38_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W39_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W40_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W41_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W42_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W43_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W44_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W45_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W46_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W47_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W48_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W49_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W50_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W51_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W52_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W53_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W54_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W55_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W56_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W57_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W58_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W59_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W60_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_W61_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		name = "GFX_idea_WUR_monarch"
+		texturefile = "gfx/interface/ideas/crowns/netherlands.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X00_monarch"
@@ -645,7 +489,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X01_monarch"
-		texturefile = "gfx/interface/ideas/crowns/france.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X02_monarch"
@@ -697,7 +541,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X14_monarch"
-		texturefile = "gfx/interface/ideas/crowns/germany.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X15_monarch"
@@ -725,7 +569,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X21_monarch"
-		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X22_monarch"
@@ -757,7 +601,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X29_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/germany.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X30_monarch"
@@ -777,11 +621,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X34_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X35_monarch"
-		texturefile = "gfx/interface/ideas/crowns/germany.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X36_monarch"
@@ -801,7 +645,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X40_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X41_monarch"
@@ -829,7 +673,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X47_monarch"
-		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X48_monarch"
@@ -845,7 +689,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X51_monarch"
-		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X52_monarch"
@@ -853,7 +697,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X53_monarch"
-		texturefile = "gfx/interface/ideas/idea_raj_indian_gentlemen_officers.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X54_monarch"
@@ -873,7 +717,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X58_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/sweden.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X59_monarch"
@@ -897,7 +741,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X64_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/cambodia.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X65_monarch"
@@ -949,11 +793,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X77_monarch"
-		texturefile = "gfx/interface/ideas/crowns/sweden.dds"
+		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X78_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/greece_shield.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X79_monarch"
@@ -985,10 +829,6 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X86_monarch"
-		texturefile = "gfx/interface/ideas/crowns/cambodia.dds"
-	}
-	spriteType = {
-		name = "GFX_idea_X87_monarch"
 		texturefile = "gfx/interface/ideas/idea_george_v.dds"
 	}
 	spriteType = {
@@ -1013,7 +853,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X93_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/netherlands.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X94_monarch"
@@ -1029,7 +869,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_X97_monarch"
-		texturefile = "gfx/interface/ideas/idea_george_v.dds"
+		texturefile = "gfx/interface/ideas/crowns/sweden.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_X98_monarch"

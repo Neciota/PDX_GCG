@@ -3,35 +3,31 @@ state={
 	id=112
 	name="STATE_112"
 	resources={
-		aluminium=1.000
-		steel=2.000
-		tungsten=2.000
+		aluminium=18.000
 	}
 
 	history={
 		owner = AUS
 		victory_points = {
-			673 1 
+			6631 10 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 0
-			air_base = 1
+			air_base = 6
 
 		}
 		add_core_of = AUS
-		add_core_of = BAY
 		add_core_of = SLV
-		add_core_of = W20
-		add_claim_by = SWI
-		add_claim_by = W25
+		add_core_of = X92
+		add_claim_by = ITA
 	}
 
 	provinces={
-		671 673 688 3675 6678 6680 9633 9636 11618 11634 
+		6631 6675 9598 9630 11598 11615 
 	}
-	manpower=485684
+	manpower=238416
 	buildings_max_level_factor=1.000
 	state_category=rural
 

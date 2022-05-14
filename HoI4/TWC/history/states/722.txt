@@ -2,26 +2,35 @@
 state={
 	id=722
 	name="STATE_722"
+	resources={
+		aluminium=3.000
+		steel=18.000
+	}
 
 	history={
 		owner = USA
 		victory_points = {
-			6696 6 
+			3878 10 
 		}
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 7
-			arms_factory = 3
-			air_base = 3
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			3878 = {
+				naval_base = 10
+			}
+			air_base = 9
 
 		}
 		add_core_of = USA
+		add_core_of = X52
 	}
 
 	provinces={
-		1445 1582 4402 4452 4988 6696 6974 7547 9727 10586 10727 12568 12637 12709 
+		706 734 859 1436 3702 3733 3747 3806 3878 3894 6707 6717 6795 6911 9664 9673 9693 9708 9774 11650 11654 11660 11680 
 	}
-	manpower=9572308
+	manpower=16126068
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

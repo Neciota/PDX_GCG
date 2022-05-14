@@ -1,9 +1,9 @@
 characters={
-	X41_shamsher_singh={
-		name=X41_shamsher_singh
+	X41_ahmad_imam={
+		name=X41_ahmad_imam
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_PRF_Kishore_Debbarman.tga"
+				large="gfx/leaders/African/Portrait_Kongo_Pedro_VII_Afonso.tga"
 			}
 		}
 		country_leader={

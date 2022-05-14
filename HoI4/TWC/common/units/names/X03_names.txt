@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Te Mana" "Te Kaha" 
+			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
 		}
 	}
 

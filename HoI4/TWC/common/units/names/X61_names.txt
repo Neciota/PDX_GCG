@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Aleutia" "Midnight Sun" "Juneau" "Fairbanks" "Anchorage" "Badger" "Knik-Fairview" "Sitka" "Lakes" "Tanaina" "Ketchikan" "Kalifornsky" "Cicely" "Wasilla" "Meadow Lakes" "Kenai" "Steele Creek" "Kodiak" "Bethel" "Chena Ridge" "Sterling" "Gateway" 
+			
 		}
 	}
 

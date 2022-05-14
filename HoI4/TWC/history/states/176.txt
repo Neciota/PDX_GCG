@@ -4,26 +4,27 @@ state={
 	name="STATE_176"
 
 	history={
-		owner = CHI
+		owner = PRC
 		victory_points = {
-			13041 0 
+			13036 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 0
-			1002 = {
-				naval_base = 1
+			13036 = {
+				naval_base = 10
 			}
-			air_base = 1
+			air_base = 6
 
 		}
+		add_core_of = PRC
 	}
 
 	provinces={
-		1002 13039 13040 13041 13042 13043 13044 13045 13046 13047 
+		2489 13027 13028 13029 13030 13031 13032 13033 13034 13035 13036 
 	}
-	manpower=38780
+	manpower=129632
 	buildings_max_level_factor=1.000
 	state_category=rural
 

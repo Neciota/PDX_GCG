@@ -3,32 +3,35 @@ state={
 	id=513
 	name="STATE_513"
 	resources={
-		aluminium=0.000
-		rubber=1.000
+		oil=4.000
 		steel=0.000
 	}
 
 	history={
-		owner = NGA
+		owner = NIC
 		victory_points = {
-			4997 15 
+			4969 1 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 5
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			4969 = {
+				naval_base = 4
+			}
+			air_base = 1
 
 		}
-		add_core_of = NGA
+		add_core_of = COL
+		add_claim_by = NIC
 	}
 
 	provinces={
-		4997 
+		4969 10494 
 	}
-	manpower=4298344
+	manpower=1000012
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 
 	local_supplies=10.0
 }

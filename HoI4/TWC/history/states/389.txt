@@ -2,28 +2,31 @@
 state={
 	id=389
 	name="STATE_389"
+	resources={
+		steel=8.000
+	}
 
 	history={
-		owner = LEB
+		owner = MEX
 		victory_points = {
-			1549 15 
+			12827 7 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 0
-			air_base = 5
+			infrastructure = 5
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
 
 		}
-		add_core_of = LEB
+		add_core_of = MEX
 	}
 
 	provinces={
-		1549 
+		2037 4898 7935 8097 10809 10830 10916 12745 12827 12850 12897 
 	}
-	manpower=48724
+	manpower=5389976
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

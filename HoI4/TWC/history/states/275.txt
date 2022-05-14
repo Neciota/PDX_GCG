@@ -2,28 +2,32 @@
 state={
 	id=275
 	name="STATE_275"
+	resources={
+		aluminium=5.000
+		rubber=1.000
+		steel=1.000
+	}
 
 	history={
-		owner = ENG
+		owner = GHA
 		victory_points = {
-			8111 0 
+			2012 0 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			10875 = {
-				naval_base = 6
-			}
-			air_base = 0
+			air_base = 1
 
 		}
+		add_core_of = X32
+		add_claim_by = GHA
 	}
 
 	provinces={
-		4920 5012 7979 8038 8111 10875 
+		2012 10812 10829 10915 12751 
 	}
-	manpower=157780
+	manpower=1132168
 	buildings_max_level_factor=1.000
 	state_category=rural
 

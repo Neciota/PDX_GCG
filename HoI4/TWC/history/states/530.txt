@@ -3,33 +3,32 @@ state={
 	id=530
 	name="STATE_530"
 	resources={
-		rubber=89.000
+		aluminium=1.000
+		oil=8.000
+		steel=16.000
 	}
 
 	history={
-		owner = X86
+		owner = POL
 		victory_points = {
-			10158 15 
+			9427 3 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			arms_factory = 0
-			10158 = {
-				naval_base = 6
-			}
-			air_base = 6
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
 
 		}
-		add_core_of = X86
+		add_core_of = POL
 	}
 
 	provinces={
-		1279 1366 4297 10156 10158 12131 12230 12286 
+		417 442 466 3410 3434 6499 6522 9427 9494 11398 11413 11507 
 	}
-	manpower=662468
+	manpower=3363540
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

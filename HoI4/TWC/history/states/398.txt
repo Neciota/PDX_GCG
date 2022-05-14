@@ -3,30 +3,30 @@ state={
 	id=398
 	name="STATE_398"
 	resources={
-		tungsten=31.000
+		oil=20.000
 	}
 
 	history={
-		owner = X66
+		owner = MEX
 		victory_points = {
-			12829 30 
+			12627 7 
 		}
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 5
-			arms_factory = 1
-			air_base = 7
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
 
 		}
-		add_core_of = X66
+		add_core_of = MEX
 	}
 
 	provinces={
-		1908 2092 4149 4971 4984 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 
+		868 1658 1738 1809 1827 3869 6887 7684 7780 7999 9792 10535 10588 11772 12570 12627 12642 
 	}
-	manpower=4320932
+	manpower=6485500
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

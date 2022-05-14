@@ -32,17 +32,17 @@ converted_diplo_strategies_LEB = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X21"
+		id = "GRE"
 		value = 49
 	}
 	ai_strategy = {
 		type = contain
-		id = "W15"
+		id = "ARM"
 		value = 46
 	}
 	ai_strategy = {
 		type = contain
-		id = "X02"
+		id = "X01"
 		value = 30
 	}
 	ai_strategy = {
@@ -62,7 +62,7 @@ converted_diplo_strategies_LEB = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X21"
+		id = "GRE"
 		value = 121
 	}
 	ai_strategy = {
@@ -82,7 +82,7 @@ converted_diplo_strategies_LEB = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X21"
+		id = "GRE"
 		value = 47
 	}
 	ai_strategy = {
@@ -92,17 +92,17 @@ converted_diplo_strategies_LEB = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X96"
+		id = "X72"
 		value = 94
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X65"
+		id = "X50"
 		value = 43
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X42"
+		id = "X34"
 		value = 41
 	}
 }

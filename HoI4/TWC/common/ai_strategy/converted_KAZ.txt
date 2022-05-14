@@ -1,0 +1,153 @@
+﻿converted_war_strategies_KAZ = {
+	enable = {
+		tag = KAZ
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 876
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SIK"
+		value = 253
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CHI"
+		value = 184
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X08"
+		value = 70
+	}
+	ai_strategy = {
+		type = conquer
+		id = "TMS"
+		value = 50
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PRC"
+		value = 8
+	}
+}
+
+converted_diplo_strategies_KAZ = {
+	enable = {
+		tag = KAZ
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "UAE"
+		value = 267
+	}
+	ai_strategy = {
+		type = contain
+		id = "TMS"
+		value = 73
+	}
+	ai_strategy = {
+		type = contain
+		id = "SIK"
+		value = 46
+	}
+	ai_strategy = {
+		type = contain
+		id = "CHI"
+		value = 45
+	}
+	ai_strategy = {
+		type = contain
+		id = "AFG"
+		value = 29
+	}
+	ai_strategy = {
+		type = contain
+		id = "TUR"
+		value = 29
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SIK"
+		value = 337
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CHI"
+		value = 92
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PAK"
+		value = 67
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X08"
+		value = 58
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PRC"
+		value = 7
+	}
+	ai_strategy = {
+		type = alliance
+		id = "UAE"
+		value = 72
+	}
+	ai_strategy = {
+		type = alliance
+		id = "AFG"
+		value = 26
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X51"
+		value = 6
+	}
+	ai_strategy = {
+		type = protect
+		id = "SIK"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X82"
+		value = 86
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SIK"
+		value = 66
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X08"
+		value = 58
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PRC"
+		value = 54
+	}
+}

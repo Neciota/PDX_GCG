@@ -2,30 +2,33 @@
 state={
 	id=607
 	name="STATE_607"
+	resources={
+		aluminium=6.000
+		chromium=27.000
+		oil=3.000
+		steel=25.000
+	}
 
 	history={
 		owner = SOV
 		victory_points = {
-			3151 50 
+			1821 7 
 		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 8
-			arms_factory = 2
-			dockyard = 2
-			3151 = {
-				naval_base = 10
-			}
-			air_base = 10
+			arms_factory = 4
+			air_base = 4
 
 		}
 		add_core_of = SOV
+		add_claim_by = TAT
 	}
 
 	provinces={
-		70 79 95 104 126 149 181 3053 3120 3151 6139 6174 6197 9097 9098 9120 9164 9197 9408 11032 11059 11068 11080 11097 11186 11202 
+		307 1233 1292 1294 1327 1334 1543 1704 1750 1771 1775 1808 1821 1841 3280 4242 4411 4758 4813 7228 7285 7320 7328 7401 7778 9292 9553 10133 10136 10170 10185 10189 10213 10216 10256 10329 10542 10648 10716 10720 11223 11307 12102 12106 12157 12287 12567 12584 12659 12696 
 	}
-	manpower=5331532
+	manpower=5434128
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

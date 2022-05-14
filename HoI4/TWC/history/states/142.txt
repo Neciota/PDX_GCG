@@ -3,34 +3,33 @@ state={
 	id=142
 	name="STATE_142"
 	resources={
-		aluminium=11.000
+		oil=28.000
 	}
 
 	history={
-		owner = BRA
+		owner = BUL
 		victory_points = {
-			8181 1 
+			9635 15 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 0
+			industrial_complex = 1
 			arms_factory = 0
-			dockyard = 1
-			8181 = {
-				naval_base = 6
+			657 = {
+				naval_base = 4
 			}
-			air_base = 1
+			air_base = 6
 
 		}
-		add_core_of = BRA
+		add_core_of = BUL
 	}
 
 	provinces={
-		2109 4587 5178 8181 8239 
+		657 687 3076 9614 9635 11597 
 	}
-	manpower=2983512
+	manpower=1027372
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 
 	local_supplies=10.0
 }

@@ -2,32 +2,33 @@
 state={
 	id=550
 	name="STATE_550"
+	resources={
+		oil=3.000
+		steel=2.000
+		tungsten=37.000
+	}
 
 	history={
-		owner = PRE
+		owner = X71
 		victory_points = {
-			3380 1 
+			12930 0 
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			industrial_complex = 0
 			arms_factory = 0
-			3380 = {
-				naval_base = 6
-			}
-			air_base = 1
+			air_base = 0
 
 		}
-		add_core_of = GER
-		add_core_of = PRE
+		add_core_of = X24
 	}
 
 	provinces={
-		3351 3380 6402 
+		2174 5179 10952 10987 12930 
 	}
-	manpower=231476
+	manpower=2255932
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 
 	local_supplies=10.0
 }

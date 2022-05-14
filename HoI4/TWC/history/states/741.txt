@@ -2,35 +2,28 @@
 state={
 	id=741
 	name="STATE_741"
-	resources={
-		oil=43.000
-	}
 
 	history={
-		owner = VEN
+		owner = MEK
 		victory_points = {
-			8113 20 
+			3398 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 3
-			arms_factory = 1
-			8113 = {
-				naval_base = 10
-			}
-			air_base = 7
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
 
 		}
-		add_core_of = VEN
-		add_claim_by = COL
+		add_core_of = MEK
 	}
 
 	provinces={
-		4892 4942 5000 5056 7968 8024 8080 8113 
+		3398 9547 
 	}
-	manpower=3280644
+	manpower=218420
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 
 	local_supplies=10.0
 }

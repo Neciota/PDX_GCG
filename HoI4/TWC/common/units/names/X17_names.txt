@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Wappen von Bremen" "Hansestadt Bremen" "Bremerhaven" "Weser" "Erzbischof" "Roland" "Ansgar" "Gräfin Emma" "Arnd von Gröpelingen" "Sankt Stephan" "Sankt Martin" "Heinrich von Zütphen" "Daniel von Büren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt" 
+			
 		}
 	}
 

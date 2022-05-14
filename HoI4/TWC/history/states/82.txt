@@ -3,31 +3,30 @@ state={
 	id=82
 	name="STATE_82"
 	resources={
-		steel=2.000
+		steel=236.000
 	}
 
 	history={
-		owner = AFG
+		owner = LUX
 		victory_points = {
-			1978 0 
+			678 15 
 		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 0
-			arms_factory = 0
-			air_base = 0
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
 
 		}
-		add_core_of = X91
-		add_claim_by = AFG
+		add_core_of = LUX
 	}
 
 	provinces={
-		1978 4998 12717 
+		549 678 1346 3629 6529 9503 9559 11502 
 	}
-	manpower=1077292
+	manpower=2914832
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 
 	local_supplies=10.0
 }

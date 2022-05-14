@@ -1,13 +1,61 @@
 characters={
-	SIL_lucjan_mieroslawski={
-		name=SIL_lucjan_mieroslawski
+	SIL_leonhard_von={
+		name=SIL_leonhard_von
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIL_leopold_schlieffen={
+		name=SIL_leopold_schlieffen
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIL_adolf_von={
+		name=SIL_adolf_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIL_adelbert_sachsen_altenburg={
+		name=SIL_adelbert_sachsen_altenburg
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIL_jurgen_hindenburg={
+		name=SIL_jurgen_hindenburg
 		portraits={
 			civilian={
-				large="gfx/leaders/Eastern_European/portrait_EST_Adolf_Friedrich_von_Mecklenburg.dds"
+				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
 			}
 		}
 		country_leader={
-			ideology=absolute_monarchy
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

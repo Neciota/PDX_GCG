@@ -1,37 +1,13 @@
 characters={
-	W08_thirunal_rama={
-		name=W08_thirunal_rama
-		corps_commander={
-			skill=1
-			attack_skill=1
-			defense_skill=1
-			planning_skill=1
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	W08_raja_varma={
-		name=W08_raja_varma
-		navy_leader={
-			skill=2
-			attack_skill=4
-			defense_skill=1
-			maneuvering_skill=1
-			coordination_skill=1
-			legacy_id=0
-		}
-	}
-
-	W08_thirunal_thampuran={
-		name=W08_thirunal_thampuran
+	W08_charles_annez_de_zillebroeck={
+		name=W08_charles_annez_de_zillebroeck
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_BHC_Mohandas_Karamchand_Gandhi.tga"
+				large="gfx/leaders/NZL/Portrait_NewZealand_Peter_Fraser.dds"
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=liberalism
 			expire="1965.1.1.1"
 			id=-1
 		}

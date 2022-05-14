@@ -3,33 +3,32 @@ state={
 	id=515
 	name="STATE_515"
 	resources={
-		chromium=1.000
+		steel=16.000
 	}
 
 	history={
-		owner = NIC
+		owner = NZL
 		victory_points = {
-			10728 15 
+			1814 10 
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
-			arms_factory = 1
-			dockyard = 1
-			1988 = {
-				naval_base = 1
+			arms_factory = 0
+			12604 = {
+				naval_base = 10
 			}
-			air_base = 6
+			air_base = 10
 
 		}
-		add_core_of = COL
-		add_core_of = NIC
+		add_core_of = NZL
+		add_core_of = X02
 	}
 
 	provinces={
-		1988 2075 10728 
+		1565 1713 1746 1786 1801 1814 4718 4748 4804 7692 7742 7783 7826 7887 10609 10710 12362 12604 12617 12664 
 	}
-	manpower=3066312
+	manpower=2712508
 	buildings_max_level_factor=1.000
 	state_category=city
 

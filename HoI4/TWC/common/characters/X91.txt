@@ -1,6 +1,6 @@
 characters={
-	X91_chand_dhillon={
-		name=X91_chand_dhillon
+	X91_sakthan_rama={
+		name=X91_sakthan_rama
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -11,23 +11,23 @@ characters={
 		}
 	}
 
-	X91_dhalip_mulraj={
-		name=X91_dhalip_mulraj
+	X91_ayilyam_thampuran={
+		name=X91_ayilyam_thampuran
 		corps_commander={
-			skill=3
-			attack_skill=4
-			defense_skill=2
-			planning_skill=1
-			logistics_skill=4
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=2
+			logistics_skill=1
 			legacy_id=0
 		}
 	}
 
-	X91_chand_singh={
-		name=X91_chand_singh
+	X91_raja_rama={
+		name=X91_raja_rama
 		corps_commander={
-			skill=2
-			attack_skill=3
+			skill=1
+			attack_skill=1
 			defense_skill=1
 			planning_skill=1
 			logistics_skill=1
@@ -35,15 +35,27 @@ characters={
 		}
 	}
 
-	X91_baba_dhillon={
-		name=X91_baba_dhillon
+	X91_sakthan_kesavadas={
+		name=X91_sakthan_kesavadas
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=2
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X91_raja_thampuran={
+		name=X91_raja_thampuran
 		portraits={
 			civilian={
-				large="gfx/leaders/Indian/Portrait_Princely_Osman_Ali_Khan.tga"
+				large="gfx/leaders/Indian/Portrait_PRF_Bhupinder_Singh.tga"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

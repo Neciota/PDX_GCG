@@ -1,0 +1,64 @@
+characters={
+	SHL_karl_von={
+		name=SHL_karl_von
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SHL_helmuth_von={
+		name=SHL_helmuth_von
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	SHL_maximilian_fritsch={
+		name=SHL_maximilian_fritsch
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	SHL_hermann_von={
+		name=SHL_hermann_von
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SHL_ernst_von={
+		name=SHL_ernst_von
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_Germany_Wilhelm_III.tga"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"Buffel" "Guinea" "Schorpioen" "Stier" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau" "Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen" "Pieter Florisz" "Philips van Almonde" "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"Admiraal Generaal" "Beschermer" "Brederode" "Campen" "Eendracht" "Eenhoorn" "Frederik Hendrik" "Gouden Leeuw" "Graaf Willem" "Groote Liefde" "Jozua" "Kameel" "Kapitein Generaal" "Landman" "Louisa Hendrika" "Overwinnaer" "Prinses Amalia" "Prinses Roijaal" "Prins Friso" "Prins Willem" "Rosenkrans" "Salamander" "Vergulde Maen" "Verwachting" "Unie" "Vrede" "Vrijheid" "Witte Lam" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Klaus Störtebeker" "Gödeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" "Likedeeler" 
+			"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Schleswig" "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" "Flensburg" "Johann der Ältere" "Adolf I." "Friedrich III." "Christian Albrecht" "Holstein" "Herzog Friedrich" "Kiel" "Gottorp" "Sonderburg" "Glücksburg" "Reichsfürst" "König" "Erbprinz" "Plön" "Segeberg" "Up ewig ungedeelt" "Vertrag von Ripen" "Altona" "Glückstadt" "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen" 
+			"Wolf" "Fret" "Hermelijn" "Vos" "Panter" "Jaguar" "Lynx" "Leeuw" "Jakhals" 
 		}
 	}
 

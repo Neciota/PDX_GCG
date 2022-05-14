@@ -2,31 +2,37 @@
 state={
 	id=323
 	name="STATE_323"
+	resources={
+		aluminium=13.000
+		steel=12.000
+	}
 
 	history={
-		owner = ITA
+		owner = CHI
 		victory_points = {
-			9907 1 
+			11913 7 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
-			arms_factory = 1
-			11833 = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			7014 = {
 				naval_base = 10
 			}
-			air_base = 1
+			air_base = 4
 
 		}
-		add_core_of = ITA
+		add_core_of = CHI
+		add_core_of = PRC
 	}
 
 	provinces={
-		910 1616 6875 6946 9750 9879 9907 11833 11889 
+		996 7014 10034 10076 11913 11982 12052 12076 
 	}
-	manpower=2764400
+	manpower=25562216
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

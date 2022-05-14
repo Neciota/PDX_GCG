@@ -27,7 +27,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X39"
+		id = "X32"
 		value = 120
 	}
 	ai_strategy = {
@@ -42,7 +42,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = contain
-		id = "X49"
+		id = "X38"
 		value = 16
 	}
 	ai_strategy = {
@@ -62,7 +62,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = antagonize
-		id = "X39"
+		id = "X32"
 		value = 84
 	}
 	ai_strategy = {
@@ -82,7 +82,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = alliance
-		id = "X57"
+		id = "VOL"
 		value = 102
 	}
 	ai_strategy = {
@@ -97,7 +97,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X39"
+		id = "X32"
 		value = 83
 	}
 	ai_strategy = {
@@ -107,7 +107,7 @@ converted_diplo_strategies_MRT = {
 	}
 	ai_strategy = {
 		type = declare_war
-		id = "X58"
+		id = "X44"
 		value = 37
 	}
 }

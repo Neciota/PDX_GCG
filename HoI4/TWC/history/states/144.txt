@@ -3,32 +3,31 @@ state={
 	id=144
 	name="STATE_144"
 	resources={
-		oil=3.000
+		rubber=0.000
 		steel=0.000
+		tungsten=1.000
 	}
 
 	history={
-		owner = BUL
+		owner = BRM
 		victory_points = {
-			9612 1 
+			1492 15 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 0
+			infrastructure = 1
+			industrial_complex = 1
 			arms_factory = 0
-			9783 = {
-				naval_base = 6
-			}
-			air_base = 1
+			air_base = 5
 
 		}
-		add_core_of = BUL
+		add_core_of = BRM
+		add_core_of = X89
 	}
 
 	provinces={
-		649 6842 9610 9612 9769 9783 
+		1492 3999 4087 4454 4541 4588 7163 7190 7469 7534 10033 10386 10486 11966 12335 12404 12492 
 	}
-	manpower=275480
+	manpower=496120
 	buildings_max_level_factor=1.000
 	state_category=rural
 

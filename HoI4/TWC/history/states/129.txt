@@ -3,34 +3,34 @@ state={
 	id=129
 	name="STATE_129"
 	resources={
-		aluminium=9.000
-		steel=9.000
+		aluminium=89.000
+		steel=19.000
 	}
 
 	history={
-		owner = X18
+		owner = X14
 		victory_points = {
-			9909 15 
+			958 1 
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 4
+			industrial_complex = 0
 			arms_factory = 0
-			9909 = {
+			dockyard = 1
+			911 = {
 				naval_base = 4
 			}
-			air_base = 6
+			air_base = 1
 
 		}
-		add_core_of = SWI
-		add_core_of = X18
-		add_claim_by = ITA
+		add_core_of = X14
+		add_claim_by = FRA
 	}
 
 	provinces={
-		778 6609 6784 9603 9745 9909 11573 
+		911 956 958 3928 3959 3961 9728 11713 11875 
 	}
-	manpower=736944
+	manpower=1257364
 	buildings_max_level_factor=1.000
 	state_category=rural
 

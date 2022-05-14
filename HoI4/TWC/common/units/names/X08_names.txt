@@ -3,7 +3,7 @@
 		prefix = ""
 		generic = { "Battlecruiser" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Bahoruco" "Desolación" "Destrucción" "El Pavor" "El Terror" "La Bombarda" "Neiba" "Samana" "Siete Cabezas" "Yamasa" 
 		}
 	}
 
@@ -11,7 +11,7 @@
 		prefix = ""
 		generic = { "Battleship" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte" 
 		}
 	}
 
@@ -19,7 +19,7 @@
 		prefix = ""
 		generic = { "Carrier" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Azua" "Beller" "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" "Santiago" "Santomé" 
 		}
 	}
 
@@ -27,7 +27,7 @@
 		prefix = ""
 		generic = { "Destroyer" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Barahona" "Duarte" "Independencia" "La Vega" "Montecristi" "Puerto Plata" "Restauración" "San Cristóbal" "Sánchez Ramírez" "Santo Domingo" 
 		}
 	}
 
@@ -35,7 +35,7 @@
 		prefix = ""
 		generic = { "Heavy Cruiser" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Cibao" "Diecinueve de Marzo" "La Merced" "Leonor" "Libertad" "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" "Victoria" 
 		}
 	}
 
@@ -43,7 +43,7 @@
 		prefix = ""
 		generic = { "Light Cruiser" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Agustina" "Boba" "Dejabón" "Desesperación" "Incontrolable" "Josefa" "Juana" "Julia" "Nigua" "Ocoa" 
 		}
 	}
 
@@ -51,7 +51,7 @@
 		prefix = ""
 		generic = { "Submarine" }
 		unique = {
-			"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" "Alaungpaya" "Mandalay" "Rangoon" "Shwebo" "Salween" "Arakan" "Tavoy" "Mergui" "Tanintharyi" "Ye" "Irrawady" 
+			"Cristóbal Colón" "Diego de Ocampo" "Dios" "Grito de Capoyillo" "La Española" "Libertad" "Patria" "Taíno" "Trabucazo de Mella" "Trinitaria" 
 		}
 	}
 

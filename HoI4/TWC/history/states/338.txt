@@ -2,27 +2,31 @@
 state={
 	id=338
 	name="STATE_338"
+	resources={
+		chromium=20.000
+		oil=0.000
+		steel=2.000
+		tungsten=2.000
+	}
 
 	history={
-		owner = X56
+		owner = CHI
 		victory_points = {
-			4469 7 
+			5033 0 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 8
-			arms_factory = 4
-			air_base = 4
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
 
 		}
-		add_core_of = CHI
-		add_core_of = X56
 	}
 
 	provinces={
-		1027 1034 1180 1203 1438 1519 1531 1575 4074 4174 4469 4538 4634 7158 7571 10367 10421 10480 10507 12078 12300 12344 12432 
+		1961 1991 2010 2014 2093 2098 4900 4994 5011 5018 5033 5080 5094 5102 7926 8029 8041 8059 8068 8121 10741 10755 10802 10918 12784 12801 12807 
 	}
-	manpower=18687740
+	manpower=6083932
 	buildings_max_level_factor=1.000
 	state_category=megalopolis
 

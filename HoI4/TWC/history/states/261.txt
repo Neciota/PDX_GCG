@@ -3,35 +3,31 @@ state={
 	id=261
 	name="STATE_261"
 	resources={
-		aluminium=9.000
-		steel=94.000
+		aluminium=1.000
+		steel=7.000
 	}
 
 	history={
-		owner = ENG
+		owner = FRA
 		victory_points = {
-			6384 2 
+			512 1 
 		}
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 0
 			arms_factory = 1
-			6384 = {
-				naval_base = 6
-			}
 			air_base = 1
 
 		}
-		add_core_of = ENG
-		add_claim_by = SCO
+		add_core_of = FRA
 	}
 
 	provinces={
-		219 3205 3311 6318 6335 6384 6399 9285 11332 
+		512 669 3493 3509 3534 3655 3671 6518 6533 6688 9478 9492 9644 11463 11596 11611 11631 
 	}
-	manpower=4304940
+	manpower=1313896
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 
 	local_supplies=10.0
 }

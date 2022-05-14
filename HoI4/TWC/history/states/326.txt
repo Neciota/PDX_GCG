@@ -3,35 +3,35 @@ state={
 	id=326
 	name="STATE_326"
 	resources={
-		steel=2.000
-		tungsten=9.000
+		aluminium=6.000
 	}
 
 	history={
-		owner = JAP
+		owner = CHI
 		victory_points = {
-			7155 1 
+			1069 7 
 		}
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 0
-			arms_factory = 0
-			dockyard = 1
-			4107 = {
-				naval_base = 10
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			9971 = {
+				naval_base = 4
 			}
-			air_base = 1
+			air_base = 4
 
 		}
-		add_core_of = KOR
+		add_core_of = CHI
+		add_core_of = PRC
 	}
 
 	provinces={
-		1003 4107 7070 7155 9981 10065 11915 12040 
+		1069 1124 1154 4010 4037 4157 4181 7055 7129 7160 7189 9956 9971 9987 10000 10043 10072 11962 12015 12045 12069 
 	}
-	manpower=4439032
+	manpower=21240104
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=megalopolis
 
 	local_supplies=10.0
 }

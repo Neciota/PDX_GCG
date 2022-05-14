@@ -1,30 +1,6 @@
 characters={
-	X44_kong_jiang={
-		name=X44_kong_jiang
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X44_li_zhao={
-		name=X44_li_zhao
-		corps_commander={
-			skill=2
-			attack_skill=2
-			defense_skill=1
-			planning_skill=3
-			logistics_skill=1
-			legacy_id=0
-		}
-	}
-
-	X44_li_zhao_1={
-		name=X44_li_zhao_1
+	X44_nga_ya={
+		name=X44_nga_ya
 		corps_commander={
 			skill=1
 			attack_skill=1
@@ -35,15 +11,39 @@ characters={
 		}
 	}
 
-	X44_wang_jiang={
-		name=X44_wang_jiang
+	X44_pyi_cheng={
+		name=X44_pyi_cheng
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X44_natsu_min={
+		name=X44_natsu_min
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X44_sun_lek={
+		name=X44_sun_lek
 		portraits={
 			civilian={
-				large="gfx/leaders/Generic/r56_portrait_generic_politician_asia_1_fascism.dds"
+				large="gfx/leaders/SIA/Portrait_Siam_Phraya_Phahon.dds"
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=absolute_monarchy
 			expire="1965.1.1.1"
 			id=-1
 		}

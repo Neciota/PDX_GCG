@@ -3,36 +3,34 @@ state={
 	id=459
 	name="STATE_459"
 	resources={
-		oil=5.000
-		rubber=86.000
-		steel=1.000
+		aluminium=6.000
+		chromium=38.000
+		steel=2.000
 	}
 
 	history={
-		owner = W44
+		owner = HOL
 		victory_points = {
-			4608 0 
+			8178 0 
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			arms_factory = 0
-			4608 = {
+			1468 = {
 				naval_base = 10
 			}
 			air_base = 1
 
 		}
-		add_core_of = INS
-		add_core_of = W44
 	}
 
 	provinces={
-		1209 4306 4390 4608 7654 10479 10491 12293 12472 
+		1468 1494 8178 
 	}
-	manpower=11322496
+	manpower=3314312
 	buildings_max_level_factor=1.000
-	state_category=megalopolis
+	state_category=city
 
 	local_supplies=10.0
 }
