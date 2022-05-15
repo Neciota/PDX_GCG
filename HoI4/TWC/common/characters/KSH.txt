@@ -1,0 +1,16 @@
+characters={
+	KSH_tadeusz_fabryvy={
+		name=KSH_tadeusz_fabryvy
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

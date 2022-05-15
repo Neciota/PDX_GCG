@@ -1,0 +1,18 @@
+﻿converted_war_strategies_TAJ = {
+	enable = {
+		tag = TAJ
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_TAJ = {
+	enable = {
+		tag = TAJ
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

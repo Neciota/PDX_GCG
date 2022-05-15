@@ -1,0 +1,16 @@
+characters={
+	BAH_joubert_grabeel={
+		name=BAH_joubert_grabeel
+		portraits={
+			civilian={
+				large="gfx/leaders/BEL/Portrait_Belgium_Hubert_Pierlot.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

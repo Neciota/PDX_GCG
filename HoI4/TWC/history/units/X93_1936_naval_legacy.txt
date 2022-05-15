@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1624
+		task_force = {
+			name = "1st Fleet"
+			location = 1624
+			ship = { name = "Orelie-Antoine" definition = battleship equipment = { battleship_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "1st La Serena Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "2nd La Serena Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "3rd La Serena Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "Aguamarina" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "Diamante" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X93 } } }
+			ship = { name = "Aquiles" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X93 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X93"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X93"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

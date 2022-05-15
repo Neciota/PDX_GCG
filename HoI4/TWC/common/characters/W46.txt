@@ -1,0 +1,16 @@
+characters={
+	W46_charles_annez_de_zillebroeck={
+		name=W46_charles_annez_de_zillebroeck
+		portraits={
+			civilian={
+				large="gfx/leaders/Western_European/Portrait_USA_John_Nance_Garner.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

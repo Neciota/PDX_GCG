@@ -1,0 +1,18 @@
+﻿converted_war_strategies_BAH = {
+	enable = {
+		tag = BAH
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_BAH = {
+	enable = {
+		tag = BAH
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,16 @@
+characters={
+	W58_zhu_lu={
+		name=W58_zhu_lu
+		portraits={
+			civilian={
+				large="gfx/leaders/Sino/Portrait_XSM_Ma_Lin.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

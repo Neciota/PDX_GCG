@@ -1,0 +1,18 @@
+﻿converted_war_strategies_W52 = {
+	enable = {
+		tag = W52
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W52 = {
+	enable = {
+		tag = W52
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

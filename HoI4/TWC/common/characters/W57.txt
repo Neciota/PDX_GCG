@@ -1,0 +1,16 @@
+characters={
+	W57_zhu_lu={
+		name=W57_zhu_lu
+		portraits={
+			civilian={
+				large="gfx/leaders/Sino/Portrait_CHI_Hu_shi.tga"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

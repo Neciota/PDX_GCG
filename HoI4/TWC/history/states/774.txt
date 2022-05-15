@@ -1,0 +1,38 @@
+
+state={
+	id=774
+	name="STATE_774"
+	resources={
+		chromium=2.000
+		rubber=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = W35
+		victory_points = {
+			4991 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			2077 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = MEX
+		add_claim_by = W35
+	}
+
+	provinces={
+		2077 4991 
+	}
+	manpower=2091396
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}
